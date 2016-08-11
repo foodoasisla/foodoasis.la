@@ -18,7 +18,7 @@
 </head>
 <body class="home">
 	<div class="header">
-		<h1><a href="about/"><!--<img class="icon" src="assets/images/icons/info.svg" width="30" alt="" /> -->Food Oasis <span>Los Angeles</span></a></h1>
+		<h1><a href="/about"><!--<img class="icon" src="assets/images/icons/info.svg" width="30" alt="" /> -->Food Oasis <span>Los Angeles</span></a></h1>
 	</div>
 
 	<div id="map" class="mapbox"></div>
@@ -40,7 +40,7 @@
 			zoom: 13, // starting zoom
 			maxBounds: bounds
 		});
-
+		
 		var myLat = 0;
 	    var myLon = 0;
 	    var myCoords = [];		
@@ -172,7 +172,13 @@
 			html.push('<div class="map-point-details">');
 
 			if (name && showLink) {
-				html.push('<h3><a href="source/' + name.toLowerCase().replace(/\s/g, '-').replace(/\//g, '-').replace(/\&/g, '-') + '/">' + name + '</a></h3>');
+				var uri = name.toLowerCase().replace(/\s/g, '-')
+											.replace(/\//g, '-')
+											.replace(/\&/g, '-')
+											.replace(/\./g, '-')
+											.replace(/\'/g, '')
+											.replace(/\-\-/g, '-')
+				html.push('<h3><a href="/source/' + uri + '/">' + name + '</a></h3>');
 			} else if (name) {
 				html.push('<h3>' + name + '</h3>');
 			}
