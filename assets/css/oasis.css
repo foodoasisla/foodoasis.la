@@ -228,12 +228,14 @@ main, section, article, aside, nav, header, footer, figure {
 footer {
   background: #90c246;
   /* @lime */
-  color: white;
+  background: #f9c058;
+  /* @canteloupe */
+  background: rgba(249, 192, 88, 0.75);
   margin-top: 5em;
   margin-left: -1.5em;
   margin-right: -1.5em;
   margin-bottom: -1.5em;
-  padding: 1.5em 1.5em 3em;
+  padding: 1.5em 1.5em 4.5em;
   position: relative; }
 
 footer .link-list::before,
@@ -281,7 +283,7 @@ footer .link-list::after {
     margin-left: -3em;
     margin-right: -3em;
     margin-bottom: -3em;
-    padding: 1.5em 3em 3em; } }
+    padding: 1.5em 3em 6em; } }
 footer section,
 footer .link-list {
   max-width: 40em;
@@ -307,10 +309,14 @@ footer section {
 	color: rgba(0, 0, 0, 0.75);
 }
 */
+/*
 footer .contact {
-  background: rgba(0, 0, 0, 0.1);
-  padding: 1.5em; }
-
+	background: rgba(0, 0, 0, 0.1);
+	background: rgba(255, 255, 255, 0.1);
+	background: transparent;
+	padding: 1.5em;
+}
+*/
 footer section h2:first-child {
   margin-top: 0; }
 
