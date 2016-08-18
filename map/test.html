@@ -141,9 +141,48 @@ map.on('load', function () {
         },
         'source-layer': 'CG-UF-Nursery_-_Andrew'
     });
+
+    map.addSource('Census Tracts', {
+        type: 'vector',
+        url: 'mapbox://fooddesertsla.26tf3nay'
+    });
+    map.addLayer({
+        'id': 'Census Tracts',
+        'type': 'line',
+        'source': 'Census Tracts',
+        'layout': {
+            'visibility': 'visible',
+            'line-join': 'round',
+            'line-cap': 'round'
+        },
+        'paint': {
+            'line-color': '#877b59',
+            'line-width': 1
+        },
+        'source-layer': 'LI_LA_Desert_Map_-_USDA_-_Tracts'
+    });
+
+    map.addSource('Food Deserts', {
+        type: 'vector',
+        url: 'mapbox://fooddesertsla.26tf3nay'
+    });
+    map.addLayer({
+        'id': 'Food Deserts',
+        'type': 'fill',
+        'source': 'Food Deserts',
+        'layout': {
+            'visibility': 'visible'
+        },
+        'paint': {
+            'fill-color': '#877b59'
+        },
+        'filter': ["==", "LI LA De_4", "1"],
+        'source-layer': 'LI_LA_Desert_Map_-_USDA_-_Tracts'
+    });
+
 });
 
-var toggleableLayerIds = [ 'Grocery Stores', 'Farmers Markets', 'Food Banks', 'Community Gardens'];
+var toggleableLayerIds = [ 'Grocery Stores', 'Farmers Markets', 'Food Banks', 'Community Gardens', 'Census Tracts', 'Food Deserts'];
 
 for (var i = 0; i < toggleableLayerIds.length; i++) {
     var id = toggleableLayerIds[i];
