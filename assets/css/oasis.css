@@ -362,6 +362,8 @@
 	button {
 		cursor: pointer;
 		font-size: inherit;
+	}
+	body.find button {
 		text-transform: uppercase;
 	}
 	label span {
