@@ -11,9 +11,6 @@
 			maxBounds: MAP_BOUNDS
 		});
 
-		// Add Search Functionality
-		//map.addControl(new mapboxgl.Geocoder());	
-
 		var nav = new mapboxgl.Navigation({position: 'bottom-left'}); // position is optional
 		map.addControl(nav);
 
@@ -78,6 +75,7 @@
 
 
 	var popup;
+	
 	function showPopup(event) {
 		var features = map.queryRenderedFeatures(event.point, { 
 			layers: layersArray
@@ -171,6 +169,7 @@
 					feature.properties["CONTACT:"],
 			address: getFeatureAddress(feature)
 		};
+
 		data.uri = data.name.toLowerCase()
 					.replace(/\s/g, '-')
 					.replace(/\//g, '-')
