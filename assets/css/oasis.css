@@ -24,37 +24,11 @@
 		min-height: 100%;
 	}
 	body {
-		background: rgb(252, 255, 245);
-		background: rgb(159, 197, 239); /* @ocean */
-		background: rgb(255, 255, 246);
-    	background-image: linear-gradient(to bottom, rgb(159, 197, 239), rgb(255, 255, 246) 25em, rgb(255, 255, 246)); /* @ocean */
-    	background: rgb(245, 250, 255);
-    	background-image: linear-gradient(to bottom, rgb(249, 252, 255), white 25em, white);
-    	background: white;
     	background: rgb(253, 254, 255);
-		color: black;
-		color: rgb(27, 30, 23);
 		color: rgba(0, 0, 0, 0.9);
 		margin: 0;
 		padding: 1.5em;
 		font: 100%/1.5 "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
-	}
-	.disabled body::before {
-		content: "";
-		width: 4.25em;
-		height: 4.25em;
-		background-image: url(/assets/images/sun.svg);
-		background-size: 15em 15em;
-		background-position: bottom left;
-		position: absolute;
-		z-index: -1;
-		top: 0;
-		right: 0;
-		width: 10em;
-		height: 10em;
-		/*
-		transform: rotate(0.65turn);
-		*/
 	}
 
 	/* OPTIONAL: Increase the font size on big screens. */
@@ -92,6 +66,7 @@
 	}
 
 	a {
+		color: rgb(249, 192, 88); /* @canteloupe */
 		color: rgb(144, 194, 70); /* @lime */
 		color: rgb(77, 85, 148); /* @blueberry */
 		color: rgb(241, 95, 91); /* @strawberry */
@@ -110,17 +85,9 @@
 	h1, h2, h3, h4, h5, h6 {
 		font-family: "Reem Kufi", "Helvetica Neue", Helvetica, sans-serif;
 		font-weight: normal;
-		color: rgb(249, 192, 88); /* @canteloupe */
-		color: rgb(144, 194, 70); /* @lime */
-		color: rgba(0, 0, 0, 0.8);
-		color: rgb(77, 85, 148); /* @blueberry */
-		color: inherit;
 	}
 	h1 {
 		margin-top: 1.5em;
-	}
-	h2 {
-		/*border-bottom: 2px solid rgba(144, 194, 70, 0.9);*/ /* @lime */
 	}
 
  	/* Shrink images to fit the available space */
@@ -180,56 +147,61 @@
 
 	/* =Header
 	----------------------------------------------- */
-	.header h1,
 	.header h2 {
 		font-size: 1.5em;
 		font-weight: inherit;
 		margin: -1.5rem -1.5rem 0;
 		text-align: center;
 	}
-	.header h1 a,
 	.header h2 a {
 		display: block;
 		padding: 1.125em 0.75rem;
 		text-align: right;
 		margin-left: 0.75rem;
 		margin-right: 0.75rem;
+		color: inherit;
 	}
-	.header h1 img,
-	.header h2 img {
+	.header h2 svg {
 		display: block;
 		opacity: 0.85;
 		width: 18.75rem; /* 300px / 16px */
+		height: 2.375rem;
 	}
+	.header h2 svg .food-oasis path,
+	.header h2 svg .food-oasis polygon,
+	.header h2 svg .food-oasis rect {
+		fill: rgb(144, 194, 70); /* @lime */
+	}
+	.header h2 a:hover svg .food-oasis path,
+	.header h2 a:hover svg .food-oasis polygon,
+	.header h2 a:hover svg .food-oasis rect,
+	.header h2 a:active svg .food-oasis path,
+	.header h2 a:active svg .food-oasis polygon,
+	.header h2 a:active svg .food-oasis rect,
+	.header h2 a:focus svg .food-oasis path,
+	.header h2 a:focus svg .food-oasis polygon,
+	.header h2 a:focus svg .food-oasis rect {
+		fill: rgb(124, 174, 50); /* @dark-lime */
+	}
+	.header h2 svg .los-angeles path {
+		fill: currentColor;
+	}
+	/*
 	@media (max-width: 29.99999em) {
-		.header h1 img,
-		.header h2 img {
+		.header h1 svg,
+		.header h2 svg {
 			width: 70%;
 		}
 	}
+	*/
 	@media (min-width: 30em) {
-		.header h1,
 		.header h2 {
 			margin-left: -3rem;
 			margin-right: -3rem
 		}
-		.header h1 a,
 		.header h2 a {
 			margin-left: 2.25rem;
 		}
-	}
-
-	.header h1,
-	.header h2 {
-		border-top-color: transparent;
-		border-top: 0.25em solid rgb(249, 192, 88); /* @canteloupe */
-		border-top-color: rgb(144, 194, 70); /* @lime */
-		border-top-color: rgb(159, 197, 239); /* @ocean */
-		border-top-color: transparent;
-	}
-	.header h1 a,
-	.header h2 a {
-		padding-top: 0.875em;
 	}
 
 	/* Position the nav on top of the map */
@@ -260,6 +232,68 @@
 			position: absolute;
 			left: -9999px;
 		}
+	}
+
+	/* Drop-down Menu in Header
+	----------------------------------------------- */
+
+	.dropbtn {
+	    background-color: #A1CB62;
+	    color: white;
+	    padding: 16px;
+	    font-size: 16px;
+	    border: none;
+	    cursor: pointer;
+	    padding: 8px;
+	    position: relative;
+	    top: -50px;
+	    left: 500px;
+	}
+
+	.dropbtn:hover, .dropbtn:focus {
+    	background-color: #F15F5B;
+	}
+
+	.dropdown {
+	    position: relative;
+	    display: inline-block;
+	}
+
+	.dropdown-content {
+	    display: none;
+	    position: absolute;
+	    background-color: #f9f9f9;
+	    min-width: 160px;
+	    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	}
+
+	/*links inside the dropdown*/
+	.dropdown-content a {
+	    color: black;
+	    padding: 12px 16px;
+	    text-decoration: none;
+	    display: block;
+	}
+
+	/*changes color of link in dropdown on hover*/
+	.dropdown-content a:hover {
+		background-color: #F15F5B;
+	}
+
+
+	/* =Search Box Options
+	----------------------------------------------- */
+	#searchCheckBoxList {
+		list-style-type: none;
+	}
+
+	.locationTypeOptions {
+		display: inline;
+		padding-left: 20px;
+	}
+
+	a {
+		text-decoration: none;
 	}
 
 
@@ -408,6 +442,8 @@
 	button {
 		cursor: pointer;
 		font-size: inherit;
+	}
+	body.find button {
 		text-transform: uppercase;
 	}
 	label span {
@@ -488,6 +524,7 @@
 		max-width: 80vw;
 		font-size: 1rem;
 		line-height: 1.5;
+		padding: 0.75em;
 	}
 	.map-point-details p {
 		margin-top: 1.5em;
@@ -525,16 +562,17 @@
 		position: relative;
 		font-size: 1rem;
 		line-height: 1.5;
-		border: 1px solid blue;
 	}
 	.marker img {
 		position: absolute;
 		bottom: 0;
 		left: -1em;
-		width: 2em;
-		height: 2em;
-		marign-left: 0;
-		margin-right: 0;
+		width: 1em;
+		max-width: none;
+		height: 1em;
+		margin-left: auto;
+		margin-right: auto;
+		vertical-align: middle;
 	}
 	.marker .label {
 		margin: 0;
@@ -568,15 +606,6 @@
 		height: calc(100vh - 5.75rem); /* header height */
 	}
 
-	body.map .marker {
-		font-size: 2rem;
-	}
-	@media (min-width: 30em) {
-		body.map .marker {
-			font-size: 3rem;
-		}
-	}
-
 
 	/* =Find
 	----------------------------------------------- */
@@ -600,18 +629,6 @@
 
 	/* =Food Source
 	----------------------------------------------- */
-	.food-source .title {
-		margin-top: 1.5em;
-		display: block;
-		margin-bottom: 0.5em;
-	}
-	.food-source .title + br {
-		display: none;
-	}
-	.food-source .icon + span {
-		font-family: "Reem Kufi", "Helvetica Neue", Helvetica, sans-serif;
-	}
-
 	.food-source h1 {
 		margin-bottom: 0;
 	}
@@ -620,6 +637,15 @@
 	}
 	.food-source h1 + p {
 		margin-bottom: 1.5em;
+	}
+	.food-source .page-contents h2 {
+		font-size: inherit;
+		margin-top: 1.5em;
+		display: block;
+		margin-bottom: 0.5em;
+	}
+	.food-source h2 + p {
+		margin-top: 0;
 	}
 
 	.food-source .mapbox {
