@@ -130,1559 +130,2292 @@
 
 
 	<main>
-        <h1>Farmers Markets in Los&nbsp;Angeles</h1>
+        <nav class="search">
+	<h1>Farmers Markets</h1>
+	<ul>
+		<li><a href="/map">Map</a></li>
+		<li><a>List</a></li>
+	</ul>
+</nav>
+<script>
+(function() {
+	// SHIM: Make the address persistent
+	var searchLink = document.querySelector('.search a[href]');
+	searchLink.setAttribute('href', searchLink.getAttribute('href') + window.location.search);
+})();
+</script>
+
+<!-- Jim’s Google Maps API key -->
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4"></script>
 
 <ul class="food-source-list">
 
-	<li>
+	<li data-latitude="34.239201" data-longitude="-118.553791">
 		<a href="/farmers-market/northridge-farmers-market-and-family-festival">
 			<h2>Northridge Farmers' Market And Family Festival</h2>
+			<p class="type">Farmers Market</p>
 			<p>9301 Tampa Ave</p>
 			
 			<h3>Hours</h3>
 			<p>SITE HOURS: April through October, Wednesday, 5:00pm to 9:00pm. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.115746" data-longitude="-118.157349">
 		<a href="/farmers-market/south-pasadena-farmers-market">
 			<h2>South Pasadena Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>Meridan Ave. &amp; Mission St.</p>
 			
 			<h3>Hours</h3>
 			<p>SITE HOURS: March through December, Thursday, 4:00pm to 8:00pm; January and February, Thursday, 4:00pm to 7:00pm. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.942066" data-longitude="-118.18561">
 		<a href="/farmers-market/south-gate-farmers-market">
 			<h2>South Gate Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>4855 Tweedy Blvd</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.01699" data-longitude="-118.497699">
 		<a href="/farmers-market/santa-monica-saturday-farmers-market">
 			<h2>Santa Monica Saturday Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>Arizona Ave &amp; 3Rd St Prom</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.146326" data-longitude="-118.4225">
 		<a href="/farmers-market/studio-city-farmers-market">
 			<h2>Studio City Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>Ventura Blvd &amp; Ventura Blvd</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.776662" data-longitude="-118.374867">
 		<a href="/farmers-market/palos-verdes-farmers-market">
 			<h2>Palos Verdes Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>Hawthorne Blvd. &amp; Silver Spur Rd.</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.15507" data-longitude="-118.142882">
 		<a href="/farmers-market/pasadena-villa-parke-farmers-market">
 			<h2>Pasadena Villa Parke Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>363 E. Villa St.</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.157126" data-longitude="-118.437915">
 		<a href="/farmers-market/woodman-avenue-farmers-market">
 			<h2>Woodman Avenue Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>14006 Riverside Dr</p>
 			
 			<h3>Hours</h3>
 			<p>Tuesday, 3:00pm to 8:00pm. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.05701" data-longitude="-118.44939">
 		<a href="/farmers-market/westwood-farmers-market">
 			<h2>Westwood Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>11000 Wilshire Blvd</p>
 			
 			<h3>Hours</h3>
 			<p>Thursday, 12:00pm to 6:00pm. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.786707" data-longitude="-118.262964">
 		<a href="/farmers-market/wilmington-farmers-market">
 			<h2>Wilmington Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>N Avalon Blvd &amp; E L St</p>
 			
 			<h3>Hours</h3>
 			<p>Thursday, 9:00am to 1:00pm. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.090442" data-longitude="-118.278032">
 		<a href="/farmers-market/silverlake-farmers-market">
 			<h2>Silverlake Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>3700 W Sunset Blvd</p>
 			
 			<h3>Hours</h3>
 			<p>Saturday, 8:00am to 1:00pm. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.197694" data-longitude="-118.599018">
 		<a href="/farmers-market/topanga-westfield-farmers-market">
 			<h2>Topanga Westfield Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>6600 Topanga Blvd.</p>
 			
 			<h3>Hours</h3>
 			<p>Saturday, 10:00am to 2:00pm. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.943279" data-longitude="-118.254088">
 		<a href="/farmers-market/watts-healthy-farmers-market">
 			<h2>Watts Healthy Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>E 103Rd St &amp; S Central Ave</p>
 			
 			<h3>Hours</h3>
 			<p>Saturday, 10:00am to 2:00pm. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.068409" data-longitude="-117.928607">
 		<a href="/farmers-market/west-covina-farmers-market">
 			<h2>West Covina Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>1035 W Covina Pkwy</p>
 			
 			<h3>Hours</h3>
 			<p>Saturday, 8:00am to 1:00pm. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.039636" data-longitude="-117.962334">
 		<a href="/farmers-market/valinda--la-puente-farmers-market">
 			<h2>Valinda / La Puente Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>747 N. Rimgrove Drive</p>
 			
 			<h3>Hours</h3>
 			<p>Thursdays, April-September 10:00am to 3:00pm. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.08987" data-longitude="-118.277059">
 		<a href="/farmers-market/silverlake-tuesday-farmers-market">
 			<h2>Silverlake Tuesday Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>1500 Griffith Park Blvd</p>
 			
 			<h3>Hours</h3>
 			<p>Tuesdays, April through December 2:00 pm to 7:30 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.106665" data-longitude="-117.802724">
 		<a href="/farmers-market/san-dimas-farmers-market">
 			<h2>San Dimas Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>245 E Bonita Ave &amp; N Walnut Ave</p>
 			
 			<h3>Hours</h3>
 			<p>Wednesdays, April through September, 5:00pm to 9:00pm. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.10769" data-longitude="-118.057863">
 		<a href="/farmers-market/temple-city-farmers-market">
 			<h2>Temple City Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>9701 Las  Tunas Dr</p>
 			
 			<h3>Hours</h3>
 			<p>Sundays, yeaar-round, 8:30am to 12:30pm. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.160398" data-longitude="-118.092909">
 		<a href="/farmers-market/pasadena-victory-park-farmers-market">
 			<h2>Pasadena Victory Park Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>2900 N. Sierra Madre Blvd between Paloma and Washington Avenues</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.061675" data-longitude="-118.446226">
 		<a href="/farmers-market/westwood-village-farmers-market">
 			<h2>Westwood Village Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>1050 Broxton Ave</p>
 			
 			<h3>Hours</h3>
 			<p>Sundays, year-round 10:00am to 3:00pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.152223" data-longitude="-118.353782">
 		<a href="/farmers-market/toluca-lake-farmers-market">
 			<h2>Toluca Lake Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>Sancola Ave &amp; Riverside Dr</p>
 			
 			<h3>Hours</h3>
 			<p> Sundays, year-round. 9:00am to 2:00pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.883676" data-longitude="-118.133871">
 		<a href="/farmers-market/bellflower-farmers-market">
 			<h2>Bellflower Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>16614 Clark Ave at Oak Street</p>
 			
 			<h3>Hours</h3>
 			<p>Mondays, year-round 9:00am - 1:00pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.956528" data-longitude="-118.416018">
 		<a href="/farmers-market/westchester-park-farmers-market">
 			<h2>Westchester Park Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>Lincoln Blvd &amp; La Tijera Blvd</p>
 			
 			<h3>Hours</h3>
 			<p>Wednesdays, year-round 8:30am to 1:00pm. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.039643" data-longitude="-118.334896">
 		<a href="/farmers-market/wellington-square-certified-farmers-market">
 			<h2>Wellington Square Certified Farmer's Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>4394 W Washington Blvd</p>
 			
 			<h3>Hours</h3>
 			<p>Sundays, year-round, 9:00am to 1:00pm. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.837509" data-longitude="-118.388197">
 		<a href="/farmers-market/redondo-beach-farmers-market">
 			<h2>Redondo Beach Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>Torrance Boulevard, West of Veteran&#39;s Park</p>
 			
 			<h3>Hours</h3>
 			<p>Thursdays, year-round, Closed Thanksgiving, 8:00am to 1:00pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.144818" data-longitude="-118.000916">
 		<a href="/farmers-market/monrovia-farmers-market--friday">
 			<h2>Monrovia Farmers' Market - Friday</h2>
+			<p class="type">Farmers Market</p>
 			<p>200 Block of Myrtle Ave</p>
 			
 			<h3>Hours</h3>
 			<p>Fridays, year-round, 5:00pm to 9:00pm. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.738765" data-longitude="-118.285693">
 		<a href="/farmers-market/san-pedro-farmers-market">
 			<h2>San Pedro Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>W 6Th St &amp; S Mesa St</p>
 			
 			<h3>Hours</h3>
 			<p>Fridays, year-round, 9:00am to 2:00pm. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.826917" data-longitude="-118.325773">
 		<a href="/farmers-market/torrance-saturday-farmers-market">
 			<h2>Torrance Saturday Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>2200 Crenshaw Blvd</p>
 			
 			<h3>Hours</h3>
 			<p>Tuesdays and Saturdays, year-round, 8:00am to 1:00pm. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.021545" data-longitude="-118.465615">
 		<a href="/farmers-market/santa-monica-pico-farmers-market">
 			<h2>Santa Monica Pico Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>Cloverfield Blvd &amp; Pico Blvd</p>
 			
 			<h3>Hours</h3>
 			<p>Saturdays, year-round, 8:00am to 1:00pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.045746" data-longitude="-118.450452">
 		<a href="/farmers-market/west-los-angeles-farmers-market">
 			<h2>West Los Angeles Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>1645 Corinth Avenue at Santa Monica Blvd</p>
 			
 			<h3>Hours</h3>
 			<p>Sundays, year-round, 9:00am to 2:00pm. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.979112" data-longitude="-118.036156">
 		<a href="/farmers-market/uptown-whittier-farmers-market">
 			<h2>Uptown Whittier Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>Bright Ave &amp; Philadelphia St</p>
 			
 			<h3>Hours</h3>
 			<p>Fridays, year-round, 8:00am to 1:00pm. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.987566" data-longitude="-118.465993">
 		<a href="/farmers-market/venice-farmers-market">
 			<h2>Venice Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>N Venice Blvd &amp; Venice Way</p>
 			
 			<h3>Hours</h3>
 			<p>Fridays, year-round, 7:00am to 11:00am. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.053259" data-longitude="-118.25292">
 		<a href="/farmers-market/bank-of-america-plaza-farmers-market">
 			<h2>Bank Of America Plaza Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>333 S Hope St</p>
 			
 			<h3>Hours</h3>
 			<p>Fridays, year-round, 11:00am to 3:00pm. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.157457" data-longitude="-118.63857">
 		<a href="/farmers-market/old-town-calabasas-farmers-market">
 			<h2>Old Town Calabasas Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>23504 Calabasas Rd.</p>
 			
 			<h3>Hours</h3>
 			<p>Saturdays, year-round, 8:00am to 1:00pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.004249" data-longitude="-118.430463">
 		<a href="/farmers-market/mar-vista-farmers-market">
 			<h2>Mar Vista Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>3826 Grand View Blvd</p>
 			
 			<h3>Hours</h3>
 			<p>Sundays, year-round, 8:30am to 2:00pm. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.048286" data-longitude="-118.52511">
 		<a href="/farmers-market/pacific-palisades-farmers-market">
 			<h2>Pacific Palisades Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>1037 N Swarthmore Ave</p>
 			
 			<h3>Hours</h3>
 			<p>Sunday, 8:00am to 1:00pm. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.064549" data-longitude="-117.750366">
 		<a href="/farmers-market/pomona-valley-farmers-market">
 			<h2>Pomona Valley Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>N Garey Ave &amp; W Pearl St</p>
 			
 			<h3>Hours</h3>
 			<p>Saturday, 7:30am to 11:30am. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.092576" data-longitude="-118.351067">
 		<a href="/farmers-market/west-hollywood-farmers-market">
 			<h2>West Hollywood Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>7377 Santa Monica Blvd</p>
 			
 			<h3>Hours</h3>
 			<p>Monday, 9:00am to 2:00pm. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.109977" data-longitude="-118.192006">
 		<a href="/farmers-market/old-los-angeles-farmers-market">
 			<h2>Old Los Angeles Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>S Ave 58 &amp; N Figueroa St</p>
 			
 			<h3>Hours</h3>
 			<p>Tuesday, 3:00am to 7:00pm. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.083278" data-longitude="-118.373372">
 		<a href="/farmers-market/melrose-place-farmers-market">
 			<h2>Melrose Place Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>8400 Melrose Pl</p>
 			
 			<h3>Hours</h3>
 			<p>Sunday, 10:00am to 2:00pm. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.048339" data-longitude="-118.253076">
 		<a href="/farmers-market/pershing-square-farmers-market">
 			<h2>Pershing Square Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>532 S Olive St</p>
 			
 			<h3>Hours</h3>
 			<p>Wednesdays and Thursdays, year-round, 11:30am to 2:00pm. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.205395" data-longitude="-118.22694">
 		<a href="/farmers-market/montrose-harvest-market">
 			<h2>Montrose Harvest Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>2200 Block of Honolulu Ave </p>
 			
 			<h3>Hours</h3>
 			<p>Sundays,  9:00 AM until 2:00 PM</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.826917" data-longitude="-118.325773">
 		<a href="/farmers-market/torrance-tuesday-farmers-market">
 			<h2>Torrance Tuesday Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>2200 Crenshaw Blvd.</p>
 			
 			<h3>Hours</h3>
 			<p>Tuesdays year-round 8:00 a.m. to 1:00 p.m.
 Saturday Year Round 8:00 a.m. to 1:00 p.m.</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.916455" data-longitude="-118.317795">
 		<a href="/farmers-market/gardena-hollypark-farmers-market">
 			<h2>Gardena Hollypark Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>13000 S. Van Ness Ave</p>
 			
 			<h3>Hours</h3>
 			<p>Saturday, 08:00 am to  01:00pm. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.001224" data-longitude="-118.482859">
 		<a href="/farmers-market/santa-monica-main-st-farmers-market">
 			<h2>Santa Monica Main St. Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>2640 Main St</p>
 			
 			<h3>Hours</h3>
 			<p>Sunday 9:30 am to 1:00 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.01624" data-longitude="-118.498626">
 		<a href="/farmers-market/santa-monica-downtown-farmers-market">
 			<h2>Santa Monica Downtown Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>Arizona Ave between 2nd St and 3rd St</p>
 			
 			<h3>Hours</h3>
 			<p> Wednesdays, 8:30am to 1:30pm and Saturdays (Organic) 8:30am - 1:00pm </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.101717" data-longitude="-118.294769">
 		<a href="/farmers-market/bransdall-center-farmers-market">
 			<h2>Bransdall Center Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>4888 Hollywood Blvd</p>
 			
 			<h3>Hours</h3>
 			<p>Monday, year round, 11:00 am - 5:00 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.118196" data-longitude="-118.260221">
 		<a href="/farmers-market/atwater-village-farmers-market">
 			<h2>Atwater Village Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>3250 Glendale Blvd</p>
 			
 			<h3>Hours</h3>
 			<p>Sunday, 10:00am to 2:00pm. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.089122" data-longitude="-118.603814">
 		<a href="/farmers-market/topanga-canyon-farmers-market">
 			<h2>Topanga Canyon Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>Pine Tree Circle Parking Lot and Topanga Post Office</p>
 			
 			<h3>Hours</h3>
 			<p>Friday, year round, 9:00am to 1:00pm. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.005726" data-longitude="-118.25656">
 		<a href="/farmers-market/central-avenue-farmers-market">
 			<h2>Central Avenue Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>4301 S Central Ave</p>
 			
 			<h3>Hours</h3>
 			<p>Thursdays, year-round, 10:00pm to 4:00pm. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.098066" data-longitude="-118.328673">
 		<a href="/farmers-market/hollywood-farmers-market">
 			<h2>Hollywood Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>1500 N Ivar Ave</p>
 			
 			<h3>Hours</h3>
 			<p>Sundays, year-round, 8:00am to 1:00pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.011176" data-longitude="-118.33649">
 		<a href="/farmers-market/crenshaw-baldwin-hill-cfm">
 			<h2>Crenshaw Baldwin Hill CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>3650 W Martin Luther King Blvd</p>
 			
 			<h3>Hours</h3>
 			<p>Saturday, 10:00am to 3:00pm. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.156937" data-longitude="-118.757232">
 		<a href="/farmers-market/agoura-hills-cfm">
 			<h2>Agoura Hills CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>5835 Kanan Rd</p>
 			
 			<h3>Hours</h3>
 			<p>Sunday, year round, 9:00 am - 2:00 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.12755" data-longitude="-118.443664">
 		<a href="/farmers-market/beverly-glen-center-cfm">
 			<h2>Beverly Glen Center CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>2936 Beverly Glen Circle</p>
 			
 			<h3>Hours</h3>
 			<p>Saturday, year round, 8:00 am - 2:00 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.826698" data-longitude="-118.179897">
 		<a href="/farmers-market/bixby-park-cfm">
 			<h2>Bixby Park CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>Bixby Street between 1st &amp; 2nd Street</p>
 			
 			<h3>Hours</h3>
 			<p>Saturday, year roundm 9:00 am - 2:00 pm
 Tuesday, year roundm 3:00 pm - 7:00 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.182789" data-longitude="-118.308481">
 		<a href="/farmers-market/burbank-farmers-market">
 			<h2>Burbank Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>E Orange Grove Ave &amp; N 3Rd St</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.157234" data-longitude="-118.638773">
 		<a href="/farmers-market/calabasas-cfm">
 			<h2>Calabasas CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>23504 Calabasas Road</p>
 			
 			<h3>Hours</h3>
 			<p>Saturday, year round, 8:00 am - 1:00 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.202504" data-longitude="-118.601299">
 		<a href="/farmers-market/canoga-park-cfm">
 			<h2>Canoga Park CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>7248 Owensmouth Ave</p>
 			
 			<h3>Hours</h3>
 			<p>Saturday, year round, 9:00 am - 1:00 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.867665" data-longitude="-118.058101">
 		<a href="/farmers-market/cerritos-cfm">
 			<h2>Cerritos CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>Park Plaza Drive</p>
 			
 			<h3>Hours</h3>
 			<p>Saturda, year round, 8:00 am - 12:00 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.097869" data-longitude="-118.290955">
 		<a href="/farmers-market/children-hospital-cfm">
 			<h2>Children Hospital CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>4650 Sunset Blvd.</p>
 			
 			<h3>Hours</h3>
 			<p>Wednesday, year round, 10:00 am - 3:00 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.053015" data-longitude="-118.242749">
 		<a href="/farmers-market/city-hall--little-tokyo-cfm">
 			<h2>City Hall - Little Tokyo CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>200 N. Main Street</p>
 			
 			<h3>Hours</h3>
 			<p>Thursday, year round, 10:00 am - 2:00 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.095635" data-longitude="-117.71927">
 		<a href="/farmers-market/claremont-farmers-market">
 			<h2>Claremont Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>N Indian Hill Blvd &amp; W 2Nd St</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.976618" data-longitude="-118.425469">
 		<a href="/farmers-market/del-ray-cfm">
 			<h2>Del Ray CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>461 Alla Road</p>
 			
 			<h3>Hours</h3>
 			<p>Friday, yearround, 2:00 pm - 7:00 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.94195" data-longitude="-118.134183">
 		<a href="/farmers-market/downey-farmers-market">
 			<h2>Downey Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>La Reina Ave &amp; 2Nd St</p>
 			
 			<h3>Hours</h3>
 			<p>Saturdays, year-round, 9:00am to 1:00pm. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.138078" data-longitude="-118.213109">
 		<a href="/farmers-market/eagle-rock-cfm">
 			<h2>Eagle Rock CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>2100 Merton Ave.</p>
 			
 			<h3>Hours</h3>
 			<p>Friday, year round, 4:30 pm - 8:30 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.101721" data-longitude="-118.3081">
 		<a href="/farmers-market/east-hollywood-cfm">
 			<h2>East Hollywood CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>5448 Hollywood Blvd.</p>
 			
 			<h3>Hours</h3>
 			<p>Thursday, year round, 2:00 pm - 8:00 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.075376" data-longitude="-118.259541">
 		<a href="/farmers-market/echo-park-cfm">
 			<h2>Echo Park CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>663 Logan Street</p>
 			
 			<h3>Hours</h3>
 			<p>Friday, year round, 3:00 pm - 7:30 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.115603" data-longitude="-118.248475">
 		<a href="/farmers-market/glassel-park-cfm">
 			<h2>Glassel Park CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>3150 N. San Fernando Road</p>
 			
 			<h3>Hours</h3>
 			<p>Saturday 10:00 am to 3:00 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.49274" data-longitude="-118.200389">
 		<a href="/farmers-market/acton-cfm">
 			<h2>Acton CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>3801 Sierra Way</p>
 			
 			<h3>Hours</h3>
 			<p>Tuesday, May - Oct, 4:00 pm - 7:30 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.149085" data-longitude="-118.255469">
 		<a href="/farmers-market/glendale-downtown-cfm">
 			<h2>Glendale Downtown CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>227 N. Brand Ave.</p>
 			
 			<h3>Hours</h3>
 			<p>Tuesday 2:00 pm to 7:00 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.051402" data-longitude="-118.251559">
 		<a href="/farmers-market/grand-farmers-market">
 			<h2>Grand Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>350 S. Grand Ave.</p>
 			
 			<h3>Hours</h3>
 			<p>Wednesday, year round, 10:00 am - 2:00 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.053148" data-longitude="-118.25999">
 		<a href="/farmers-market/historic-la-cfm">
 			<h2>Historic LA CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>West 5th Street</p>
 			
 			<h3>Hours</h3>
 			<p>Sunday, year round, 9:00 am - 1:00 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.043906" data-longitude="-117.84768">
 		<a href="/farmers-market/jack-news-cfm">
 			<h2>Jack New's CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>1100 Grand Ave.</p>
 			
 			<h3>Hours</h3>
 			<p>Saturday, year round, 8:00 am - 2:00 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.788992" data-longitude="-118.294007">
 		<a href="/farmers-market/kaiser-south-bay-cfm">
 			<h2>Kaiser South Bay CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>25825 S. Vermont Ave.</p>
 			
 			<h3>Hours</h3>
 			<p>Wednesday, year round, 10:00 am - 3:00 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.044038" data-longitude="-118.377319">
 		<a href="/farmers-market/la-cienga-cfm">
 			<h2>La Cienga CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>1801 La Cienga Blvd.</p>
 			
 			<h3>Hours</h3>
 			<p>Thursday, year round, 3:00 pm - 7:00 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.100498" data-longitude="-117.770159">
 		<a href="/farmers-market/la-verne-fresh-cfm">
 			<h2>La Verne Fresh CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>D Street &amp; 3rd Street</p>
 			
 			<h3>Hours</h3>
 			<p>Saturday, year round, 8:00 am - 1:00 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.696818" data-longitude="-118.115458">
 		<a href="/farmers-market/lancaster-cfm">
 			<h2>Lancaster CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>721 Lancaster Blvd.</p>
 			
 			<h3>Hours</h3>
 			<p>Thursday, year round, 3:00 pm - 8:00 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.898238" data-longitude="-118.353824">
 		<a href="/farmers-market/lawndale-cfm">
 			<h2>Lawndale CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>147th Street and Burib Ave.</p>
 			
 			<h3>Hours</h3>
 			<p>Wednesday, year round, 2:00 pm - 7:00 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.768461" data-longitude="-118.132867">
 		<a href="/farmers-market/local-harvest-cfm">
 			<h2>Local Harvest CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>E. Appian Way &amp; Nito Ave.</p>
 			
 			<h3>Hours</h3>
 			<p>Wednesday, year round, 3:00 pm - 7:00 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.781151" data-longitude="-118.113431">
 		<a href="/farmers-market/long-beach-university-cfm">
 			<h2>Long Beach University CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>1250 Bellflower Blvd.</p>
 			
 			<h3>Hours</h3>
 			<p>Wednesday, Apr. - Sep., 10:00 am - 2:00 pm.</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.061745" data-longitude="-118.353543">
 		<a href="/farmers-market/miracle-mile-cfm">
 			<h2>Miracle Mile CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>5700 Wilshire Blvd</p>
 			
 			<h3>Hours</h3>
 			<p>Wednesday, year round, 11:00 am - 3:00 am</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.059119" data-longitude="-118.124655">
 		<a href="/farmers-market/monterey-park-cfm">
 			<h2>Monterey Park CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>318 S. Ramona Ave</p>
 			
 			<h3>Hours</h3>
 			<p>Friday, year round, 4:00 pm - 9:00 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.02922" data-longitude="-118.410698">
 		<a href="/farmers-market/motor-avenue-cfm">
 			<h2>Motor Avenue CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>10316 National @ Motor Ave.</p>
 			
 			<h3>Hours</h3>
 			<p>Sunday, year round, 9:00 am - 1:00 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.164917" data-longitude="-118.37738">
 		<a href="/farmers-market/north-hollywood-cfm">
 			<h2>North Hollywood CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>5200 Bakman</p>
 			
 			<h3>Hours</h3>
 			<p>Saturday, year round, 10:00 am - 3:00 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.236027" data-longitude="-118.528289">
 		<a href="/farmers-market/northridge-university-cfm">
 			<h2>Northridge University CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>18111 Nordroff Street</p>
 			
 			<h3>Hours</h3>
 			<p>Tuesday, year round, 10:00 am - 2:00 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.887473" data-longitude="-118.095432">
 		<a href="/farmers-market/norwalk-cfm">
 			<h2>Norwalk CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>11200 Alindra Blvd.</p>
 			
 			<h3>Hours</h3>
 			<p>Tuesday, year round, 9:00 am - 1:00 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.37972" data-longitude="-118.525734">
 		<a href="/farmers-market/old-town-newhall-cfm">
 			<h2>Old Town Newhall CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>22421 Market Street</p>
 			
 			<h3>Hours</h3>
 			<p>Saturday, year round, 8:00 am - 12:30 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.148387" data-longitude="-118.144285">
 		<a href="/farmers-market/pasadena-city-hall-cfm">
 			<h2>Pasadena City Hall CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>100 N. Garfield Ave</p>
 			
 			<h3>Hours</h3>
 			<p>Wednesday, May - Oct, 4:00 pm - 8:00 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.972012" data-longitude="-118.421888">
 		<a href="/farmers-market/playa-vista-cfm">
 			<h2>Playa Vista CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>6400 Seabluff Drive</p>
 			
 			<h3>Hours</h3>
 			<p>Saturday, year round, 9:00 am - 2:00 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.819251" data-longitude="-118.388355">
 		<a href="/farmers-market/rivera-village-cfm">
 			<h2>Rivera Village CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>Avenue I and South Catalina</p>
 			
 			<h3>Hours</h3>
 			<p>Thursday, year round, 3:00 pm - 9:00 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.084761" data-longitude="-118.104637">
 		<a href="/farmers-market/san-gabriel-cfm">
 			<h2>San Gabriel CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>300 W. Wells Street</p>
 			
 			<h3>Hours</h3>
 			<p>Thursday, April - Dec, 4:00 pm - 8:00 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.738196" data-longitude="-118.304913">
 		<a href="/farmers-market/san-pedro-providence-cfm">
 			<h2>San Pedro Providence CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>1300 W. 7th Street</p>
 			
 			<h3>Hours</h3>
 			<p>Thursday, Year Round, 9:00 am - 2:00 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.404196" data-longitude="-118.568263">
 		<a href="/farmers-market/santa-clarita-cfm">
 			<h2>Santa Clarita CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>26455 Rockwell Road</p>
 			
 			<h3>Hours</h3>
 			<p>Sunday, yearround, 8:30 am - 12:00 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.945639" data-longitude="-118.082726">
 		<a href="/farmers-market/santa-fe-springs-cfm">
 			<h2>Santa Fe Springs CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>11740 Telegraph Road</p>
 			
 			<h3>Hours</h3>
 			<p>Thursday, yearround, 12:00 pm - 5:00 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.074591" data-longitude="-118.439086">
 		<a href="/farmers-market/ucla-cfm">
 			<h2>UCLA CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>350 Charles E. Young @ the Camp</p>
 			
 			<h3>Hours</h3>
 			<p>Wednesday, year round, 11:00 am - 3:00 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.020921" data-longitude="-118.280722">
 		<a href="/farmers-market/usc-hospitality-cfm">
 			<h2>USC Hospitality CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>3445 S. Figueroa Street</p>
 			
 			<h3>Hours</h3>
 			<p>Wednesday, year round, 11:00 am - 3:00 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.420526" data-longitude="-118.565244">
 		<a href="/farmers-market/valencia-cfm">
 			<h2>Valencia CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>26251 Town Center Dr.</p>
 			
 			<h3>Hours</h3>
 			<p>Thursday, year round, 4:00 pm - 8:00 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.070594" data-longitude="-117.921277">
 		<a href="/farmers-market/west-covina-cfm">
 			<h2>West Covina CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>195 S. Glendora Ave.</p>
 			
 			<h3>Hours</h3>
 			<p>Saturday, year round, 8:00 am - 1:00 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.061556" data-longitude="-118.44627">
 		<a href="/farmers-market/westwood-village-cfm">
 			<h2>Westwood Village CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>1050 Broxton Ave</p>
 			
 			<h3>Hours</h3>
 			<p>Thursday, year round, 12:00 pm - 6:00 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.093706" data-longitude="-118.128791">
 		<a href="/farmers-market/alhambra-farmers-market">
 			<h2>Alhambra Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>11 S. 2nd Street</p>
 			
 			<h3>Hours</h3>
 			<p>Closed Easter Sunday. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.032562" data-longitude="-118.29259">
 		<a href="/farmers-market/adams--vermont-farmers-market">
 			<h2>Adams - Vermont Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>1432 W Adams Blvd</p>
 			
 			<h3>Hours</h3>
 			<p>Wednesday, 2:00pm to 6:00pm. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.200379" data-longitude="-118.15813">
 		<a href="/farmers-market/altadena-farmers-market">
 			<h2>Altadena Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>600 W. Palm Ave</p>
 			
 			<h3>Hours</h3>
 			<p>Wednesday, 4:00 pm to 8:00pm. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.054046" data-longitude="-118.243172">
 		<a href="/farmers-market/arts-district-little-tokyo-farmers-market">
 			<h2>Arts District Little Tokyo Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>200 N Spring St</p>
 			
 			<h3>Hours</h3>
 			<p>Thursday, 10:00am to 2:00pm. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.076263" data-longitude="-118.396198">
 		<a href="/farmers-market/beverly-hills-farmers-market">
 			<h2>Beverly Hills Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>9300 Civic Center Dr</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.050607" data-longitude="-118.47515">
 		<a href="/farmers-market/brentwood-village-farmers-market">
 			<h2>Brentwood Village Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>741 Gretna Green Way</p>
 			
 			<h3>Hours</h3>
 			<p>Sundays year-round 9:00am to 2:00pm. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.844991" data-longitude="-118.262561">
 		<a href="/farmers-market/south-bay-pavilion-cfm">
 			<h2>South Bay Pavilion CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>20700 Avalon Blvd</p>
 			
 			<h3>Hours</h3>
 			<p>Thursdays, year-round, 10:00am to 3:00pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.060955" data-longitude="-118.417855">
 		<a href="/farmers-market/century-city-farmers-market">
 			<h2>Century City Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>1800 Ave of the Stars</p>
 			
 			<h3>Hours</h3>
 			<p>Thursdays, year-round, 11:00am - 2:00pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.024745" data-longitude="-118.394166">
 		<a href="/farmers-market/culver-city-farmers-market">
 			<h2>Culver City Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>3800 Main Street</p>
 			
 			<h3>Hours</h3>
 			<p>Tuesdays, year-round 2:00pm to 7:00pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.049391" data-longitude="-118.259879">
 		<a href="/farmers-market/downtown-los-angeles-(b-o-a)-cfm">
 			<h2>Downtown Los Angeles (B O. A) CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>S Figueroa St &amp; W 7Th St</p>
 			
 			<h3>Hours</h3>
 			<p>Friday, 10:00am to 3:00pm. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.033565" data-longitude="-118.160665">
 		<a href="/farmers-market/east-los-angeles-farmers-market">
 			<h2>East Los Angeles Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>4801 E. 3rd. St.</p>
 			
 			<h3>Hours</h3>
 			<p>Saturday, 9:00 am - 2:00 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.921479" data-longitude="-118.415764">
 		<a href="/farmers-market/el-segundo-plaza-farmers-market">
 			<h2>El Segundo Plaza Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>Main Street. Between Holly &amp; Oina Ave</p>
 			
 			<h3>Hours</h3>
 			<p>Thursday, year-round 10:00 am to 2:00 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.186204" data-longitude="-118.514066">
 		<a href="/farmers-market/encino-farmers-market">
 			<h2>Encino Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>17400 Victory Blvd in Van Nuys</p>
 			
 			<h3>Hours</h3>
 			<p>Sundays, year-round, 8:00am to 1:00pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.909422" data-longitude="-118.37662">
 		<a href="/farmers-market/hawthorne--del-aire-farmers-market">
 			<h2>Hawthorne - Del Aire Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>13500 Aviation Boulevard</p>
 			
 			<h3>Hours</h3>
 			<p>Saturdays, year-round, 9:00am to 1:00pm. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.860152" data-longitude="-118.394257">
 		<a href="/farmers-market/hermosa-beach-farmers-market">
 			<h2>Hermosa Beach Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>Valley Drive at 8Th St</p>
 			
 			<h3>Hours</h3>
 			<p>Fridays, year-round, 12:00pm to 4:00pm. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.97213" data-longitude="-118.2052">
 		<a href="/farmers-market/huntington-park-farmers-market">
 			<h2>Huntington Park Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>E Florence Ave &amp; Bissell St</p>
 			
 			<h3>Hours</h3>
 			<p>Wednesday, year round, 9:30am to 1:30pm. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.038065" data-longitude="-118.375937">
 		<a href="/farmers-market/kaiser-la-cienga-farmers-market">
 			<h2>Kaiser -La Cienga Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>6041 Cadillac Ave</p>
 			
 			<h3>Hours</h3>
 			<p>Wednesday, 9:30am to 1:30pm. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.065377" data-longitude="-117.985884">
 		<a href="/farmers-market/kaiser-baldwin-park-farmers-market">
 			<h2>Kaiser Baldwin Park Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>1011 Baldwin Park Blvd</p>
 			
 			<h3>Hours</h3>
 			<p>Fridays, year-round, 7:30am to 12:30pm. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.219809" data-longitude="-118.429916">
 		<a href="/farmers-market/kaiser-panorama-city-farmers-market">
 			<h2>Kaiser Panorama City Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>13652 Cantara St</p>
 			
 			<h3>Hours</h3>
 			<p>Wednesdays, year-round, 9:00am to 1:30pm. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.207497" data-longitude="-118.207701">
 		<a href="/farmers-market/la-canada-farmers-market">
 			<h2>La Canada Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>1346 Foothill Blvd</p>
 			
 			<h3>Hours</h3>
 			<p>Saturdays, year-round, 9:00am - 1:00pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.171262" data-longitude="-118.588612">
 		<a href="/farmers-market/kaiser-woodland-hills-farmers-market">
 			<h2>Kaiser Woodland Hills Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>5601 De  Soto Ave</p>
 			
 			<h3>Hours</h3>
 			<p>Thursdays, year-round, 10:00am to 2:30pm. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.101954" data-longitude="-117.771008">
 		<a href="/farmers-market/la-verne-farmers-market">
 			<h2>La Verne Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>3660 &quot;D&quot; Street between Bonita and 3rd Street</p>
 			
 			<h3>Hours</h3>
 			<p>Thursdays, April through September, 5:00pm to 9:00pm. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.074882" data-longitude="-118.323835">
 		<a href="/farmers-market/larchmont-village-farmers-market">
 			<h2>Larchmont Village Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>209 N Larchmont Blvd</p>
 			
 			<h3>Hours</h3>
 			<p>Sunday, 10:00am to 2:00pm. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.772945" data-longitude="-118.192378">
 		<a href="/farmers-market/long-beach-downtown-farmers-market">
 			<h2>Long Beach Downtown Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>212 W. Third Street at Pacific Avenue</p>
 			
 			<h3>Hours</h3>
 			<p>Fridays, year-round, 10:00am to 4:00pm. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.757624" data-longitude="-118.113098">
 		<a href="/farmers-market/long-beach-southeast-farmers-market">
 			<h2>Long Beach Southeast Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>2nd St. and N. Marina Dr.</p>
 			
 			<h3>Hours</h3>
 			<p>Sundays, year-round, 9:00am to 2:00pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.842649" data-longitude="-118.184941">
 		<a href="/farmers-market/long-beach-uptown-farmers-market">
 			<h2>Long Beach Uptown Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>E 46Th St &amp; Atlantic Ave</p>
 			
 			<h3>Hours</h3>
 			<p>Thursday, 3:00pm to 6:30pm </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.104211" data-longitude="-118.29201">
 		<a href="/farmers-market/los-feliz-village-farmers-market">
 			<h2>Los Feliz Village Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>1825 N Vermont Ave</p>
 			
 			<h3>Hours</h3>
 			<p>Sundays, year-round, 9:00am to 2:00pm. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.034739" data-longitude="-118.691164">
 		<a href="/farmers-market/malibu-farmers-market">
 			<h2>Malibu Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>23525 Civic Center Way</p>
 			
 			<h3>Hours</h3>
 			<p>Sundays, year-round, 10:00am to 3:00pm. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.886737" data-longitude="-118.409414">
 		<a href="/farmers-market/manhattan-beach-farmers-market">
 			<h2>Manhattan Beach Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>13Th St &amp; Morningside Dr</p>
 			
 			<h3>Hours</h3>
 			<p>Tuesday, 11:00am to 4:00pm; 11:00am to 5:00pm, June through August </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.902633" data-longitude="-118.160244">
 		<a href="/farmers-market/paramount-cfm">
 			<h2>Paramount CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>14409 Paramount Blvd.</p>
 			
 			<h3>Hours</h3>
 			<p>9:00 am - 1: 00 pm, June - Dec.</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.073651" data-longitude="-118.215636">
 		<a href="/farmers-market/lincoln-heights-cfm">
 			<h2>Lincoln Heights CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>North Broadway &amp; Daly Street</p>
 			
 			<h3>Hours</h3>
 			<p>3:00 pm - 7:00 pm, June - Dec.</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.838732" data-longitude="-118.356805">
 		<a href="/farmers-market/torrance-providence-cfm">
 			<h2>Torrance Providence CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>4101 Torranc Blvd. @ Hawthorne Blvd</p>
 			
 			<h3>Hours</h3>
 			<p>Friday, Year Round, 10:00 am - 3:00 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.919242" data-longitude="-118.128811">
 		<a href="/farmers-market/kaised-downey">
 			<h2>Kaised Downey</h2>
+			<p class="type">Farmers Market</p>
 			<p>9333 E. Imperial Hwy in Kaiser Medical Center</p>
 			
 			<h3>Hours</h3>
 			<p>Thursday, Year Round, 9:00 am - 2:00 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.38147" data-longitude="-118.529305">
 		<a href="/farmers-market/newhall-farmers-market">
 			<h2>Newhall Farmers' Market</h2>
+			<p class="type">Farmers Market</p>
 			<p>22520 Lynos Ave</p>
 			
 			<h3>Hours</h3>
 			<p>Saturday, 8:00am to 12:00pm. </p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.141169" data-longitude="-118.028377">
 		<a href="/farmers-market/arcadia-street-fair-cfm">
 			<h2>Arcadia Street Fair CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>Wheeler Ave. @ 1st Street</p>
 			
 			<h3>Hours</h3>
 			<p>Friday, July - Dec., 5:00 pm - 9:00 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.057816" data-longitude="-117.751299">
 		<a href="/farmers-market/pomona-thomas-plaza-cfm">
 			<h2>Pomona Thomas Plaza CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>201 W. 2nd Street</p>
 			
 			<h3>Hours</h3>
 			<p>2nd Saturday of the month, year round, 5:00 pm - 9:00 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.021192" data-longitude="-118.3561">
 		<a href="/farmers-market/baldwin-la-brea-cfm">
 			<h2>Baldwin La Brea CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>3601 S. La Brea Ave.</p>
 			
 			<h3>Hours</h3>
 			<p>Saturday, 9:00 am - 2:00 pm.</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.080305" data-longitude="-118.076331">
 		<a href="/farmers-market/rosemead-cfm">
 			<h2>Rosemead CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>8838 Valley Blvd.</p>
 			
 			<h3>Hours</h3>
 			<p>Aug - Dec, Friday, 4:00 pm - 8:00 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.020063" data-longitude="-117.952348">
 		<a href="/farmers-market/la-puente-live-cfm">
 			<h2>La Puente Live CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>Main Street &amp; First Street</p>
 			
 			<h3>Hours</h3>
 			<p>July - Dec., Friday, 6:00 pm - 10:00 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.96178" data-longitude="-118.352011">
 		<a href="/farmers-market/inglewood-cfm">
 			<h2>Inglewood CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>Manchester Blvd. &amp; Market Street</p>
 			
 			<h3>Hours</h3>
 			<p>Thursday, year round, 3:00 pm - 7:00 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.877469" data-longitude="-118.221478">
 		<a href="/farmers-market/compton-cfm">
 			<h2>Compton CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>Gateway Towne Center</p>
 			
 			<h3>Hours</h3>
 			<p>9:00 am - 2:00 pm Aug - Dec, Saturday</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.18407" data-longitude="-118.605816">
 		<a href="/farmers-market/the-village-cfm">
 			<h2>The Village CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>6250 Topanga Blvd.</p>
 			
 			<h3>Hours</h3>
 			<p>Sunday, Year Round, 2:00 pm - 4:00 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.86199" data-longitude="-118.401358">
 		<a href="/farmers-market/hermosa-beach-wednesday-cfm">
 			<h2>Hermosa Beach Wednesday CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>1 Piar Ave</p>
 			
 			<h3>Hours</h3>
 			<p>Wednesday, Year Round, 11:00 am - 4:00 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.976007" data-longitude="-118.386664">
 		<a href="/farmers-market/howard-hughes-cfm">
 			<h2>Howard Hughes CFM</h2>
+			<p class="type">Farmers Market</p>
 			<p>6080 Center Drive</p>
 			
 			<h3>Hours</h3>
 			<p>Thursday, Year Round, 10:00 am - 2:00 pm</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
 </ul>
+
+<script src="/assets/js/list.js"></script>
 
 	</main>
 

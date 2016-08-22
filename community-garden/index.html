@@ -130,451 +130,744 @@
 
 
 	<main>
-        <h1>Community Gardens in Los&nbsp;Angeles</h1>
+        <nav class="search">
+	<h1>Community Gardens</h1>
+	<ul>
+		<li><a href="/map">Map</a></li>
+		<li><a>List</a></li>
+	</ul>
+</nav>
+<script>
+(function() {
+	// SHIM: Make the address persistent
+	var searchLink = document.querySelector('.search a[href]');
+	searchLink.setAttribute('href', searchLink.getAttribute('href') + window.location.search);
+})();
+</script>
+
+<!-- Jim’s Google Maps API key -->
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4"></script>
 
 <ul class="food-source-list">
 
-	<li>
+	<li data-latitude="34.2791713" data-longitude="-118.4804559">
 		<a href="/community-garden/granada-hills-salad-bowl-garden-club">
 			<h2>Granada Hills Salad Bowl Garden Club</h2>
+			<p class="type">Community Garden</p>
 			<p>16003 Rinaldi StreetGranada Hills, California(34.27917819000004, -118.48080939099998)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.1019922" data-longitude="-118.3550303">
 		<a href="/community-garden/wattles-farm">
 			<h2>Wattles Farm</h2>
+			<p class="type">Community Garden</p>
 			<p>1714 N Curson AvenueLos Angeles, CA 90046(34.10199104600008, -118.35501155199995)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.9593934" data-longitude="-118.4231126">
 		<a href="/community-garden/messiah-organic-community-garden">
 			<h2>Messiah Organic Community Garden</h2>
+			<p class="type">Community Garden</p>
 			<p>7300 West Manchester AvenueLos Angeles, CA 90045(33.959693077000054, -118.42254886999996)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.000099" data-longitude="-118.291154">
 		<a href="/community-garden/vermont-square-community-garden">
 			<h2>Vermont Square Community Garden</h2>
+			<p class="type">Community Garden</p>
 			<p>4712 S Vermont AvenueLos Angeles, CA 90037(34.00009092600004, -118.29150677299998)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.0943714" data-longitude="-118.3337936">
 		<a href="/community-garden/enrique-noguera-educational-garden">
 			<h2>Enrique Noguera Educational Garden</h2>
+			<p class="type">Community Garden</p>
 			<p>6614 Fountain AvenueLos Angeles, CA 90038(34.09435534900007, -118.33371449399999)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.9806263" data-longitude="-118.3009406">
 		<a href="/community-garden/epworth-community-garden">
 			<h2>Epworth Community Garden</h2>
+			<p class="type">Community Garden</p>
 			<p>1419 W 65th StreetLos Angeles, CA 90044(33.98062804400007, -118.30074157399997)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.9772294" data-longitude="-118.4632544">
 		<a href="/community-garden/eastwind-community-garden">
 			<h2>Eastwind Community Garden</h2>
+			<p class="type">Community Garden</p>
 			<p>110 Eastwind StreetMarina Del Rey, CA 90292(33.977245786000026, -118.46316565099994)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.057077" data-longitude="-118.289425">
 		<a href="/community-garden/moothart-collingnon-francis-avenue-community-garden">
 			<h2>Moothart Collingnon/Francis Avenue Community Garden</h2>
+			<p class="type">Community Garden</p>
 			<p>2909 Francis AvenueLos Angeles, CA 90005(34.056847719000075, -118.28941998999994)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.0427696" data-longitude="-118.2822406">
 		<a href="/community-garden/the-learning-garden">
 			<h2>The Learning Garden</h2>
+			<p class="type">Community Garden</p>
 			<p>1300 Venice BlvdLos Angeles, CA 90006(34.04290510900006, -118.28222053399998)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.8997839" data-longitude="-118.2852654">
 		<a href="/community-garden/rosecrans-farms">
 			<h2>Rosecrans Farms</h2>
+			<p class="type">Community Garden</p>
 			<p>561 W 146th StreetGardena, CA 90248(33.89964767200007, -118.28525910099995)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.7302093" data-longitude="-118.2799679">
 		<a href="/community-garden/john-s-gibson-senior-garden">
 			<h2>John S. Gibson Senior Garden</h2>
+			<p class="type">Community Garden</p>
 			<p>1500 S Harbor BlvdSan Pedro, CA 90731(33.73094877400007, -118.279958637)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.9341804" data-longitude="-118.2637926">
 		<a href="/community-garden/stanford-avalon-community-garden">
 			<h2>Stanford Avalon Community garden</h2>
+			<p class="type">Community Garden</p>
 			<p>658 E 111th PlaceLos Angeles, CA 90059(33.93417627300005, -118.26377086299999)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.0409894" data-longitude="-118.2135235">
 		<a href="/community-garden/salesian-boys--girls-club-community-garden">
 			<h2>Salesian Boys & Girls Club Community Garden</h2>
+			<p class="type">Community Garden</p>
 			<p>2228 E 4th StreetLos Angeles, CA 90033(34.04122508200004, -118.21322074599999)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.1836591" data-longitude="-118.5406491">
 		<a href="/community-garden/tarzana-community-garden">
 			<h2>Tarzana Community Garden</h2>
+			<p class="type">Community Garden</p>
 			<p>18702 Erwin StreetSan Fernando Valley, CA 91335(34.18384300200006, -118.54066927899999)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.7430661" data-longitude="-118.2830236">
 		<a href="/community-garden/rancho-san-pedro-community-garden">
 			<h2>Rancho San Pedro Community Garden</h2>
+			<p class="type">Community Garden</p>
 			<p>275 W 1st StreetSan Pedro, CA 90731(33.74327698400003, -118.28301723599998)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.1345501" data-longitude="-118.1879229">
 		<a href="/community-garden/eagle-rockdale-community-garden-and-art-park">
 			<h2>Eagle Rockdale Community Garden and Art Park</h2>
+			<p class="type">Community Garden</p>
 			<p>1003 Rockdale AvenueLos Angeles, CA 90041(34.13392643900005, -118.18878835899994)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.9631099" data-longitude="-118.4065372">
 		<a href="/community-garden/holy-nativity-community-garden">
 			<h2>Holy Nativity Community Garden</h2>
+			<p class="type">Community Garden</p>
 			<p>6700 West 83rd StreetWestchester, CA 90045(33.96343338400004, -118.40646992899997)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.9677904" data-longitude="-118.4038765">
 		<a href="/community-garden/emerson-avenue-community-garden">
 			<h2>Emerson Avenue Community Garden</h2>
+			<p class="type">Community Garden</p>
 			<p>6550 W 80th StreetWestchester, CA 90045(33.96923397100005, -118.40476339999998)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.9426844" data-longitude="-118.2564836">
 		<a href="/community-garden/bougainvillea-community-garden">
 			<h2>Bougainvillea Community Garden</h2>
+			<p class="type">Community Garden</p>
 			<p>E 103rdLos Angeles, CA 90002(33.94256766900003, -118.25886981299999)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.2594981" data-longitude="-118.4053868">
 		<a href="/community-garden/project-youth-green">
 			<h2>Project Youth Green</h2>
+			<p class="type">Community Garden</p>
 			<p>12467 W Osborne StreetLos Angeles, California(34.25777331100005, -118.40466851899998)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.0971922" data-longitude="-118.2430766">
 		<a href="/community-garden/elysian-valley-community-garden">
 			<h2>Elysian Valley Community Garden</h2>
+			<p class="type">Community Garden</p>
 			<p>1816 W Blake AvenueLos Angeles, CA 90039(34.09722482600006, -118.24296690099999)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.051656" data-longitude="-118.216757">
 		<a href="/community-garden/proyecto-jardin">
 			<h2>Proyecto Jardin</h2>
+			<p class="type">Community Garden</p>
 			<p>1718 Bridge StreetLos Angeles, CA 90033(34.051895211000044, -118.21661075899999)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.0934191" data-longitude="-118.2809559">
 		<a href="/community-garden/manzanita-street-community-garden">
 			<h2>Manzanita Street Community Garden</h2>
+			<p class="type">Community Garden</p>
 			<p>1101 Manzanita StreetLos Angeles, CA 90029(34.09348167700006, -118.28090701699995)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.1665784" data-longitude="-118.3905732">
 		<a href="/community-garden/north-hollywood-community-garden">
 			<h2>North Hollywood Community Garden</h2>
+			<p class="type">Community Garden</p>
 			<p>11800 Weddington StreetNorth Hollywood, CA 91607(34.16666393400004, -118.39178557499997)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.1041372" data-longitude="-118.278644">
 		<a href="/community-garden/norman-harriton-community-garden">
 			<h2>Norman Harriton Community Garden</h2>
+			<p class="type">Community Garden</p>
 			<p>2037 N Sanborn AvenueLos Angeles, CA 90027(34.104141973000026, -118.27865306899997)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.0921414" data-longitude="-118.1615749">
 		<a href="/community-garden/el-sereno-community-garden">
 			<h2>El Sereno Community Garden</h2>
+			<p class="type">Community Garden</p>
 			<p>5466 Huntington DriveLos Angeles, CA 90032(34.092496624000034, -118.16162328499996)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.9872471" data-longitude="-118.4619502">
 		<a href="/community-garden/venice-community-garden">
 			<h2>Venice Community Garden</h2>
+			<p class="type">Community Garden</p>
 			<p>643 Mildred AvenueVenice, CA 90291(33.98726245800003, -118.46188133599998)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.2577962" data-longitude="-118.3009159">
 		<a href="/community-garden/howard-finn-community-garden">
 			<h2>Howard Finn Community Garden</h2>
+			<p class="type">Community Garden</p>
 			<p>7747 Foothill BlvdTujunga, California(34.25813176300005, -118.30169870499998)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.094111" data-longitude="-118.3405059">
 		<a href="/community-garden/mansfield-fountain-community-garden">
 			<h2>Mansfield Fountain Community Garden</h2>
+			<p class="type">Community Garden</p>
 			<p>1259 N Mansfield AvenueLos Angeles, CA 90038(34.09361321000006, -118.340501873)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.0307621" data-longitude="-118.215246">
 		<a href="/community-garden/mothers-of-east-la-community-garden">
 			<h2>Mothers of East LA Community Garden</h2>
+			<p class="type">Community Garden</p>
 			<p>1020 S Fickett StreetLos Angeles, CA 90023(34.031341471000076, -118.21534039799997)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.7596412" data-longitude="-118.2917918">
 		<a href="/community-garden/san-pedro-gardens">
 			<h2>San Pedro Gardens</h2>
+			<p class="type">Community Garden</p>
 			<p>1400 N Gaffey StreetSan Pedro, CA 90731(33.73126012100005, -118.29234678599994)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.078655" data-longitude="-118.295471">
 		<a href="/community-garden/rosewood-gardens">
 			<h2>Rosewood Gardens</h2>
+			<p class="type">Community Garden</p>
 			<p>4160 41276 Rosewood AvenueLos Angeles, CA 90004(34.075720587000035, -118.30301712299996)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.170387" data-longitude="-118.586746">
 		<a href="/community-garden/parkman-gardens">
 			<h2>Parkman Gardens</h2>
+			<p class="type">Community Garden</p>
 			<p>20800 Burbank BlvdWoodland Hills, CA 91367(34.171943388000045, -118.58674902799999)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.0916172" data-longitude="-118.2340746">
 		<a href="/community-garden/jardin-del-rio">
 			<h2>Jardin Del Rio</h2>
+			<p class="type">Community Garden</p>
 			<p>2363 N Riverdale AvenueLos Angeles, CA 90031(34.09173305100006, -118.23403902199999)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.0312483" data-longitude="-118.3673797">
 		<a href="/community-garden/good-earth-community-garden">
 			<h2>Good Earth Community Garden</h2>
+			<p class="type">Community Garden</p>
 			<p>Clyde AvenueLos Angeles, CA 91206(34.03038872700006, -118.36767758199994)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.9916065" data-longitude="-118.4722">
 		<a href="/community-garden/we-garden">
 			<h2>WE Garden</h2>
+			<p class="type">Community Garden</p>
 			<p>1010 Abbot Kinney BlvdVenice, CA 90201(33.99211615300004, -118.47218907199999)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.046327" data-longitude="-118.327947">
 		<a href="/community-garden/crenshaw-community-garden">
 			<h2>Crenshaw Community Garden</h2>
+			<p class="type">Community Garden</p>
 			<p>1423 S Crenshaw BlvdLos Angeles, CA 90019(34.04619602500003, -118.32762735099999)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.0539719" data-longitude="-118.2992088">
 		<a href="/community-garden/yamazaki-memorial-community-garden">
 			<h2>Yamazaki Memorial Community Garden</h2>
+			<p class="type">Community Garden</p>
 			<p>961 S Mariposa AvenueLos Angeles, CA 90006(34.05387022200006, -118.298991995)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.2549346" data-longitude="-118.6041787">
 		<a href="/community-garden/rosemary--thyme-community-garden">
 			<h2>Rosemary & Thyme Community garden</h2>
+			<p class="type">Community Garden</p>
 			<p>10161 Jordan AvenueChatsworth, CA 91311(34.25474981600007, -118.60390304799995)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.0111722" data-longitude="-118.2727925">
 		<a href="/community-garden/growing-great-dreams">
 			<h2>Growing Great Dreams</h2>
+			<p class="type">Community Garden</p>
 			<p>125 E Martin Luther King Jr BoulevardLos Angeles, CA 90011(34.011177185000065, -118.27269605799995)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.047382" data-longitude="-118.2752729">
 		<a href="/community-garden/union-avenue-cesar-chavez-community-garden">
 			<h2>Union Avenue/Cesar Chavez Community Garden</h2>
+			<p class="type">Community Garden</p>
 			<p>1136 S Union AvenueLos Angeles, CA 90015(34.04670418200004, -118.27568363899996)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.9255557" data-longitude="-118.2629321">
 		<a href="/community-garden/greater-watts-community-garden">
 			<h2>Greater Watts Community Garden</h2>
+			<p class="type">Community Garden</p>
 			<p>660 E 118th PlaceLos Angeles, CA 90059(33.92644283300007, -118.26299932099994)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.1137199" data-longitude="-118.1864324">
 		<a href="/community-garden/milagro-allegro-community-garden">
 			<h2>Milagro Allegro Community Garden</h2>
+			<p class="type">Community Garden</p>
 			<p>115 S AvenueLos Angeles, CA 90042(34.08733119000004, -118.32063535099996)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.031707" data-longitude="-118.297773">
 		<a href="/community-garden/erika-j-glazer-community-garden">
 			<h2>Erika J. Glazer Community Garden</h2>
+			<p class="type">Community Garden</p>
 			<p>2632 Raymond AvenueLos Angeles, CA 90007(34.03170032000003, -118.298016013)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.2247749" data-longitude="-118.4897505">
 		<a href="/community-garden/van-nuys-garden-center">
 			<h2>Van Nuys Garden Center</h2>
+			<p class="type">Community Garden</p>
 			<p>16400 Chase StreetNorth Hills, CA 91343(34.224755550000054, -118.48964637099999)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.0141171" data-longitude="-118.4407318">
 		<a href="/community-garden/ocean-view-farms">
 			<h2>Ocean View Farms</h2>
+			<p class="type">Community Garden</p>
 			<p>3300 S Centinela AvenueMar Vista, CA 90066(34.01472864200008, -118.44193053599997)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.9682258" data-longitude="-118.2651723">
 		<a href="/community-garden/fremont-wellness-center--community-garden">
 			<h2>Fremont Wellness Center & Community garden</h2>
+			<p class="type">Community Garden</p>
 			<p>7821 S Avalon BlvdLos Angeles, CA 90003(33.968167884000025, -118.26519727599998)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.2289521" data-longitude="-118.4238041">
 		<a href="/community-garden/arleta-community-garden">
 			<h2>Arleta Community Garden</h2>
+			<p class="type">Community Garden</p>
 			<p>8800 Canterbury AvenueSan Fernando Valley, CA 91331(34.22961903400005, -118.42451217799999)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.9306468" data-longitude="-118.2466072">
 		<a href="/community-garden/vista-hermosa-gardens">
 			<h2>Vista Hermosa Gardens</h2>
+			<p class="type">Community Garden</p>
 			<p>1590 E 114th StreetLos Angeles, CA 90059(33.931087181000066, -118.24652602499998)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.1653335" data-longitude="-118.4953656">
 		<a href="/community-garden/sepulveda-garden-center">
 			<h2>Sepulveda Garden Center</h2>
+			<p class="type">Community Garden</p>
 			<p>16633 Magnolia BoulevardEncino, CA 91316(34.16495650300004, -118.49550040099996)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.2183664" data-longitude="-118.6403552">
 		<a href="/community-garden/orcutt-ranch-horticultural-center-rancho-sombra-del-roble">
 			<h2>Orcutt Ranch Horticultural Center Rancho Sombra del Roble</h2>
+			<p class="type">Community Garden</p>
 			<p>23600 Roscoe BlvdWest Hills, CA 91304(34.219132785000056, -118.64119895299996)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.0943792" data-longitude="-118.3116817">
 		<a href="/community-garden/fountain-community-gardens">
 			<h2>Fountain Community Gardens</h2>
+			<p class="type">Community Garden</p>
 			<p>5620 Fountain AvenueLos Angeles, CA 90028(34.094742309000026, -118.31178217299998)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.1200402" data-longitude="-118.2429799">
 		<a href="/community-garden/glassell-park-community-garden">
 			<h2>Glassell Park Community Garden</h2>
+			<p class="type">Community Garden</p>
 			<p>3305 Drew StreetLos Angeles, CA 90065(34.12005433500008, -118.24300594999994)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="34.0745923" data-longitude="-118.2316003">
 		<a href="/community-garden/solano-canyon-community-garden">
 			<h2>Solano Canyon Community Garden</h2>
+			<p class="type">Community Garden</p>
 			<p>545 Solano AvenueLos Angeles, CA 90012(34.07418256500006, -118.23143009599994)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
-	<li>
+	<li data-latitude="33.993263" data-longitude="-118.406796">
 		<a href="/community-garden/mar-vista-community-garden">
 			<h2>Mar Vista Community Garden</h2>
+			<p class="type">Community Garden</p>
 			<p>5075 S Slauson AvenueCulver City, CA 90230(33.993487198000025, -118.40685594399997)</p>
 			
+			<!--
+			<h3>Distance</h3>
+			<p>0.2 miles</p>
+			-->
 		</a>
 	</li>
 
 </ul>
+
+<script src="/assets/js/list.js"></script>
 
 	</main>
 
