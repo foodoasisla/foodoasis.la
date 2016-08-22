@@ -4,7 +4,7 @@
 	<meta charset="utf-8" >
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-	<title>Map, Food Oasis Los Angeles</title>
+	<title>Map of food near you in Los Angeles</title>
 	
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Reem+Kufi|Open+Sans" />
 	<link rel="stylesheet" href="/assets/css/oasis.css" />
@@ -95,6 +95,7 @@
 				</switch>
 			</svg>
 		</a>
+		<!--
 		<div class="dropdown"> 
 			<button onclick="dropDownFunction()" class="dropbtn">Menu</button>
 			<div id="myDropdown" class="dropdown-content">
@@ -105,12 +106,15 @@
 				<a href="/news">News</a>
 			</div>
 		</div>
+		-->
 	</h2>
+	<!--
 	<script type="text/javascript">
 		function dropDownFunction() {
 	    	document.getElementById("myDropdown").classList.toggle("show");
 		}
 	</script>
+	-->
 </div>
 
 	<nav>
@@ -130,6 +134,21 @@
 </nav>
 
 
+	<nav class="search">
+		<h1>Map of food near you</h1>
+		<ul>
+			<li class="map"><a>Map</a></li>
+			<li class="list"><a href="/list">List</a></li>
+		</ul>
+	</nav>
+	<script>
+	(function() {
+		// SHIM: Make the address persistent
+		var searchLink = document.querySelector('.search a[href]');
+		searchLink.setAttribute('href', searchLink.getAttribute('href') + window.location.search);
+	})();
+	</script>
+
 	<div id="menu"></div>
 	<div id="map" class="mapbox"></div>
 
@@ -142,7 +161,7 @@
 	<!-- For map.js -->
 	<script type="text/template" id="marker-template">
 	<div class="marker">
-		<img src="/assets/images/markers/dot.svg" alt="" />
+		<img src="/assets/images/markers/dot.png" alt="" />
 	</div>
 	</script>
 
