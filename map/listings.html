@@ -168,6 +168,39 @@
 		  margin: 0;
 		}
 
+		/*.mapboxgl-popup-farmers-market h3 {
+			background:#91c949;
+		  color:#fff;
+		  margin:0;
+		  display:block;
+		  padding:10px;
+		  border-radius:3px 3px 0 0;
+		  font-weight:700;
+		  margin-top:-15px;
+		}
+
+		.mapboxgl-popup-community-garden h3 {
+			background:#F9C058;
+		  color:#fff;
+		  margin:0;
+		  display:block;
+		  padding:10px;
+		  border-radius:3px 3px 0 0;
+		  font-weight:700;
+		  margin-top:-15px;
+		}
+
+		.mapboxgl-popup-food-bank h3 {
+			background:#F37568;
+		  color:#fff;
+		  margin:0;
+		  display:block;
+		  padding:10px;
+		  border-radius:3px 3px 0 0;
+		  font-weight:700;
+		  margin-top:-15px;
+		}*/
+
 		.mapboxgl-popup-content div {
 		  padding:10px;
 		}
@@ -184,14 +217,42 @@
 		  border-bottom-color: #91c949;
 		}
 
-		.marker {
+		.farmers-market-marker {
 		  border: none;
 		  cursor: pointer;
 		  height: 56px;
-		  width: 56px;
-		  background-image: url(/assets/images/markers/dot.png);
+		  width: 43px;
+		  background-image: url(/assets/images/map/farmers-market.svg);
 		  background-color: rgba(0, 0, 0, 0);
 		  transform: translate(28px, 56px, 0);
+		}
+
+		.community-garden-marker {
+			border: none;
+		  cursor: pointer;
+		  height: 56px;
+		  width: 43px;
+		  background-image: url(/assets/images/map/community-garden.svg);
+		  background-color: rgba(0, 0, 0, 0);
+		  transform: translate(28px, 56px, 0);
+		}
+
+		.food-bank-marker {
+			border: none;
+		  cursor: pointer;
+		  height: 56px;
+		  width: 43px;
+		  background-image: url(/assets/images/map/food-bank.svg);
+		  background-color: rgba(0, 0, 0, 0);
+		  transform: translate(28px, 56px, 0);
+		}
+		
+		#farmersMarket {
+			background-color: #F37568;
+		}
+
+		#foodBank {
+			background-color: #F9C058;
 		}
 
 	</style>
@@ -211,251 +272,7112 @@
 		var map = new mapboxgl.Map({
 		  container: 'map',
 		  style: 'mapbox://styles/mapbox/light-v9',
-		  center: [-77.034084, 38.909671],
+		  center: [-118.243683, 34.052235],
 		  zoom: 14
 		});
 
 		var stores =
+
 		{
 			"type": "FeatureCollection",
 			"features": [
+
+			
 			  {
 			    "type": "Feature",
 			    "geometry": {
 			      "type": "Point",
 			      "coordinates": [
-			        -77.034084142948,
-			        38.909671288923
+			       	-118.256703,
+							 34.0257601
 			      ]
 			    },
 			    "properties": {
-			      "phoneFormatted": "(202) 234-7336",
-			      "phone": "2022347336",
-			      "address": "1471 P St NW",
-			      "city": "Washington DC",
+						"name": "All Peoples Christian Center",
+			      "phone": "213-747-6357",
+			      "address": "822 E. 20th Street Los Angeles 90011",
 			      "country": "United States",
-			      "crossStreet": "at 15th St NW",
-			      "postalCode": "20005",
-			      "state": "D.C."
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Fri 12pm-5pm",
+						"type": "foodBank"
 			    }
 			  },
+				
 			  {
 			    "type": "Feature",
 			    "geometry": {
 			      "type": "Point",
 			      "coordinates": [
-			        -77.049766,
-			        38.900772
+			       	-118.1729264,
+							 34.0856924
 			      ]
 			    },
 			    "properties": {
-			      "phoneFormatted": "(202) 507-8357",
-			      "phone": "2025078357",
-			      "address": "2221 I St NW",
-			      "city": "Washington DC",
+						"name": "All Saints Conference",
+			      "phone": "323.221.5452",
+			      "address": "3431 Portola Avenue Los Angeles 90032",
 			      "country": "United States",
-			      "crossStreet": "at 22nd St NW",
-			      "postalCode": "20037",
-			      "state": "D.C."
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "2nd & 4th Fri 3pm-5pm",
+						"type": "foodBank"
 			    }
 			  },
+				
 			  {
 			    "type": "Feature",
 			    "geometry": {
 			      "type": "Point",
 			      "coordinates": [
-			        -77.043929,
-			        38.910525
+			       	-118.1953454,
+							 34.1117024
 			      ]
 			    },
 			    "properties": {
-			      "phoneFormatted": "(202) 387-9338",
-			      "phone": "2023879338",
-			      "address": "1512 Connecticut Ave NW",
-			      "city": "Washington DC",
+						"name": "All Saints Episcopal Church Highland Park",
+			      "phone": "323.255.6806",
+			      "address": "5619 Monte Vista Street Los Angeles 90042",
 			      "country": "United States",
-			      "crossStreet": "at Dupont Circle",
-			      "postalCode": "20036",
-			      "state": "D.C."
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "4th Sat 8:30am-9am",
+						"type": "foodBank"
 			    }
 			  },
+				
 			  {
 			    "type": "Feature",
 			    "geometry": {
 			      "type": "Point",
 			      "coordinates": [
-			        -77.0672,
-			        38.90516896
+			       	-118.3238487,
+							 34.0483572
 			      ]
 			    },
 			    "properties": {
-			      "phoneFormatted": "(202) 337-9338",
-			      "phone": "2023379338",
-			      "address": "3333 M St NW",
-			      "city": "Washington DC",
+						"name": "Ananda Marga of L.A. Inc.",
+			      "phone": "818.414.7737",
+			      "address": "1245 S. Norton Avenue Los Angeles 90019",
 			      "country": "United States",
-			      "crossStreet": "at 34th St NW",
-			      "postalCode": "20007",
-			      "state": "D.C."
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Thurs 9:30am-10:30am",
+						"type": "foodBank"
 			    }
 			  },
+				
 			  {
 			    "type": "Feature",
 			    "geometry": {
 			      "type": "Point",
 			      "coordinates": [
-			        -77.002583742142,
-			        38.887041080933
+			       	-118.282984,
+							 33.933076
 			      ]
 			    },
 			    "properties": {
-			      "phoneFormatted": "(202) 547-9338",
-			      "phone": "2025479338",
-			      "address": "221 Pennsylvania Ave SE",
-			      "city": "Washington DC",
+						"name": "Ascension's Food Pantry",
+			      "phone": "323.754.2978",
+			      "address": "517 W. 112th Street Los Angeles 90044",
 			      "country": "United States",
-			      "crossStreet": "btwn 2nd & 3rd Sts. SE",
-			      "postalCode": "20003",
-			      "state": "D.C."
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Last Sat 9am-11am",
+						"type": "foodBank"
 			    }
 			  },
+				
 			  {
 			    "type": "Feature",
 			    "geometry": {
 			      "type": "Point",
 			      "coordinates": [
-			        -76.933492720127,
-			        38.99225245786
+			       	-118.2624581,
+							 33.9267262
 			      ]
 			    },
 			    "properties": {
-			      "address": "8204 Baltimore Ave",
-			      "city": "College Park",
+						"name": "Belvue Presbyterian Church",
+			      "phone": "323-757-9188",
+			      "address": "675 E. 118th Street Los Angeles 90059",
 			      "country": "United States",
-			      "postalCode": "20740",
-			      "state": "MD"
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "3rd Thurs 10am-11am",
+						"type": "foodBank"
 			    }
 			  },
+				
 			  {
 			    "type": "Feature",
 			    "geometry": {
 			      "type": "Point",
 			      "coordinates": [
-			        -77.097083330154,
-			        38.980979
+			       	-118.3310595,
+							 34.0329576
 			      ]
 			    },
 			    "properties": {
-			      "phoneFormatted": "(301) 654-7336",
-			      "phone": "3016547336",
-			      "address": "4831 Bethesda Ave",
-			      "cc": "US",
-			      "city": "Bethesda",
+						"name": "Berean S.D.A. Church",
+			      "phone": "323.735.0228",
+			      "address": "4211 W. Adams Boulevard Los Angeles 90018",
 			      "country": "United States",
-			      "postalCode": "20814",
-			      "state": "MD"
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "3rd Thurs 9am-11am",
+						"type": "foodBank"
 			    }
 			  },
+				
 			  {
 			    "type": "Feature",
 			    "geometry": {
 			      "type": "Point",
 			      "coordinates": [
-			        -77.359425054188,
-			        38.958058116661
+			       	-118.309331,
+							 33.9666659
 			      ]
 			    },
 			    "properties": {
-			      "phoneFormatted": "(571) 203-0082",
-			      "phone": "5712030082",
-			      "address": "11935 Democracy Dr",
-			      "city": "Reston",
+						"name": "Bethel AME Church- Richard Allen Center",
+			      "phone": "323.750.3240",
+			      "address": "7919 S. Western Avenue Los Angeles 90047",
 			      "country": "United States",
-			      "crossStreet": "btw Explorer & Library",
-			      "postalCode": "20190",
-			      "state": "VA"
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Wed 730am-1130am",
+						"type": "foodBank"
 			    }
 			  },
+				
 			  {
 			    "type": "Feature",
 			    "geometry": {
 			      "type": "Point",
 			      "coordinates": [
-			        -77.10853099823,
-			        38.880100922392
+			       	-118.256075,
+							 33.9585498
 			      ]
 			    },
 			    "properties": {
-			      "phoneFormatted": "(703) 522-2016",
-			      "phone": "7035222016",
-			      "address": "4075 Wilson Blvd",
-			      "city": "Arlington",
+						"name": "Bethel Unspeakable Joy Christian Church",
+			      "phone": "323 585-5939",
+			      "address": "8724 S. Central Avenue Los Angeles 90002",
 			      "country": "United States",
-			      "crossStreet": "at N Randolph St.",
-			      "postalCode": "22203",
-			      "state": "VA"
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "2nd & 4th Sat 8am-10am",
+						"type": "foodBank"
 			    }
 			  },
+				
 			  {
 			    "type": "Feature",
 			    "geometry": {
 			      "type": "Point",
 			      "coordinates": [
-			        -75.28784,
-			        40.008008
+			       	-118.3308714,
+							 33.9979589
 			      ]
 			    },
 			    "properties": {
-			      "phoneFormatted": "(610) 642-9400",
-			      "phone": "6106429400",
-			      "address": "68 Coulter Ave",
-			      "city": "Ardmore",
+						"name": "Bethesda Temple Church",
+			      "phone": "323.299.2591",
+			      "address": "4915 Crenshaw Boulevard Los Angeles 90043",
 			      "country": "United States",
-			      "postalCode": "19003",
-			      "state": "PA"
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "4th Sat 1pm-3pm",
+						"type": "foodBank"
 			    }
 			  },
+				
 			  {
 			    "type": "Feature",
 			    "geometry": {
 			      "type": "Point",
 			      "coordinates": [
-			        -75.20121216774,
-			        39.954030175164
+			       	-118.278724,
+							 33.935441
 			      ]
 			    },
 			    "properties": {
-			      "phoneFormatted": "(215) 386-1365",
-			      "phone": "2153861365",
-			      "address": "3925 Walnut St",
-			      "city": "Philadelphia",
+						"name": "Blood of Jesus Prayer and Deliverance Ministry",
+			      "phone": "323.752.3048",
+			      "address": "11001 S. Broadway Los Angeles 90061",
 			      "country": "United States",
-			      "postalCode": "19104",
-			      "state": "PA"
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Wed 3pm-4pm",
+						"type": "foodBank"
 			    }
 			  },
+				
 			  {
 			    "type": "Feature",
 			    "geometry": {
 			      "type": "Point",
 			      "coordinates": [
-			        -77.043959498405,
-			        38.903883387232
+			       	-118.2934993,
+							 34.0896046
 			      ]
 			    },
 			    "properties": {
-			      "phoneFormatted": "(202) 331-3355",
-			      "phone": "2023313355",
-			      "address": "1901 L St. NW",
-			      "city": "Washington DC",
+						"name": "Catholic Charities of L.A.",
+			      "phone": "323.662.4392",
+			      "address": "4665 Willow Brook Avenue Los Angeles 90029",
 			      "country": "United States",
-			      "crossStreet": "at 19th St",
-			      "postalCode": "20036",
-			      "state": "D.C."
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Mon 10am-12pm 1pm-3pm Wed 10am-12pm 1pm-3pm Thurs 10am-12pm 1pm-3pm Fri 10am-12pm 1pm-3pm",
+						"type": "foodBank"
 			    }
-			  }
-			]
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2201372,
+							 34.0521281
+			      ]
+			    },
+			    "properties": {
+						"name": "Catholic Charities - Brownson House",
+			      "phone": "323.264.8700",
+			      "address": "1307 Warren Street Los Angeles 90033",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Mon 9am-1pm Tues 9am-1pm Wed 9am-1pm Thurs 9am-1pm Fri 9am-1pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2785568,
+							 33.9571095
+			      ]
+			    },
+			    "properties": {
+						"name": "CCC Ebenezery Parish",
+			      "phone": "323.752.4400",
+			      "address": "8803-8807 S. Broadway Street Los Angeles 90003",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Sat 11am-130pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.182682,
+							 34.1410086
+			      ]
+			    },
+			    "properties": {
+						"name": "Central Filipino S.D.A. Church",
+			      "phone": "323-255-7718",
+			      "address": "777 Colorado Boulevard Los Angeles 90041",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "3rd Tues 9am-12pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.283484,
+							 34.0456289
+			      ]
+			    },
+			    "properties": {
+						"name": "Central Spanish S.D.A. Church",
+			      "phone": "818-649-0893",
+			      "address": "1366 S. Alvarado Street Los Angeles 90006",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "4th Sat 5pm-6pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.3094234,
+							 34.0691134
+			      ]
+			    },
+			    "properties": {
+						"name": "Charismatic Ecumencial Ministries International",
+			      "phone": "213.219.3228",
+			      "address": "4357 West 3rd Street Los Angeles 90020",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "1st 2nd & 3rd Sun 1pm-130pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2986107,
+							 34.0977874
+			      ]
+			    },
+			    "properties": {
+						"name": "Childrens Hospital Los Angeles",
+			      "phone": "323-361-5981",
+			      "address": "5000 Sunset Blvd. 7th Floor Los Angeles 90027",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Wed 10am-11am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.266495,
+							 34.065401
+			      ]
+			    },
+			    "properties": {
+						"name": "Chinese Community Service Center",
+			      "phone": "213-483-3035",
+			      "address": "1725 Beverly Boulevard Suite 1-B Los Angeles 90026",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Sun 9am-12pm 6/1/2015 Tues 9am-12pm 7/1/2015",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2912726,
+							 34.0065425
+			      ]
+			    },
+			    "properties": {
+						"name": "Christ Gospel Prayer Center",
+			      "phone": "323.732.1394",
+			      "address": "4228 S. Vermont Avenue Los Angeles 90037",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Wed 11am-130pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.3297116,
+							 34.0040273
+			      ]
+			    },
+			    "properties": {
+						"name": "Christ the Good Shepherd Episcopal",
+			      "phone": "323-295-4139",
+			      "address": "3303 W. Vernon Avenue Los Angeles 90008",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "4th Fri 10am-1pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.3661612,
+							 34.0414693
+			      ]
+			    },
+			    "properties": {
+						"name": "Christian Association for Social Services",
+			      "phone": "323-936-9481",
+			      "address": "5814 Venice Blvd. Los Angeles 90019",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "1st & 3rd Fri 10am-1pm 1st & 3rd Sat 10am-1pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.21285,
+							 34.0752843
+			      ]
+			    },
+			    "properties": {
+						"name": "Church of the Epiphany",
+			      "phone": "323.227.9931",
+			      "address": "2808 Altura Street Los Angeles 90031",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "2nd & 4th Fri 1030am-1130am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.1796924,
+							 34.0851253
+			      ]
+			    },
+			    "properties": {
+						"name": "Cory's Kitchen-El Sereno",
+			      "phone": "323.972.1330",
+			      "address": "4810 Huntington Drive South Los Angeles 90032",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Mon 430pm-630pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2568599,
+							 34.0031117
+			      ]
+			    },
+			    "properties": {
+						"name": "Cover the Homeless Ministry",
+			      "phone": "323.931.5468",
+			      "address": "4425 S. Central Avenue Los Angeles  90011",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "4th Thurs 12pm-1pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.3408663,
+							 34.0068523
+			      ]
+			    },
+			    "properties": {
+						"name": "Crenshaw United Methodist Church",
+			      "phone": "323.292.0141",
+			      "address": "3740 Don Felipe Drive Los Angeles  90008",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "3rd Sat 10am-12pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2816342,
+							 34.0752651
+			      ]
+			    },
+			    "properties": {
+						"name": "Crusaders for Christ Baptist Church",
+			      "phone": "323.681.3569",
+			      "address": "3200 W. Temple Street Los Angeles  90026",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Fri 330pm-5pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2920482,
+							 33.9463608
+			      ]
+			    },
+			    "properties": {
+						"name": "Do Right Christian Church",
+			      "phone": "323.755.1053",
+			      "address": "9815 S. Vermont Avenue Los Angeles 90044",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "1st 2nd & 4th Sat 830am-1030am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.1590196,
+							 34.012313
+			      ]
+			    },
+			    "properties": {
+						"name": "Door of Hope Community Center",
+			      "phone": "323.262.2777",
+			      "address": "1414 South Atlantic Blvd. Los Angeles 90022",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Tues 9am-11am Thurs 9am-11am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.1493743,
+							 34.0209372
+			      ]
+			    },
+			    "properties": {
+						"name": "East L.A. Bilingual S.D.A. Church",
+			      "phone": "213.804.8087",
+			      "address": "700 Hoefner Avenue Los Angeles 90022",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "1st & 3rd Wed 530pm-630pm Sat 12pm-1245pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.199474,
+							 34.030634
+			      ]
+			    },
+			    "properties": {
+						"name": "East LA Community Corporation",
+			      "phone": "323.269.4214",
+			      "address": "611 S. Lorena Street Los Angeles 90033",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "3rd Fri 9am-11am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.1500876,
+							 34.0209713
+			      ]
+			    },
+			    "properties": {
+						"name": "Eastmont Community Center",
+			      "phone": "323.726.7998",
+			      "address": "701 Hoefner Avenue Los Angeles 90022",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Mon 9am-11am Tues 9am-11am Wed 9am-11am Thurs 9am-11am Fri 9am-11am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.1376064,
+							 34.0136274
+			      ]
+			    },
+			    "properties": {
+						"name": "Eastmont SDA Spanish Church",
+			      "phone": "323.396.7729",
+			      "address": "1021 Westside Drive Los Angeles 90022",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Mon 730pm-8pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2624834,
+							 34.0787092
+			      ]
+			    },
+			    "properties": {
+						"name": "Echo Park United Methodist",
+			      "phone": "323.731.5472",
+			      "address": "1226 N. Alvarado Boulevard Los Angeles 90026",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Wed 2pm-5pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.3092608,
+							 33.9759966
+			      ]
+			    },
+			    "properties": {
+						"name": "Ephesus S.D.A. Church",
+			      "phone": "323.759.3993",
+			      "address": "7005 S. Western Avenue Los Angeles 90047",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "2nd & 4th Wed 3pm-430pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.196609,
+							 34.1072082
+			      ]
+			    },
+			    "properties": {
+						"name": "Esmirna Pentecostal Church",
+			      "phone": "323.254.0191",
+			      "address": "5414 N. Figueroa Street Los Angeles 90042",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Fri 4pm-6pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2651523,
+							 33.9711628
+			      ]
+			    },
+			    "properties": {
+						"name": "Estelle Van Meter Multipurpose",
+			      "phone": "323.753.3881",
+			      "address": "7600 S. Avalon Boulevard Los Angeles 90003",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "1st and 3rd Wed 1030am-1130am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2082908,
+							 34.0211079
+			      ]
+			    },
+			    "properties": {
+						"name": "Estrada Courts Community Center",
+			      "phone": "323.641.8943",
+			      "address": "3232 Hunter Street Los Angeles 90023",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "2nd & 4th Wed 8am-10am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2999294,
+							 33.9799881
+			      ]
+			    },
+			    "properties": {
+						"name": "Family Mennonite Church",
+			      "phone": "323.750.1744",
+			      "address": "6520 S. Normandie Avenue Los Angeles 90044",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "2nd Sun 1pm-130pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.3134514,
+							 33.9935442
+			      ]
+			    },
+			    "properties": {
+						"name": "Fifty Fourth Street S.D.A. Church",
+			      "phone": "323-292-2762",
+			      "address": "1973 West 54th Street Los Angeles 90062",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "2nd & 4th Tues 8am-10am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2822084,
+							 33.9908748
+			      ]
+			    },
+			    "properties": {
+						"name": "Figueroa Church of Christ",
+			      "phone": "323-753-2536",
+			      "address": "455 W. 57th Street Los Angeles 90037",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Tues 730am-1130am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2644293,
+							 34.0676498
+			      ]
+			    },
+			    "properties": {
+						"name": "Filipino Christian Church",
+			      "phone": "213.483.5821",
+			      "address": "301 N. Union Avenue Los Angeles 90026",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Sat 10am-1050am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.3061942,
+							 34.0344082
+			      ]
+			    },
+			    "properties": {
+						"name": "First African Methodist Episcopal Church",
+			      "phone": "323 735-1251",
+			      "address": "2270 S. Harvard Boulevard Los Angeles  90018",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "4th Sat 9am-12pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2886022,
+							 34.0582323
+			      ]
+			    },
+			    "properties": {
+						"name": "First Baptist Church-Hope Net",
+			      "phone": "213.384.2151",
+			      "address": "760 S. Westmoreland Avenue Los Angeles 90005",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Fri 8am-930am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.3040285,
+							 33.9384572
+			      ]
+			    },
+			    "properties": {
+						"name": "First New Christian Fellowship",
+			      "phone": "323.756.2541",
+			      "address": "1555 W. 108th Street Los Angeles 90047",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Thurs 9am-11am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.3372555,
+							 34.0405644
+			      ]
+			    },
+			    "properties": {
+						"name": "First Presbyterian Church",
+			      "phone": "323.935.5204",
+			      "address": "1809 West Boulevard. Los Angeles 90019",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "3rd Sun 1pm-2pm 1st Sat 9am-11am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2904201,
+							 34.0574918
+			      ]
+			    },
+			    "properties": {
+						"name": "First Unitarian Church-Hope Net",
+			      "phone": "213-389-1356",
+			      "address": "2936 W. 8th Street Los Angeles 90005",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Sat 8am 10am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.1792254,
+							 34.0370429
+			      ]
+			    },
+			    "properties": {
+						"name": "Food Net- East L.A. Center",
+			      "phone": "323-260-2801",
+			      "address": "133 N. Sunol Drive Los Angeles 90063",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Mon 930am-12pm 130pm-4pm Thurs 930am-12pm 130pm-4pm Fri 930am-12pm 130pm-4pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.1643033,
+							 34.0402137
+			      ]
+			    },
+			    "properties": {
+						"name": "Food Net-Centro Maravilla",
+			      "phone": "323.260.2805",
+			      "address": "4716 E. Cesar Chavez Avenue Los Angeles 90022",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Mon 8am-5pm Tues 8am-5pm Wed 8am-5pm Thurs 8am-5pm Fri 8am-5pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2480784,
+							 33.9677438
+			      ]
+			    },
+			    "properties": {
+						"name": "Food Net-Florence Firestone Center",
+			      "phone": "323.586.6502",
+			      "address": "7807 S. Compton Avenue Los Angeles 90001",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "2nd Tues 10am-12pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2722211,
+							 33.9150672
+			      ]
+			    },
+			    "properties": {
+						"name": "Food Net-Willowbrook Senior Center",
+			      "phone": "310.217.5650",
+			      "address": "12915 Jarvis Avenue Los Angeles 90061",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "2nd & 4th Wed 10am-12pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2419919,
+							 34.0433355
+			      ]
+			    },
+			    "properties": {
+						"name": "Fred Jordan Mission",
+			      "phone": "213-489-7763",
+			      "address": "445 Towne Avenue Los Angeles 90013",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Mon 12pm-1pm Tues 12pm-1pm Wed 12pm-1pm Thurs 12pm-1pm Fri 12pm-1pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2410457,
+							 33.9458593
+			      ]
+			    },
+			    "properties": {
+						"name": "Friends Outside in L.A. County",
+			      "phone": "213.473.3607",
+			      "address": "1773 E. Century Blvd. Los Angeles 90002",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "1st & 3rd Wed 1pm-3pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2896203,
+							 34.0731603
+			      ]
+			    },
+			    "properties": {
+						"name": "Good News Central Church",
+			      "phone": "213.386.0097",
+			      "address": "3500 West 1st Street Los Angeles  90004",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "1st & 3rd Sat 830am-11am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.319388,
+							 34.003407
+			      ]
+			    },
+			    "properties": {
+						"name": "Good News Missionary Baptist Church",
+			      "phone": "323.292.3589",
+			      "address": "2400 W. Vernon Ave Los Angeles 90008",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "2nd & 4th Thurs 11am-1pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2423524,
+							 33.9599573
+			      ]
+			    },
+			    "properties": {
+						"name": "Good News Prayer Center",
+			      "phone": "323.753.0117",
+			      "address": "1722 East Firestone Boulevard Los Angeles 90001",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "3rd Sat 10am-12pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2655739,
+							 33.9735936
+			      ]
+			    },
+			    "properties": {
+						"name": "Gospel Mission Baptist Church",
+			      "phone": "323.759.8087",
+			      "address": "7301 S. Avalon Boulevard Los Angeles 90003",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "4th Wed 11am-12pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.1999599,
+							 34.1213022
+			      ]
+			    },
+			    "properties": {
+						"name": "Grace Presbyterian Church",
+			      "phone": "818.957.8090",
+			      "address": "1500 N. Ave 53 Los Angeles 90042",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "2nd & 4th Fri 930am-1030am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2767182,
+							 33.9745963
+			      ]
+			    },
+			    "properties": {
+						"name": "Greater New Morning Star Baptist Church",
+			      "phone": "323.529.4446",
+			      "address": "210 W. Florence Avenue Los Angeles 90003",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Sat 8am-11am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2655116,
+							 33.9476946
+			      ]
+			    },
+			    "properties": {
+						"name": "Greater New Unity Baptist Church",
+			      "phone": "323.757.5094",
+			      "address": "9719 S. Avalon Boulevard Los Angeles 90003",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "3rd Sat 830am-10am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.288445,
+							 34.028117
+			      ]
+			    },
+			    "properties": {
+						"name": "Greater True Light M.B.C.",
+			      "phone": "323.733.7423",
+			      "address": "1276 West 29th Street Los Angeles  90007",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "2nd Wed 11am-1pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.1794177,
+							 34.0421266
+			      ]
+			    },
+			    "properties": {
+						"name": "Guadalupe Food Program",
+			      "phone": "323.261.8051",
+			      "address": "4018 East Hammel Street Los Angeles 90063",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "2nd & 4th Wed 7am-9am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.254577,
+							 33.933305
+			      ]
+			    },
+			    "properties": {
+						"name": "H.O.P.E. Helping Other People Excel",
+			      "phone": "323.567.8524",
+			      "address": "11163 S. Central Avenue Los Angeles 90059",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Fri 9am-11am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.288536,
+							 33.9614457
+			      ]
+			    },
+			    "properties": {
+						"name": "Heavenly Vision Church of God in Christ",
+			      "phone": "323.245.2651",
+			      "address": "841 W. 85th Street Los Angeles 90044",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "4th Fri 12pm-2pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2650011,
+							 33.9970819
+			      ]
+			    },
+			    "properties": {
+						"name": "HOAP Inc.",
+			      "phone": "323.232.7256",
+			      "address": "5014 S. Avalon Boulevard Los Angeles 90011",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Thurs 930am-1130am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.3231596,
+							 34.0873928
+			      ]
+			    },
+			    "properties": {
+						"name": "Hollywood West Tenant Action Committee",
+			      "phone": "323.461.4957",
+			      "address": "5823 Willoughby Avenue Los Angeles  90038",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "3rd Fri 4pm-6pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2742456,
+							 33.9997087
+			      ]
+			    },
+			    "properties": {
+						"name": "Holy Cross Center",
+			      "phone": "323.232.3333",
+			      "address": "104 W. 47th Place Los Angeles 90037",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Mon 9am-11am Wed 9am-11am Fri 9am-11am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2778458,
+							 33.9481351
+			      ]
+			    },
+			    "properties": {
+						"name": "Holy Trinity Church of God in Christ",
+			      "phone": "323.777.2965",
+			      "address": "9706 S. Broadway Boulevard Los Angeles 90003",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Sat 12pm-2pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2104324,
+							 34.1142576
+			      ]
+			    },
+			    "properties": {
+						"name": "Holy Virgin Mary Coptic Orthodox Church",
+			      "phone": "323.258.5555",
+			      "address": "4900 Cleland Avenue Los Angeles 90042",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Wed 4pm-6pm 5/6/2015 Wed 4pm-6pm 5/20/2015 Wed 4pm-6pm 6/3/2015 Wed 4pm-6pm 6/17/2015 Wed 4pm-6pm 7/1/2015 Wed 4pm-6pm 7/15/2015 Wed 4pm-6pm 7/29/2015",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.296546,
+							 34.0955984
+			      ]
+			    },
+			    "properties": {
+						"name": "Hope International Bible Fellowship",
+			      "phone": "323.663.9394",
+			      "address": "4903 Fountain Avenue Los Angeles 90029",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "2nd Sat 9am-10am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.416965,
+							 33.9643479
+			      ]
+			    },
+			    "properties": {
+						"name": "Hurting & Hungry",
+			      "phone": "213.268.4820",
+			      "address": "8107 Loyola Boulevard Los Angeles 90045",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.1429081,
+							 34.0130837
+			      ]
+			    },
+			    "properties": {
+						"name": "Iglesia Apostolica Manantial de Vida",
+			      "phone": "323-728-8500",
+			      "address": "6034 E. Olympic Boulevard Los Angeles  90022",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Tues 7pm-8pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2779982,
+							 33.9921017
+			      ]
+			    },
+			    "properties": {
+						"name": "Iglesia Cristiana El Shaddai USA",
+			      "phone": "323.235.5988",
+			      "address": "5518 S. Broadway Los Angeles  90037",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Fri 730pm-9pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.1981957,
+							 34.1073922
+			      ]
+			    },
+			    "properties": {
+						"name": "Iglesia de la Comunidad Presbyterian Church",
+			      "phone": "323.257.4352",
+			      "address": "115 N. Ave 53 Los Angeles  90042",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "1st & 3rd Thurs 1030am-1130am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2485227,
+							 34.1039614
+			      ]
+			    },
+			    "properties": {
+						"name": "Iglesia del Nazareno Elysian Park",
+			      "phone": "909.649.5337",
+			      "address": "2750 Marsh Street Los Angeles  90039",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "1st & 3rd Wed 4pm-630pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.1621792,
+							 34.0173349
+			      ]
+			    },
+			    "properties": {
+						"name": "Iglesia la Puerta Abierta",
+			      "phone": "323.261.8397",
+			      "address": "5017 E. Olympic Boulevard Los Angeles 90022",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Wed 7pm-730pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.255771,
+							 33.952555
+			      ]
+			    },
+			    "properties": {
+						"name": "Iglesia Macedonia Defenders of the Christian Faith",
+			      "phone": "323.804.6615",
+			      "address": "9228 S. Central Avenue Los Angeles 90002",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Tues 7pm-8pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.202409,
+							 34.0396969
+			      ]
+			    },
+			    "properties": {
+						"name": "Iglesia Pentecostes Roca de Salvacion",
+			      "phone": "323.832.5313",
+			      "address": "122 South Evergreen Avenue Los Angeles 90033",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Sun 1pm 2pm Sat 3pm-4pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.3074812,
+							 33.9385863
+			      ]
+			    },
+			    "properties": {
+						"name": "Imani Unidos A.I.D.S. Project",
+			      "phone": "323.754.8453",
+			      "address": "1713 W. 108th Street Los Angeles 90047",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "2nd & 4th Tues 10am-1pm 2nd & 4th Wed 10am-1pm 2nd & 4th Thurs 10am-1pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2976765,
+							 34.0905787
+			      ]
+			    },
+			    "properties": {
+						"name": "Immaculate Heart of Mary-Hope Net",
+			      "phone": "323.660.0034",
+			      "address": "4954 Santa Monica Boulevard Los Angeles  90029",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Mon 11am-12pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.294485,
+							 34.0614542
+			      ]
+			    },
+			    "properties": {
+						"name": "Immanuel Presbyterian Church-Hope Net",
+			      "phone": "213.389.3191",
+			      "address": "3300 Wilshire Blvd Los Angeles 90010",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Sat 930am-1130am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2691607,
+							 33.9315622
+			      ]
+			    },
+			    "properties": {
+						"name": "Imperial Church of Christ",
+			      "phone": "323.756.0360",
+			      "address": "11316 S. San Pedro Street Los Angeles 90061",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Sat 7am-830am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.291309,
+							 34.0664143
+			      ]
+			    },
+			    "properties": {
+						"name": "Islamic Center of Southern CA-Hope Net",
+			      "phone": "213.382.9200",
+			      "address": "434 S. Vermont Boulevard Los Angeles 90020",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Sat 11am-12pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.3848578,
+							 34.0547447
+			      ]
+			    },
+			    "properties": {
+						"name": "JFS/SOVA Community Food & Resource Program",
+			      "phone": "818.988.7682",
+			      "address": "8846 W. Pico Boulevard Los Angeles 90035",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Sun 9am-12pm 1st & 3rd Mon 10am-130pm Wed 10am-130pm Fri 10am-130pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.3075531,
+							 34.0399579
+			      ]
+			    },
+			    "properties": {
+						"name": "Koreatown Multipurpose Senior Center",
+			      "phone": "213.247.3560",
+			      "address": "2147 W. Washington Boulevard Los Angeles 90018",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Tues 830am-1130am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2981065,
+							 34.098427
+			      ]
+			    },
+			    "properties": {
+						"name": "L.A. Grace Church",
+			      "phone": "213.509.5568",
+			      "address": "4975 W. Sunset Boulevard Los Angeles 90027",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Fri 930pm-10pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.3087286,
+							 33.9538569
+			      ]
+			    },
+			    "properties": {
+						"name": "Life Deliverance Ministries",
+			      "phone": "562.607.8780",
+			      "address": "9120 S. Western Avenue Los Angeles 90044",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Sat 8am-11am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.3002282,
+							 33.9877081
+			      ]
+			    },
+			    "properties": {
+						"name": "Living Truth Christian Fellowship",
+			      "phone": "323.290.3909",
+			      "address": "5873 S. Normandie Avenue Los Angeles 90044",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "3rd & 4th Tues 1130am-130pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.215668,
+							 34.0779999
+			      ]
+			    },
+			    "properties": {
+						"name": "Los Angeles Boys & Girls Club",
+			      "phone": "323.221.9111",
+			      "address": "2635 Pasadena Avenue Los Angeles 90031",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Thurs 5pm-6pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2752257,
+							 34.0327067
+			      ]
+			    },
+			    "properties": {
+						"name": "Los Angeles Central City S.D.A. Church",
+			      "phone": "213-422-7178",
+			      "address": "650 W. 21st Street Los Angeles 90007",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "3rd Tues 12pm-2pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2898538,
+							 34.0693363
+			      ]
+			    },
+			    "properties": {
+						"name": "Los Angeles First Church of the Nazarene-Hope Net",
+			      "phone": "213.385.6345",
+			      "address": "3401 W. 3rd Street Los Angeles 90020",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Fri 4pm-6pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.318296,
+							 34.093566
+			      ]
+			    },
+			    "properties": {
+						"name": "Los Angeles Housing Partnership",
+			      "phone": "(213) 629-9172",
+			      "address": "1229 N. Bronson Avenue Los Angeles 90038",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "3rd Fri 330pm-430pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2937058,
+							 34.0793271
+			      ]
+			    },
+			    "properties": {
+						"name": "Los Angeles Housing Partnership",
+			      "phone": "213.629.9172",
+			      "address": "504 N. Berendo Street Los Angeles 90004",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "1st Fri 330pm-430pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2826812,
+							 34.0586006
+			      ]
+			    },
+			    "properties": {
+						"name": "Los Angeles Housing Partnership",
+			      "phone": "213.629.9172",
+			      "address": "2614 W. 7th Street Los Angeles 90057",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Last Fri 4pm-5pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.3093646,
+							 33.9606268
+			      ]
+			    },
+			    "properties": {
+						"name": "Love & Faith Christian Center",
+			      "phone": "323.753.8300",
+			      "address": "8505 S. Western Avenue Los Angeles 90047",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Mon 830am-10am Fri 830am-10am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2897866,
+							 34.102074
+			      ]
+			    },
+			    "properties": {
+						"name": "Metropolitan Community Church of L.A.-Hope Net",
+			      "phone": "323.669.3436",
+			      "address": "4607 Prospect Avenue Los Angeles 90027",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Sat 9am-11am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.334148,
+							 33.988368
+			      ]
+			    },
+			    "properties": {
+						"name": "My Friends House",
+			      "phone": "323.292.4939",
+			      "address": "3533 West 58th Place Los Angeles 90043",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Wed 9am-11am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2479196,
+							 33.9631636
+			      ]
+			    },
+			    "properties": {
+						"name": "New Life in Christ Full Gospel",
+			      "phone": "323.584.9270",
+			      "address": "8301 S. Compton Avenue Los Angeles 90001",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "2nd & 4th Thurs 11am 230pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.3003684,
+							 34.0170589
+			      ]
+			    },
+			    "properties": {
+						"name": "Normandie Community Development Food Pantry",
+			      "phone": "323.731.7787",
+			      "address": "3801 South Normandie Avenue Los Angeles 90037",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "4th Sat 1145am-1pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.1901472,
+							 34.0861589
+			      ]
+			    },
+			    "properties": {
+						"name": "Our Lady of Guadalupe Church",
+			      "phone": "323.225.4201",
+			      "address": "4509 Mercury Avenue Los Angeles 90032",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.205021,
+							 34.036566
+			      ]
+			    },
+			    "properties": {
+						"name": "Our Lady of Talpa Church",
+			      "phone": "323.268.7731",
+			      "address": "427 S. Evergreen Ave. Los Angeles 90033",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "3rd Tues 1pm-3pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.239577,
+							 34.05707
+			      ]
+			    },
+			    "properties": {
+						"name": "Our Lady Queen of Angels Catholic Church",
+			      "phone": "213.629.3101",
+			      "address": "535 N. Main Street Los Angeles 90012",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Fri 8am-11am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.3311949,
+							 33.9959851
+			      ]
+			    },
+			    "properties": {
+						"name": "Pennacle Foundation Inc",
+			      "phone": "323.750.2400",
+			      "address": "5125 Crenshaw Boulevard Los Angeles 90047",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Wed 3pm-5pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2494863,
+							 34.1123618
+			      ]
+			    },
+			    "properties": {
+						"name": "Pentecostal Church of God",
+			      "phone": "323.842.7888",
+			      "address": "2829 1/4 Fletcher Drive Los Angeles 90039",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Wed 3pm-5pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.282263,
+							 33.913935
+			      ]
+			    },
+			    "properties": {
+						"name": "People for Community Improvement",
+			      "phone": "310.538.4013",
+			      "address": "13008 South Figueroa Los Angeles 90061",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "2nd & 4th Fri 11am-3pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2473905,
+							 33.9759009
+			      ]
+			    },
+			    "properties": {
+						"name": "Pilgrim's Hope Baptist Church",
+			      "phone": "323.581.7672",
+			      "address": "7016 S. Compton Avenue Los Angeles 90001",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "2nd Wed 9am-11am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2602462,
+							 34.0634518
+			      ]
+			    },
+			    "properties": {
+						"name": "Pilipino Worker Center of Southern California",
+			      "phone": "213.250.4353",
+			      "address": "153 Glendale Boulevard Los Angeles 90026",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Fri 6pm-7pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.249548,
+							 33.9813266
+			      ]
+			    },
+			    "properties": {
+						"name": "Presentation of Mary Catholic",
+			      "phone": "323.585.0570",
+			      "address": "6406 Parmelee Avenue Los Angeles 90001",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "3rd Sat 730am-830am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2983986,
+							 34.0331289
+			      ]
+			    },
+			    "properties": {
+						"name": "Redeemer Missionary Baptist Church",
+			      "phone": "323.732.4124",
+			      "address": "1631 W. Adams Boulevard Los Angeles 90007",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Sat 10am-1pm Bi-Weekly",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.3415885,
+							 33.992821
+			      ]
+			    },
+			    "properties": {
+						"name": "Robbins Memorial Church of God in Christ",
+			      "phone": "323-298-8771",
+			      "address": "3868 W. 54th Street Los Angeles 90043",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "1st Wed 8am-9am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2932645,
+							 34.0793451
+			      ]
+			    },
+			    "properties": {
+						"name": "Rosewood Revitalization Group",
+			      "phone": "323.662.1194",
+			      "address": "4101 Rosewood Avenue Los Angeles 90004",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "3rd Fri 330pm-430pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2126261,
+							 34.0703284
+			      ]
+			    },
+			    "properties": {
+						"name": "Sacred Heart Church",
+			      "phone": "323.221.3179",
+			      "address": "2210 Sichel Street Los Angeles 90031",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "1st & 3rd Thurs 10am-1230pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.3135116,
+							 33.9632875
+			      ]
+			    },
+			    "properties": {
+						"name": "Saint Mark Food Pantry",
+			      "phone": "323.753.3535",
+			      "address": "8305 S. Gramercy Place Los Angeles 90047",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "1st & 3rd Wed 11am-1130am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.1854747,
+							 34.036961
+			      ]
+			    },
+			    "properties": {
+						"name": "Salvation Army - East L.A.",
+			      "phone": "323.263-7577",
+			      "address": "140 N. Eastman Avenue Los Angeles 90063",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2646275,
+							 34.0466096
+			      ]
+			    },
+			    "properties": {
+						"name": "Salvation Army- L.A. Central Corp",
+			      "phone": "213.896.9178",
+			      "address": "906 S. Francisco Street Los Angeles 90015",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2324792,
+							 33.9373243
+			      ]
+			    },
+			    "properties": {
+						"name": "San Miguel Church",
+			      "phone": "323-569-5951",
+			      "address": "2214 E. 108th Street Los Angeles 90059",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "3rd Sat 8am-930am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2702749,
+							 34.1098951
+			      ]
+			    },
+			    "properties": {
+						"name": "Silverlake Community Church-Hope Net",
+			      "phone": "323.663.3151",
+			      "address": "2930 Hyperion Ave Los Angeles 90027",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Wed 530pm-630pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.215201,
+							 34.051615
+			      ]
+			    },
+			    "properties": {
+						"name": "Spanish American S.D.A. Church",
+			      "phone": "323.222.7063",
+			      "address": "1815 E. Bridge Street Los Angeles 90033",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Wed 6pm-730pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.291697,
+							 34.0320953
+			      ]
+			    },
+			    "properties": {
+						"name": "St. Agnes Parish",
+			      "phone": "323-731-2464",
+			      "address": "2625 S. Vermont Avenue Los Angeles 90007",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Mon 9am 1030am Tues 9am-1030am Thurs 9am-1030am Fri 9am-1030am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2591403,
+							 34.0733551
+			      ]
+			    },
+			    "properties": {
+						"name": "St. Athanasius & St. Paul Church",
+			      "phone": "213.908.8827",
+			      "address": "840 Echo Park Avenue Los Angeles 90026",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Fri 8am-1030am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.3086059,
+							 33.9945347
+			      ]
+			    },
+			    "properties": {
+						"name": "St. Brigid Catholic Church",
+			      "phone": "323-292-0781",
+			      "address": "5214 S. Western Avenue Los Angeles 90062",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "3rd Fri 930am-11am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2998211,
+							 34.0059447
+			      ]
+			    },
+			    "properties": {
+						"name": "St. Cecilia Catholic Church",
+			      "phone": "(323) 294-6628",
+			      "address": "4230 S. Normandie Avenue Los Angeles 90037",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "3rd Sat 9am-1030am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2697209,
+							 34.0339876
+			      ]
+			    },
+			    "properties": {
+						"name": "St. Francis Center",
+			      "phone": "213.747.5347",
+			      "address": "1835 S. Hope Street Los Angeles 90015",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Tues 11am-1230pm Wed 11am-1230pm Thurs 11am-1230pm Sat 11am-1230pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.3119697,
+							 34.062042
+			      ]
+			    },
+			    "properties": {
+						"name": "St. James Episcopal Church-Hope Net",
+			      "phone": "323-934-5870",
+			      "address": "3903 Wilshire Boulevard Los Angeles 90010",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Thurs 8am-9am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2756401,
+							 34.02741
+			      ]
+			    },
+			    "properties": {
+						"name": "St. John's Cathedral-Hope Net",
+			      "phone": "213.747.6285",
+			      "address": "514 W. Adams Boulevard Los Angeles 90007",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "1st & 3rd Sun 1230pm-130pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2459688,
+							 33.9443922
+			      ]
+			    },
+			    "properties": {
+						"name": "St. Lawrence of Brindisi",
+			      "phone": "323.567.1439",
+			      "address": "10122 Compton Avenue Los Angeles 90002",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Tues 7am-830am Thurs 7am-830am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2481042,
+							 33.9970846
+			      ]
+			    },
+			    "properties": {
+						"name": "St. Mark Missionary Baptist",
+			      "phone": "323.231.1040",
+			      "address": "5017 Compton Avenue Los Angeles 90011",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Wed 8am-10am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2606782,
+							 34.0186835
+			      ]
+			    },
+			    "properties": {
+						"name": "St. Philip's Episcopal Church",
+			      "phone": "323-291-8917",
+			      "address": "2800 Stanford Avenue Los Angeles 90011",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "2nd & 4th Tues 730am-830am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2989084,
+							 34.0468917
+			      ]
+			    },
+			    "properties": {
+						"name": "St. Thomas Center",
+			      "phone": "323.737.3325",
+			      "address": "2727 W. Pico Boulevard Los Angeles 90006",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "1st 2nd & 3rd Sat 7am-9am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2769163,
+							 34.0288543
+			      ]
+			    },
+			    "properties": {
+						"name": "St. Vincent de Paul Church",
+			      "phone": "213-749-8950",
+			      "address": "621 W. Adams Boulevard Los Angeles 90007",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Thurs 8am-11am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2759117,
+							 34.0324876
+			      ]
+			    },
+			    "properties": {
+						"name": "Star Christian School",
+			      "phone": "213-746-6900",
+			      "address": "2120 Estrella Avenue Los Angeles 90007",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "2nd & 4th Sat 8am-9am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.3094489,
+							 33.9902077
+			      ]
+			    },
+			    "properties": {
+						"name": "Testimonial Community Love Center",
+			      "phone": "323-291-6753",
+			      "address": "5721 S. Western Avenue Los Angeles 90062",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Thurs 830am-1030am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2975894,
+							 34.0838228
+			      ]
+			    },
+			    "properties": {
+						"name": "The Great Vision Church",
+			      "phone": "213-675-8291",
+			      "address": "4465 W. Melrose Avenue Los Angeles 90029",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "1st & 3rd Sat 7am-8am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.255791,
+							 33.938547
+			      ]
+			    },
+			    "properties": {
+						"name": "The Restoration Foundation",
+			      "phone": "323.569.4357",
+			      "address": "1117 East 108th Street Los Angeles 90059",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Sat 10am-11am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2493074,
+							 33.9750605
+			      ]
+			    },
+			    "properties": {
+						"name": "Travelers Rest Missionary B.C.",
+			      "phone": "323.582.7797",
+			      "address": "1417 E. Florence Avenue Los Angeles 90001",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Wed 11am-1pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.3161,
+							 34.0251148
+			      ]
+			    },
+			    "properties": {
+						"name": "Trinity Baptist Church L.A.",
+			      "phone": "323-735-0044",
+			      "address": "2040 W. Jefferson Boulevard Los Angeles 90018",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Wed 930am-1045am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.3085596,
+							 33.9924885
+			      ]
+			    },
+			    "properties": {
+						"name": "United African Church",
+			      "phone": "323.766.0001",
+			      "address": "1745 W. 55th Street Los Angeles 90062",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "1st & 3rd Sun 1am-2am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.274222,
+							 33.974056
+			      ]
+			    },
+			    "properties": {
+						"name": "United Gospel Outreach",
+			      "phone": "323.758.1213",
+			      "address": "7223 S. Main Street Los Angeles 90003",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Wed 11am-1pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2955869,
+							 34.0111729
+			      ]
+			    },
+			    "properties": {
+						"name": "University S.D.A. Church",
+			      "phone": "323.766.9889",
+			      "address": "1135 Martin Luther Kin Jr. Boulevard Los Angeles 90037",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Wed 1pm-230pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2603428,
+							 33.9999755
+			      ]
+			    },
+			    "properties": {
+						"name": "Victory Baptist Church",
+			      "phone": "323.231.2424",
+			      "address": "4802 South McKinley Avenue Los Angeles 90011",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Fri 8am-1130am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2697413,
+							 33.9859277
+			      ]
+			    },
+			    "properties": {
+						"name": "Vision of Hope Outreach Ministry",
+			      "phone": "323-233-4647",
+			      "address": "5951 S. San Pedro Los Angeles 90003",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "2nd & 4th Sat 3pm-4pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.255854,
+							 34.0220569
+			      ]
+			    },
+			    "properties": {
+						"name": "Visions Community Outreach",
+			      "phone": "310.920.1026",
+			      "address": "2300 S. Griffith Avenue Los Angeles 90011",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "2nd & 4th Sat 10am-12pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2743249,
+							 33.9953651
+			      ]
+			    },
+			    "properties": {
+						"name": "Wesley United Methodist Church",
+			      "phone": "323.298.0727",
+			      "address": "112 West 52nd Street Los Angeles 90037",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Thurs 1030am-12pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.348501,
+							 34.032789
+			      ]
+			    },
+			    "properties": {
+						"name": "West Adams Church of Christ",
+			      "phone": "323 731-6672",
+			      "address": "4959 W. Adams Boulevard Los Angeles 90016",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "3rd Fri 10am-11am 4th Sat 12pm-2pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.335492,
+							 34.026398
+			      ]
+			    },
+			    "properties": {
+						"name": "West Angeles Community Corporation",
+			      "phone": "323.751.3440",
+			      "address": "3045 South Crenshaw Boulevard Los Angeles 90016",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Mon 9am-1pm Tues 9am-1pm Wed 9am-1pm Thurs 9am-1pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2157793,
+							 34.0492972
+			      ]
+			    },
+			    "properties": {
+						"name": "White Memorial S.D.A. Church",
+			      "phone": "323 264-2170",
+			      "address": "401 N. State Street Los Angeles 90033",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "1st & 3rd Tues 10am-12pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.23627,
+							 33.9244622
+			      ]
+			    },
+			    "properties": {
+						"name": "Willowbrook Project Area Commission",
+			      "phone": "323-569-7676",
+			      "address": "11901 S. Willowbrook Avenue Los Angeles  90059",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "3rd Wed 5pm-7pm 2nd Sat 10am-12pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.3049672,
+							 34.0621177
+			      ]
+			    },
+			    "properties": {
+						"name": "Wilshire Boulevard Temple Hope-Net",
+			      "phone": "213.388.2401",
+			      "address": "3663 Wilshire Boulevard Los Angeles 90010",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Sun 830am-930am",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.308458,
+							 34.0685889
+			      ]
+			    },
+			    "properties": {
+						"name": "Wilshire Presbyterian Church-Hope Net",
+			      "phone": "213.387.5387",
+			      "address": "309 S. Oxford Avenue Los Angeles 90020",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Mon 11am-12pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.4191511,
+							 33.9952899
+			      ]
+			    },
+			    "properties": {
+						"name": "WSFB - St. Gerard's Social Services",
+			      "phone": "310.390.5034",
+			      "address": "4439 Inglewood Boulevard Los Angeles 90066",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "Tues 9am-12pm 1pm-3pm Thurs 9am-12pm 1pm-3pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2642047,
+							 34.0607514
+			      ]
+			    },
+			    "properties": {
+						"name": "Young Hwa United Methodist Church",
+			      "phone": "213.413.4154",
+			      "address": "214 S. Loma Drive Los Angeles 90026",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "2nd & 4th Sat 3pm-345pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.3280831,
+							 33.9678904
+			      ]
+			    },
+			    "properties": {
+						"name": "Zion Hill Baptist Church",
+			      "phone": "323.753.4610",
+			      "address": "7860 10th Avenue Los Angeles 90043",
+			      "country": "United States",
+			      // "crossStreet": "",
+			      // "postalCode": "",
+			      "state": "CA",
+						"hours": "1st & 3rd Tues 10am-12pm",
+						"type": "foodBank"
+			    }
+			  },
+				
+			
+			
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.3550303,
+							 34.1019922
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Wattles Farm",
+			     "address": "1714 N Curson Avenue, Los Angeles, CA 9004, 34.10199104600008, -118.35501155199995)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.4231126,
+							 33.9593934
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Messiah Organic Community Garden",
+			     "address": "7300 West Manchester Avenue, Los Angeles, CA 9004, 33.959693077000054, -118.42254886999996)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.291154,
+							 34.000099
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Vermont Square Community Garden",
+			     "address": "4712 S Vermont Avenue, Los Angeles, CA 9003, 34.00009092600004, -118.29150677299998)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.3337936,
+							 34.0943714
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Enrique Noguera Educational Garden",
+			     "address": "6614 Fountain Avenue, Los Angeles, CA 9003, 34.09435534900007, -118.33371449399999)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.3009406,
+							 33.9806263
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Epworth Community Garden",
+			     "address": "1419 W 65th Street, Los Angeles, CA 9004, 33.98062804400007, -118.30074157399997)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.4632544,
+							 33.9772294
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Eastwind Community Garden",
+			     "address": "110 Eastwind Street, Marina Del Rey, CA 9029, 33.977245786000026, -118.46316565099994)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.289425,
+							 34.057077
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Moothart Collingnon/Francis Avenue Community Garden",
+			     "address": "2909 Francis Avenue, Los Angeles, CA 9000, 34.056847719000075, -118.28941998999994)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2822406,
+							 34.0427696
+			      ]
+			    },
+
+			    "properties": {
+						"name": "The Learning Garden",
+			     "address": "1300 Venice Blvd, Los Angeles, CA 9000, 34.04290510900006, -118.28222053399998)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2852654,
+							 33.8997839
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Rosecrans Farms",
+			     "address": "561 W 146th Street, Gardena, CA 9024, 33.89964767200007, -118.28525910099995)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2799679,
+							 33.7302093
+			      ]
+			    },
+
+			    "properties": {
+						"name": "John S. Gibson Senior Garden",
+			     "address": "1500 S Harbor Blvd, San Pedro, CA 9073, 33.73094877400007, -118.279958637)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2637926,
+							 33.9341804
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Stanford Avalon Community garden",
+			     "address": "658 E 111th Place, Los Angeles, CA 9005, 33.93417627300005, -118.26377086299999)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2135235,
+							 34.0409894
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Salesian Boys & Girls Club Community Garden",
+			     "address": "2228 E 4th Street, Los Angeles, CA 9003, 34.04122508200004, -118.21322074599999)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.5406491,
+							 34.1836591
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Tarzana Community Garden",
+			     "address": "18702 Erwin Street, San Fernando Valley, CA 9133, 34.18384300200006, -118.54066927899999)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2830236,
+							 33.7430661
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Rancho San Pedro Community Garden",
+			     "address": "275 W 1st Street, San Pedro, CA 9073, 33.74327698400003, -118.28301723599998)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.1879229,
+							 34.1345501
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Eagle Rockdale Community Garden and Art Park",
+			     "address": "1003 Rockdale Avenue, Los Angeles, CA 9004, 34.13392643900005, -118.18878835899994)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.4065372,
+							 33.9631099
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Holy Nativity Community Garden",
+			     "address": "6700 West 83rd Street, Westchester, CA 9004, 33.96343338400004, -118.40646992899997)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.4038765,
+							 33.9677904
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Emerson Avenue Community Garden",
+			     "address": "6550 W 80th Street, Westchester, CA 9004, 33.96923397100005, -118.40476339999998)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2564836,
+							 33.9426844
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Bougainvillea Community Garden",
+			     "address": "E 103rd, Los Angeles, CA 9000, 33.94256766900003, -118.25886981299999)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.4053868,
+							 34.2594981
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Project Youth Green",
+			     "address": "12467 W Osborne Street, Los Angeles, California, (34.25777331100005, -118.40466851899998)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2430766,
+							 34.0971922
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Elysian Valley Community Garden",
+			     "address": "1816 W Blake Avenue, Los Angeles, CA 9003, 34.09722482600006, -118.24296690099999)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.216757,
+							 34.051656
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Proyecto Jardin",
+			     "address": "1718 Bridge Street, Los Angeles, CA 9003, 34.051895211000044, -118.21661075899999)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2809559,
+							 34.0934191
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Manzanita Street Community Garden",
+			     "address": "1101 Manzanita Street, Los Angeles, CA 9002, 34.09348167700006, -118.28090701699995)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.3905732,
+							 34.1665784
+			      ]
+			    },
+
+			    "properties": {
+						"name": "North Hollywood Community Garden",
+			     "address": "11800 Weddington Street, North Hollywood, CA 9160, 34.16666393400004, -118.39178557499997)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.278644,
+							 34.1041372
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Norman Harriton Community Garden",
+			     "address": "2037 N Sanborn Avenue, Los Angeles, CA 9002, 34.104141973000026, -118.27865306899997)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.1615749,
+							 34.0921414
+			      ]
+			    },
+
+			    "properties": {
+						"name": "El Sereno Community Garden",
+			     "address": "5466 Huntington Drive, Los Angeles, CA 9003, 34.092496624000034, -118.16162328499996)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.4619502,
+							 33.9872471
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Venice Community Garden",
+			     "address": "643 Mildred Avenue, Venice, CA 9029, 33.98726245800003, -118.46188133599998)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.3009159,
+							 34.2577962
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Howard Finn Community Garden",
+			     "address": "7747 Foothill Blvd, Tujunga, California, (34.25813176300005, -118.30169870499998)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.3405059,
+							 34.094111
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Mansfield Fountain Community Garden",
+			     "address": "1259 N Mansfield Avenue, Los Angeles, CA 9003, 34.09361321000006, -118.340501873)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.215246,
+							 34.0307621
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Mothers of East LA Community Garden",
+			     "address": "1020 S Fickett Street, Los Angeles, CA 9002, 34.031341471000076, -118.21534039799997)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2917918,
+							 33.7596412
+			      ]
+			    },
+
+			    "properties": {
+						"name": "San Pedro Gardens",
+			     "address": "1400 N Gaffey Street, San Pedro, CA 9073, 33.73126012100005, -118.29234678599994)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.295471,
+							 34.078655
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Rosewood Gardens",
+			     "address": "4160 41276 Rosewood Avenue, Los Angeles, CA 9000, 34.075720587000035, -118.30301712299996)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.586746,
+							 34.170387
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Parkman Gardens",
+			     "address": "20800 Burbank Blvd, Woodland Hills, CA 9136, 34.171943388000045, -118.58674902799999)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2340746,
+							 34.0916172
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Jardin Del Rio",
+			     "address": "2363 N Riverdale Avenue, Los Angeles, CA 9003, 34.09173305100006, -118.23403902199999)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.3673797,
+							 34.0312483
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Good Earth Community Garden",
+			     "address": "Clyde Avenue, Los Angeles, CA 9120, 34.03038872700006, -118.36767758199994)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.4722,
+							 33.9916065
+			      ]
+			    },
+
+			    "properties": {
+						"name": "WE Garden",
+			     "address": "1010 Abbot Kinney Blvd, Venice, CA 9020, 33.99211615300004, -118.47218907199999)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.327947,
+							 34.046327
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Crenshaw Community Garden",
+			     "address": "1423 S Crenshaw Blvd, Los Angeles, CA 9001, 34.04619602500003, -118.32762735099999)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2992088,
+							 34.0539719
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Yamazaki Memorial Community Garden",
+			     "address": "961 S Mariposa Avenue, Los Angeles, CA 9000, 34.05387022200006, -118.298991995)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.6041787,
+							 34.2549346
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Rosemary & Thyme Community garden",
+			     "address": "10161 Jordan Avenue, Chatsworth, CA 9131, 34.25474981600007, -118.60390304799995)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2727925,
+							 34.0111722
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Growing Great Dreams",
+			     "address": "125 E Martin Luther King Jr Boulevard, Los Angeles, CA 9001, 34.011177185000065, -118.27269605799995)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2752729,
+							 34.047382
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Union Avenue/Cesar Chavez Community Garden",
+			     "address": "1136 S Union Avenue, Los Angeles, CA 9001, 34.04670418200004, -118.27568363899996)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2629321,
+							 33.9255557
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Greater Watts Community Garden",
+			     "address": "660 E 118th Place, Los Angeles, CA 9005, 33.92644283300007, -118.26299932099994)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.1864324,
+							 34.1137199
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Milagro Allegro Community Garden",
+			     "address": "115 S Avenue, Los Angeles, CA 9004, 34.08733119000004, -118.32063535099996)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.297773,
+							 34.031707
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Erika J. Glazer Community Garden",
+			     "address": "2632 Raymond Avenue, Los Angeles, CA 9000, 34.03170032000003, -118.298016013)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.4897505,
+							 34.2247749
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Van Nuys Garden Center",
+			     "address": "16400 Chase Street, North Hills, CA 9134, 34.224755550000054, -118.48964637099999)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.4407318,
+							 34.0141171
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Ocean View Farms",
+			     "address": "3300 S Centinela Avenue, Mar Vista, CA 9006, 34.01472864200008, -118.44193053599997)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2651723,
+							 33.9682258
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Fremont Wellness Center & Community garden",
+			     "address": "7821 S Avalon Blvd, Los Angeles, CA 9000, 33.968167884000025, -118.26519727599998)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.4238041,
+							 34.2289521
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Arleta Community Garden",
+			     "address": "8800 Canterbury Avenue, San Fernando Valley, CA 9133, 34.22961903400005, -118.42451217799999)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2466072,
+							 33.9306468
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Vista Hermosa Gardens",
+			     "address": "1590 E 114th Street, Los Angeles, CA 9005, 33.931087181000066, -118.24652602499998)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.4953656,
+							 34.1653335
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Sepulveda Garden Center",
+			     "address": "16633 Magnolia Boulevard, Encino, CA 9131, 34.16495650300004, -118.49550040099996)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.6403552,
+							 34.2183664
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Orcutt Ranch Horticultural Center Rancho Sombra del Roble",
+			     "address": "23600 Roscoe Blvd, West Hills, CA 9130, 34.219132785000056, -118.64119895299996)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.3116817,
+							 34.0943792
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Fountain Community Gardens",
+			     "address": "5620 Fountain Avenue, Los Angeles, CA 9002, 34.094742309000026, -118.31178217299998)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2429799,
+							 34.1200402
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Glassell Park Community Garden",
+			     "address": "3305 Drew Street, Los Angeles, CA 9006, 34.12005433500008, -118.24300594999994)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2316003,
+							 34.0745923
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Solano Canyon Community Garden",
+			     "address": "545 Solano Avenue, Los Angeles, CA 9001, 34.07418256500006, -118.23143009599994)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.406796,
+							 33.993263
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Mar Vista Community Garden",
+			     "address": "5075 S Slauson Avenue, Culver City, CA 90230, (33.993487198000025, -118.40685594399997)",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "communityGarden"
+			    }
+			  },
+				
+			
+			
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.553791,
+							 34.239201
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Northridge Farmers' Market And Family Festival",
+			     "address": "9301 Tampa Ave",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.157349,
+							 34.115746
+			      ]
+			    },
+
+			    "properties": {
+						"name": "South Pasadena Farmers' Market",
+			     "address": "Meridan Ave. & Mission St.",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.18561,
+							 33.942066
+			      ]
+			    },
+
+			    "properties": {
+						"name": "South Gate Farmers' Market",
+			     "address": "4855 Tweedy Blvd",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.497699,
+							 34.01699
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Santa Monica Saturday Farmers' Market",
+			     "address": "Arizona Ave & 3Rd St Prom",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.4225,
+							 34.146326
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Studio City Farmers' Market",
+			     "address": "Ventura Blvd & Ventura Blvd",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.374867,
+							 33.776662
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Palos Verdes Farmers' Market",
+			     "address": "Hawthorne Blvd. & Silver Spur Rd.",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.142882,
+							 34.15507
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Pasadena Villa Parke Farmers' Market",
+			     "address": "363 E. Villa St.",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.437915,
+							 34.157126
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Woodman Avenue Farmers' Market",
+			     "address": "14006 Riverside Dr",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.44939,
+							 34.05701
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Westwood Farmers' Market",
+			     "address": "11000 Wilshire Blvd",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.262964,
+							 33.786707
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Wilmington Farmers' Market",
+			     "address": "N Avalon Blvd & E L St",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.278032,
+							 34.090442
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Silverlake Farmers' Market",
+			     "address": "3700 W Sunset Blvd",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.599018,
+							 34.197694
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Topanga Westfield Farmers' Market",
+			     "address": "6600 Topanga Blvd.",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.254088,
+							 33.943279
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Watts Healthy Farmers' Market",
+			     "address": "E 103Rd St & S Central Ave",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-117.928607,
+							 34.068409
+			      ]
+			    },
+
+			    "properties": {
+						"name": "West Covina Farmers' Market",
+			     "address": "1035 W Covina Pkwy",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-117.962334,
+							 34.039636
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Valinda / La Puente Farmers' Market",
+			     "address": "747 N. Rimgrove Drive",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.277059,
+							 34.08987
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Silverlake Tuesday Farmers' Market",
+			     "address": "1500 Griffith Park Blvd",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-117.802724,
+							 34.106665
+			      ]
+			    },
+
+			    "properties": {
+						"name": "San Dimas Farmers' Market",
+			     "address": "245 E Bonita Ave & N Walnut Ave",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.057863,
+							 34.10769
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Temple City Farmers' Market",
+			     "address": "9701 Las  Tunas Dr",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.092909,
+							 34.160398
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Pasadena Victory Park Farmers' Market",
+			     "address": "2900 N. Sierra Madre Blvd between Paloma and Washington Avenues",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.446226,
+							 34.061675
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Westwood Village Farmers' Market",
+			     "address": "1050 Broxton Ave",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.353782,
+							 34.152223
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Toluca Lake Farmers' Market",
+			     "address": "Sancola Ave & Riverside Dr",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.133871,
+							 33.883676
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Bellflower Farmers' Market",
+			     "address": "16614 Clark Ave at Oak Street",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.416018,
+							 33.956528
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Westchester Park Farmers' Market",
+			     "address": "Lincoln Blvd & La Tijera Blvd",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.334896,
+							 34.039643
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Wellington Square Certified Farmer's Market",
+			     "address": "4394 W Washington Blvd",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.388197,
+							 33.837509
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Redondo Beach Farmers' Market",
+			     "address": "Torrance Boulevard, West of Veteran's Park",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.000916,
+							 34.144818
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Monrovia Farmers' Market - Friday",
+			     "address": "200 Block of Myrtle Ave",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.285693,
+							 33.738765
+			      ]
+			    },
+
+			    "properties": {
+						"name": "San Pedro Farmers' Market",
+			     "address": "W 6Th St & S Mesa St",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.325773,
+							 33.826917
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Torrance Saturday Farmers' Market",
+			     "address": "2200 Crenshaw Blvd",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.465615,
+							 34.021545
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Santa Monica Pico Farmers' Market",
+			     "address": "Cloverfield Blvd & Pico Blvd",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.450452,
+							 34.045746
+			      ]
+			    },
+
+			    "properties": {
+						"name": "West Los Angeles Farmers' Market",
+			     "address": "1645 Corinth Avenue at Santa Monica Blvd",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.036156,
+							 33.979112
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Uptown Whittier Farmers' Market",
+			     "address": "Bright Ave & Philadelphia St",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.465993,
+							 33.987566
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Venice Farmers' Market",
+			     "address": "N Venice Blvd & Venice Way",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.25292,
+							 34.053259
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Bank Of America Plaza Farmers' Market",
+			     "address": "333 S Hope St",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.63857,
+							 34.157457
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Old Town Calabasas Farmers' Market",
+			     "address": "23504 Calabasas Rd.",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.430463,
+							 34.004249
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Mar Vista Farmers' Market",
+			     "address": "3826 Grand View Blvd",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.52511,
+							 34.048286
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Pacific Palisades Farmers' Market",
+			     "address": "1037 N Swarthmore Ave",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-117.750366,
+							 34.064549
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Pomona Valley Farmers' Market",
+			     "address": "N Garey Ave & W Pearl St",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.351067,
+							 34.092576
+			      ]
+			    },
+
+			    "properties": {
+						"name": "West Hollywood Farmers' Market",
+			     "address": "7377 Santa Monica Blvd",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.192006,
+							 34.109977
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Old Los Angeles Farmers' Market",
+			     "address": "S Ave 58 & N Figueroa St",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.373372,
+							 34.083278
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Melrose Place Farmers' Market",
+			     "address": "8400 Melrose Pl",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.253076,
+							 34.048339
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Pershing Square Farmers' Market",
+			     "address": "532 S Olive St",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.22694,
+							 34.205395
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Montrose Harvest Market",
+			     "address": "2200 Block of Honolulu Ave ",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.325773,
+							 33.826917
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Torrance Tuesday Farmers' Market",
+			     "address": "2200 Crenshaw Blvd.",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.317795,
+							 33.916455
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Gardena Hollypark Farmers' Market",
+			     "address": "13000 S. Van Ness Ave",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.482859,
+							 34.001224
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Santa Monica Main St. Farmers' Market",
+			     "address": "2640 Main St",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.498626,
+							 34.01624
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Santa Monica Downtown Farmers' Market",
+			     "address": "Arizona Ave between 2nd St and 3rd St",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.294769,
+							 34.101717
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Bransdall Center Farmers' Market",
+			     "address": "4888 Hollywood Blvd",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.260221,
+							 34.118196
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Atwater Village Farmers' Market",
+			     "address": "3250 Glendale Blvd",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.603814,
+							 34.089122
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Topanga Canyon Farmers' Market",
+			     "address": "Pine Tree Circle Parking Lot and Topanga Post Office",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.25656,
+							 34.005726
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Central Avenue Farmers' Market",
+			     "address": "4301 S Central Ave",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.328673,
+							 34.098066
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Hollywood Farmers' Market",
+			     "address": "1500 N Ivar Ave",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.33649,
+							 34.011176
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Crenshaw Baldwin Hill CFM",
+			     "address": "3650 W Martin Luther King Blvd",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.757232,
+							 34.156937
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Agoura Hills CFM",
+			     "address": "5835 Kanan Rd",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.443664,
+							 34.12755
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Beverly Glen Center CFM",
+			     "address": "2936 Beverly Glen Circle",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.179897,
+							 33.826698
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Bixby Park CFM",
+			     "address": "Bixby Street between 1st & 2nd Street",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.308481,
+							 34.182789
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Burbank Farmers' Market",
+			     "address": "E Orange Grove Ave & N 3Rd St",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.638773,
+							 34.157234
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Calabasas CFM",
+			     "address": "23504 Calabasas Road",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.601299,
+							 34.202504
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Canoga Park CFM",
+			     "address": "7248 Owensmouth Ave",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.058101,
+							 33.867665
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Cerritos CFM",
+			     "address": "Park Plaza Drive",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.290955,
+							 34.097869
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Children Hospital CFM",
+			     "address": "4650 Sunset Blvd.",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.242749,
+							 34.053015
+			      ]
+			    },
+
+			    "properties": {
+						"name": "City Hall - Little Tokyo CFM",
+			     "address": "200 N. Main Street",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-117.71927,
+							 34.095635
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Claremont Farmers' Market",
+			     "address": "N Indian Hill Blvd & W 2Nd St",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.425469,
+							 33.976618
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Del Ray CFM",
+			     "address": "461 Alla Road",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.134183,
+							 33.94195
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Downey Farmers' Market",
+			     "address": "La Reina Ave & 2Nd St",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.213109,
+							 34.138078
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Eagle Rock CFM",
+			     "address": "2100 Merton Ave.",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.3081,
+							 34.101721
+			      ]
+			    },
+
+			    "properties": {
+						"name": "East Hollywood CFM",
+			     "address": "5448 Hollywood Blvd.",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.259541,
+							 34.075376
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Echo Park CFM",
+			     "address": "663 Logan Street",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.248475,
+							 34.115603
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Glassel Park CFM",
+			     "address": "3150 N. San Fernando Road",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.200389,
+							 34.49274
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Acton CFM",
+			     "address": "3801 Sierra Way",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.255469,
+							 34.149085
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Glendale Downtown CFM",
+			     "address": "227 N. Brand Ave.",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.251559,
+							 34.051402
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Grand Farmers' Market",
+			     "address": "350 S. Grand Ave.",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.25999,
+							 34.053148
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Historic LA CFM",
+			     "address": "West 5th Street",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-117.84768,
+							 34.043906
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Jack New's CFM",
+			     "address": "1100 Grand Ave.",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.294007,
+							 33.788992
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Kaiser South Bay CFM",
+			     "address": "25825 S. Vermont Ave.",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.377319,
+							 34.044038
+			      ]
+			    },
+
+			    "properties": {
+						"name": "La Cienga CFM",
+			     "address": "1801 La Cienga Blvd.",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-117.770159,
+							 34.100498
+			      ]
+			    },
+
+			    "properties": {
+						"name": "La Verne Fresh CFM",
+			     "address": "D Street & 3rd Street",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.115458,
+							 34.696818
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Lancaster CFM",
+			     "address": "721 Lancaster Blvd.",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.353824,
+							 33.898238
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Lawndale CFM",
+			     "address": "147th Street and Burib Ave.",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.132867,
+							 33.768461
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Local Harvest CFM",
+			     "address": "E. Appian Way & Nito Ave.",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.113431,
+							 33.781151
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Long Beach University CFM",
+			     "address": "1250 Bellflower Blvd.",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.353543,
+							 34.061745
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Miracle Mile CFM",
+			     "address": "5700 Wilshire Blvd",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.124655,
+							 34.059119
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Monterey Park CFM",
+			     "address": "318 S. Ramona Ave",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.410698,
+							 34.02922
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Motor Avenue CFM",
+			     "address": "10316 National @ Motor Ave.",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.37738,
+							 34.164917
+			      ]
+			    },
+
+			    "properties": {
+						"name": "North Hollywood CFM",
+			     "address": "5200 Bakman",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.528289,
+							 34.236027
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Northridge University CFM",
+			     "address": "18111 Nordroff Street",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.095432,
+							 33.887473
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Norwalk CFM",
+			     "address": "11200 Alindra Blvd.",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.525734,
+							 34.37972
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Old Town Newhall CFM",
+			     "address": "22421 Market Street",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.144285,
+							 34.148387
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Pasadena City Hall CFM",
+			     "address": "100 N. Garfield Ave",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.421888,
+							 33.972012
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Playa Vista CFM",
+			     "address": "6400 Seabluff Drive",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.388355,
+							 33.819251
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Rivera Village CFM",
+			     "address": "Avenue I and South Catalina",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.104637,
+							 34.084761
+			      ]
+			    },
+
+			    "properties": {
+						"name": "San Gabriel CFM",
+			     "address": "300 W. Wells Street",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.304913,
+							 33.738196
+			      ]
+			    },
+
+			    "properties": {
+						"name": "San Pedro Providence CFM",
+			     "address": "1300 W. 7th Street",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.568263,
+							 34.404196
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Santa Clarita CFM",
+			     "address": "26455 Rockwell Road",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.082726,
+							 33.945639
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Santa Fe Springs CFM",
+			     "address": "11740 Telegraph Road",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.439086,
+							 34.074591
+			      ]
+			    },
+
+			    "properties": {
+						"name": "UCLA CFM",
+			     "address": "350 Charles E. Young @ the Camp",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.280722,
+							 34.020921
+			      ]
+			    },
+
+			    "properties": {
+						"name": "USC Hospitality CFM",
+			     "address": "3445 S. Figueroa Street",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.565244,
+							 34.420526
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Valencia CFM",
+			     "address": "26251 Town Center Dr.",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-117.921277,
+							 34.070594
+			      ]
+			    },
+
+			    "properties": {
+						"name": "West Covina CFM",
+			     "address": "195 S. Glendora Ave.",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.44627,
+							 34.061556
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Westwood Village CFM",
+			     "address": "1050 Broxton Ave",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.128791,
+							 34.093706
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Alhambra Farmers' Market",
+			     "address": "11 S. 2nd Street",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.29259,
+							 34.032562
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Adams - Vermont Farmers' Market",
+			     "address": "1432 W Adams Blvd",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.15813,
+							 34.200379
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Altadena Farmers' Market",
+			     "address": "600 W. Palm Ave",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.243172,
+							 34.054046
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Arts District Little Tokyo Farmers' Market",
+			     "address": "200 N Spring St",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.396198,
+							 34.076263
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Beverly Hills Farmers' Market",
+			     "address": "9300 Civic Center Dr",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.47515,
+							 34.050607
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Brentwood Village Farmers' Market",
+			     "address": "741 Gretna Green Way",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.262561,
+							 33.844991
+			      ]
+			    },
+
+			    "properties": {
+						"name": "South Bay Pavilion CFM",
+			     "address": "20700 Avalon Blvd",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.417855,
+							 34.060955
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Century City Farmers' Market",
+			     "address": "1800 Ave of the Stars",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.394166,
+							 34.024745
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Culver City Farmers' Market",
+			     "address": "3800 Main Street",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.259879,
+							 34.049391
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Downtown Los Angeles (B O. A) CFM",
+			     "address": "S Figueroa St & W 7Th St",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.160665,
+							 34.033565
+			      ]
+			    },
+
+			    "properties": {
+						"name": "East Los Angeles Farmers' Market",
+			     "address": "4801 E. 3rd. St.",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.415764,
+							 33.921479
+			      ]
+			    },
+
+			    "properties": {
+						"name": "El Segundo Plaza Farmers' Market",
+			     "address": "Main Street. Between Holly & Oina Ave",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.514066,
+							 34.186204
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Encino Farmers' Market",
+			     "address": "17400 Victory Blvd in Van Nuys",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.37662,
+							 33.909422
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Hawthorne - Del Aire Farmers' Market",
+			     "address": "13500 Aviation Boulevard",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.394257,
+							 33.860152
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Hermosa Beach Farmers' Market",
+			     "address": "Valley Drive at 8Th St",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.2052,
+							 33.97213
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Huntington Park Farmers' Market",
+			     "address": "E Florence Ave & Bissell St",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.375937,
+							 34.038065
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Kaiser -La Cienga Farmers' Market",
+			     "address": "6041 Cadillac Ave",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-117.985884,
+							 34.065377
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Kaiser Baldwin Park Farmers' Market",
+			     "address": "1011 Baldwin Park Blvd",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.429916,
+							 34.219809
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Kaiser Panorama City Farmers' Market",
+			     "address": "13652 Cantara St",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.207701,
+							 34.207497
+			      ]
+			    },
+
+			    "properties": {
+						"name": "La Canada Farmers' Market",
+			     "address": "1346 Foothill Blvd",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.588612,
+							 34.171262
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Kaiser Woodland Hills Farmers' Market",
+			     "address": "5601 De  Soto Ave",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-117.771008,
+							 34.101954
+			      ]
+			    },
+
+			    "properties": {
+						"name": "La Verne Farmers' Market",
+			     "address": "3660 D Street between Bonita and 3rd Street",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.323835,
+							 34.074882
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Larchmont Village Farmers' Market",
+			     "address": "209 N Larchmont Blvd",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.192378,
+							 33.772945
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Long Beach Downtown Farmers' Market",
+			     "address": "212 W. Third Street at Pacific Avenue",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.113098,
+							 33.757624
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Long Beach Southeast Farmers' Market",
+			     "address": "2nd St. and N. Marina Dr.",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.184941,
+							 33.842649
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Long Beach Uptown Farmers' Market",
+			     "address": "E 46Th St & Atlantic Ave",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.29201,
+							 34.104211
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Los Feliz Village Farmers' Market",
+			     "address": "1825 N Vermont Ave",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.691164,
+							 34.034739
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Malibu Farmers' Market",
+			     "address": "23525 Civic Center Way",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.409414,
+							 33.886737
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Manhattan Beach Farmers' Market",
+			     "address": "13Th St & Morningside Dr",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.160244,
+							 33.902633
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Paramount CFM",
+			     "address": "14409 Paramount Blvd.",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.215636,
+							 34.073651
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Lincoln Heights CFM",
+			     "address": "North Broadway & Daly Street",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.356805,
+							 33.838732
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Torrance Providence CFM",
+			     "address": "4101 Torranc Blvd. @ Hawthorne Blvd",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.128811,
+							 33.919242
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Kaised Downey",
+			     "address": "9333 E. Imperial Hwy in Kaiser Medical Center",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.529305,
+							 34.38147
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Newhall Farmers' Market",
+			     "address": "22520 Lynos Ave",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.028377,
+							 34.141169
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Arcadia Street Fair CFM",
+			     "address": "Wheeler Ave. @ 1st Street",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-117.751299,
+							 34.057816
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Pomona Thomas Plaza CFM",
+			     "address": "201 W. 2nd Street",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.3561,
+							 34.021192
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Baldwin La Brea CFM",
+			     "address": "3601 S. La Brea Ave.",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.076331,
+							 34.080305
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Rosemead CFM",
+			     "address": "8838 Valley Blvd.",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-117.952348,
+							 34.020063
+			      ]
+			    },
+
+			    "properties": {
+						"name": "La Puente Live CFM",
+			     "address": "Main Street & First Street",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.352011,
+							 33.96178
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Inglewood CFM",
+			     "address": "Manchester Blvd. & Market Street",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.221478,
+							 33.877469
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Compton CFM",
+			     "address": "Gateway Towne Center",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.605816,
+							 34.18407
+			      ]
+			    },
+
+			    "properties": {
+						"name": "The Village CFM",
+			     "address": "6250 Topanga Blvd.",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.401358,
+							 33.86199
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Hermosa Beach Wednesday CFM",
+			     "address": "1 Piar Ave",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			  {
+			    "type": "Feature",
+			    "geometry": {
+			      "type": "Point",
+			      "coordinates": [
+			       	-118.386664,
+							 33.976007
+			      ]
+			    },
+
+			    "properties": {
+						"name": "Howard Hughes CFM",
+			     "address": "6080 Center Drive",
+			      "country": "United States",
+			      "state": "CA",
+						"type": "farmersMarket"
+			    }
+			  },
+				
+			],
+
 		}
+
 
 		function buildLocationList(data) {
 			// Iterate through the list of stores
@@ -487,24 +7409,24 @@
 				if (prop.phone) {
 			  		details.innerHTML += ' &middot; ' + prop.phoneFormatted;
 				}
+
+				// Add an event listener for the links in the sidebar listing
+				link.addEventListener('click', function(e){
+					// Update the currentFeature to the store associated with the clicked link
+					var clickedListing = data.features[this.dataPosition];
+					// 1. Fly to the point associated with the clicked link
+					flyToStore(clickedListing);
+					// 2. Close all other popups and display popup for clicked store
+					createPopUp(clickedListing);
+					// 3. Highlight listing in sidebar (and remove highlight for all other listings)
+					var activeItem = document.getElementsByClassName('active');
+						if (activeItem[0]) {
+						 activeItem[0].classList.remove('active');
+					}
+
+					this.parentNode.classList.add('active');
+				});
 			}
-
-			// Add an event listener for the links in the sidebar listing
-			link.addEventListener('click', function(e){
-				// Update the currentFeature to the store associated with the clicked link
-				var currentFeature = data.features[this.dataPosition];
-				// 1. Fly to the point associated with the clicked link
-				flyToStore(clickedListing);
-				// 2. Close all other popups and display popup for clicked store
-				createPopUp(clickedListing);
-				// 3. Highlight listing in sidebar (and remove highlight for all other listings)
-				var activeItem = document.getElementsByClassName('active');
-					if (activeItem[0]) {
-					 activeItem[0].classList.remove('active');
-				}
-
-				this.parentNode.classList.add('active');
-			});
 		}
 
 		function flyToStore(currentFeature) {
@@ -515,13 +7437,16 @@
 		}
 
 		function createPopUp(currentFeature) {
+			console.log('currently clicked', currentFeature);
 			var popUps = document.getElementsByClassName('mapboxgl-popup');
 			// Check if there is already a popup on the map and if so, remove it
 			if (popUps[0]) popUps[0].remove();
+			var markerType = currentFeature.properties.type;
+			console.log('marker type', markerType);
 
 			var popup = new mapboxgl.Popup()
 				.setLngLat(currentFeature.geometry.coordinates)
-				.setHTML('<h3>Sweetgreen</h3>' + '<h4>' + currentFeature.properties.address + '</h4>')
+				.setHTML('<h3 id=' + markerType + '>' + currentFeature.properties.name + '</h3>' + '<h4>' + currentFeature.properties.address + '</h4>')
 				.addTo(map);
 		}
 
@@ -580,11 +7505,19 @@
 		});
 
 		stores.features.forEach(function(marker) {
+			console.log('marker', marker);
 			// Create a div element for the marker
 			var el = document.createElement('div');
 
 			// Add a class called 'marker' to each div
-			el.className = 'marker';
+			if(marker.properties.type === "foodBank") {
+				el.className = 'food-bank-marker'
+			} else if (marker.properties.type === "farmersMarket") {
+				el.className = 'farmers-market-marker'
+			} else if (marker.properties.type === "communityGarden") {
+				el.className = 'community-garden-marker'
+			}
+			
 
 			// By default the image for your custom marker will be anchored
 			// by its top left corner. Adjust the position accordingly
