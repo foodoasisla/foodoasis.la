@@ -540,7 +540,9 @@
 
 	/* =Button
 	----------------------------------------------- */
-	button,
+	body.find form button,
+	header button,
+	.map-filters button,
 	nav a {
 		display: inline-block;
 		background: rgb(243, 117, 104); /* @salmon */
@@ -560,16 +562,24 @@
 		border-color: transparent;
 		text-decoration: none;
 	}
-	button:hover,
-	button:active,
-	button:focus,
+	body.find form button:hover,
+	body.find form button:active,
+	body.find form button:focus,
+	header button:hover,
+	header button:active,
+	header button:focus,
+	.map-filters button:hover,
+	.map-filters button:active,
+	.map-filters button:focus,
 	nav a:hover,
 	nav a:active,
 	nav a:focus {
 		background: rgb(221, 75, 71); /* @strawberry */
 		text-decoration: none;
 	}
-	button {
+	body.find form button,
+	header button,
+	.map-filters button {
 		cursor: pointer;
 		font-size: inherit;
 	}
@@ -610,10 +620,12 @@
 	}
 	@media (max-width: 35em) {
 		input[type="text"],
-		button {
+		header button,
+		.map-filters button {
 			width: 100%;
 		}
-		button {
+		header button,
+		.map-filters button {
 			margin-top: 0.375em;
 		}
 	}
