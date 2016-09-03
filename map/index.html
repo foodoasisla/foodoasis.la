@@ -357,7 +357,6 @@
 	}
 
 	function createPopupElement(feature) {
-		var showLink = true;
 
 		var template = document.getElementById('popup-template');
 		if (template) {
@@ -365,6 +364,9 @@
 			element.innerHTML = template.innerHTML;
 
 			var data = getFeatureData(feature);
+
+			// TEMPORARY: Hide links to grocery stores (since we don’t have food source pages for those).
+			var showLink = data.type != 'Grocery Store';
 
 			// Name
 			var nameElement = element.querySelector('h3');
