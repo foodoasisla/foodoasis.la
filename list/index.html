@@ -92,7 +92,9 @@
 
 	<main>
         <nav class="search">
-	<h1>Food Banks</h1>
+	
+		<h1>Food near you in Los Angeles</h1>
+	
 	<ul>
 		<li><a href="/map">Map</a></li>
 		<li><a>List</a></li>
@@ -100,11 +102,14 @@
 </nav>
 <script>
 (function() {
-	// SHIM: Make the address persistent
+	// SHIM: Make the type and address persistent
 	var searchLink = document.querySelector('.search a[href]');
-	searchLink.setAttribute('href', searchLink.getAttribute('href') + window.location.search);
+	var queryString = window.location.search;
+	
+	searchLink.setAttribute('href', searchLink.getAttribute('href') + queryString);
 })();
 </script>
+
 
 <p class="slow-page-note">
 	<span>Grocery stores aren’t included in this list.</span>
@@ -14785,9 +14790,10 @@
 	</main>
 
 	<footer>
+	<h2>Helping Angelenos Find Healthy Food</h2>
 	<ul class="link-list">
 		<li>
-			<a href="/map">
+			<a href="/">
 				
 				<!-- Search icon
 				by Veronika Krpciarova

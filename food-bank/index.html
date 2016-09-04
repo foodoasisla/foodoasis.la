@@ -91,8 +91,13 @@
 
 
 	<main>
-        <nav class="search">
-	<h1>Food Banks</h1>
+        
+
+
+<nav class="search">
+	
+		<h1>Food Banks</h1>
+	
 	<ul>
 		<li><a href="/map">Map</a></li>
 		<li><a>List</a></li>
@@ -100,11 +105,18 @@
 </nav>
 <script>
 (function() {
-	// SHIM: Make the address persistent
+	// SHIM: Make the type and address persistent
 	var searchLink = document.querySelector('.search a[href]');
-	searchLink.setAttribute('href', searchLink.getAttribute('href') + window.location.search);
+	var queryString = window.location.search;
+	
+		if (window.location.search.indexOf('type') < 0) {
+			queryString += (window.location.search.length > 0 ? '&' : '?') + 'type=food-bank';
+		}
+	
+	searchLink.setAttribute('href', searchLink.getAttribute('href') + queryString);
 })();
 </script>
+
 
 <ul class="food-source-list">
 
@@ -2539,9 +2551,10 @@
 	</main>
 
 	<footer>
+	<h2>Helping Angelenos Find Healthy Food</h2>
 	<ul class="link-list">
 		<li>
-			<a href="/map">
+			<a href="/">
 				
 				<!-- Search icon
 				by Veronika Krpciarova
