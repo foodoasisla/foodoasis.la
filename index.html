@@ -30,7 +30,7 @@
 		margin-left: auto;
 		margin-right: auto;
 		box-sizing: border-box;
-		padding-top: 2.25em;
+		padding-top: 1.875em;
 		padding-bottom: 4.5em;
 		/*
 		min-height: 80vh;
@@ -41,16 +41,20 @@
 		*/
 	}
 	body.find .shim-sections section {
-		margin-top: 2.25em;
+		margin-top: 1.875em;
 	}
 	body.find .shim-sections section ul {
-		margin-bottom: 2.25em;
+		margin-bottom: 1.875em;
 	}
 	body.find .shim-sections section ul:last-child {
 		margin-bottom: 0;
 	}
 	body.find .shim-sections section h2 {
 		margin-bottom: 0;
+	}
+	body.find .shim-sections section.categories li a {
+		padding-top: 0.375em;
+		padding-bottom: 0.375em;
 	}
 	/*
 	body.find .shim-sections section ul {
@@ -102,6 +106,17 @@
 		justify-content: center;
 		position: relative;
 	}
+	body.find main form:before {
+		content: "";
+		background: rgba(0, 0, 0, 0.25);
+		background: linear-gradient(to bottom, rgba(0, 0, 0, 0.375), rgba(0, 0, 0, 0)), 
+					linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.125));
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+	}
 	@media (min-width: 30em) {
 		body.find main form {
 			margin-left: -3em;
@@ -127,6 +142,8 @@
 		background: rgba(0, 0, 0, 0.4);
 		padding: 1.5em;
 		border-radius: 0.25em;
+		position: relative;
+		z-index: 1;
 	}
 	body.find main form h1 {
 		margin-top: 0;
@@ -139,11 +156,11 @@
 	body.find .header h2 span {
 		color: white;
 	}
+	/*
 	body.find .header svg path {
 		fill: white;
 		fill: rgba(255, 255, 255, 0.5);
 	}
-	
 	body.find .header svg path[fill="#F7BF58"] {
 		fill: white;
 	}
@@ -153,6 +170,7 @@
 	body.find .header svg path[fill="#90C146"] {
 		fill: rgba(255, 255, 255, 0.95);
 	}
+	*/
 	</style>
 
 </head>
@@ -295,7 +313,7 @@
 				<li>
 					<a href="/grocery-store">
 						<img class="icon" src="/assets/images/home/grocery-store.svg" alt="" />
-						<span>Grocery Stores</span>&nbsp;
+						<span>Grocery Stores</span>
 						<small class="slow-page-note">
 							<!-- 
 								Wildlife Observation
