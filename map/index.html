@@ -194,9 +194,6 @@
 		<p class="phone"></p>
 		<h4>Hours</h4>
 		<p class="hours"></p>
-		<hr>
-		<p style="font-size:small; font-style:italic;">Wrong Information?
-		<a class="flag" href="mailto:contact@foodoasis.la" style="color:#808080; font-size:small; font-style:italic;">Let us know</a></p>
 	</div>
 	</script>
 
@@ -214,28 +211,26 @@
 	];
 
 	var MAP_LAYERS = [
-		//
-		// 09/24: Need updated Food Pantry dataset from Kiki!
-		// {
-		// 	name: 'food-bank',
-		// 	label: 'Food Bank',
-		// 	sourceLayer: 'Food_Banks_-_Andrew',
-		// 	sourceURL: 'mapbox://fooddesertsla.c1nwj97w',
-		// 	color: 'rgba(249, 192, 88, 0.75)' /* @banana */
-		// },
+		{
+			name: 'food-bank',
+			label: 'Food Bank',
+			sourceLayer: 'Food_Banks_-_Andrew',
+			sourceURL: 'mapbox://fooddesertsla.c1nwj97w',
+			color: 'rgba(249, 192, 88, 0.75)' /* @banana */
+		},
 		{
 			name: 'community-garden',
 			label: 'Community Garden',
-			sourceLayer: 'Community-Gardens_09-22-0ruhbz',
-			sourceURL: 'mapbox://foodoasisla.43efueeq',
+			sourceLayer: 'Community-Gardens_08-30-9i6uw2',
+			sourceURL: 'mapbox://fooddesertsla.49jm12ce',
 			//color: 'rgba(241, 95, 91, 0.75)' /* @strawberry */
 			color: 'rgba(144, 194, 70, 0.75)' /* @lime */
 		},
 		{
 			name: 'farmers-market',
 			label: 'Farmers Market',
-			sourceLayer: 'Farmers-Markets_08-17-3rvtq4',
-			sourceURL: 'mapbox://foodoasisla.7cdn2m99',
+			sourceLayer: 'Live_Farmers_Markets_-_MASTER-1x3wlp',
+			sourceURL: 'mapbox://fooddesertsla.b7p0hpya',
 			//color: 'rgba(77, 85, 148, 0.75)' /* @blueberry */
 			// color: 'rgba(241, 95, 91, 0.75)' /* @strawberry */
 			// color: 'rgba(161, 167, 72, 0.75)' /* @asparagus */
@@ -245,17 +240,8 @@
 		{
 			name: 'grocery-store',
 			label: 'Grocery Store',
-			sourceLayer: 'Grocery_09-22-4xppp0',
-			sourceURL: 'mapbox://foodoasisla.2uksfosw',
-			//color: 'rgba(144, 194, 70, 0.75)' /* @lime */
-			//color: 'rgba(241, 95, 91, 0.75)' /* @strawberry */
-			color: 'rgba(40, 137, 187, 0.75)' /* @blueberry */
-		},
-		{
-			name: 'grocery-misc',
-			label: 'Store',
-			sourceLayer: 'Grocery-Misc_09-22-8gdiuf',
-			sourceURL: 'mapbox://foodoasisla.59rckfih',
+			sourceLayer: 'Grocery_08-30-71pjm3',
+			sourceURL: 'mapbox://fooddesertsla.3ywcv3cs',
 			//color: 'rgba(144, 194, 70, 0.75)' /* @lime */
 			//color: 'rgba(241, 95, 91, 0.75)' /* @strawberry */
 			color: 'rgba(40, 137, 187, 0.75)' /* @blueberry */
@@ -263,8 +249,8 @@
 		{
 			name: 'supermarket',
 			label: 'Supermarket',
-			sourceLayer: 'Supermarkets_09-22-brcxgy',
-			sourceURL: 'mapbox://foodoasisla.99s1i9kf',
+			sourceLayer: 'Supermarkets_08-30-auwrik',
+			sourceURL: 'mapbox://fooddesertsla.aaxhcodx',
 			//color: 'rgba(161, 167, 72, 0.75)' /* @asparagus */
 			//color: 'rgba(241, 95, 91, 0.75)' /* @strawberry */
 			color: 'rgba(77, 85, 148, 0.75)' /* @blueberry */
@@ -441,12 +427,6 @@
 				hoursElement.parentNode.removeChild(hoursElement);
 			}
 
-			// Flag
-			// URL: https://form.jotform.com/62638504761156?businessName=[name]&address=[address]&category=[category]&longitude=[lon]&latitude=[lat]
-
-			var flagElement = element.querySelector('.flag');
-			flagElement.setAttribute("href","https://form.jotform.com/62638504761156?businessName="+data.name+"&address="+data.address+"&category="+data.type+"&longitude="+01+"&latitude="+02)
-
 			return element;
 		}
 	}
@@ -537,10 +517,10 @@
 		return address;
 	}
 
-	mapboxgl.accessToken = 'pk.eyJ1IjoiZm9vZG9hc2lzbGEiLCJhIjoiY2l0ZjdudnN4MDhpYzJvbXlpb3IyOHg2OSJ9.POBdqXF5EIsGwfEzCm8Y3Q';
+	mapboxgl.accessToken = 'pk.eyJ1IjoiZm9vZGRlc2VydHNsYSIsImEiOiJjaXByOXRscnMwNzY1Zm5ub3YwYTd5Z3dsIn0.DWgUhgW32pVkybKx7cWWiw';
 	var map = new mapboxgl.Map({
 		container: 'map',
-		style: 'mapbox://styles/mapbox/streets-v9',
+		style: 'mapbox://styles/mapbox/light-v9',
 		zoom: 13, // starting zoom
 		center: MAP_START_POSITION, // starting position
 		maxBounds: MAP_BOUNDS
@@ -644,7 +624,7 @@
 		// Draw food desert census tracts
 		map.addSource('Food Deserts', {
 			type: 'vector',
-			url: 'mapbox://foodoasisla.d040onrj'
+			url: 'mapbox://fooddesertsla.26tf3nay'
 		});
 		map.addLayer({
 			'id': 'Food Deserts',
@@ -658,7 +638,7 @@
 				'fill-opacity': 0.1
 			},
 			'filter': ["==", "LI LA De_4", "1"],
-			'source-layer': 'USDA_Food_Desert_Tracts_2010-65gavx'
+			'source-layer': 'LI_LA_Desert_Map_-_USDA_-_Tracts'
 		});
 	});
 

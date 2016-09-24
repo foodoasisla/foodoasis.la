@@ -1,7 +1,6 @@
 (function() {
 
 	var foodSourcesList = document.querySelector('.food-source-list');
-	console.log("food sources children", foodSourcesList.children);
 
 	var foodSources = foodSourcesList.querySelectorAll('li');
 
@@ -51,7 +50,6 @@
 	}
 
 	function sortByClosest(latitude, longitude) {
-		console.log("inside sortByClosest");
 		var list = [];
 		for (index = 0; index < foodSources.length; ++index) {
 			var dif = PythagorasEquirectangular(latitude, longitude,
@@ -73,9 +71,6 @@
 			// a must be equal to b
 			return 0;
 		});
-
-		list.splice(0, 25);
-
 		for (index = 0; index < list.length; ++index) {
 			var element = list[index].element;
 			var parent = element.parentNode;
@@ -84,7 +79,6 @@
 		}
 
 		foodSourcesList.classList.remove('sorting');
-		
 	}
 
 	function PythagorasEquirectangular(lat1, lon1, lat2, lon2) {
