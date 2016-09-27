@@ -35836,4 +35836,9529 @@ var locations = [
         },
 
     
+
+        {
+            name: "Palmdale Smoke",
+            type: "Store",
+            address: "2531 Olive Dr, Palmdale, CA 93550",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Smoke Video Plus",
+            type: "Store",
+            address: "551 W Avenue J, Lancaster, CA 93534",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Montana Smoke Shop And Mini Market",
+            type: "Store",
+            address: "1905 S Western Ave, Los Angeles, CA 90018",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "BD Smoke Shop",
+            type: "Store",
+            address: "626 E Manchester Ave, Los Angeles, CA 90001",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Almost Free Smoke And Gift Shop",
+            type: "Store",
+            address: "472 S Market St, Inglewood, CA 90301",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "99 Cent And Smoke Shop",
+            type: "Store",
+            address: "10122 S Figueroa St, Los Angeles, CA 90003",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Smokeshop",
+            type: "Store",
+            address: "38332 30th St E, Palmdale, CA 93550",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Village Smoke Shop",
+            type: "Store",
+            address: "336 E Avenue I, Lancaster, CA 93535",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "99 Cent Smoke Shop",
+            type: "Store",
+            address: "4427 S Western Ave, Los Angeles, CA 90062",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Smoke N Mart",
+            type: "Store",
+            address: "412 W Avenue J, Lancaster, CA 93534",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "101 Mini Mart And Smoke Shop",
+            type: "Store",
+            address: "1665 W Martin Luther King Jr Blvd, Los Angeles, CA 90062",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Circle K",
+            type: "Store",
+            address: "4200 Chino Hills Pkwy, Chino Hills, CA 91709",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Circle K",
+            type: "Store",
+            address: "28005 Seco Canyon Rd, Santa Clarita, CA 91390",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Circle K",
+            type: "Store",
+            address: "8451 Slauson Ave, Pico Rivera, CA 90660",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Circle K",
+            type: "Store",
+            address: "2210 D St, La Verne, CA 91750",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Circle K",
+            type: "Store",
+            address: "5941 State St, Huntington Park, CA 90255",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Circle K",
+            type: "Store",
+            address: "12004 Ramona Blvd, El Monte, CA 91732",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Circle K",
+            type: "Store",
+            address: "12358 Central Ave, Chino, CA 91710",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Circle K",
+            type: "Store",
+            address: "12806 Prairie Ave, Hawthorne, CA 90250",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Circle K",
+            type: "Store",
+            address: "21216 Pacific Coast Hwy, Malibu, CA 90265",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Circle K",
+            type: "Store",
+            address: "13750 Los Angeles St, Baldwin Park, CA 91706",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Circle K",
+            type: "Store",
+            address: "765 N Sepulveda Blvd, El Segundo, CA 90245",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Circle K",
+            type: "Store",
+            address: "520 W Rancho Vista Blvd, Palmdale, CA 93551",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Circle K",
+            type: "Store",
+            address: "18755 Via Princessa, Canyon Country, CA 91387",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Circle K",
+            type: "Store",
+            address: "4008 Grand Ave, Chino, CA 91710",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Circle K",
+            type: "Store",
+            address: "15960 Los Serranos, Chino Hills, CA 91709",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Circle K",
+            type: "Store",
+            address: "14220 Chino Hills Pkwy, Chino Hills, CA 91709",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Circle K",
+            type: "Store",
+            address: "6510 Butterfield Ranch Rd, Chino Hills, CA 91709",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Circle K",
+            type: "Store",
+            address: "2343 W Avenue J, Lancaster, CA 93536",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Circle K",
+            type: "Store",
+            address: "1865 Manhattan Beach Blvd, Manhattan Beach, CA 90266",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Circle K",
+            type: "Store",
+            address: "524 W Adams Blvd, Los Angeles, CA 90007",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Circle K",
+            type: "Store",
+            address: "392 N Lake Ave, Pasadena, CA 91101",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Circle K",
+            type: "Store",
+            address: "5553 White Oak Ave, Encino, CA 91316",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Circle K",
+            type: "Store",
+            address: "2010 S Hacienda Blvd, Hacienda Heights, CA 91745",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Circle K",
+            type: "Store",
+            address: "504 N Diamond Bar Blvd, Diamond Bar, CA 91765",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Circle K",
+            type: "Store",
+            address: "5871 E Spring St, Long Beach, CA 90808",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Circle K",
+            type: "Store",
+            address: "27706 McBean Pkwy, Valencia, CA 91354",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Circle K",
+            type: "Store",
+            address: "2114 Verdugo Blvd, Montrose, CA 91020",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Circle K",
+            type: "Store",
+            address: "12000 Paramount Blvd, Downey, CA 90242",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Circle K",
+            type: "Store",
+            address: "1150 W Pacific Coast Hwy, Harbor City, CA 90710",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Circle K",
+            type: "Store",
+            address: "1030 S Hacienda Blvd, Hacienda Heights, CA 91745",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Circle K",
+            type: "Store",
+            address: "22240 Avalon Blvd, Carson, CA 90745",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Circle K",
+            type: "Store",
+            address: "2529 S Santa Fe Ave, Vernon, CA 90058",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Circle K",
+            type: "Store",
+            address: "3260 Chino Ave, Chino Hills, CA 91709",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Circle K",
+            type: "Store",
+            address: "5001 Clara St, Cudahy, CA 90201",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Circle K",
+            type: "Store",
+            address: "229 W 7th St, Los Angeles, CA 90014",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Circle K",
+            type: "Store",
+            address: "20839 Valley Blvd, Walnut, CA 91789",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Circle K",
+            type: "Store",
+            address: "21186 Hawthorne Blvd, Torrance, CA 90503",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Circle K",
+            type: "Store",
+            address: "13041 Rosecrans Ave, Norwalk, CA 90650",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Circle K",
+            type: "Store",
+            address: "9355 Somerset Blvd, Bellflower, CA 90706",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Circle K",
+            type: "Store",
+            address: "1400 Carbon Canyon Rd, Chino Hills, CA 91709",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Circle K",
+            type: "Store",
+            address: "14204 Rosecrans Ave, La Mirada, CA 90638",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Circle K",
+            type: "Store",
+            address: "8609 Garvey Ave, Rosemead, CA 91770",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Circle K",
+            type: "Store",
+            address: "16408 Orange Ave, Paramount, CA 90723",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Circle K",
+            type: "Store",
+            address: "12604 Beverly Blvd, Whittier, CA 90601",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Circle K",
+            type: "Store",
+            address: "1 E Hellman Ave, Alhambra, CA 91801",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Circle K",
+            type: "Store",
+            address: "301 E Bonita Ave, San Dimas, CA 91773",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Circle K",
+            type: "Store",
+            address: "5202 Peck Rd, El Monte, CA 91732",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Circle K",
+            type: "Store",
+            address: "6804 Garfield Ave, Bell Gardens, CA 90201",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Circle K",
+            type: "Store",
+            address: "3504 E Imperial Hwy, Lynwood, CA 90262",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "1st Stop Mini Mart",
+            type: "Store",
+            address: "420 E Florence Ave, Inglewood, CA 90301",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "52 MINI MART",
+            type: "Store",
+            address: "359 E 52nd St, Long Beach, CA 90805",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "7 Kings Mini Market",
+            type: "Store",
+            address: "17646 Lassen St, Northridge, CA 91325",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "98 Cent Mini Market",
+            type: "Store",
+            address: "5326 Avalon Blvd, Los Angeles, CA 90011",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "A & D MINI MART",
+            type: "Store",
+            address: "910 S Central Ave, Compton, CA 90220",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "AA MINI MART",
+            type: "Store",
+            address: "1601 CENTENILA AVE, INGLEWOOD, CA 90302",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Aby Mini Market",
+            type: "Store",
+            address: "11642 Victory Blvd, North Hollywood, CA 91606",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Agnes Mini Market",
+            type: "Store",
+            address: "6755 Agnes Ave, North Hollywood, CA 91606",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "AJ MINI MARKET",
+            type: "Store",
+            address: "4054 S Vermont Ave, Los Angeles, CA 90037",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Ajustina's Minimarket & Party Supply",
+            type: "Store",
+            address: "6420 S Broadway, Los Angeles, CA 90003",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Albert Mini Market",
+            type: "Store",
+            address: "5522 Hooper Ave, Los Angeles, CA 90011",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Alerik's Mini Market & Party Supply",
+            type: "Store",
+            address: "3507 Venice Blvd, Los Angeles, CA 90019",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Ali Mini Mart",
+            type: "Store",
+            address: "1614 W Florence Ave, Los Angeles, CA 90047",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Alondra Mini Market",
+            type: "Store",
+            address: "3765 S Western Ave, Los Angeles, CA 90018",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Alp'z Mini Market",
+            type: "Store",
+            address: "7512 S Hoover St, Los Angeles, CA 90044",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Am Pm Mini Mart",
+            type: "Store",
+            address: "1210 Crenshaw Blvd, Torrance, CA 90501",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Amb Mini Market 1",
+            type: "Store",
+            address: "369 Wall St, Los Angeles, CA 90013",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "AMB Mini Market 1",
+            type: "Store",
+            address: "437 E 7th St, Los Angeles, CA 90014",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Ana's Mini Market",
+            type: "Store",
+            address: "5253 S Broadway, Los Angeles, CA 90037",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Angeles Mini Market",
+            type: "Store",
+            address: "9202 S Vermont Ave, Los Angeles, CA 90044",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Angels Mini Market",
+            type: "Store",
+            address: "1922 E 103rd St, Los Angeles, CA 90002",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Anthony's Mini Market",
+            type: "Store",
+            address: "5600 S San Pedro St, Los Angeles, CA 90011",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "AV Minimarket",
+            type: "Store",
+            address: "8223 S Broadway, Los Angeles, CA 90003",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Avalon's Best Mini Market",
+            type: "Store",
+            address: "11022 Avalon Blvd, Los Angeles, CA 90061",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "B&B Mini Mart",
+            type: "Store",
+            address: "4140 Crenshaw Blvd, Los Angeles, CA 90008",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Belle Porte Mini Mart",
+            type: "Store",
+            address: "25305 Belle Porte Ave, Harbor City, CA 90710",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "BEN'S MINI MARKET",
+            type: "Store",
+            address: "14131 Vanowen St, Van Nuys, CA 91405",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "BETO'S MINI MARKET",
+            type: "Store",
+            address: "766 S Vermont Ave, Los Angeles, CA 90005",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Big T Mini Mart 1",
+            type: "Store",
+            address: "240 W Main St, Alhambra, CA 91801",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Bunny's Mini Mart",
+            type: "Store",
+            address: "906 S Willowbrook Ave, Compton, CA 90220",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "C & J Mini Mart",
+            type: "Store",
+            address: "11228 Wilmington Ave, Los Angeles, CA 90059",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "California Deli Mini",
+            type: "Store",
+            address: "13205 Osborne St, Arleta, CA 91331",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "California Mini Mart",
+            type: "Store",
+            address: "3109 Colima Rd, Hacienda Heights, CA 91745",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Canyon Mini Mart",
+            type: "Store",
+            address: "18580 Via Princessa, Canyon Country, CA 91387",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Castano's Mini Market",
+            type: "Store",
+            address: "5979 S Broadway, Los Angeles, CA 90003",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Castillos Mini Market",
+            type: "Store",
+            address: "2195 Whittier Blvd, Los Angeles, CA 90023",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Charle's Mini Market & Party Rental",
+            type: "Store",
+            address: "1854 W Washington Blvd, Los Angeles, CA 90007",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "CIRCLE M MINI MARKET",
+            type: "Store",
+            address: "12142 Downey Ave, Downey, CA 90242",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Courson Connection Mini Mart",
+            type: "Store",
+            address: "1104 E Palmdale Blvd, Palmdale, CA 93550",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "CRENSHAW MINI MARKET",
+            type: "Store",
+            address: "6431 Crenshaw Blvd, Los Angeles, CA 90043",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Cris Jr's Mini Mart & 99 Cent Store",
+            type: "Store",
+            address: "1134 E Imperial Hwy, Los Angeles, CA 90059",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Dani  Mini Market",
+            type: "Store",
+            address: "5024 S Vermont Ave, Los Angeles, CA 90037",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Daniel Mini Market",
+            type: "Store",
+            address: "3124 E Gage Ave, Huntington Park, CA 90255",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Day N Nite Mini Market",
+            type: "Store",
+            address: "5101 Santa Monica Blvd, Los Angeles, CA 90029",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Desert Rose Mini Mart AV Ice Cream",
+            type: "Store",
+            address: "106 E Avenue I, Lancaster, CA 93535",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Desoto Mini Market",
+            type: "Store",
+            address: "9111 De Soto Ave, Chatsworth, CA 91311",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "DIANA'S MINI MARKET",
+            type: "Store",
+            address: "5509 Compton Ave, Los Angeles, CA 90011",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Dominic Co., Inc",
+            type: "Store",
+            address: "1995 Pacific Ave, Long Beach, CA 90806",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Don Juan Mini Market",
+            type: "Store",
+            address: "10825 S San Pedro St, Los Angeles, CA 90061",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "E J Mini Market",
+            type: "Store",
+            address: "4600 S Central Ave, Los Angeles, CA 90011",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "EDDIE'S MINI MART",
+            type: "Store",
+            address: "11236 Whittier Blvd, Whittier, CA 90606",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "EL MIGUELENO MINI MARKET",
+            type: "Store",
+            address: "2688 W Pico Blvd, Los Angeles, CA 90006",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "El Milagro Mini Market",
+            type: "Store",
+            address: "6607 S San Pedro St, Los Angeles, CA 90003",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "El Mini Discount Store",
+            type: "Store",
+            address: "2801 Pasadena Ave, Los Angeles, CA 90031",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "El Pulgarcito Mini Market",
+            type: "Store",
+            address: "1661 W Martin Luther King Jr Blvd, Los Angeles, CA 90062",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "EL TORITO MINI MARKET",
+            type: "Store",
+            address: "3547 W Imperial Hwy, Inglewood, CA 90303",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Elisabel`s Mini Market",
+            type: "Store",
+            address: "6027 S Hoover St, Los Angeles, CA 90044",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Epatlan Mini Market 1",
+            type: "Store",
+            address: "4083 S Main St, Los Angeles, CA 90037",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Evelyn Mini Market",
+            type: "Store",
+            address: "5610 S Main St, Los Angeles, CA 90037",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Express Mini Mart",
+            type: "Store",
+            address: "1935 E Florence Ave, Los Angeles, CA 90001",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "EZ Mini Mart",
+            type: "Store",
+            address: "3648 Baldwin Park Blvd, Baldwin Park, CA 91706",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Family Mini Market",
+            type: "Store",
+            address: "10801 Compton Ave, Los Angeles, CA 90059",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Family Mini Mart & Discount Tobacco",
+            type: "Store",
+            address: "1410 E Pacific Coast Hwy, Long Beach, CA 90806",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Fernandos Mini Market",
+            type: "Store",
+            address: "380 W 38th St, Los Angeles, CA 90037",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Fiesta Mini Market N/A",
+            type: "Store",
+            address: "3657 Pomeroy St, Los Angeles, CA 90063",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "FOOD PLAZA MINI MARKET",
+            type: "Store",
+            address: "601 S Prairie Ave, Inglewood, CA 90301",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "FOUNTAIN MINI MARKET",
+            type: "Store",
+            address: "4878 Fountain Ave, Los Angeles, CA 90029",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Frank Hallak Jr Mini Market",
+            type: "Store",
+            address: "12831 Norris Ave, Sylmar, CA 91342",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Galindo Mini Market 1",
+            type: "Store",
+            address: "6720 S Central Ave, Los Angeles, CA 90001",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Garcia Mini Market",
+            type: "Store",
+            address: "3207 Griffith Ave, Los Angeles, CA 90011",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "GARCIA MINI MARKET 2",
+            type: "Store",
+            address: "4050 Broadway Pl, Los Angeles, CA 90037",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Garcia Mini Market 2",
+            type: "Store",
+            address: "2721 S Central Ave, Los Angeles, CA 90011",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Garcia's Mini Market",
+            type: "Store",
+            address: "3803 S Main St, Los Angeles, CA 90037",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Garcia's Mini Market",
+            type: "Store",
+            address: "450 E Vernon Ave, Los Angeles, CA 90011",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Garcia's Mini Market",
+            type: "Store",
+            address: "1300 Firestone Blvd, Los Angeles, CA 90001",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Garcia's Mini Market  2 2",
+            type: "Store",
+            address: "3700 S Main St, Los Angeles, CA 90007",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Genesis Mini Market",
+            type: "Store",
+            address: "12020 Long Beach Blvd, Lynwood, CA 90262",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Gomez Mini Market",
+            type: "Store",
+            address: "4645 Bowman Blvd, Los Angeles, CA 90032",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Goo Plus Mini Market",
+            type: "Store",
+            address: "23433 S Western Ave, Torrance, CA 90501",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Grab N Go Mini Mart",
+            type: "Store",
+            address: "1018 W Rosecrans Ave, Gardena, CA 90247",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "GRANDE'S MINI MARKET",
+            type: "Store",
+            address: "4350 Melrose Ave, Los Angeles, CA 90029",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Grandview Mini Market 2",
+            type: "Store",
+            address: "1325 San Gabriel Blvd, Rosemead, CA 91770",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "GTPN Mini Market",
+            type: "Store",
+            address: "3535 W Imperial Hwy, Inglewood, CA 90303",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Guadalupana Mini Market",
+            type: "Store",
+            address: "5726 Santa Monica Blvd, Los Angeles, CA 90038",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "H & K Mini Mart",
+            type: "Store",
+            address: "829 E Vernon Ave, Los Angeles, CA 90011",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Haddad Mobil Mini Mart",
+            type: "Store",
+            address: "18501 Soledad Canyon Rd, Canyon Country, CA 91351",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Harrys Mobil Mini Mart",
+            type: "Store",
+            address: "110 E Palmdale Blvd, Palmdale, CA 93550",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Heidy Mini Market",
+            type: "Store",
+            address: "8622 S Broadway, Los Angeles, CA 90003",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Hogan Postal Service /mini Market",
+            type: "Store",
+            address: "1002 N Wilmington Ave, Compton, CA 90220",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Hollydale Mini Mart & Discount Store",
+            type: "Store",
+            address: "5720 Imperial Hwy, South Gate, CA 90280",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Hope Mini Market",
+            type: "Store",
+            address: "5300 S Hoover St, Los Angeles, CA 90037",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Imperial Mini Market 1",
+            type: "Store",
+            address: "815 E Washington Blvd, Los Angeles, CA 90021",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "International Mini Market",
+            type: "Store",
+            address: "13992 Crenshaw Blvd, Gardena, CA 90249",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Ismael Mini Market",
+            type: "Store",
+            address: "1201 S Greenwood Ave, Montebello, CA 90640",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Ivy Mini Market",
+            type: "Store",
+            address: "663 N Heliotrope Dr, Los Angeles, CA 90004",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "J & K Mini Market",
+            type: "Store",
+            address: "6429 72nd St, Paramount, CA 90723",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "J & M Mini Mart",
+            type: "Store",
+            address: "7141 Winnetka Ave, Winnetka, CA 91306",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "J & N Mini Mart",
+            type: "Store",
+            address: "9421 Artesia Blvd, Bellflower, CA 90706",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "J & S MINI MARKET",
+            type: "Store",
+            address: "922 N ALVARADO, LOS ANGELES, CA 90026",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "J.k Minimarket & Snackshop",
+            type: "Store",
+            address: "10628 S San Pedro St, Los Angeles, CA 90003",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Jackie's Mini Market",
+            type: "Store",
+            address: "10029 S Broadway, Los Angeles, CA 90003",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Jacobs Mini Market",
+            type: "Store",
+            address: "8405 S Western Ave, Los Angeles, CA 90047",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Jatzel's Mini Market",
+            type: "Store",
+            address: "14500 S Western Ave, Gardena, CA 90249",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "JOE'S MINI MARKET",
+            type: "Store",
+            address: "5200 York Blvd, Los Angeles, CA 90042",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Jose's Water Mini Market",
+            type: "Store",
+            address: "9303 S Vermont Ave, Los Angeles, CA 90044",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "JPS Mini Market",
+            type: "Store",
+            address: "2601 W Pico Blvd, Los Angeles, CA 90006",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Julie's Mini Market",
+            type: "Store",
+            address: "8223 S Western Ave, Los Angeles, CA 90047",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "JUNIOR MINI MARKET",
+            type: "Store",
+            address: "4310 McKinley Ave, Los Angeles, CA 90011",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "K TWENTY MINI MART",
+            type: "Store",
+            address: "1850 W Avenue K, Lancaster, CA 93534",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "K'S MINI MARKET",
+            type: "Store",
+            address: "16061 Vanowen St, Van Nuys, CA 91406",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Karen Mini Market",
+            type: "Store",
+            address: "152 S Fresno St, Los Angeles, CA 90063",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Katcoot Mini Mart",
+            type: "Store",
+            address: "4164 S Broadway, Los Angeles, CA 90037",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "KRISTY'S MINI-MARKET",
+            type: "Store",
+            address: "1632 E 33rd St, Los Angeles, CA 90011",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "La Bodeguita Mini Market",
+            type: "Store",
+            address: "1135 N Summit Ave, Pasadena, CA 91103",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "La Chelita Mini Market",
+            type: "Store",
+            address: "13991 Prairie Ave, Hawthorne, CA 90250",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "La Chiquita Mini Market",
+            type: "Store",
+            address: "3307 E Florence Ave, Huntington Park, CA 90255",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "La Especial Mini Market",
+            type: "Store",
+            address: "3465 E 8th St, Los Angeles, CA 90023",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "La Estrella Mini Market",
+            type: "Store",
+            address: "15526 Paramount Blvd Ste K, Paramount, CA 90723",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "La Guadalupana Mini Market 99 Cent",
+            type: "Store",
+            address: "3800 Avalon Blvd, Los Angeles, CA 90011",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "La Oaxaquena Mini Market",
+            type: "Store",
+            address: "5642 Santa Monica Blvd, Los Angeles, CA 90038",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "La Panchita Mini Market",
+            type: "Store",
+            address: "5157 S Western Ave, Los Angeles, CA 90062",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "La Tiendita Mini Market 1",
+            type: "Store",
+            address: "4010 Tweedy Blvd, South Gate, CA 90280",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "La Vaquita Mini Market",
+            type: "Store",
+            address: "14539 Blythe St, Panorama City, CA 91402",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "LANKERSHIM MINI MARKET",
+            type: "Store",
+            address: "7614 Lankershim Blvd, North Hollywood, CA 91605",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "LEON'S MINI MARKET",
+            type: "Store",
+            address: "7111 S Main St, Los Angeles, CA 90003",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Leyva's Mini Market",
+            type: "Store",
+            address: "1358 W 54th St, Los Angeles, CA 90037",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "LIANA'S MINI MARKET",
+            type: "Store",
+            address: "5171 Venice Blvd, Los Angeles, CA 90019",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Liza's Mini Market",
+            type: "Store",
+            address: "973 S Lorena St, Los Angeles, CA 90023",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Loma Mini Market",
+            type: "Store",
+            address: "1600 Loma Ave, Long Beach, CA 90804",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Lomita Mini Market",
+            type: "Store",
+            address: "2146 1/2 Lomita Blvd, Lomita, CA 90717",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Los 3 Hernandez Mini Market",
+            type: "Store",
+            address: "1301 W Jefferson Blvd, Los Angeles, CA 90007",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "LUCY'S MINI MARKET",
+            type: "Store",
+            address: "2420 E Pacific Coast Hwy, Long Beach, CA 90804",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Lupita's Mini Market",
+            type: "Store",
+            address: "9420 S Figueroa St, Los Angeles, CA 90003",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Lupitas Mini Market",
+            type: "Store",
+            address: "2300 Whittier Blvd, Los Angeles, CA 90023",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "M & K Mini Market",
+            type: "Store",
+            address: "4117 S Central Ave, Los Angeles, CA 90011",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "M S Mini Mart 1",
+            type: "Store",
+            address: "17531 Central Ave, Carson, CA 90746",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "M.A.C.7 MINI SUPER MART",
+            type: "Store",
+            address: "3859 Broadway Pl, Los Angeles, CA 90037",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Magic Buzz Mini Market & Tobacco",
+            type: "Store",
+            address: "304 E Holt Ave, Pomona, CA 91767",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Majers Mini Market",
+            type: "Store",
+            address: "1648 San Fernando Rd, San Fernando, CA 91340",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Manriquez Mini-Market",
+            type: "Store",
+            address: "7614 S San Pedro St, Los Angeles, CA 90003",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Manuel Mini Market 1",
+            type: "Store",
+            address: "206 W Adams Blvd, Los Angeles, CA 90007",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "MARCE'S MINI MARKET",
+            type: "Store",
+            address: "4162 Avalon Blvd, Los Angeles, CA 90011",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Maria Aranda Mini Market",
+            type: "Store",
+            address: "4703 Compton Ave, Los Angeles, CA 90011",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Maria's Mini Market",
+            type: "Store",
+            address: "4730 S Normandie Ave, Los Angeles, CA 90037",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Marisela Mini Marker",
+            type: "Store",
+            address: "2146 Venice Blvd, Los Angeles, CA 90006",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Martha's Mini Market",
+            type: "Store",
+            address: "4122 Hooper Ave, Los Angeles, CA 90011",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Mary Mini Market",
+            type: "Store",
+            address: "5025 S Broadway, Los Angeles, CA 90037",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Mateo's Mini Market",
+            type: "Store",
+            address: "758 E 79th St, Los Angeles, CA 90001",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Maya Mini Market",
+            type: "Store",
+            address: "1481 W Adams Blvd, Los Angeles, CA 90007",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Mayas Mini Market",
+            type: "Store",
+            address: "1563 Venice Blvd, Los Angeles, CA 90006",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Mayra's Drive-Thru Mini Market",
+            type: "Store",
+            address: "1990 Martin Luther King Jr Ave, Long Beach, CA 90806",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Maywood Mini Market",
+            type: "Store",
+            address: "5720 Maywood Ave, Maywood, CA 90270",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "MC Veronica's Mini Market",
+            type: "Store",
+            address: "7914 S Vermont Ave, Los Angeles, CA 90044",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Mel Mars Mini Mart",
+            type: "Store",
+            address: "44645 Sierra Hwy, Lancaster, CA 93534",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Melany Mini Market",
+            type: "Store",
+            address: "6512 S Hoover St, Los Angeles, CA 90044",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Metro Mini Market",
+            type: "Store",
+            address: "1262 Long Beach Blvd, Long Beach, CA 90813",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "MF Mini Market 2",
+            type: "Store",
+            address: "4509 W Pico Blvd, Los Angeles, CA 90019",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Mi Changarito Mini Market",
+            type: "Store",
+            address: "7680 S Central Ave, Los Angeles, CA 90001",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Mi Chapita Mini Market",
+            type: "Store",
+            address: "5724 S Broadway, Los Angeles, CA 90037",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Mi Ranchito Mini Market 1",
+            type: "Store",
+            address: "1060 E Palmdale Blvd, Palmdale, CA 93550",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Mi Rey Mini Market",
+            type: "Store",
+            address: "9420 State St, South Gate, CA 90280",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "MIA'S MINI MARKET",
+            type: "Store",
+            address: "8750 S Broadway, Los Angeles, CA 90003",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Mia's Mini Market",
+            type: "Store",
+            address: "3900 Denker Ave, Los Angeles, CA 90062",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Mina Mini Market",
+            type: "Store",
+            address: "7626 S Vermont Ave, Los Angeles, CA 90044",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "MINI A-1 MART",
+            type: "Store",
+            address: "11550 Colima Rd, Whittier, CA 90604",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Mini Food Mart",
+            type: "Store",
+            address: "4189 S Figueroa St, Los Angeles, CA 90037",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Mini Market",
+            type: "Store",
+            address: "647 W Florence Ave, Los Angeles, CA 90044",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Mini Market",
+            type: "Store",
+            address: "8070 Wilcox Ave, Bell Gardens, CA 90201",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Mini Market 1",
+            type: "Store",
+            address: "9101 S Western Ave, Los Angeles, CA 90047",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Mini Market Acosta",
+            type: "Store",
+            address: "2805 S Vermont Ave, Los Angeles, CA 90007",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Mini Market Chiquis & Mocha",
+            type: "Store",
+            address: "11552 Vanowen St, North Hollywood, CA 91605",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Mini Market El Primo",
+            type: "Store",
+            address: "7850 Seville Ave, Huntington Park, CA 90255",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Mini Market Huetamo",
+            type: "Store",
+            address: "2555 W Olympic Blvd, Los Angeles, CA 90006",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Mini Market Jurema",
+            type: "Store",
+            address: "852 E Manchester Ave, Los Angeles, CA 90001",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Mini Market Martha's  99 1",
+            type: "Store",
+            address: "508 S Rowan Ave, Los Angeles, CA 90063",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Mini Market on Main St",
+            type: "Store",
+            address: "9103 S Main St, Los Angeles, CA 90003",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Mini Market Rosita",
+            type: "Store",
+            address: "8400 California Ave, South Gate, CA 90280",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Mini Market Tobacco",
+            type: "Store",
+            address: "852 W Holt Ave, Pomona, CA 91768",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Mini Max Market",
+            type: "Store",
+            address: "4051 Gage Ave, Bell, CA 90201",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Mini Mercadito In E.l.a.",
+            type: "Store",
+            address: "3425 E 1st St, Los Angeles, CA 90063",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Mini Super Market",
+            type: "Store",
+            address: "2405 E Slauson Ave, Huntington Park, CA 90255",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Miranda Mini Market",
+            type: "Store",
+            address: "136 E Martin Luther King Jr Blvd, Los Angeles, CA 90011",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Mirandas Mini Market",
+            type: "Store",
+            address: "4122 Whittier Blvd, Los Angeles, CA 90023",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Mjb Video & Mini Market",
+            type: "Store",
+            address: "4459 Beverly Blvd, Los Angeles, CA 90004",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Mjm Vallejo Mini-mart,inc. 82379",
+            type: "Store",
+            address: "16804 Downey Ave, Paramount, CA 90723",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Mjm Vallejo Mini-mart,inc. 82638",
+            type: "Store",
+            address: "10717 Carmenita Rd, Whittier, CA 90605",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Moises Mini Market",
+            type: "Store",
+            address: "1401 E Vernon Ave, Los Angeles, CA 90011",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Mom And Dad Mini Mart 0",
+            type: "Store",
+            address: "601 E Manchester Ave, Los Angeles, CA 90001",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Monarca's Mini Market",
+            type: "Store",
+            address: "3601 S San Pedro St, Los Angeles, CA 90011",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "MONTOYA'S MINI  MARKET",
+            type: "Store",
+            address: "6726 S San Pedro St, Los Angeles, CA 90003",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "New Downtown Cafe & Mini Market",
+            type: "Store",
+            address: "241 E 7th St, Los Angeles, CA 90014",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Nina's Mini Market",
+            type: "Store",
+            address: "7313 Seville Ave, Huntington Park, CA 90255",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "North Hollywood Mini Mart",
+            type: "Store",
+            address: "12050 Roscoe Blvd, North Hollywood, CA 91605",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Olympic Mini Market",
+            type: "Store",
+            address: "2801 E Olympic Blvd, Los Angeles, CA 90023",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Oscars Mini Market 99 cents",
+            type: "Store",
+            address: "4314 Ascot Ave, Los Angeles, CA 90011",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Osh Mini Mart",
+            type: "Store",
+            address: "45024 10th St W, Lancaster, CA 93534",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Overland Mini Market",
+            type: "Store",
+            address: "4273 Overland Ave, Culver City, CA 90230",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "OXFORD MINI MART",
+            type: "Store",
+            address: "3502 W 8th St, Los Angeles, CA 90005",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "PAEK MINIT MARKET",
+            type: "Store",
+            address: "2700 E Anaheim St, Long Beach, CA 90804",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Panfilos Mini Market",
+            type: "Store",
+            address: "8719 Long Beach Blvd, South Gate, CA 90280",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Pastor's Mini Market",
+            type: "Store",
+            address: "2063 W Jefferson Blvd, Los Angeles, CA 90018",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Paz Mini Market",
+            type: "Store",
+            address: "9228 S Vermont Ave, Los Angeles, CA 90044",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "PBI Mini Market",
+            type: "Store",
+            address: "7910 Atlantic Ave, Cudahy, CA 90201",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "PENNY MINI MARKET",
+            type: "Store",
+            address: "8911 S Vermont Ave, Los Angeles, CA 90044",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "PENNY MINI MARKET",
+            type: "Store",
+            address: "308 E 5th St, Los Angeles, CA 90013",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "PEREZ MINI MARKET",
+            type: "Store",
+            address: "4355 AVALON BLVD, LOS ANGELES, CA 90011",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Piccadilly Circle 7 Mini Mart",
+            type: "Store",
+            address: "42124 50th St W, Quartz Hill, CA 93536",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Prados 98 Cents & Mini Market",
+            type: "Store",
+            address: "7344 Van Nuys Blvd, Van Nuys, CA 91405",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Prosperidad Mini Market",
+            type: "Store",
+            address: "1909 7th Ave, Los Angeles, CA 90018",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Provideo 99 Cents & Up Minimart",
+            type: "Store",
+            address: "10401 Tabor St, Los Angeles, CA 90034",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Purple Function Mini Market",
+            type: "Store",
+            address: "3945 S Vermont Ave, Los Angeles, CA 90037",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Quetzal Produce & Mini Market",
+            type: "Store",
+            address: "4101 S Broadway, Los Angeles, CA 90037",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Quickie Mini Mart No",
+            type: "Store",
+            address: "15700 Vanowen St, Van Nuys, CA 91406",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Quix Top Mini Mart",
+            type: "Store",
+            address: "18039 E Valley Blvd, City Of Industry, CA 91744",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "RANDY'S MINI MARKET",
+            type: "Store",
+            address: "1958 E 103rd St, Los Angeles, CA 90002",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Raquelito's Mini Market",
+            type: "Store",
+            address: "5710 S Central Ave, Los Angeles, CA 90011",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Reyes Mini Market",
+            type: "Store",
+            address: "3101 S San Pedro St, Los Angeles, CA 90011",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Rios Mini Market",
+            type: "Store",
+            address: "9130 S Vermont Ave, Los Angeles, CA 90044",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Rjm Vallejo Mini Mart,inc 83004",
+            type: "Store",
+            address: "5472 Orangethorpe Ave, La Palma, CA 90623",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Rjm Vallejo Mini-mart Inc 83748",
+            type: "Store",
+            address: "13340 Rosecrans Ave, Norwalk, CA 90650",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Rocky Mini Mart",
+            type: "Store",
+            address: "13705 Inglewood Ave, Hawthorne, CA 90250",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Rodolfo Mini Market And Party Supply",
+            type: "Store",
+            address: "2013 W Jefferson Blvd, Los Angeles, CA 90018",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Rodriguez Mini Market",
+            type: "Store",
+            address: "819 Euclid Ave, Los Angeles, CA 90023",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Rodriguez Mini Market 99 Cents",
+            type: "Store",
+            address: "8252 S Main St, Los Angeles, CA 90003",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Ron Mini Market",
+            type: "Store",
+            address: "4709 S Broadway, Los Angeles, CA 90037",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Rosa's Mini Market",
+            type: "Store",
+            address: "1246 W 7th St, Los Angeles, CA 90017",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Rosita's Mini Market",
+            type: "Store",
+            address: "7521 State St, Huntington Park, CA 90255",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Royal Mini Market",
+            type: "Store",
+            address: "910 N Vermont Ave, Los Angeles, CA 90029",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Ruiz Mini Market",
+            type: "Store",
+            address: "4824 1/2 Avalon Blvd, Los Angeles, CA 90011",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "S K Mini Mart",
+            type: "Store",
+            address: "605 E Francisquito Ave, West Covina, CA 91790",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "SALO'S MINI MARKET",
+            type: "Store",
+            address: "4225 Hooper Ave, Los Angeles, CA 90011",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Sams Mini Market",
+            type: "Store",
+            address: "411 W Palmdale Blvd, Palmdale, CA 93551",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "SAMS MINI MARKET",
+            type: "Store",
+            address: "20909 Lassen St, Chatsworth, CA 91311",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "SAN JUDAS MINI MARKET",
+            type: "Store",
+            address: "10404 Long Beach Blvd, Lynwood, CA 90262",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "San Luis Mini Mart",
+            type: "Store",
+            address: "3926 Ardmore Ave, South Gate, CA 90280",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "San Pedro Mini Market",
+            type: "Store",
+            address: "4151 San Pedro Pl, Los Angeles, CA 90011",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Santa Barbara Mini Market",
+            type: "Store",
+            address: "5037 Compton Ave, Los Angeles, CA 90011",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Serrano's Mini Market",
+            type: "Store",
+            address: "6111 S San Pedro St, Los Angeles, CA 90003",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Seven Day Mini Mart",
+            type: "Store",
+            address: "11150 Burbank Blvd, North Hollywood, CA 91601",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Sheepey Minimarket",
+            type: "Store",
+            address: "1200 S Centre St, San Pedro, CA 90731",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Shorty Minimarket",
+            type: "Store",
+            address: "5504 S Central Ave, Los Angeles, CA 90011",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "SILVANA'S MINI MARKET",
+            type: "Store",
+            address: "5413 S Main St, Los Angeles, CA 90037",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Simon's Mini Market",
+            type: "Store",
+            address: "501 E Manchester Blvd, Inglewood, CA 90301",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Sinai Mini Market",
+            type: "Store",
+            address: "1820 W 54th St, Los Angeles, CA 90062",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Sofi Mini Market",
+            type: "Store",
+            address: "4074 Avalon Blvd, Los Angeles, CA 90011",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "St. George Mini Market",
+            type: "Store",
+            address: "3121 W Rosecrans Ave, Hawthorne, CA 90250",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Star Mini Mart",
+            type: "Store",
+            address: "9601 Venice Blvd, Culver City, CA 90232",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Stephanie Mini Market",
+            type: "Store",
+            address: "2961 E 4th St, Los Angeles, CA 90033",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Sunset Oil And Mini Mart",
+            type: "Store",
+            address: "8906 W Sunset Blvd, West Hollywood, CA 90069",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Super Mini Market",
+            type: "Store",
+            address: "1621 E Florence Ave, Los Angeles, CA 90001",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Super Mini Market 1",
+            type: "Store",
+            address: "1575 E Florence Ave, Los Angeles, CA 90001",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Susanas Mini Market",
+            type: "Store",
+            address: "5421 Denker Ave, Los Angeles, CA 90062",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Susys Mini Market",
+            type: "Store",
+            address: "8910 1/2 S Broadway, Los Angeles, CA 90003",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "T & H  Mini Market",
+            type: "Store",
+            address: "8009 S Broadway, Los Angeles, CA 90003",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Terrys Mini Market",
+            type: "Store",
+            address: "11100 S Figueroa St, Los Angeles, CA 90061",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "The Garcias Lala's Mini Market",
+            type: "Store",
+            address: "14150 Van Nuys Blvd, Arleta, CA 91331",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Tip Mini Market",
+            type: "Store",
+            address: "7300 Topanga Canyon Blvd, Canoga Park, CA 91303",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Tito's Mini Market",
+            type: "Store",
+            address: "3238 E 5th St, Los Angeles, CA 90063",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Tobacco Palace Mini Mart",
+            type: "Store",
+            address: "11122 Long Beach Blvd, Lynwood, CA 90262",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Tobacco Zone and Mini Mart",
+            type: "Store",
+            address: "2107 W Manchester Ave, Los Angeles, CA 90047",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Tony's Mini Market 99 Cents",
+            type: "Store",
+            address: "425 E Vernon Ave, Los Angeles, CA 90011",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Val's Mini Market 99 cent Store",
+            type: "Store",
+            address: "1131 E 108th St, Los Angeles, CA 90059",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Van Ness Mini Market",
+            type: "Store",
+            address: "6130 S Van Ness Ave, Los Angeles, CA 90047",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Velazquez Mini Market",
+            type: "Store",
+            address: "8504 S Broadway, Los Angeles, CA 90003",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Vermont Mini Market",
+            type: "Store",
+            address: "6205 S Vermont Ave, Los Angeles, CA 90044",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Video 94 Mini Mart",
+            type: "Store",
+            address: "2407 Valley Blvd, Pomona, CA 91768",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Village Mini Mart",
+            type: "Store",
+            address: "113 E 5th St, Los Angeles, CA 90013",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Virgilio D Canche Mini Market",
+            type: "Store",
+            address: "4114 S Hoover St, Los Angeles, CA 90037",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "VS Mini Mart",
+            type: "Store",
+            address: "3686 Riverside Dr, Chino, CA 91710",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "WESTERN MINI MARKET",
+            type: "Store",
+            address: "11034 S Western Ave, Los Angeles, CA 90047",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "What It Dew Mini Market 1",
+            type: "Store",
+            address: "44245 10th St W, Lancaster, CA 93534",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Z Mini Market",
+            type: "Store",
+            address: "4657 W El Segundo Blvd, Hawthorne, CA 90250",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Zacapa Mini Market",
+            type: "Store",
+            address: "4810 Hooper Ave, Los Angeles, CA 90011",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Zamora Mini Market",
+            type: "Store",
+            address: "2627 Saturn Ave, Huntington Park, CA 90255",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "ZARAGOZA'S MINI MARKET",
+            type: "Store",
+            address: "8103 Alix Ave, Los Angeles, CA 90001",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Zubeda Mini Market",
+            type: "Store",
+            address: "1253 Sepulveda Blvd, Torrance, CA 90502",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Cheers Liqour",
+            type: "Store",
+            address: "16205 Devonshire St, Granada Hills, CA 91344",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Ci Liqour And Market",
+            type: "Store",
+            address: "1658 W Carson St, Torrance, CA 90501",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "In & Go Liqour",
+            type: "Store",
+            address: "7650 Woodman Ave, Panorama City, CA 91402",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "J & D LIQ & JR. MKT",
+            type: "Store",
+            address: "4503 Maine Ave, Baldwin Park, CA 91706",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "JOSHUA LIQ & JR MKT.",
+            type: "Store",
+            address: "8714 E Avenue T, Littlerock, CA 93543",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Liqour Bank And Deli",
+            type: "Store",
+            address: "3600 Stocker St, Los Angeles, CA 90008",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Little Rock Liqour & Jr Market",
+            type: "Store",
+            address: "8062 Pearblossom Hwy, Littlerock, CA 93543",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Ocean Liqour",
+            type: "Store",
+            address: "760 S Alvarado St, Los Angeles, CA 90057",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Ravi's Liqour 2",
+            type: "Store",
+            address: "1125 S Hacienda Blvd, Hacienda Heights, CA 91745",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "RIVERTON LIQ JR  MARKET",
+            type: "Store",
+            address: "10800 Magnolia Blvd, North Hollywood, CA 91601",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Royal Liqour",
+            type: "Store",
+            address: "1508 W Sunset Blvd, Los Angeles, CA 90026",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "SAM'S LIQ. & JUNIOR MKT",
+            type: "Store",
+            address: "239 FRAZIER MT PARK RD, LEBEC, CA 93243",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Willis Liqour",
+            type: "Store",
+            address: "6513 West Blvd, Inglewood, CA 90302",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "A & A Grocery Wholesale Inc",
+            type: "Store",
+            address: "16308 Garfield Ave, Paramount, CA 90723",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "City Foods Wholesale",
+            type: "Store",
+            address: "711 W 16th St, Long Beach, CA 90813",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Galleria Foods Wholesale Rowland Heights",
+            type: "Store",
+            address: "18313 Colima Rd, Rowland Heights, CA 91748",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "KASHTAN WHOLESALE GROCERIES",
+            type: "Store",
+            address: "7707 Santa Monica Blvd, West Hollywood, CA 90046",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "L J K Dried Food Wholesale",
+            type: "Store",
+            address: "9661 Garvey Ave., South Elmonte, CA 91733",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Lucky Wholesale",
+            type: "Store",
+            address: "1603 S Central Ave, Los Angeles, CA 90021",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "S&l Dried Foods Wholesale",
+            type: "Store",
+            address: "9661 Garvey Ave, South El Monte, CA 91733",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "99 Cents Only Store 76",
+            type: "Store",
+            address: "15345 Whittier Blvd, Whittier, CA 90603",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "ATLANTIC & SOUTH 76",
+            type: "Store",
+            address: "5740 Atlantic Ave, Long Beach, CA 90805",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Bell Gardens 76",
+            type: "Store",
+            address: "6355 Florence Ave, Bell Gardens, CA 90201",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Gorman Union 76",
+            type: "Store",
+            address: "49764 Gorman Post Rd, Lebec, CA 93243",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Lancaster 76",
+            type: "Store",
+            address: "505 W Avenue J, Lancaster, CA 93534",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Lyons 76",
+            type: "Store",
+            address: "22917 Lyons Ave, Newhall, CA 91321",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Manchester 76",
+            type: "Store",
+            address: "633 W Manchester Blvd, Inglewood, CA 90301",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Melrose 76",
+            type: "Store",
+            address: "4600 Melrose Ave, Los Angeles, CA 90029",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Pacific Coast 76 851549",
+            type: "Store",
+            address: "465 W Pacific Coast Hwy, Long Beach, CA 90806",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Paramount 76",
+            type: "Store",
+            address: "14949 Garfield Ave, Paramount, CA 90723",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Quartz Hill 76",
+            type: "Store",
+            address: "42344 50th St W, Lancaster, CA 93536",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Son 76",
+            type: "Store",
+            address: "10685 Laurel Canyon Blvd, Pacoima, CA 91331",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Sun Valley Union 76",
+            type: "Store",
+            address: "8181 Sunland Blvd, Sun Valley, CA 91352",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Via Verde 76",
+            type: "Store",
+            address: "1790 S San Dimas Ave, San Dimas, CA 91773",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "West Torrance 76",
+            type: "Store",
+            address: "5404 W 190th St, Torrance, CA 90503",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "98 Cents Up & Tobacco",
+            type: "Store",
+            address: "8221 Avalon Blvd, Los Angeles, CA 90003",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "99 Star Market & Tobacco",
+            type: "Store",
+            address: "12610 Hadley St, Whittier, CA 90601",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "A & M Tobacco and Market",
+            type: "Store",
+            address: "10627 Garvey Ave, El Monte, CA 91733",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "A 1 Tobacco Mart",
+            type: "Store",
+            address: "11207 Wilmington Ave, Los Angeles, CA 90059",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "A&m Tobacco Market",
+            type: "Store",
+            address: "14114 S Normandie Ave, Gardena, CA 90249",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "African Tobacco And Market",
+            type: "Store",
+            address: "3312 W Florence Ave, Los Angeles, CA 90043",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "ARS Tobacco",
+            type: "Store",
+            address: "5427 Atlantic Ave, Long Beach, CA 90805",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "B&M Tobacco Number 1",
+            type: "Store",
+            address: "10624 Wilmington Ave, Los Angeles, CA 90002",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Djs Tobacco Market",
+            type: "Store",
+            address: "425 1/2 W 8th St, Los Angeles, CA 90014",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "EJ-Tobacco Mart",
+            type: "Store",
+            address: "611 E Imperial Hwy, Los Angeles, CA 90059",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Eli Tobacco & Market",
+            type: "Store",
+            address: "2327 W Washington Blvd, Los Angeles, CA 90018",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Everything And More Tobacco Mart",
+            type: "Store",
+            address: "4429 Crenshaw Blvd, Los Angeles, CA 90043",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Family Market & Tobacco",
+            type: "Store",
+            address: "10901 Crenshaw Blvd, Inglewood, CA 90303",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Family Market And Tobacco 2",
+            type: "Store",
+            address: "2161 1/2 W Century Blvd, Los Angeles, CA 90047",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "HG Tobacco Mart 99 & Up",
+            type: "Store",
+            address: "5401 S Figueroa St, Los Angeles, CA 90037",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Hoover Discount Store And Tobacco",
+            type: "Store",
+            address: "7522 S Hoover St, Los Angeles, CA 90044",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Os Tobacco+Market",
+            type: "Store",
+            address: "2624 E Anaheim St, Long Beach, CA 90804",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Tobacco And More",
+            type: "Store",
+            address: "611 E Century Blvd, Los Angeles, CA 90002",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Acacia Bakery",
+            type: "Store",
+            address: "235 S Pacific Ave, San Pedro, CA 90731",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Addy's Bakery",
+            type: "Store",
+            address: "10960 Avalon Blvd, Los Angeles, CA 90061",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Alejandra's Bakery",
+            type: "Store",
+            address: "9715 S Normandie Ave, Los Angeles, CA 90044",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Almazan Bakery",
+            type: "Store",
+            address: "582 E Foothill Blvd, Azusa, CA 91702",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Alondras Bakery",
+            type: "Store",
+            address: "657 E Arrow Hwy, Azusa, CA 91702",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "ALVAREZ BAKERY",
+            type: "Store",
+            address: "4125 City Terrace Dr, Los Angeles, CA 90063",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "AMERICA'S CAFE & BAKERY, INC.",
+            type: "Store",
+            address: "3654 Slauson Ave, Maywood, CA 90270",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Andy's Bakery",
+            type: "Store",
+            address: "6021 N Figueroa St, Los Angeles, CA 90042",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Angeles Bakery",
+            type: "Store",
+            address: "3661 W 3rd St, Los Angeles, CA 90020",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "ANGELES BAKERY",
+            type: "Store",
+            address: "1833 W 6th St, Los Angeles, CA 90057",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Angelica's Bakery",
+            type: "Store",
+            address: "1623 E Cesar E Chavez Ave, Los Angeles, CA 90033",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Angelo Bakery",
+            type: "Store",
+            address: "135 E Lomita Blvd, Carson, CA 90745",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "ANNIE'S BAKERY CAFE",
+            type: "Store",
+            address: "2117 W 6th St, Los Angeles, CA 90057",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Anush Bakery & Market, Inc",
+            type: "Store",
+            address: "6770 Coldwater Canyon Ave, North Hollywood, CA 91606",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "ARARAT BAKERY",
+            type: "Store",
+            address: "7112 Foothill Blvd, Tujunga, CA 91042",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "ART'S BAKERY",
+            type: "Store",
+            address: "1122 E Chevy Chase Dr, Glendale, CA 91205",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Beverly Bakery",
+            type: "Store",
+            address: "4103 Beverly Blvd, Los Angeles, CA 90004",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Byby's Bakery",
+            type: "Store",
+            address: "728 W Compton Blvd, Compton, CA 90220",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Bybys Bakery",
+            type: "Store",
+            address: "5173 Long Beach Blvd, Long Beach, CA 90805",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Carmen Bakery",
+            type: "Store",
+            address: "915 E La Habra Blvd, La Habra, CA 90631",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Celaya Bakery",
+            type: "Store",
+            address: "1630 W Sunset Blvd, Los Angeles, CA 90026",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Celaya Bakery",
+            type: "Store",
+            address: "2304 S Vermont Ave, Los Angeles, CA 90007",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Celaya Bakery",
+            type: "Store",
+            address: "2704 S Vermont Ave, Los Angeles, CA 90007",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Central Bakery/water Source",
+            type: "Store",
+            address: "5106 S Central Ave, Los Angeles, CA 90011",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "CEREZO BAKERY",
+            type: "Store",
+            address: "4315 N PECK RD, EL MONTE, CA 91732",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Chapala Bakery #2",
+            type: "Store",
+            address: "265 E Orange Grove Blvd, Pasadena, CA 91104",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Chapinlandia Bakery 2",
+            type: "Store",
+            address: "1455 W 3rd St, Los Angeles, CA 90017",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "CHINESE PERFECT BAKERY",
+            type: "Store",
+            address: "8253 1/2 Sepulveda Blvd, Panorama City, CA 91402",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "COLORADO BAKERY",
+            type: "Store",
+            address: "464 W Colorado St, Glendale, CA 91204",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "CONPHUNG BAKERY",
+            type: "Store",
+            address: "6367 Atlantic Ave, Bell, CA 90201",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Continental Bakery",
+            type: "Store",
+            address: "10421 Laurel Canyon Blvd, Pacoima, CA 91331",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "CONTINENTAL BAKERY",
+            type: "Store",
+            address: "262 S Normandie Ave, Los Angeles, CA 90004",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "CONTINENTAL BAKERY",
+            type: "Store",
+            address: "12105 Saticoy St, North Hollywood, CA 91605",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Continental Bakery 4",
+            type: "Store",
+            address: "280 S Rampart Blvd, Los Angeles, CA 90057",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Cristina's Bakery",
+            type: "Store",
+            address: "3603 1/2 W 3rd St, Los Angeles, CA 90020",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "DEL CAMPO BAKERY",
+            type: "Store",
+            address: "8521 Norwalk Blvd, Whittier, CA 90606",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Delicia's Bakery & Some...",
+            type: "Store",
+            address: "5567 N Figueroa St, Los Angeles, CA 90042",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Deluxe Bakery And Cafe",
+            type: "Store",
+            address: "1529 N San Fernando Blvd, Burbank, CA 91504",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Don Pancho's Bakery",
+            type: "Store",
+            address: "11456 Telegraph Rd, Santa Fe Springs, CA 90670",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Dos Aguilas Bakery",
+            type: "Store",
+            address: "5945 Whittier Blvd, Los Angeles, CA 90022",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "DREAM BAKERY",
+            type: "Store",
+            address: "12908 Sherman Way, North Hollywood, CA 91605",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "DURAN'S BAKERY",
+            type: "Store",
+            address: "4518 1/2 Rosemead Blvd, Pico Rivera, CA 90660",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "DUTCH OVEN BAKERY",
+            type: "Store",
+            address: "2281 Lake Ave, Altadena, CA 91001",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "EL AGUILA BAKERY INC.",
+            type: "Store",
+            address: "5028 Huntington Dr S, Los Angeles, CA 90032",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "EL GALLO BAKERY",
+            type: "Store",
+            address: "4546 E Cesar E Chavez Ave, Los Angeles, CA 90022",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "El Globo Bakery 2",
+            type: "Store",
+            address: "414 W Whittier Blvd, Montebello, CA 90640",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "El Molino Real Bakery",
+            type: "Store",
+            address: "15120 Hawthorne Blvd, Lawndale, CA 90260",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "El Paraiso Bakery",
+            type: "Store",
+            address: "3857 E Whittier Blvd, Los Angeles, CA 90023",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "El Paraiso Bakery 2",
+            type: "Store",
+            address: "11860 Rosecrans Ave, Norwalk, CA 90650",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "El Pollito Bakery",
+            type: "Store",
+            address: "8209 Eastern Ave, Bell Gardens, CA 90201",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "El Pueblo Bakery, Inc.",
+            type: "Store",
+            address: "3625 Tweedy Blvd, South Gate, CA 90280",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "EL QUETZAL BAKERY",
+            type: "Store",
+            address: "713 S Hoover St, Los Angeles, CA 90005",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "El Quetzal Bakery 2",
+            type: "Store",
+            address: "2791 W Pico Blvd, Los Angeles, CA 90006",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "El Rey Bakery",
+            type: "Store",
+            address: "8934 Beverly Blvd, Pico Rivera, CA 90660",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "EL RINCONCITO BAKERY",
+            type: "Store",
+            address: "2908 E 1st St, Los Angeles, CA 90033",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "EL SOL BAKERY",
+            type: "Store",
+            address: "1713 E Anaheim St, Long Beach, CA 90813",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "EL SOL BAKERY 2",
+            type: "Store",
+            address: "1015 E 10th St, Long Beach, CA 90813",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "El Sol Bakery Plus",
+            type: "Store",
+            address: "1503 Magnolia Ave, Long Beach, CA 90813",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "ELIZABETH BAKERY",
+            type: "Store",
+            address: "2828 Firestone Blvd, South Gate, CA 90280",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Father & Son Bakery & Grocery",
+            type: "Store",
+            address: "5209 W Sunset Blvd, Los Angeles, CA 90027",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Florence Bakery",
+            type: "Store",
+            address: "1601 E Florence Ave, Los Angeles, CA 90001",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Friend's Cafe, Pastry & Bakery",
+            type: "Store",
+            address: "7918 Foothill Blvd, Sunland, CA 91040",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "GLEN ELK BAKERY",
+            type: "Store",
+            address: "400 S Glendale Ave, Glendale, CA 91205",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Glendale Fine Bakery",
+            type: "Store",
+            address: "316 E Maple St, Glendale, CA 91205",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Granny's Bakery & Cafe",
+            type: "Store",
+            address: "2329 W Whittier Blvd, Montebello, CA 90640",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "GUATEMALTECA BAKERY INC",
+            type: "Store",
+            address: "4032 Beverly Blvd, Los Angeles, CA 90004",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "HAPPY BAKERY",
+            type: "Store",
+            address: "11629 Lower Azusa Rd Ste F, El Monte, CA 91732",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Happy Bakery & Donuts",
+            type: "Store",
+            address: "4550 N Lark Ellen Ave, Covina, CA 91722",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Howell's Bakery",
+            type: "Store",
+            address: "648 E El Segundo Blvd, Los Angeles, CA 90059",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "HUICHO'S BAKERY",
+            type: "Store",
+            address: "1250 S Vermont Ave, Los Angeles, CA 90006",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "JENNY BAKERY",
+            type: "Store",
+            address: "4518 Avalon Blvd, Los Angeles, CA 90011",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Julie Meat Market & Bakery",
+            type: "Store",
+            address: "6347 Santa Fe Ave, Huntington Park, CA 90255",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "K BAKERY",
+            type: "Store",
+            address: "1258 W Temple St, Los Angeles, CA 90026",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Kathy's Bakery Bros",
+            type: "Store",
+            address: "15516 Paramount Blvd, Paramount, CA 90723",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Katy's Bakery",
+            type: "Store",
+            address: "5417 Long Beach Blvd, Long Beach, CA 90805",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Kilikia Bakery",
+            type: "Store",
+            address: "8358 Foothill Blvd, Sunland, CA 91040",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "La Barca Bakery",
+            type: "Store",
+            address: "528 W Holt Ave, Pomona, CA 91768",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "La Blanquita Restaurant & Bakery",
+            type: "Store",
+            address: "11863 Valley Blvd, El Monte, CA 91732",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "LA CENTRAL BAKERY",
+            type: "Store",
+            address: "764 W la Habra Blvd, La Habra, CA 90631",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "La Centroamericana Bakery",
+            type: "Store",
+            address: "6520 Holmes Ave, Los Angeles, CA 90001",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "La Chiquita Bakery",
+            type: "Store",
+            address: "4600 Compton Ave, Los Angeles, CA 90011",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "LA CHIQUITA BAKERY",
+            type: "Store",
+            address: "270 E MARTIN LUTHER KING BLVD, LOS ANGELES, CA 90011",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "La Colmena Bakery 1",
+            type: "Store",
+            address: "11537 Sherman Way, North Hollywood, CA 91605",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "LA CORONA BAKERY",
+            type: "Store",
+            address: "15708 Pioneer Blvd, Norwalk, CA 90650",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "La Corona Bakery 2",
+            type: "Store",
+            address: "6338 Atlantic Ave, Bell, CA 90201",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "La Curra Bakery  1",
+            type: "Store",
+            address: "530 S Citrus Ave, Azusa, CA 91702",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "La Esperanza Bakery",
+            type: "Store",
+            address: "252 W Florence Ave, Los Angeles, CA 90003",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "La Espiga Bakery",
+            type: "Store",
+            address: "1466 Glendale Blvd, Los Angeles, CA 90026",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "La Fama Bakery",
+            type: "Store",
+            address: "420 N Ford Blvd, Los Angeles, CA 90022",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "La Favorita Bakery",
+            type: "Store",
+            address: "8505 Rosecrans Ave, Paramount, CA 90723",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "La Flor Bakery 1",
+            type: "Store",
+            address: "4101 Avalon Blvd, Los Angeles, CA 90011",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "La Flor Bakery 2",
+            type: "Store",
+            address: "4104 S Main St, Los Angeles, CA 90037",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "LA FLOR DE MICHOACAN BAKERY",
+            type: "Store",
+            address: "7045 Somerset Blvd, Paramount, CA 90723",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "La Mascota Bakery",
+            type: "Store",
+            address: "2715 Whittier Blvd, Los Angeles, CA 90023",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "LA MEXICANA BAKERY",
+            type: "Store",
+            address: "10147 GARVEY AVE, South El Monte, CA 91733",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "La Mexicana Bakery Inc 2",
+            type: "Store",
+            address: "2360 Mountain View Rd, El Monte, CA 91733",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "LA MODERNA BAKERY",
+            type: "Store",
+            address: "8035 1/2 Norwalk Blvd, Whittier, CA 90606",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "LA MORENA BAKERY",
+            type: "Store",
+            address: "2106 E Cesar E Chavez Ave, Los Angeles, CA 90033",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "La Morenita Bakery",
+            type: "Store",
+            address: "11230 E. Garvey Ave, El Monte, CA 91733",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "La Morenita Bakery 1",
+            type: "Store",
+            address: "1389 N Hacienda Blvd, La Puente, CA 91744",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "LA NORTENA BAKERY",
+            type: "Store",
+            address: "2601 S San Pedro St, Los Angeles, CA 90011",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "LA PALOMA BAKERY",
+            type: "Store",
+            address: "2249 San Gabriel Blvd, Rosemead, CA 91770",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "LA PAZ BAKERY",
+            type: "Store",
+            address: "8223 De Soto Ave, Canoga Park, CA 91304",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "LA PEQUENA BAKERY",
+            type: "Store",
+            address: "12437 San Fernando Rd, Sylmar, CA 91342",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "La Potosina Bakery",
+            type: "Store",
+            address: "4712 Durfee Ave, Pico Rivera, CA 90660",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "La Princesa Bakery",
+            type: "Store",
+            address: "7910 Atlantic Ave, Cudahy, CA 90201",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "LA PUENTE BAKERY & DELI",
+            type: "Store",
+            address: "15751 Amar Rd, La Puente, CA 91744",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "La Puente Bakery 2",
+            type: "Store",
+            address: "13825 Amar Rd, La Puente, CA 91746",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "La Soledad Bakery",
+            type: "Store",
+            address: "2400 W 7th St, Los Angeles, CA 90057",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "La Surenita Bakery",
+            type: "Store",
+            address: "2950 E 4th St, Los Angeles, CA 90033",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "LA TAPATIA BAKERY",
+            type: "Store",
+            address: "13734 Amar Rd, La Puente, CA 91746",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Lake La Bakery",
+            type: "Store",
+            address: "40112 170th St E, Palmdale, CA 93591",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Larios Bakery",
+            type: "Store",
+            address: "2206 S Central Ave, Los Angeles, CA 90011",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Las Aguilas Bakery",
+            type: "Store",
+            address: "12834 Rosecrans Ave, Norwalk, CA 90650",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "LAS ALONDRA'S BAKERY",
+            type: "Store",
+            address: "4118 S Central Ave, Los Angeles, CA 90011",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "LAS DELICIAS BAKERY",
+            type: "Store",
+            address: "1801 W 7th St, Los Angeles, CA 90057",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "LATIMEX MARKET & BAKERY",
+            type: "Store",
+            address: "11742 Central Ave, Chino, CA 91710",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Le Bon Bakery",
+            type: "Store",
+            address: "10931 Victory Blvd, North Hollywood, CA 91606",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "LEO'S BAKERY",
+            type: "Store",
+            address: "7922 Rosecrans Ave, Paramount, CA 90723",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "LEO'S BAKERY",
+            type: "Store",
+            address: "5221 N Clydebank Ave, Azusa, CA 91702",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Little Old Mexico Bakery",
+            type: "Store",
+            address: "223 W Anaheim St, Wilmington, CA 90744",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "LORD & VILLA BAKERY",
+            type: "Store",
+            address: "1120 N Pacific Ave, Glendale, CA 91202",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Los Amigos Bakery",
+            type: "Store",
+            address: "3105 W 8th St, Los Angeles, CA 90005",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Los Angelitos Bakery",
+            type: "Store",
+            address: "2881 E Florence Ave, Huntington Park, CA 90255",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Los Conpadres Bakery",
+            type: "Store",
+            address: "10620 Whittier Blvd, Whittier, CA 90606",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Los Lobos Bakery",
+            type: "Store",
+            address: "680 S Azusa Ave, Azusa, CA 91702",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "LOS REYES BAKERY",
+            type: "Store",
+            address: "4026 Gage Ave, Bell, CA 90201",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Lucas Bakery",
+            type: "Store",
+            address: "4059 Gage Ave, Bell, CA 90201",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Lucero Bakery",
+            type: "Store",
+            address: "4061 E Slauson Ave, Maywood, CA 90270",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "LULU'S BAKERY #3",
+            type: "Store",
+            address: "4201 Tweedy Blvd, South Gate, CA 90280",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "LUPITA BAKERY",
+            type: "Store",
+            address: "2546 W Pico Blvd, Los Angeles, CA 90006",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "LUPITAS BAKERY INC.",
+            type: "Store",
+            address: "1848 W Florence Ave, Los Angeles, CA 90047",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "MAGGIE'S BAKERY",
+            type: "Store",
+            address: "6530 Lankershim Blvd, North Hollywood, CA 91606",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Marilu's Bakery",
+            type: "Store",
+            address: "1400 Cherry Ave, Long Beach, CA 90813",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "MARTHA'S BAKERY",
+            type: "Store",
+            address: "14103 Victory Blvd, Van Nuys, CA 91401",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Mary's Bakery",
+            type: "Store",
+            address: "4523 Slauson Ave, Maywood, CA 90270",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "MASIS BAKERY",
+            type: "Store",
+            address: "321 E Alameda Ave, Burbank, CA 91502",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Masis Bakery 2",
+            type: "Store",
+            address: "8725 Sunland Blvd, Sun Valley, CA 91352",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Mayra's Bakery",
+            type: "Store",
+            address: "2521 S San Pedro St, Los Angeles, CA 90011",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "MEATLAND BAKERY",
+            type: "Store",
+            address: "3801 E 1st St, Los Angeles, CA 90063",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Mediterranean Bakery",
+            type: "Store",
+            address: "1451 W Arrow Hwy, San Dimas, CA 91773",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Melad Bakery and Deli",
+            type: "Store",
+            address: "18601 Sherman Way, Reseda, CA 91335",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Mels Palace Bakery",
+            type: "Store",
+            address: "2708 N Broadway, Los Angeles, CA 90031",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Mia's Bakery",
+            type: "Store",
+            address: "6676 Long Beach Blvd, Long Beach, CA 90805",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Milena Bakery",
+            type: "Store",
+            address: "5216 W Sunset Blvd, Los Angeles, CA 90027",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Mom's Bakery",
+            type: "Store",
+            address: "11850 Valley Blvd, El Monte, CA 91732",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Monicas Bakery",
+            type: "Store",
+            address: "133 W Anaheim St, Long Beach, CA 90813",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "MOYAS BAKERY",
+            type: "Store",
+            address: "2820 E Gage Ave, Huntington Park, CA 90255",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Mush Bakery",
+            type: "Store",
+            address: "5224 W Sunset Blvd, Los Angeles, CA 90027",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Old Sasoon Bakery Inc,",
+            type: "Store",
+            address: "1132 N Allen Ave, Pasadena, CA 91104",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "PALOMINO MEAT MARKET & BAKERY",
+            type: "Store",
+            address: "2817 E 8th St, Los Angeles, CA 90023",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "PAN AMERICA BAKERY",
+            type: "Store",
+            address: "6604 S Vermont Ave, Los Angeles, CA 90044",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Pan De Vida Bakery",
+            type: "Store",
+            address: "1061 E Avenue J, Lancaster, CA 93535",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Pan De Vida Bakery",
+            type: "Store",
+            address: "2260 E Palmdale Blvd, Palmdale, CA 93550",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Panaderia Mi Lupita Bakery",
+            type: "Store",
+            address: "1640 W Carson St, Torrance, CA 90501",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Panaderia Salvadorena Bakery",
+            type: "Store",
+            address: "4873 Santa Monica Blvd, Los Angeles, CA 90029",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "PANADERIA SALVADORENA BAKERY 2",
+            type: "Store",
+            address: "4322 Beverly Blvd, Los Angeles, CA 90004",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "PANCHO'S BAKERY",
+            type: "Store",
+            address: "1759 E Florence Ave, Los Angeles, CA 90001",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Panos Bakery and Pastry",
+            type: "Store",
+            address: "418 S Central Ave, Glendale, CA 91204",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Papillon French Bakery 1",
+            type: "Store",
+            address: "1100 S Central Ave, Glendale, CA 91204",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "PARADISE PASTRY BAKERY",
+            type: "Store",
+            address: "1815 W Glenoaks Blvd, Glendale, CA 91201",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Pasteleria Y Panaderia El Panon Bakery",
+            type: "Store",
+            address: "2109 S San Pedro St, Los Angeles, CA 90011",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "PONCE'S BAKERY #2",
+            type: "Store",
+            address: "757 S Fetterly Ave, Los Angeles, CA 90022",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Ponce's Bakery 4",
+            type: "Store",
+            address: "1310 S Garey Ave, Pomona, CA 91766",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "POURI BAKERY",
+            type: "Store",
+            address: "109 S Adams St, Glendale, CA 91205",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "REYES CAKES & BAKERY",
+            type: "Store",
+            address: "6687 Downey Ave, Long Beach, CA 90805",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "REYNA'S BAKERY",
+            type: "Store",
+            address: "7120 Eastern Ave, Bell Gardens, CA 90201",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "REYNA'S BAKERY",
+            type: "Store",
+            address: "5111 Gage Ave, Bell, CA 90201",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Reyna's Bakery 3",
+            type: "Store",
+            address: "3210 E Gage Ave, Huntington Park, CA 90255",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Rosa's Bakery 1",
+            type: "Store",
+            address: "2609 E Carson St, Long Beach, CA 90810",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Rudy's Bakery",
+            type: "Store",
+            address: "1918 Nadeau St, Los Angeles, CA 90001",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Salgados Bakery",
+            type: "Store",
+            address: "10007 Long Beach Blvd, Lynwood, CA 90262",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Sam's Armenian Bakery",
+            type: "Store",
+            address: "400 Raleigh St, Glendale, CA 91205",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "SAN ANTONIO BAKERY",
+            type: "Store",
+            address: "344 W Rosecrans Ave, Compton, CA 90222",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Sandy Bakery 2",
+            type: "Store",
+            address: "3401 W Beverly Blvd, Montebello, CA 90640",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Sandy's Bakery",
+            type: "Store",
+            address: "1410 Huntington Dr, Duarte, CA 91010",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "SANDY'S BAKERY",
+            type: "Store",
+            address: "5261 S Main St, Los Angeles, CA 90037",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Santaneca Bakery",
+            type: "Store",
+            address: "2461 Atlantic Ave, Long Beach, CA 90806",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Sasoun Bakery",
+            type: "Store",
+            address: "1700 W Glenoaks Blvd, Glendale, CA 91201",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Sasoun Bakery 1",
+            type: "Store",
+            address: "5114 Santa Monica Blvd, Los Angeles, CA 90029",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Sasoun Bakery 2",
+            type: "Store",
+            address: "625 E Colorado St, Glendale, CA 91205",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Sasoun Bakery 3",
+            type: "Store",
+            address: "18135 Sherman Way, Reseda, CA 91335",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Sasoun Bakery 4",
+            type: "Store",
+            address: "7134 Sepulveda Blvd, Van Nuys, CA 91405",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Schwartz Bakery",
+            type: "Store",
+            address: "12522 Burbank Blvd, Valley Village, CA 91607",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "SONIA'S BAKERY",
+            type: "Store",
+            address: "744 Glendora Ave, La Puente, CA 91744",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Sonora Bakery",
+            type: "Store",
+            address: "4484 Whittier Blvd, Los Angeles, CA 90022",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "STONE BAKERY/MARKET",
+            type: "Store",
+            address: "6700 Crenshaw Blvd, Los Angeles, CA 90043",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Sunny Bakery",
+            type: "Store",
+            address: "743 E Valley Blvd, San Gabriel, CA 91776",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Sunrise Bakery",
+            type: "Store",
+            address: "3462 Tweedy Blvd, South Gate, CA 90280",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "SWEET 1 BAKERY",
+            type: "Store",
+            address: "13668 Oxnard St, Van Nuys, CA 91401",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Taron Bakery Inc",
+            type: "Store",
+            address: "1117 S Glendale Ave, Glendale, CA 91205",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Taron Bakery, Inc",
+            type: "Store",
+            address: "4950 Hollywood Blvd, Los Angeles, CA 90027",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "TBILISY & YEREVAN BAKERY",
+            type: "Store",
+            address: "7862 Santa Monica Blvd, West Hollywood, CA 90046",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "TC Bakery",
+            type: "Store",
+            address: "3856 Peck Rd, El Monte, CA 91732",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "The Family Bakery & Cafe Inc",
+            type: "Store",
+            address: "13630 Van Nuys Blvd, Pacoima, CA 91331",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "The Original Old Mexican Bakery",
+            type: "Store",
+            address: "23415 Main St, Carson, CA 90745",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Tijuana Bakery Cafe 1",
+            type: "Store",
+            address: "11626 Atlantic Ave, Lynwood, CA 90262",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Tobara Coffee And Bakery",
+            type: "Store",
+            address: "4630 Whittier Blvd, Los Angeles, CA 90022",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "TOP 1 BAKERY",
+            type: "Store",
+            address: "10310 Hawthorne Blvd, Inglewood, CA 90304",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Van Bakery",
+            type: "Store",
+            address: "5409 W Sunset Blvd, Los Angeles, CA 90027",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Venice Market & Bakery",
+            type: "Store",
+            address: "1529 Crenshaw Blvd, Los Angeles, CA 90019",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Victory Produce Mrkt & Bakery",
+            type: "Store",
+            address: "10365 Balboa Blvd, Granada Hills, CA 91344",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "VLAD'S BAKERY & FAST FOOD",
+            type: "Store",
+            address: "13640 Vanowen St, Van Nuys, CA 91405",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Westchester Bakery",
+            type: "Store",
+            address: "6216 W 87th St, Los Angeles, CA 90045",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Yolanda's Bakery Inc",
+            type: "Store",
+            address: "19742 Sherman Way, Winnetka, CA 91306",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Zankezur Bakery And Grocery",
+            type: "Store",
+            address: "6355 Woodman Ave, Van Nuys, CA 91401",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Alpine Mobil",
+            type: "Store",
+            address: "20802 S Vermont Ave, Torrance, CA 90502",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "AM PM 5265",
+            type: "Store",
+            address: "2353 E Palmdale Blvd, Palmdale, CA 93550",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "AM PM 82188",
+            type: "Store",
+            address: "6100 E Washington Blvd, Commerce, CA 90040",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "AM PM 83120",
+            type: "Store",
+            address: "4666 Santa Monica Blvd, Los Angeles, CA 90029",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "AVENUE I MOBIL",
+            type: "Store",
+            address: "849 E Avenue I, Lancaster, CA 93535",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Central Mobil 2",
+            type: "Store",
+            address: "1640 Crenshaw Blvd, Torrance, CA 90501",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Dawuds Mobil Inc",
+            type: "Store",
+            address: "9100 Sepulveda Blvd, North Hills, CA 91343",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Hanna's Mobil",
+            type: "Store",
+            address: "14206 Mulberry Dr, Whittier, CA 90604",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Hawatmeh Mobil",
+            type: "Store",
+            address: "4380 W Adams Blvd, Los Angeles, CA 90018",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Hollywood Mobil",
+            type: "Store",
+            address: "5700 Hollywood Blvd, Los Angeles, CA 90028",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Joe's Mobile Inc 207374",
+            type: "Store",
+            address: "20101 Roscoe Blvd, Winnetka, CA 91306",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Kims Mobil",
+            type: "Store",
+            address: "1803 W Manchester Ave, Los Angeles, CA 90047",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Kris Mobil",
+            type: "Store",
+            address: "5560 Van Nuys Blvd, Van Nuys, CA 91401",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Lakewood Mobil",
+            type: "Store",
+            address: "4311 E South St, Lakewood, CA 90712",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "MOBIL/POPEYES CHICKEN & BISCUITS",
+            type: "Store",
+            address: "13745 Paramount Blvd, South Gate, CA 90280",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Quintin's Mobil",
+            type: "Store",
+            address: "1004 N Hacienda Blvd, La Puente, CA 91744",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "SUNLAND MOBIL",
+            type: "Store",
+            address: "8505 Foothill Blvd, Sunland, CA 91040",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Topanga/Nordoff AM PM",
+            type: "Store",
+            address: "9110 Topanga Canyon Blvd, Chatsworth, CA 91311",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "AM/PM 82885",
+            type: "Store",
+            address: "6168 Eastern Ave, Bell Gardens, CA 90201",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "AM/PM Hawthorne Blue Water",
+            type: "Store",
+            address: "4015 W El Segundo Blvd, Hawthorne, CA 90250",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "South City AM/PM 82858",
+            type: "Store",
+            address: "10602 Imperial Hwy, Norwalk, CA 90650",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Baldwin Oil",
+            type: "Store",
+            address: "13758 Los Angeles St, Baldwin Park, CA 91706",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Eastern Oil",
+            type: "Store",
+            address: "6350 Fallbrook Ave, Woodland Hills, CA 91367",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Genuine Oil Company, Inc",
+            type: "Store",
+            address: "18473 Devonshire St, Northridge, CA 91325",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Los Feliz Oil Inc",
+            type: "Store",
+            address: "3073 Los Feliz Blvd, Los Angeles, CA 90039",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Nick Oil And Market",
+            type: "Store",
+            address: "18003 Soledad Canyon Rd, Canyon Country, CA 91387",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Sinaco Oil 3 Corporation 2652409",
+            type: "Store",
+            address: "2727 S Reservoir St, Pomona, CA 91766",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Sm Oil",
+            type: "Store",
+            address: "1340 E Imperial Hwy, Los Angeles, CA 90059",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Topanga Oil",
+            type: "Store",
+            address: "6423 Topanga Canyon Blvd, Woodland Hills, CA 91303",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Veer Oil Partners, Inc",
+            type: "Store",
+            address: "390 W Compton Blvd, Compton, CA 90220",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Western Oil",
+            type: "Store",
+            address: "3309 W Olympic Blvd, Los Angeles, CA 90019",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Badrinath Corporation",
+            type: "Store",
+            address: "2444 Huntington Dr, Duarte, CA 91010",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Carniceria La Diferencia Corporation",
+            type: "Store",
+            address: "13569 Glenoaks Blvd, Sylmar, CA 91342",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "El Sereno Market Corporation",
+            type: "Store",
+            address: "4837 Huntington Dr N, Los Angeles, CA 90032",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "LORENZO CORPORATION",
+            type: "Store",
+            address: "19061 Parthenia St, Northridge, CA 91324",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "NEW BANGLUCK CORPORATION",
+            type: "Store",
+            address: "7235 Reseda Blvd, Reseda, CA 91335",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Parsico Corporation",
+            type: "Store",
+            address: "2305 S La Cienega Blvd, Los Angeles, CA 90034",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Sonu & Tony Corporation, Inc",
+            type: "Store",
+            address: "13010 Lambert Rd, Whittier, CA 90602",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Sonu & Tony Corporation, Inc",
+            type: "Store",
+            address: "15604 Pioneer Blvd, Norwalk, CA 90650",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
+
+        {
+            name: "Artesia Business Center",
+            type: "Store",
+            address: "1965 E Artesia Blvd, Long Beach, CA 90805",
+            phone: "",
+            website: "",
+            hours: "",
+            latitude: ,
+            longitude: ,
+            distance: null
+
+        },
+
+    
 ];
