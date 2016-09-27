@@ -6,7 +6,7 @@
 
 	<title>Map, Food Oasis Los Angeles</title>
 	
-	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Reem+Kufi|Open+Sans" />
+	<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700' rel='stylesheet'>
 	<link rel="stylesheet" href="/assets/css/oasis.css" />
 
 	<!-- For Mapbox -->
@@ -103,14 +103,11 @@
 		<div id='listings' class='listings'></div>
 	</div>
 
-	<nav class="map-filters">
-		<ul>
-			<li><button class="food-bank" onclick="foodBankFilter()" id="fb-filter">Food Banks</button></li>
-			<li><button class="community-garden" onclick="communityGardenFilter()" id="cg-filter">Community Gardens</button></li>
-			<li><button class="farmers-market" onclick="farmersMarketFilter()" id="fm-filter">Farmers’ Markets</button></li>
-			<li><button class="farmers-market" onclick="supermarketFilter()" id="fm-filter">Supermarkets</button></li>
-		</ul>
-	</nav>
+	<ul class="filters">
+		<li><button onclick="foodBankFilter()" id="fb-filter">Food Banks</button></li>
+		<li><button onclick="communityGardenFilter()" id="cg-filter">Community Gardens</button></li>
+		<li><button onclick="farmersMarketFilter()" id="fm-filter">Farmers’ Markets</button></li>
+	</ul>
 
 	<!--<ul class="filters">
 		<button onclick="foodBankFilter()"><li id="fb-filter"><a href="?type=food-banks">Food Banks</a></li></button>
@@ -138,16 +135,7 @@
 
 	<!-- Jim’s Google Maps API key -->
 	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4"></script>
-	
-	<script src="functionalities/mapFunctionalities.js"></script>
-	<script src="functionalities/getUserLocation.js"></script>
-	<script src="functionalities/filtering.js"></script>
-	<script src="functionalities/locationList.js"></script>
-	<script src="functionalities/storesData.js"></script>
-	<script src="../json/community-gardens-json.js"></script>
-
 	<script>
-		console.log("checking that changes worked");
 		// This will let you use the .remove() function later on
 		if (!('remove' in Element.prototype)) {
 			Element.prototype.remove = function() {
@@ -157,7 +145,7 @@
 			};
 		}
 
-		mapboxgl.accessToken = 'pk.eyJ1IjoiZm9vZG9hc2lzbGEiLCJhIjoiY2l0ZjdudnN4MDhpYzJvbXlpb3IyOHg2OSJ9.POBdqXF5EIsGwfEzCm8Y3Q';
+		mapboxgl.accessToken = 'pk.eyJ1IjoiZm9vZGRlc2VydHNsYSIsImEiOiJjaXByOXRscnMwNzY1Zm5ub3YwYTd5Z3dsIn0.DWgUhgW32pVkybKx7cWWiw';
 		// This adds the map to your page
 		var map = new mapboxgl.Map({
 		  container: 'map',
@@ -172,6 +160,2946 @@
 		// Add map navigational functionality
 		map.addControl(new mapboxgl.Navigation({position: 'bottom-left'}));
 
+
+		// Link to mapbox tilesets
+		// map.addSource('Food Bank', {
+		// 	type: 'vector',
+		// 	url: 'mapbox://fooddesertsla.c1nwj97w'
+		// });
+
+//		var foodbanks = 
+
+		var stores =
+
+		{
+			"type": "FeatureCollection",
+			"features": [
+
+			
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.256703,
+							 34.0257601
+				  ]
+				},
+				"properties": {
+						"name": "All Peoples Christian Center",
+				  "phone": "213-747-6357",
+				  "address": "822 E. 20th Street Los Angeles 90011",
+						"hours": "Fri 12pm-5pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.1729264,
+							 34.0856924
+				  ]
+				},
+				"properties": {
+						"name": "All Saints Conference",
+				  "phone": "323.221.5452",
+				  "address": "3431 Portola Avenue Los Angeles 90032",
+						"hours": "2nd & 4th Fri 3pm-5pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.1953454,
+							 34.1117024
+				  ]
+				},
+				"properties": {
+						"name": "All Saints Episcopal Church Highland Park",
+				  "phone": "323.255.6806",
+				  "address": "5619 Monte Vista Street Los Angeles 90042",
+						"hours": "4th Sat 8:30am-9am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.3238487,
+							 34.0483572
+				  ]
+				},
+				"properties": {
+						"name": "Ananda Marga of L.A. Inc.",
+				  "phone": "818.414.7737",
+				  "address": "1245 S. Norton Avenue Los Angeles 90019",
+						"hours": "Thurs 9:30am-10:30am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.282984,
+							 33.933076
+				  ]
+				},
+				"properties": {
+						"name": "Ascension's Food Pantry",
+				  "phone": "323.754.2978",
+				  "address": "517 W. 112th Street Los Angeles 90044",
+						"hours": "Last Sat 9am-11am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2624581,
+							 33.9267262
+				  ]
+				},
+				"properties": {
+						"name": "Belvue Presbyterian Church",
+				  "phone": "323-757-9188",
+				  "address": "675 E. 118th Street Los Angeles 90059",
+						"hours": "3rd Thurs 10am-11am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.3310595,
+							 34.0329576
+				  ]
+				},
+				"properties": {
+						"name": "Berean S.D.A. Church",
+				  "phone": "323.735.0228",
+				  "address": "4211 W. Adams Boulevard Los Angeles 90018",
+						"hours": "3rd Thurs 9am-11am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.309331,
+							 33.9666659
+				  ]
+				},
+				"properties": {
+						"name": "Bethel AME Church- Richard Allen Center",
+				  "phone": "323.750.3240",
+				  "address": "7919 S. Western Avenue Los Angeles 90047",
+						"hours": "Wed 730am-1130am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.256075,
+							 33.9585498
+				  ]
+				},
+				"properties": {
+						"name": "Bethel Unspeakable Joy Christian Church",
+				  "phone": "323 585-5939",
+				  "address": "8724 S. Central Avenue Los Angeles 90002",
+						"hours": "2nd & 4th Sat 8am-10am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.3308714,
+							 33.9979589
+				  ]
+				},
+				"properties": {
+						"name": "Bethesda Temple Church",
+				  "phone": "323.299.2591",
+				  "address": "4915 Crenshaw Boulevard Los Angeles 90043",
+						"hours": "4th Sat 1pm-3pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.278724,
+							 33.935441
+				  ]
+				},
+				"properties": {
+						"name": "Blood of Jesus Prayer and Deliverance Ministry",
+				  "phone": "323.752.3048",
+				  "address": "11001 S. Broadway Los Angeles 90061",
+						"hours": "Wed 3pm-4pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2934993,
+							 34.0896046
+				  ]
+				},
+				"properties": {
+						"name": "Catholic Charities of L.A.",
+				  "phone": "323.662.4392",
+				  "address": "4665 Willow Brook Avenue Los Angeles 90029",
+						"hours": "Mon 10am-12pm 1pm-3pm Wed 10am-12pm 1pm-3pm Thurs 10am-12pm 1pm-3pm Fri 10am-12pm 1pm-3pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2201372,
+							 34.0521281
+				  ]
+				},
+				"properties": {
+						"name": "Catholic Charities - Brownson House",
+				  "phone": "323.264.8700",
+				  "address": "1307 Warren Street Los Angeles 90033",
+						"hours": "Mon 9am-1pm Tues 9am-1pm Wed 9am-1pm Thurs 9am-1pm Fri 9am-1pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2785568,
+							 33.9571095
+				  ]
+				},
+				"properties": {
+						"name": "CCC Ebenezery Parish",
+				  "phone": "323.752.4400",
+				  "address": "8803-8807 S. Broadway Street Los Angeles 90003",
+						"hours": "Sat 11am-130pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.182682,
+							 34.1410086
+				  ]
+				},
+				"properties": {
+						"name": "Central Filipino S.D.A. Church",
+				  "phone": "323-255-7718",
+				  "address": "777 Colorado Boulevard Los Angeles 90041",
+						"hours": "3rd Tues 9am-12pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.283484,
+							 34.0456289
+				  ]
+				},
+				"properties": {
+						"name": "Central Spanish S.D.A. Church",
+				  "phone": "818-649-0893",
+				  "address": "1366 S. Alvarado Street Los Angeles 90006",
+						"hours": "4th Sat 5pm-6pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.3094234,
+							 34.0691134
+				  ]
+				},
+				"properties": {
+						"name": "Charismatic Ecumencial Ministries International",
+				  "phone": "213.219.3228",
+				  "address": "4357 West 3rd Street Los Angeles 90020",
+						"hours": "1st 2nd & 3rd Sun 1pm-130pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2986107,
+							 34.0977874
+				  ]
+				},
+				"properties": {
+						"name": "Childrens Hospital Los Angeles",
+				  "phone": "323-361-5981",
+				  "address": "5000 Sunset Blvd. 7th Floor Los Angeles 90027",
+						"hours": "Wed 10am-11am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.266495,
+							 34.065401
+				  ]
+				},
+				"properties": {
+						"name": "Chinese Community Service Center",
+				  "phone": "213-483-3035",
+				  "address": "1725 Beverly Boulevard Suite 1-B Los Angeles 90026",
+						"hours": "Sun 9am-12pm 6/1/2015 Tues 9am-12pm 7/1/2015",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2912726,
+							 34.0065425
+				  ]
+				},
+				"properties": {
+						"name": "Christ Gospel Prayer Center",
+				  "phone": "323.732.1394",
+				  "address": "4228 S. Vermont Avenue Los Angeles 90037",
+						"hours": "Wed 11am-130pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.3297116,
+							 34.0040273
+				  ]
+				},
+				"properties": {
+						"name": "Christ the Good Shepherd Episcopal",
+				  "phone": "323-295-4139",
+				  "address": "3303 W. Vernon Avenue Los Angeles 90008",
+						"hours": "4th Fri 10am-1pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.3661612,
+							 34.0414693
+				  ]
+				},
+				"properties": {
+						"name": "Christian Association for Social Services",
+				  "phone": "323-936-9481",
+				  "address": "5814 Venice Blvd. Los Angeles 90019",
+						"hours": "1st & 3rd Fri 10am-1pm 1st & 3rd Sat 10am-1pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.21285,
+							 34.0752843
+				  ]
+				},
+				"properties": {
+						"name": "Church of the Epiphany",
+				  "phone": "323.227.9931",
+				  "address": "2808 Altura Street Los Angeles 90031",
+						"hours": "2nd & 4th Fri 1030am-1130am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.1796924,
+							 34.0851253
+				  ]
+				},
+				"properties": {
+						"name": "Cory's Kitchen-El Sereno",
+				  "phone": "323.972.1330",
+				  "address": "4810 Huntington Drive South Los Angeles 90032",
+						"hours": "Mon 430pm-630pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2568599,
+							 34.0031117
+				  ]
+				},
+				"properties": {
+						"name": "Cover the Homeless Ministry",
+				  "phone": "323.931.5468",
+				  "address": "4425 S. Central Avenue Los Angeles  90011",
+						"hours": "4th Thurs 12pm-1pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.3408663,
+							 34.0068523
+				  ]
+				},
+				"properties": {
+						"name": "Crenshaw United Methodist Church",
+				  "phone": "323.292.0141",
+				  "address": "3740 Don Felipe Drive Los Angeles  90008",
+						"hours": "3rd Sat 10am-12pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2816342,
+							 34.0752651
+				  ]
+				},
+				"properties": {
+						"name": "Crusaders for Christ Baptist Church",
+				  "phone": "323.681.3569",
+				  "address": "3200 W. Temple Street Los Angeles  90026",
+						"hours": "Fri 330pm-5pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2920482,
+							 33.9463608
+				  ]
+				},
+				"properties": {
+						"name": "Do Right Christian Church",
+				  "phone": "323.755.1053",
+				  "address": "9815 S. Vermont Avenue Los Angeles 90044",
+						"hours": "1st 2nd & 4th Sat 830am-1030am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.1590196,
+							 34.012313
+				  ]
+				},
+				"properties": {
+						"name": "Door of Hope Community Center",
+				  "phone": "323.262.2777",
+				  "address": "1414 South Atlantic Blvd. Los Angeles 90022",
+						"hours": "Tues 9am-11am Thurs 9am-11am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.1493743,
+							 34.0209372
+				  ]
+				},
+				"properties": {
+						"name": "East L.A. Bilingual S.D.A. Church",
+				  "phone": "213.804.8087",
+				  "address": "700 Hoefner Avenue Los Angeles 90022",
+						"hours": "1st & 3rd Wed 530pm-630pm Sat 12pm-1245pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.199474,
+							 34.030634
+				  ]
+				},
+				"properties": {
+						"name": "East LA Community Corporation",
+				  "phone": "323.269.4214",
+				  "address": "611 S. Lorena Street Los Angeles 90033",
+						"hours": "3rd Fri 9am-11am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.1500876,
+							 34.0209713
+				  ]
+				},
+				"properties": {
+						"name": "Eastmont Community Center",
+				  "phone": "323.726.7998",
+				  "address": "701 Hoefner Avenue Los Angeles 90022",
+						"hours": "Mon 9am-11am Tues 9am-11am Wed 9am-11am Thurs 9am-11am Fri 9am-11am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.1376064,
+							 34.0136274
+				  ]
+				},
+				"properties": {
+						"name": "Eastmont SDA Spanish Church",
+				  "phone": "323.396.7729",
+				  "address": "1021 Westside Drive Los Angeles 90022",
+						"hours": "Mon 730pm-8pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2624834,
+							 34.0787092
+				  ]
+				},
+				"properties": {
+						"name": "Echo Park United Methodist",
+				  "phone": "323.731.5472",
+				  "address": "1226 N. Alvarado Boulevard Los Angeles 90026",
+						"hours": "Wed 2pm-5pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.3092608,
+							 33.9759966
+				  ]
+				},
+				"properties": {
+						"name": "Ephesus S.D.A. Church",
+				  "phone": "323.759.3993",
+				  "address": "7005 S. Western Avenue Los Angeles 90047",
+						"hours": "2nd & 4th Wed 3pm-430pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.196609,
+							 34.1072082
+				  ]
+				},
+				"properties": {
+						"name": "Esmirna Pentecostal Church",
+				  "phone": "323.254.0191",
+				  "address": "5414 N. Figueroa Street Los Angeles 90042",
+						"hours": "Fri 4pm-6pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2651523,
+							 33.9711628
+				  ]
+				},
+				"properties": {
+						"name": "Estelle Van Meter Multipurpose",
+				  "phone": "323.753.3881",
+				  "address": "7600 S. Avalon Boulevard Los Angeles 90003",
+						"hours": "1st and 3rd Wed 1030am-1130am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2082908,
+							 34.0211079
+				  ]
+				},
+				"properties": {
+						"name": "Estrada Courts Community Center",
+				  "phone": "323.641.8943",
+				  "address": "3232 Hunter Street Los Angeles 90023",
+						"hours": "2nd & 4th Wed 8am-10am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2999294,
+							 33.9799881
+				  ]
+				},
+				"properties": {
+						"name": "Family Mennonite Church",
+				  "phone": "323.750.1744",
+				  "address": "6520 S. Normandie Avenue Los Angeles 90044",
+						"hours": "2nd Sun 1pm-130pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.3134514,
+							 33.9935442
+				  ]
+				},
+				"properties": {
+						"name": "Fifty Fourth Street S.D.A. Church",
+				  "phone": "323-292-2762",
+				  "address": "1973 West 54th Street Los Angeles 90062",
+						"hours": "2nd & 4th Tues 8am-10am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2822084,
+							 33.9908748
+				  ]
+				},
+				"properties": {
+						"name": "Figueroa Church of Christ",
+				  "phone": "323-753-2536",
+				  "address": "455 W. 57th Street Los Angeles 90037",
+						"hours": "Tues 730am-1130am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2644293,
+							 34.0676498
+				  ]
+				},
+				"properties": {
+						"name": "Filipino Christian Church",
+				  "phone": "213.483.5821",
+				  "address": "301 N. Union Avenue Los Angeles 90026",
+						"hours": "Sat 10am-1050am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.3061942,
+							 34.0344082
+				  ]
+				},
+				"properties": {
+						"name": "First African Methodist Episcopal Church",
+				  "phone": "323 735-1251",
+				  "address": "2270 S. Harvard Boulevard Los Angeles  90018",
+						"hours": "4th Sat 9am-12pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2886022,
+							 34.0582323
+				  ]
+				},
+				"properties": {
+						"name": "First Baptist Church-Hope Net",
+				  "phone": "213.384.2151",
+				  "address": "760 S. Westmoreland Avenue Los Angeles 90005",
+						"hours": "Fri 8am-930am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.3040285,
+							 33.9384572
+				  ]
+				},
+				"properties": {
+						"name": "First New Christian Fellowship",
+				  "phone": "323.756.2541",
+				  "address": "1555 W. 108th Street Los Angeles 90047",
+						"hours": "Thurs 9am-11am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.3372555,
+							 34.0405644
+				  ]
+				},
+				"properties": {
+						"name": "First Presbyterian Church",
+				  "phone": "323.935.5204",
+				  "address": "1809 West Boulevard. Los Angeles 90019",
+						"hours": "3rd Sun 1pm-2pm 1st Sat 9am-11am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2904201,
+							 34.0574918
+				  ]
+				},
+				"properties": {
+						"name": "First Unitarian Church-Hope Net",
+				  "phone": "213-389-1356",
+				  "address": "2936 W. 8th Street Los Angeles 90005",
+						"hours": "Sat 8am 10am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.1792254,
+							 34.0370429
+				  ]
+				},
+				"properties": {
+						"name": "Food Net- East L.A. Center",
+				  "phone": "323-260-2801",
+				  "address": "133 N. Sunol Drive Los Angeles 90063",
+						"hours": "Mon 930am-12pm 130pm-4pm Thurs 930am-12pm 130pm-4pm Fri 930am-12pm 130pm-4pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.1643033,
+							 34.0402137
+				  ]
+				},
+				"properties": {
+						"name": "Food Net-Centro Maravilla",
+				  "phone": "323.260.2805",
+				  "address": "4716 E. Cesar Chavez Avenue Los Angeles 90022",
+						"hours": "Mon 8am-5pm Tues 8am-5pm Wed 8am-5pm Thurs 8am-5pm Fri 8am-5pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2480784,
+							 33.9677438
+				  ]
+				},
+				"properties": {
+						"name": "Food Net-Florence Firestone Center",
+				  "phone": "323.586.6502",
+				  "address": "7807 S. Compton Avenue Los Angeles 90001",
+						"hours": "2nd Tues 10am-12pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2722211,
+							 33.9150672
+				  ]
+				},
+				"properties": {
+						"name": "Food Net-Willowbrook Senior Center",
+				  "phone": "310.217.5650",
+				  "address": "12915 Jarvis Avenue Los Angeles 90061",
+						"hours": "2nd & 4th Wed 10am-12pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2419919,
+							 34.0433355
+				  ]
+				},
+				"properties": {
+						"name": "Fred Jordan Mission",
+				  "phone": "213-489-7763",
+				  "address": "445 Towne Avenue Los Angeles 90013",
+						"hours": "Mon 12pm-1pm Tues 12pm-1pm Wed 12pm-1pm Thurs 12pm-1pm Fri 12pm-1pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2410457,
+							 33.9458593
+				  ]
+				},
+				"properties": {
+						"name": "Friends Outside in L.A. County",
+				  "phone": "213.473.3607",
+				  "address": "1773 E. Century Blvd. Los Angeles 90002",
+						"hours": "1st & 3rd Wed 1pm-3pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2896203,
+							 34.0731603
+				  ]
+				},
+				"properties": {
+						"name": "Good News Central Church",
+				  "phone": "213.386.0097",
+				  "address": "3500 West 1st Street Los Angeles  90004",
+						"hours": "1st & 3rd Sat 830am-11am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.319388,
+							 34.003407
+				  ]
+				},
+				"properties": {
+						"name": "Good News Missionary Baptist Church",
+				  "phone": "323.292.3589",
+				  "address": "2400 W. Vernon Ave Los Angeles 90008",
+						"hours": "2nd & 4th Thurs 11am-1pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2423524,
+							 33.9599573
+				  ]
+				},
+				"properties": {
+						"name": "Good News Prayer Center",
+				  "phone": "323.753.0117",
+				  "address": "1722 East Firestone Boulevard Los Angeles 90001",
+						"hours": "3rd Sat 10am-12pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2655739,
+							 33.9735936
+				  ]
+				},
+				"properties": {
+						"name": "Gospel Mission Baptist Church",
+				  "phone": "323.759.8087",
+				  "address": "7301 S. Avalon Boulevard Los Angeles 90003",
+						"hours": "4th Wed 11am-12pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.1999599,
+							 34.1213022
+				  ]
+				},
+				"properties": {
+						"name": "Grace Presbyterian Church",
+				  "phone": "818.957.8090",
+				  "address": "1500 N. Ave 53 Los Angeles 90042",
+						"hours": "2nd & 4th Fri 930am-1030am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2767182,
+							 33.9745963
+				  ]
+				},
+				"properties": {
+						"name": "Greater New Morning Star Baptist Church",
+				  "phone": "323.529.4446",
+				  "address": "210 W. Florence Avenue Los Angeles 90003",
+						"hours": "Sat 8am-11am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2655116,
+							 33.9476946
+				  ]
+				},
+				"properties": {
+						"name": "Greater New Unity Baptist Church",
+				  "phone": "323.757.5094",
+				  "address": "9719 S. Avalon Boulevard Los Angeles 90003",
+						"hours": "3rd Sat 830am-10am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.288445,
+							 34.028117
+				  ]
+				},
+				"properties": {
+						"name": "Greater True Light M.B.C.",
+				  "phone": "323.733.7423",
+				  "address": "1276 West 29th Street Los Angeles  90007",
+						"hours": "2nd Wed 11am-1pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.1794177,
+							 34.0421266
+				  ]
+				},
+				"properties": {
+						"name": "Guadalupe Food Program",
+				  "phone": "323.261.8051",
+				  "address": "4018 East Hammel Street Los Angeles 90063",
+						"hours": "2nd & 4th Wed 7am-9am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.254577,
+							 33.933305
+				  ]
+				},
+				"properties": {
+						"name": "H.O.P.E. Helping Other People Excel",
+				  "phone": "323.567.8524",
+				  "address": "11163 S. Central Avenue Los Angeles 90059",
+						"hours": "Fri 9am-11am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.288536,
+							 33.9614457
+				  ]
+				},
+				"properties": {
+						"name": "Heavenly Vision Church of God in Christ",
+				  "phone": "323.245.2651",
+				  "address": "841 W. 85th Street Los Angeles 90044",
+						"hours": "4th Fri 12pm-2pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2650011,
+							 33.9970819
+				  ]
+				},
+				"properties": {
+						"name": "HOAP Inc.",
+				  "phone": "323.232.7256",
+				  "address": "5014 S. Avalon Boulevard Los Angeles 90011",
+						"hours": "Thurs 930am-1130am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.3231596,
+							 34.0873928
+				  ]
+				},
+				"properties": {
+						"name": "Hollywood West Tenant Action Committee",
+				  "phone": "323.461.4957",
+				  "address": "5823 Willoughby Avenue Los Angeles  90038",
+						"hours": "3rd Fri 4pm-6pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2742456,
+							 33.9997087
+				  ]
+				},
+				"properties": {
+						"name": "Holy Cross Center",
+				  "phone": "323.232.3333",
+				  "address": "104 W. 47th Place Los Angeles 90037",
+						"hours": "Mon 9am-11am Wed 9am-11am Fri 9am-11am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2778458,
+							 33.9481351
+				  ]
+				},
+				"properties": {
+						"name": "Holy Trinity Church of God in Christ",
+				  "phone": "323.777.2965",
+				  "address": "9706 S. Broadway Boulevard Los Angeles 90003",
+						"hours": "Sat 12pm-2pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2104324,
+							 34.1142576
+				  ]
+				},
+				"properties": {
+						"name": "Holy Virgin Mary Coptic Orthodox Church",
+				  "phone": "323.258.5555",
+				  "address": "4900 Cleland Avenue Los Angeles 90042",
+						"hours": "Wed 4pm-6pm 5/6/2015 Wed 4pm-6pm 5/20/2015 Wed 4pm-6pm 6/3/2015 Wed 4pm-6pm 6/17/2015 Wed 4pm-6pm 7/1/2015 Wed 4pm-6pm 7/15/2015 Wed 4pm-6pm 7/29/2015",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.296546,
+							 34.0955984
+				  ]
+				},
+				"properties": {
+						"name": "Hope International Bible Fellowship",
+				  "phone": "323.663.9394",
+				  "address": "4903 Fountain Avenue Los Angeles 90029",
+						"hours": "2nd Sat 9am-10am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.416965,
+							 33.9643479
+				  ]
+				},
+				"properties": {
+						"name": "Hurting & Hungry",
+				  "phone": "213.268.4820",
+				  "address": "8107 Loyola Boulevard Los Angeles 90045",
+						"hours": "",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.1429081,
+							 34.0130837
+				  ]
+				},
+				"properties": {
+						"name": "Iglesia Apostolica Manantial de Vida",
+				  "phone": "323-728-8500",
+				  "address": "6034 E. Olympic Boulevard Los Angeles  90022",
+						"hours": "Tues 7pm-8pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2779982,
+							 33.9921017
+				  ]
+				},
+				"properties": {
+						"name": "Iglesia Cristiana El Shaddai USA",
+				  "phone": "323.235.5988",
+				  "address": "5518 S. Broadway Los Angeles  90037",
+						"hours": "Fri 730pm-9pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.1981957,
+							 34.1073922
+				  ]
+				},
+				"properties": {
+						"name": "Iglesia de la Comunidad Presbyterian Church",
+				  "phone": "323.257.4352",
+				  "address": "115 N. Ave 53 Los Angeles  90042",
+						"hours": "1st & 3rd Thurs 1030am-1130am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2485227,
+							 34.1039614
+				  ]
+				},
+				"properties": {
+						"name": "Iglesia del Nazareno Elysian Park",
+				  "phone": "909.649.5337",
+				  "address": "2750 Marsh Street Los Angeles  90039",
+						"hours": "1st & 3rd Wed 4pm-630pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.1621792,
+							 34.0173349
+				  ]
+				},
+				"properties": {
+						"name": "Iglesia la Puerta Abierta",
+				  "phone": "323.261.8397",
+				  "address": "5017 E. Olympic Boulevard Los Angeles 90022",
+						"hours": "Wed 7pm-730pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.255771,
+							 33.952555
+				  ]
+				},
+				"properties": {
+						"name": "Iglesia Macedonia Defenders of the Christian Faith",
+				  "phone": "323.804.6615",
+				  "address": "9228 S. Central Avenue Los Angeles 90002",
+						"hours": "Tues 7pm-8pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.202409,
+							 34.0396969
+				  ]
+				},
+				"properties": {
+						"name": "Iglesia Pentecostes Roca de Salvacion",
+				  "phone": "323.832.5313",
+				  "address": "122 South Evergreen Avenue Los Angeles 90033",
+						"hours": "Sun 1pm 2pm Sat 3pm-4pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.3074812,
+							 33.9385863
+				  ]
+				},
+				"properties": {
+						"name": "Imani Unidos A.I.D.S. Project",
+				  "phone": "323.754.8453",
+				  "address": "1713 W. 108th Street Los Angeles 90047",
+						"hours": "2nd & 4th Tues 10am-1pm 2nd & 4th Wed 10am-1pm 2nd & 4th Thurs 10am-1pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2976765,
+							 34.0905787
+				  ]
+				},
+				"properties": {
+						"name": "Immaculate Heart of Mary-Hope Net",
+				  "phone": "323.660.0034",
+				  "address": "4954 Santa Monica Boulevard Los Angeles  90029",
+						"hours": "Mon 11am-12pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.294485,
+							 34.0614542
+				  ]
+				},
+				"properties": {
+						"name": "Immanuel Presbyterian Church-Hope Net",
+				  "phone": "213.389.3191",
+				  "address": "3300 Wilshire Blvd Los Angeles 90010",
+						"hours": "Sat 930am-1130am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2691607,
+							 33.9315622
+				  ]
+				},
+				"properties": {
+						"name": "Imperial Church of Christ",
+				  "phone": "323.756.0360",
+				  "address": "11316 S. San Pedro Street Los Angeles 90061",
+						"hours": "Sat 7am-830am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.291309,
+							 34.0664143
+				  ]
+				},
+				"properties": {
+						"name": "Islamic Center of Southern CA-Hope Net",
+				  "phone": "213.382.9200",
+				  "address": "434 S. Vermont Boulevard Los Angeles 90020",
+						"hours": "Sat 11am-12pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.3848578,
+							 34.0547447
+				  ]
+				},
+				"properties": {
+						"name": "JFS/SOVA Community Food & Resource Program",
+				  "phone": "818.988.7682",
+				  "address": "8846 W. Pico Boulevard Los Angeles 90035",
+						"hours": "Sun 9am-12pm 1st & 3rd Mon 10am-130pm Wed 10am-130pm Fri 10am-130pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.3075531,
+							 34.0399579
+				  ]
+				},
+				"properties": {
+						"name": "Koreatown Multipurpose Senior Center",
+				  "phone": "213.247.3560",
+				  "address": "2147 W. Washington Boulevard Los Angeles 90018",
+						"hours": "Tues 830am-1130am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2981065,
+							 34.098427
+				  ]
+				},
+				"properties": {
+						"name": "L.A. Grace Church",
+				  "phone": "213.509.5568",
+				  "address": "4975 W. Sunset Boulevard Los Angeles 90027",
+						"hours": "Fri 930pm-10pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.3087286,
+							 33.9538569
+				  ]
+				},
+				"properties": {
+						"name": "Life Deliverance Ministries",
+				  "phone": "562.607.8780",
+				  "address": "9120 S. Western Avenue Los Angeles 90044",
+						"hours": "Sat 8am-11am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.3002282,
+							 33.9877081
+				  ]
+				},
+				"properties": {
+						"name": "Living Truth Christian Fellowship",
+				  "phone": "323.290.3909",
+				  "address": "5873 S. Normandie Avenue Los Angeles 90044",
+						"hours": "3rd & 4th Tues 1130am-130pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.215668,
+							 34.0779999
+				  ]
+				},
+				"properties": {
+						"name": "Los Angeles Boys & Girls Club",
+				  "phone": "323.221.9111",
+				  "address": "2635 Pasadena Avenue Los Angeles 90031",
+						"hours": "Thurs 5pm-6pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2752257,
+							 34.0327067
+				  ]
+				},
+				"properties": {
+						"name": "Los Angeles Central City S.D.A. Church",
+				  "phone": "213-422-7178",
+				  "address": "650 W. 21st Street Los Angeles 90007",
+						"hours": "3rd Tues 12pm-2pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2898538,
+							 34.0693363
+				  ]
+				},
+				"properties": {
+						"name": "Los Angeles First Church of the Nazarene-Hope Net",
+				  "phone": "213.385.6345",
+				  "address": "3401 W. 3rd Street Los Angeles 90020",
+						"hours": "Fri 4pm-6pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.318296,
+							 34.093566
+				  ]
+				},
+				"properties": {
+						"name": "Los Angeles Housing Partnership",
+				  "phone": "(213) 629-9172",
+				  "address": "1229 N. Bronson Avenue Los Angeles 90038",
+						"hours": "3rd Fri 330pm-430pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2937058,
+							 34.0793271
+				  ]
+				},
+				"properties": {
+						"name": "Los Angeles Housing Partnership",
+				  "phone": "213.629.9172",
+				  "address": "504 N. Berendo Street Los Angeles 90004",
+						"hours": "1st Fri 330pm-430pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2826812,
+							 34.0586006
+				  ]
+				},
+				"properties": {
+						"name": "Los Angeles Housing Partnership",
+				  "phone": "213.629.9172",
+				  "address": "2614 W. 7th Street Los Angeles 90057",
+						"hours": "Last Fri 4pm-5pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.3093646,
+							 33.9606268
+				  ]
+				},
+				"properties": {
+						"name": "Love & Faith Christian Center",
+				  "phone": "323.753.8300",
+				  "address": "8505 S. Western Avenue Los Angeles 90047",
+						"hours": "Mon 830am-10am Fri 830am-10am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2897866,
+							 34.102074
+				  ]
+				},
+				"properties": {
+						"name": "Metropolitan Community Church of L.A.-Hope Net",
+				  "phone": "323.669.3436",
+				  "address": "4607 Prospect Avenue Los Angeles 90027",
+						"hours": "Sat 9am-11am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.334148,
+							 33.988368
+				  ]
+				},
+				"properties": {
+						"name": "My Friends House",
+				  "phone": "323.292.4939",
+				  "address": "3533 West 58th Place Los Angeles 90043",
+						"hours": "Wed 9am-11am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2479196,
+							 33.9631636
+				  ]
+				},
+				"properties": {
+						"name": "New Life in Christ Full Gospel",
+				  "phone": "323.584.9270",
+				  "address": "8301 S. Compton Avenue Los Angeles 90001",
+						"hours": "2nd & 4th Thurs 11am 230pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.3003684,
+							 34.0170589
+				  ]
+				},
+				"properties": {
+						"name": "Normandie Community Development Food Pantry",
+				  "phone": "323.731.7787",
+				  "address": "3801 South Normandie Avenue Los Angeles 90037",
+						"hours": "4th Sat 1145am-1pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.1901472,
+							 34.0861589
+				  ]
+				},
+				"properties": {
+						"name": "Our Lady of Guadalupe Church",
+				  "phone": "323.225.4201",
+				  "address": "4509 Mercury Avenue Los Angeles 90032",
+						"hours": "",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.205021,
+							 34.036566
+				  ]
+				},
+				"properties": {
+						"name": "Our Lady of Talpa Church",
+				  "phone": "323.268.7731",
+				  "address": "427 S. Evergreen Ave. Los Angeles 90033",
+						"hours": "3rd Tues 1pm-3pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.239577,
+							 34.05707
+				  ]
+				},
+				"properties": {
+						"name": "Our Lady Queen of Angels Catholic Church",
+				  "phone": "213.629.3101",
+				  "address": "535 N. Main Street Los Angeles 90012",
+						"hours": "Fri 8am-11am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.3311949,
+							 33.9959851
+				  ]
+				},
+				"properties": {
+						"name": "Pennacle Foundation Inc",
+				  "phone": "323.750.2400",
+				  "address": "5125 Crenshaw Boulevard Los Angeles 90047",
+						"hours": "Wed 3pm-5pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2494863,
+							 34.1123618
+				  ]
+				},
+				"properties": {
+						"name": "Pentecostal Church of God",
+				  "phone": "323.842.7888",
+				  "address": "2829 1/4 Fletcher Drive Los Angeles 90039",
+						"hours": "Wed 3pm-5pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.282263,
+							 33.913935
+				  ]
+				},
+				"properties": {
+						"name": "People for Community Improvement",
+				  "phone": "310.538.4013",
+				  "address": "13008 South Figueroa Los Angeles 90061",
+						"hours": "2nd & 4th Fri 11am-3pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2473905,
+							 33.9759009
+				  ]
+				},
+				"properties": {
+						"name": "Pilgrim's Hope Baptist Church",
+				  "phone": "323.581.7672",
+				  "address": "7016 S. Compton Avenue Los Angeles 90001",
+						"hours": "2nd Wed 9am-11am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2602462,
+							 34.0634518
+				  ]
+				},
+				"properties": {
+						"name": "Pilipino Worker Center of Southern California",
+				  "phone": "213.250.4353",
+				  "address": "153 Glendale Boulevard Los Angeles 90026",
+						"hours": "Fri 6pm-7pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.249548,
+							 33.9813266
+				  ]
+				},
+				"properties": {
+						"name": "Presentation of Mary Catholic",
+				  "phone": "323.585.0570",
+				  "address": "6406 Parmelee Avenue Los Angeles 90001",
+						"hours": "3rd Sat 730am-830am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2983986,
+							 34.0331289
+				  ]
+				},
+				"properties": {
+						"name": "Redeemer Missionary Baptist Church",
+				  "phone": "323.732.4124",
+				  "address": "1631 W. Adams Boulevard Los Angeles 90007",
+						"hours": "Sat 10am-1pm Bi-Weekly",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.3415885,
+							 33.992821
+				  ]
+				},
+				"properties": {
+						"name": "Robbins Memorial Church of God in Christ",
+				  "phone": "323-298-8771",
+				  "address": "3868 W. 54th Street Los Angeles 90043",
+						"hours": "1st Wed 8am-9am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2932645,
+							 34.0793451
+				  ]
+				},
+				"properties": {
+						"name": "Rosewood Revitalization Group",
+				  "phone": "323.662.1194",
+				  "address": "4101 Rosewood Avenue Los Angeles 90004",
+						"hours": "3rd Fri 330pm-430pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2126261,
+							 34.0703284
+				  ]
+				},
+				"properties": {
+						"name": "Sacred Heart Church",
+				  "phone": "323.221.3179",
+				  "address": "2210 Sichel Street Los Angeles 90031",
+						"hours": "1st & 3rd Thurs 10am-1230pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.3135116,
+							 33.9632875
+				  ]
+				},
+				"properties": {
+						"name": "Saint Mark Food Pantry",
+				  "phone": "323.753.3535",
+				  "address": "8305 S. Gramercy Place Los Angeles 90047",
+						"hours": "1st & 3rd Wed 11am-1130am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.1854747,
+							 34.036961
+				  ]
+				},
+				"properties": {
+						"name": "Salvation Army - East L.A.",
+				  "phone": "323.263-7577",
+				  "address": "140 N. Eastman Avenue Los Angeles 90063",
+						"hours": "",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2646275,
+							 34.0466096
+				  ]
+				},
+				"properties": {
+						"name": "Salvation Army- L.A. Central Corp",
+				  "phone": "213.896.9178",
+				  "address": "906 S. Francisco Street Los Angeles 90015",
+						"hours": "",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2324792,
+							 33.9373243
+				  ]
+				},
+				"properties": {
+						"name": "San Miguel Church",
+				  "phone": "323-569-5951",
+				  "address": "2214 E. 108th Street Los Angeles 90059",
+						"hours": "3rd Sat 8am-930am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2702749,
+							 34.1098951
+				  ]
+				},
+				"properties": {
+						"name": "Silverlake Community Church-Hope Net",
+				  "phone": "323.663.3151",
+				  "address": "2930 Hyperion Ave Los Angeles 90027",
+						"hours": "Wed 530pm-630pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.215201,
+							 34.051615
+				  ]
+				},
+				"properties": {
+						"name": "Spanish American S.D.A. Church",
+				  "phone": "323.222.7063",
+				  "address": "1815 E. Bridge Street Los Angeles 90033",
+						"hours": "Wed 6pm-730pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.291697,
+							 34.0320953
+				  ]
+				},
+				"properties": {
+						"name": "St. Agnes Parish",
+				  "phone": "323-731-2464",
+				  "address": "2625 S. Vermont Avenue Los Angeles 90007",
+						"hours": "Mon 9am 1030am Tues 9am-1030am Thurs 9am-1030am Fri 9am-1030am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2591403,
+							 34.0733551
+				  ]
+				},
+				"properties": {
+						"name": "St. Athanasius & St. Paul Church",
+				  "phone": "213.908.8827",
+				  "address": "840 Echo Park Avenue Los Angeles 90026",
+						"hours": "Fri 8am-1030am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.3086059,
+							 33.9945347
+				  ]
+				},
+				"properties": {
+						"name": "St. Brigid Catholic Church",
+				  "phone": "323-292-0781",
+				  "address": "5214 S. Western Avenue Los Angeles 90062",
+						"hours": "3rd Fri 930am-11am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2998211,
+							 34.0059447
+				  ]
+				},
+				"properties": {
+						"name": "St. Cecilia Catholic Church",
+				  "phone": "(323) 294-6628",
+				  "address": "4230 S. Normandie Avenue Los Angeles 90037",
+						"hours": "3rd Sat 9am-1030am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2697209,
+							 34.0339876
+				  ]
+				},
+				"properties": {
+						"name": "St. Francis Center",
+				  "phone": "213.747.5347",
+				  "address": "1835 S. Hope Street Los Angeles 90015",
+						"hours": "Tues 11am-1230pm Wed 11am-1230pm Thurs 11am-1230pm Sat 11am-1230pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.3119697,
+							 34.062042
+				  ]
+				},
+				"properties": {
+						"name": "St. James Episcopal Church-Hope Net",
+				  "phone": "323-934-5870",
+				  "address": "3903 Wilshire Boulevard Los Angeles 90010",
+						"hours": "Thurs 8am-9am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2756401,
+							 34.02741
+				  ]
+				},
+				"properties": {
+						"name": "St. John's Cathedral-Hope Net",
+				  "phone": "213.747.6285",
+				  "address": "514 W. Adams Boulevard Los Angeles 90007",
+						"hours": "1st & 3rd Sun 1230pm-130pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2459688,
+							 33.9443922
+				  ]
+				},
+				"properties": {
+						"name": "St. Lawrence of Brindisi",
+				  "phone": "323.567.1439",
+				  "address": "10122 Compton Avenue Los Angeles 90002",
+						"hours": "Tues 7am-830am Thurs 7am-830am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2481042,
+							 33.9970846
+				  ]
+				},
+				"properties": {
+						"name": "St. Mark Missionary Baptist",
+				  "phone": "323.231.1040",
+				  "address": "5017 Compton Avenue Los Angeles 90011",
+						"hours": "Wed 8am-10am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2606782,
+							 34.0186835
+				  ]
+				},
+				"properties": {
+						"name": "St. Philip's Episcopal Church",
+				  "phone": "323-291-8917",
+				  "address": "2800 Stanford Avenue Los Angeles 90011",
+						"hours": "2nd & 4th Tues 730am-830am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2989084,
+							 34.0468917
+				  ]
+				},
+				"properties": {
+						"name": "St. Thomas Center",
+				  "phone": "323.737.3325",
+				  "address": "2727 W. Pico Boulevard Los Angeles 90006",
+						"hours": "1st 2nd & 3rd Sat 7am-9am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2769163,
+							 34.0288543
+				  ]
+				},
+				"properties": {
+						"name": "St. Vincent de Paul Church",
+				  "phone": "213-749-8950",
+				  "address": "621 W. Adams Boulevard Los Angeles 90007",
+						"hours": "Thurs 8am-11am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2759117,
+							 34.0324876
+				  ]
+				},
+				"properties": {
+						"name": "Star Christian School",
+				  "phone": "213-746-6900",
+				  "address": "2120 Estrella Avenue Los Angeles 90007",
+						"hours": "2nd & 4th Sat 8am-9am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.3094489,
+							 33.9902077
+				  ]
+				},
+				"properties": {
+						"name": "Testimonial Community Love Center",
+				  "phone": "323-291-6753",
+				  "address": "5721 S. Western Avenue Los Angeles 90062",
+						"hours": "Thurs 830am-1030am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2975894,
+							 34.0838228
+				  ]
+				},
+				"properties": {
+						"name": "The Great Vision Church",
+				  "phone": "213-675-8291",
+				  "address": "4465 W. Melrose Avenue Los Angeles 90029",
+						"hours": "1st & 3rd Sat 7am-8am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.255791,
+							 33.938547
+				  ]
+				},
+				"properties": {
+						"name": "The Restoration Foundation",
+				  "phone": "323.569.4357",
+				  "address": "1117 East 108th Street Los Angeles 90059",
+						"hours": "Sat 10am-11am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2493074,
+							 33.9750605
+				  ]
+				},
+				"properties": {
+						"name": "Travelers Rest Missionary B.C.",
+				  "phone": "323.582.7797",
+				  "address": "1417 E. Florence Avenue Los Angeles 90001",
+						"hours": "Wed 11am-1pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.3161,
+							 34.0251148
+				  ]
+				},
+				"properties": {
+						"name": "Trinity Baptist Church L.A.",
+				  "phone": "323-735-0044",
+				  "address": "2040 W. Jefferson Boulevard Los Angeles 90018",
+						"hours": "Wed 930am-1045am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.3085596,
+							 33.9924885
+				  ]
+				},
+				"properties": {
+						"name": "United African Church",
+				  "phone": "323.766.0001",
+				  "address": "1745 W. 55th Street Los Angeles 90062",
+						"hours": "1st & 3rd Sun 1am-2am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.274222,
+							 33.974056
+				  ]
+				},
+				"properties": {
+						"name": "United Gospel Outreach",
+				  "phone": "323.758.1213",
+				  "address": "7223 S. Main Street Los Angeles 90003",
+						"hours": "Wed 11am-1pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2955869,
+							 34.0111729
+				  ]
+				},
+				"properties": {
+						"name": "University S.D.A. Church",
+				  "phone": "323.766.9889",
+				  "address": "1135 Martin Luther Kin Jr. Boulevard Los Angeles 90037",
+						"hours": "Wed 1pm-230pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2603428,
+							 33.9999755
+				  ]
+				},
+				"properties": {
+						"name": "Victory Baptist Church",
+				  "phone": "323.231.2424",
+				  "address": "4802 South McKinley Avenue Los Angeles 90011",
+						"hours": "Fri 8am-1130am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2697413,
+							 33.9859277
+				  ]
+				},
+				"properties": {
+						"name": "Vision of Hope Outreach Ministry",
+				  "phone": "323-233-4647",
+				  "address": "5951 S. San Pedro Los Angeles 90003",
+						"hours": "2nd & 4th Sat 3pm-4pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.255854,
+							 34.0220569
+				  ]
+				},
+				"properties": {
+						"name": "Visions Community Outreach",
+				  "phone": "310.920.1026",
+				  "address": "2300 S. Griffith Avenue Los Angeles 90011",
+						"hours": "2nd & 4th Sat 10am-12pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2743249,
+							 33.9953651
+				  ]
+				},
+				"properties": {
+						"name": "Wesley United Methodist Church",
+				  "phone": "323.298.0727",
+				  "address": "112 West 52nd Street Los Angeles 90037",
+						"hours": "Thurs 1030am-12pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.348501,
+							 34.032789
+				  ]
+				},
+				"properties": {
+						"name": "West Adams Church of Christ",
+				  "phone": "323 731-6672",
+				  "address": "4959 W. Adams Boulevard Los Angeles 90016",
+						"hours": "3rd Fri 10am-11am 4th Sat 12pm-2pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.335492,
+							 34.026398
+				  ]
+				},
+				"properties": {
+						"name": "West Angeles Community Corporation",
+				  "phone": "323.751.3440",
+				  "address": "3045 South Crenshaw Boulevard Los Angeles 90016",
+						"hours": "Mon 9am-1pm Tues 9am-1pm Wed 9am-1pm Thurs 9am-1pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2157793,
+							 34.0492972
+				  ]
+				},
+				"properties": {
+						"name": "White Memorial S.D.A. Church",
+				  "phone": "323 264-2170",
+				  "address": "401 N. State Street Los Angeles 90033",
+						"hours": "1st & 3rd Tues 10am-12pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.23627,
+							 33.9244622
+				  ]
+				},
+				"properties": {
+						"name": "Willowbrook Project Area Commission",
+				  "phone": "323-569-7676",
+				  "address": "11901 S. Willowbrook Avenue Los Angeles  90059",
+						"hours": "3rd Wed 5pm-7pm 2nd Sat 10am-12pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.3049672,
+							 34.0621177
+				  ]
+				},
+				"properties": {
+						"name": "Wilshire Boulevard Temple Hope-Net",
+				  "phone": "213.388.2401",
+				  "address": "3663 Wilshire Boulevard Los Angeles 90010",
+						"hours": "Sun 830am-930am",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.308458,
+							 34.0685889
+				  ]
+				},
+				"properties": {
+						"name": "Wilshire Presbyterian Church-Hope Net",
+				  "phone": "213.387.5387",
+				  "address": "309 S. Oxford Avenue Los Angeles 90020",
+						"hours": "Mon 11am-12pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.4191511,
+							 33.9952899
+				  ]
+				},
+				"properties": {
+						"name": "WSFB - St. Gerard's Social Services",
+				  "phone": "310.390.5034",
+				  "address": "4439 Inglewood Boulevard Los Angeles 90066",
+						"hours": "Tues 9am-12pm 1pm-3pm Thurs 9am-12pm 1pm-3pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.2642047,
+							 34.0607514
+				  ]
+				},
+				"properties": {
+						"name": "Young Hwa United Methodist Church",
+				  "phone": "213.413.4154",
+				  "address": "214 S. Loma Drive Los Angeles 90026",
+						"hours": "2nd & 4th Sat 3pm-345pm",
+						"type": "food-bank"
+				}
+			  },
+				
+			  {
+				"type": "Feature",
+				"geometry": {
+				  "type": "Point",
+				  "coordinates": [
+					-118.3280831,
+							 33.9678904
+				  ]
+				},
+				"properties": {
+						"name": "Zion Hill Baptist Church",
+				  "phone": "323.753.4610",
+				  "address": "7860 10th Avenue Los Angeles 90043",
+						"hours": "1st & 3rd Tues 10am-12pm",
+						"type": "food-bank"
+				}
+			  },
+				
+
+// TBD: These are throwing errors so disable for now
+
+
+			],
+
+		}
+
+		function buildLocationList(data) {
+			// Iterate through the list of stores
+			for (i = 0; i < data.features.length; i++) {
+				var currentFeature = data.features[i];
+				// Shorten data.feature.properties to just `prop` so we're not
+			// writing this long form over and over again.
+				var prop = currentFeature.properties;
+				// Select the listing container in the HTML and append a div
+			// with the class 'item' for each store
+				var listings = document.getElementById('listings');
+				var listing = listings.appendChild(document.createElement('div'));
+				listing.className = 'item';
+				listing.id = "listing-" + i;
+
+				// Create a new link with the class 'title' for each store
+				// and fill it with the store address
+				var link = listing.appendChild(document.createElement('a'));
+					link.href = '#';
+					link.className = 'title';
+					link.dataPosition = i;
+					link.innerHTML = prop.name;
+				
+				// Create a new div with the class 'details' for each store
+				// and fill it with the city and phone number
+
+				var locationAddress = listing.appendChild(document.createElement('div'));
+				locationAddress.innerHTML = prop.address;
+
+				// Create a new div with the class 'details' for each store
+				// and fill it with the city and phone number
+				var details = listing.appendChild(document.createElement('div'));
+				var detailsHTML = "";
+				if (prop.phone) detailsHTML += "Phone: " + prop.phone;
+				if (prop.hours) detailsHTML += (prop.phone ? ' &middot ' : '') + "Hours: " + prop.hours;
+				details.innerHTML = detailsHTML;
+
+				// Add an event listener for the links in the sidebar listing
+				link.addEventListener('click', function(e){
+					// Update the currentFeature to the store associated with the clicked link
+					var clickedListing = data.features[this.dataPosition];
+					// 1. Fly to the point associated with the clicked link
+					flyToStore(clickedListing);
+					// 2. Close all other popups and display popup for clicked store
+					showPopup(clickedListing);
+					// 3. Highlight listing in sidebar (and remove highlight for all other listings)
+					var activeItem = document.getElementsByClassName('active-listing-item');
+						if (activeItem[0]) {
+						 activeItem[0].classList.remove('active-listing-item');
+					}
+
+					this.parentNode.classList.add('active-listing-item');
+				});
+			}
+		}
+							//FILTERING FUNCTIONALITY //
+	var fbClicked = true; 
+	function foodBankFilter() {
+		var fb = document.getElementsByClassName("food-bank-marker")
+		if(fbClicked === true) {
+			for(var i = 0; i < fb.length; i++) {
+				fb[i].style.visibility = "hidden";
+			}
+			fbClicked = false; 
+		} else {
+			for(var i = 0; i < fb.length; i++) {
+				fb[i].style.visibility = "visible";
+			fbClicked = true;
+			}
+		}
+	}
+
+	var fmClicked = true; 
+	function farmersMarketFilter() {
+		var fm = document.getElementsByClassName("farmers-market-marker");
+		if(fmClicked === true) {
+			for(var i = 0; i < fm.length; i++) {
+				fm[i].style.visibility = "hidden";
+			}
+			fmClicked = false;
+		} else {
+			for(var i = 0; i < fm.length; i++) {
+				fm[i].style.visibility = "visible";
+			}
+			fmClicked = true;
+		}
+	}
+
+	var cgClicked = true; 
+	function communityGardenFilter() {
+		var cm = document.getElementsByClassName("community-garden-marker");
+		if(cgClicked === true){
+			for(var i = 0; i < cm.length; i++) {
+				cm[i].style.visibility = "hidden";
+			}
+			cgClicked = false;
+		} else {
+			for(var i = 0; i < cm.length; i++) {
+				cm[i].style.visibility = "visible";
+			}
+			cgClicked = true;
+		}
+	}
+
+							// END FILTERING FUNCTIONALITY //
+
+
+								// USER'S GEOLOCATION //
+
+		function geocodeAddress(address, callback) {
+			var geocoder = new google.maps.Geocoder();
+
+			geocoder.geocode({'address': address}, function(results, status) {
+				if (status === google.maps.GeocoderStatus.OK) {
+
+					var longitude = results[0].geometry.location.lng();
+					var latitude  = results[0].geometry.location.lat();
+
+					callback([longitude, latitude]);
+
+				} else {
+					console.error('Geocode was not successful for the following reason: ' + status);
+				}
+			});
+		}
+
+		// http://stackoverflow.com/questions/901115/how-can-i-get-query-string-values-in-javascript#answer-901144
+		
+		function getParameterByName(name, url) {
+			if (!url) url = window.location.href;
+			name = name.replace(/[\[\]]/g, "\\$&");
+			var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+					results = regex.exec(url);
+			if (!results) return null;
+			if (!results[2]) return '';
+			return decodeURIComponent(results[2].replace(/\+/g, " "));
+		}
+
+		function findUserLocation() {
+			var address = getParameterByName('address');
+
+			if (address) {
+
+				// Add Los Angeles to the address
+				if (address.indexOf('Los Angeles') < 0) {
+					address += ' Los Angeles';
+				}
+
+				geocodeAddress(address, moveMapToPosition);
+
+			// Grab user's location on page-load
+			} else if ("geolocation" in navigator) {
+				navigator.geolocation.getCurrentPosition(function(position) {
+
+					// Set new starting location
+					var myCoords = [position.coords.longitude, position.coords.latitude];
+					moveMapToPosition(myCoords);
+
+				}, function() {
+					console.error("Unable to retrieve your location");
+				});
+			}
+		}
+
+		function moveMapToPosition(position) {
+			 map.setZoom(14);
+			 map.panTo(position);
+
+			var template = document.getElementById('you-are-here-template');
+			if (template) {
+				var marker = document.createElement('div');
+				marker.innerHTML = template.innerHTML;
+
+				new mapboxgl.Marker(marker)
+					.setLngLat(position)
+					.addTo(map);
+			}
+		}
+
+						// END USER'S GEOLOCATION //
+
 		function flyToStore(currentFeature) {
 			map.flyTo({
 				center: currentFeature.geometry.coordinates,
@@ -180,8 +3108,10 @@
 		}
 
 		var popup;
-
 		function showPopup(feature) {
+			//var popUps = document.getElementsByClassName('mapboxgl-popup');
+			// Check if there is already a popup on the map and if so, remove it
+			//if (popUps[0]) popUps[0].remove();
 
 			if (!popup) {
 				popup = new mapboxgl.Popup({
@@ -189,6 +3119,17 @@
 					closeOnClick: false
 				});
 			}
+
+			//var markerType = currentFeature.properties.type;
+
+			/*
+			var popup = new mapboxgl.Popup()
+				.setLngLat(currentFeature.geometry.coordinates)
+				.setHTML('<h3 id=' + markerType + '>' + currentFeature.properties.name + '</h3>' + 
+					'<h4>' + "Address: " + currentFeature.properties.address + '<br />' + "Phone: " + currentFeature.properties.phone 
+					+ '<br />' + "Hours: " + currentFeature.properties.hours + '<br />' + "Open Now!" + '</h4>')
+				.addTo(map);
+			*/
 
 			var element = createPopupElement(feature);
 
@@ -293,9 +3234,52 @@
 				"data": stores
 			});
 
-			buildLocationList(locations);
+			// Add a layer to the map with styling rules to render the source
+			// map.addLayer({
+			// 	"id": "locations",
+			// 	"type": "symbol",
+			// 	"source": "places",
+			// 	"layout": {
+			// 		"icon-image": "restaurant-15",
+			// 		"icon-allow-overlap": true,
+			// 	}
+			// });
+
+			// Initialize the list
+			buildLocationList(stores);
 
 		});
+
+		// Add an event listener for when a user clicks on the map
+		/*
+		map.on('click', function (e) {
+			// Query all the rendered points in the view
+			var features = map.queryRenderedFeatures(e.point, { layers: ['locations'] });
+			if (features.length) {
+				var clickedPoint = features[0];
+				// 1. Fly to the point
+				flyToStore(clickedPoint);
+				// 2. Close all other popups and display popup for clicked store
+				showPopup(clickedPoint);
+				// 3. Highlight listing in sidebar (and remove highlight for all other listings)
+				var activeItem = document.getElementsByClassName('active-listing-item');
+				
+				if (activeItem[0]) {
+					activeItem[0].classList.remove('active-listing-item');
+				}
+				
+				// Find the index of the store.features that corresponds to the clickedPoint that fired the event listener
+				for (var i = 0; i < stores.features.length; i++ ) {
+					if (stores.features[i].properties.name === clickedPoint.properties.name) {
+						selectedFeatureIndex = i;
+					}
+				}
+				// Select the correct list item using the found index and add the active class
+				var listing = document.getElementById('listing-' + selectedFeatureIndex);
+				listing.classList.add('active-listing-item');
+			}
+		});
+		*/
 
 		stores.features.forEach(function(marker) {
 			// Create a div element for the marker
@@ -307,8 +3291,6 @@
 				el.className = 'farmers-market-marker'
 			} else if (marker.properties.type === "community-garden") {
 				el.className = 'community-garden-marker'
-			} else if (marker.properties.type === "supermarket") {
-				el.className = 'supermarket-marker'
 			}
 
 			// By default the image for your custom marker will be anchored
@@ -342,8 +3324,6 @@
 		});
 
 		findUserLocation();
-		console.dir("checking for community gardens " + communityGardensLocations);
-
 	</script>
 
 </body>
