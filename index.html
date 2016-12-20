@@ -21,8 +21,12 @@
 	<link rel="stylesheet" href="/assets/css/oasis.css" />
 
 	
+
+	
+
+	
 </head>
-<body class="  find">
+<body class="  home">
 	<div class="header">
 		<h2>
 			<a href="/">
@@ -79,7 +83,7 @@
 		<form action="/list" method="get">
 
 	<div>
-		<h1>Find healthy food near you.</h1>
+		<h1>Find healthy <span class="avoid-break"> food near you. </span></h1>
 		<p>
 			<label>
 				<span>Address, Neighborhood, or Zip</span><br />
@@ -92,6 +96,42 @@
 	<p class="photo-credit" id="gemma-billings" style="display: none;">Photo by <a href="https://www.flickr.com/photos/gemmamei/6060629012/">Gemma Billings</a></p>
 	<p class="photo-credit" id="daily-organics" style="display: none;">Produce by <a href="https://dailyorganicsla.com">Daily Organics</a></p>
 </form>
+
+<div class="categories">
+	<section>
+		<h2>Free food</h2>
+		<ul class="food-pantry link-list has-icons">
+			<li>
+				<a href="/food-pantry">
+					<img class="icon" src="/assets/images/home/food-pantry.svg" alt="" />
+					<span>Food Pantries</span>
+				</a>
+			</li>
+		</ul>
+	</section>
+	<section>
+		<h2>Grow food</h2>
+		<ul class="community-garden link-list has-icons">
+			<li>
+				<a href="/community-garden">
+					<img class="icon" src="/assets/images/home/community-garden.svg" alt="" />
+					<span>Community Gardens</span>
+				</a>
+			</li>
+		</ul>
+	</section>
+	<section>
+		<h2>Food for sale</h2>
+		<ul class="farmers-market link-list has-icons">
+			<li>
+				<a href="/farmers-market">
+					<img class="icon" src="/assets/images/home/farmers-market.svg" alt="" />
+					<span>Farmers’ Markets</span>
+				</a>
+			</li>
+		</ul>
+	</section>
+</div><!-- /.categories -->
 
 <script>
 (function() {
@@ -106,7 +146,7 @@
 	var min = 0;
 	var max = images.length - 1;
 	var random = Math.floor(Math.random() * (max - min + 1) + min);
-	var form = document.querySelector('body.find main form');
+	var form = document.querySelector('form');
 	form.style.backgroundImage = 'url(' + images[random] + ')';
 	if (images[random] === '/assets/images/photos/6060629012_d9dc1f7642_o.jpg') {
 		document.querySelector('.photo-credit#gemma-billings').style.display = 'block';
@@ -115,42 +155,6 @@
 	}
 })();
 </script>
-
-<div class="categories">
-	<section>
-		<h2>Free food</h2>
-		<ul class="link-list has-icons">
-			<li>
-				<a href="/food-pantry">
-					<img class="icon" src="/assets/images/home/food-bank.svg" alt="" style="background-color: rgb(249, 192, 88); /* @canteloupe */" />
-					<span>Food Pantries</span>
-				</a>
-			</li>
-		</ul>
-	</section>
-	<section>
-		<h2>Grow food</h2>
-		<ul class="link-list has-icons">
-			<li>
-				<a href="/community-garden">
-					<img class="icon" src="/assets/images/home/community-garden.svg" alt="" style="background-color: rgb(144, 194, 70); /* @lime */" />
-					<span>Community Gardens</span>
-				</a>
-			</li>
-		</ul>
-	</section>
-	<section>
-		<h2>Food for sale</h2>
-		<ul class="link-list has-icons">
-			<li>
-				<a href="/farmers-market">
-					<img class="icon" src="/assets/images/home/farmers-market.svg" alt="" />
-					<span>Farmers’ Markets</span>
-				</a>
-			</li>
-		</ul>
-	</section>
-</div><!-- /.categories -->
 
 	</main>
 
@@ -190,7 +194,8 @@
 
 		<section class="contact">
 			<h2>Have a question? Want to help?</h2>
-			<p><a href="http://www.hackforla.org/civic-hack-nights">Join us at Hack for LA, Tuesdays at 6pm</a></p>
+			<p class="join"><p>Join us at <a href="http://www.hackforla.org/civic-hack-nights">Hack for LA</a>, Tuesdays at 6pm</p>
+</p>
 			<p class="action"><a href="mailto:contact@foodoasis.la">Send us a message</a></p>
 			<div>
 				<a href="mailto:contact@foodoasis.la">
