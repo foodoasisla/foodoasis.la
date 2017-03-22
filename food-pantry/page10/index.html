@@ -1,0 +1,641 @@
+<!doctype html>
+
+<html lang="en" dir="ltr">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<title>Food Pantries in Los Angeles, Page 10</title>
+
+	<meta name="description" content="A list of healthy food locations in Los Angeles
+" />
+
+	
+	<link rel="canonical" href="https://foodoasis.la/food-pantry/" />
+	
+	
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Reem+Kufi|Open+Sans:400,400i,600" />
+	
+
+	
+	
+	<link rel="stylesheet" href="https://api.tiles.mapbox.com/mapbox-gl-js/v0.33.1/mapbox-gl.css" />
+	
+
+	<link rel="stylesheet" href="/assets/css/beta.css" />
+
+	
+
+	<!-- for general use -->
+	<link rel="icon" type="image/png"    href="/assets/images/favicon.png" />
+
+	<!-- for iOS -->
+	<link rel="apple-touch-icon"         href="/assets/images/favicon-rgb-240-240-240.png" />
+
+	<!-- for Windows 8 -->
+	<meta name="msapplication-TileImage" content="/assets/images/favicon.png" />
+	<meta name="msapplication-TileColor" content="rgb(240, 240, 240)" />
+
+	<!-- Hotjar Tracking Code for foodoasis.la -->
+	<script>
+	    (function(h,o,t,j,a,r){
+	        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+	        h._hjSettings={hjid:383281,hjsv:5};
+	        a=o.getElementsByTagName('head')[0];
+	        r=o.createElement('script');r.async=1;
+	        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+	        a.appendChild(r);
+	    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+	</script>
+</head>
+<body class="canteloupe   location-list">
+
+
+
+
+
+
+<div class="sticky">
+
+	<header>
+	<nav role="navigation" class="slideout-menu">
+		<div id="menuToggle">
+			<input type="checkbox" />
+			<span></span>
+			<span></span>
+			<span></span>
+			<ul id="menu">
+			<a href="/#" class="nav-item"><li>Home</li></a>
+			<a href="/locations" class="nav-item"><li>Map</li></a>
+			<hr/>
+			<a href="/organizations" class="nav-item small"><li>Organizations</li></a>
+			<a href="/resources" class="nav-item small"><li>Resources</li></a>
+			<a href="/about" class="nav-item small"><li>About</li></a>
+			<a href="/team" class="nav-item small"><li>Team</li></a>
+			<a href="/news" class="nav-item small"><li>News</li></a>
+			<a href="/faqs" class="nav-item small"><li>FAQs</li></a>
+			</ul>
+		</div>
+	</nav>
+	<h2><a href="/"><img src="/assets/images/fola.svg" alt="Food Oasis Los Angeles" /></a></h2>
+	<p class="tagline">Healthy Food for All Angelinos</p>
+
+	</header>
+
+	
+		<nav class="location-list-nav">
+	<ul class="options" id="search-views">
+		<li class="filter"><a href="/filters/" id="filters-link">Filter</a></li>
+		<li class="search">
+			<a href="/search/" id="search-link">
+				<img src="/assets/images/icons/search-black.svg" width="50" style="height: 1.5em; width: auto;" alt="Search" />
+				<span id="search-type">Food Pantries</span> <span id="search-near">near</span> <em id="search-location" style="font-style: normal;">Los Angeles</em>
+			</a>
+		</li>
+	</ul>
+
+	<script type="text/template" id="search-views-template">
+		<li id="list-button" class="view" style="display: none;"><a href="">List</button></a>
+		<li id="map-button" class="view" style="display: none;"><a href="">Map</button></a>
+	</script>
+
+	<script>
+	var PAGE_PARAMETERS;
+	var getParameterByName;
+	var updateLink;
+
+	(function() {
+		// http://stackoverflow.com/questions/901115/how-can-i-get-query-string-values-in-javascript#answer-901144	
+		getParameterByName = function(name, url) {
+			if (!url) url = window.location.href;
+			name = name.replace(/[\[\]]/g, "\\$&");
+			var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+					results = regex.exec(url);
+			if (!results) return null;
+			if (!results[2]) return '';
+			return decodeURIComponent(results[2].replace(/\+/g, " "));
+		}
+
+		PAGE_PARAMETERS = {
+			type   : getParameterByName('type') || 'food-pantry',
+			address: getParameterByName('address'),
+			deserts: getParameterByName('deserts'),
+		};
+
+		// SHIM: Make the type persistent
+
+		updateLink = function(link) {
+			var params = [];
+			if (PAGE_PARAMETERS.type) params.push('type=' + PAGE_PARAMETERS.type);
+			if (PAGE_PARAMETERS.address) params.push('address=' + PAGE_PARAMETERS.address);
+			if (PAGE_PARAMETERS.deserts) params.push('deserts=' + PAGE_PARAMETERS.deserts);
+
+			var queryString = params.join('&');
+			link.setAttribute('href', link.getAttribute('href') + '?' + queryString);
+		}
+
+		if (PAGE_PARAMETERS.type || PAGE_PARAMETERS.address || PAGE_PARAMETERS.deserts) {
+			var filtersLink = document.getElementById('filters-link');
+			if (filtersLink) {
+				updateLink(filtersLink);
+			}
+
+			var searchLink = document.getElementById('search-link');
+			if (searchLink) {
+				updateLink(searchLink);
+			}
+		}
+
+		if (PAGE_PARAMETERS.type) {
+			var types = PAGE_PARAMETERS.type.split('|');
+
+			var searchType = document.getElementById('search-type');
+			var near = document.getElementById('search-near');
+
+			if (types.length === 1 || types.length === 2) {
+				// SHIM: Translate to a human readable version of the “type”.
+				var formattedTypes = [];
+				for (var index = 0; index < types.length; index++) {
+					formattedTypes.push((types[index] === 'food-pantry') ? 'food pantries' : types[index].replace(/\-/g, ' ') + 's');
+				}
+				searchType.innerText = formattedTypes.join(', ');
+				searchType.style.textTransform = 'capitalize';
+				//searchType.style.display = 'inline';
+				//near.style.display = 'inline';
+			} else {
+				//searchType.style.display = 'none';
+				//near.style.display = 'none';
+				searchType.innerText = 'Everything';
+				searchType.style.textTransform = 'capitalize';
+			}
+		}
+	})();
+	</script>
+</nav>
+
+	
+
+	
+
+</div>
+
+
+
+<div id="map" class="map-container"></div>
+
+</div>
+<div id="map-location-summary" class="location-summary-container"></div>
+
+
+	<main>
+			<ul class="list" id="locations">
+	
+
+		
+		
+		
+		
+		
+	<li class="food-pantry" data-latitude="34.1664331" data-longitude="-118.1592865">
+		<a href="/food-pantry/lincoln-avenue-baptist-church/" class="location-summary">
+			<img src="/assets/images/home/food-pantry.svg" alt="" />
+			<h2>Lincoln Avenue Baptist Church</h2>
+			<p class="address">1180 North Lincoln Avenue</p>
+			<p class="type">Food Pantry</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="food-pantry" data-latitude="33.979196" data-longitude="-117.902383">
+		<a href="/food-pantry/living-hope-community-partnership/" class="location-summary">
+			<img src="/assets/images/home/food-pantry.svg" alt="" />
+			<h2>Living Hope Community Partnership</h2>
+			<p class="address">18500 Farjardo Street</p>
+			<p class="type">Food Pantry</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="food-pantry" data-latitude="34.616048" data-longitude="-117.824428">
+		<a href="/food-pantry/living-springs-foursquare-church/" class="location-summary">
+			<img src="/assets/images/home/food-pantry.svg" alt="" />
+			<h2>Living Springs Foursquare Church</h2>
+			<p class="address">17134 E. Ave O</p>
+			<p class="type">Food Pantry</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="food-pantry" data-latitude="33.9877081" data-longitude="-118.3002282">
+		<a href="/food-pantry/living-truth-christian-fellowship/" class="location-summary">
+			<img src="/assets/images/home/food-pantry.svg" alt="" />
+			<h2>Living Truth Christian Fellowship</h2>
+			<p class="address">5873 S. Normandie Avenue</p>
+			<p class="type">Food Pantry</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="food-pantry" data-latitude="34.1973704" data-longitude="-118.6002723">
+		<a href="/food-pantry/loaves-fishes-canoga-park/" class="location-summary">
+			<img src="/assets/images/home/food-pantry.svg" alt="" />
+			<h2>Loaves & Fishes-Canoga Park</h2>
+			<p class="address">21600 Hart Street</p>
+			<p class="type">Food Pantry</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="food-pantry" data-latitude="34.1316156" data-longitude="-118.261043">
+		<a href="/food-pantry/loaves-fishes-glendale/" class="location-summary">
+			<img src="/assets/images/home/food-pantry.svg" alt="" />
+			<h2>Loaves & Fishes-Glendale</h2>
+			<p class="address">4322 San Fernando Road</p>
+			<p class="type">Food Pantry</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="food-pantry" data-latitude="34.2100101" data-longitude="-118.4523896">
+		<a href="/food-pantry/loaves-fishes-van-nuys/" class="location-summary">
+			<img src="/assets/images/home/food-pantry.svg" alt="" />
+			<h2>Loaves & Fishes-Van Nuys</h2>
+			<p class="address">14640 Keswick</p>
+			<p class="type">Food Pantry</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="food-pantry" data-latitude="34.0779999" data-longitude="-118.215668">
+		<a href="/food-pantry/los-angeles-boys-girls-club/" class="location-summary">
+			<img src="/assets/images/home/food-pantry.svg" alt="" />
+			<h2>Los Angeles Boys & Girls Club</h2>
+			<p class="address">2635 Pasadena Avenue</p>
+			<p class="type">Food Pantry</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="food-pantry" data-latitude="34.0327067" data-longitude="-118.2752257">
+		<a href="/food-pantry/los-angeles-central-city-s-d-a-church/" class="location-summary">
+			<img src="/assets/images/home/food-pantry.svg" alt="" />
+			<h2>Los Angeles Central City S.D.A. Church</h2>
+			<p class="address">650 W. 21st Street</p>
+			<p class="type">Food Pantry</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="food-pantry" data-latitude="34.0693363" data-longitude="-118.2898538">
+		<a href="/food-pantry/los-angeles-first-church-of-the-nazarene-hope-net/" class="location-summary">
+			<img src="/assets/images/home/food-pantry.svg" alt="" />
+			<h2>Los Angeles First Church of the Nazarene-Hope Net</h2>
+			<p class="address">3401 W. 3rd Street</p>
+			<p class="type">Food Pantry</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="food-pantry" data-latitude="34.0586006" data-longitude="-118.2826812">
+		<a href="/food-pantry/los-angeles-housing-partnership/" class="location-summary">
+			<img src="/assets/images/home/food-pantry.svg" alt="" />
+			<h2>Los Angeles Housing Partnership</h2>
+			<p class="address">2614 W. 7th Street</p>
+			<p class="type">Food Pantry</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="food-pantry" data-latitude="33.9606268" data-longitude="-118.3093646">
+		<a href="/food-pantry/love-faith-christian-center/" class="location-summary">
+			<img src="/assets/images/home/food-pantry.svg" alt="" />
+			<h2>Love & Faith Christian Center</h2>
+			<p class="address">8505 S. Western Avenue</p>
+			<p class="type">Food Pantry</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="food-pantry" data-latitude="34.7039815" data-longitude="-118.1135045">
+		<a href="/food-pantry/loveship-community-outreach/" class="location-summary">
+			<img src="/assets/images/home/food-pantry.svg" alt="" />
+			<h2>Loveship Community Outreach</h2>
+			<p class="address">836 E. Avenue I</p>
+			<p class="type">Food Pantry</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="food-pantry" data-latitude="34.214903" data-longitude="-118.5986508">
+		<a href="/food-pantry/lutheran-social-services-of-southern-california/" class="location-summary">
+			<img src="/assets/images/home/food-pantry.svg" alt="" />
+			<h2>Lutheran Social Services of Southern California</h2>
+			<p class="address">21430 Strathern Street</p>
+			<p class="type">Food Pantry</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="food-pantry" data-latitude="33.9211561" data-longitude="-118.1884331">
+		<a href="/food-pantry/lynwood-all-peoples-first-assembly/" class="location-summary">
+			<img src="/assets/images/home/food-pantry.svg" alt="" />
+			<h2>Lynwood All People's First Assembly</h2>
+			<p class="address">4330 Martin Luther King Jr. Boulevard</p>
+			<p class="type">Food Pantry</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="food-pantry" data-latitude="33.91217" data-longitude="-118.1966584">
+		<a href="/food-pantry/lynwood-united-methodist-church/" class="location-summary">
+			<img src="/assets/images/home/food-pantry.svg" alt="" />
+			<h2>Lynwood United Methodist Church</h2>
+			<p class="address">4207 Carlin Avenue</p>
+			<p class="type">Food Pantry</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="food-pantry" data-latitude="33.9602274" data-longitude="-118.3348393">
+		<a href="/food-pantry/maranatha-s-d-a-community-center/" class="location-summary">
+			<img src="/assets/images/home/food-pantry.svg" alt="" />
+			<h2>Maranatha S.D.A. Community Center</h2>
+			<p class="address">3569 W. Manchester Blvd.</p>
+			<p class="type">Food Pantry</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="food-pantry" data-latitude="34.2630434" data-longitude="-118.4195782">
+		<a href="/food-pantry/meet-each-need-with-dignity/" class="location-summary">
+			<img src="/assets/images/home/food-pantry.svg" alt="" />
+			<h2>Meet Each Need with Dignity</h2>
+			<p class="address">10641 San Fernando Road</p>
+			<p class="type">Food Pantry</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="food-pantry" data-latitude="34.102074" data-longitude="-118.2897866">
+		<a href="/food-pantry/metropolitan-community-churchof-l-a-hope-net/" class="location-summary">
+			<img src="/assets/images/home/food-pantry.svg" alt="" />
+			<h2>Metropolitan Community Churchof L.A.-Hope Net</h2>
+			<p class="address">4607 Prospect Avenue</p>
+			<p class="type">Food Pantry</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="food-pantry" data-latitude="34.0192364" data-longitude="-118.1337064">
+		<a href="/food-pantry/mexican-american-opportunity-foundation/" class="location-summary">
+			<img src="/assets/images/home/food-pantry.svg" alt="" />
+			<h2>Mexican-American Opportunity Foundation</h2>
+			<p class="address">401 N. Garfield Ave</p>
+			<p class="type">Food Pantry</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+
+
+	
+	</ul>
+
+
+<div class="pagination">
+	
+	<p><a href="/food-pantry/page11/"><span>Next 20 results</span> <img src="/assets/images/icons/forward.svg" /></a></p>
+	
+
+</div>
+<script>
+(function() {
+	if (PAGE_PARAMETERS.type || PAGE_PARAMETERS.address || PAGE_PARAMETERS.deserts) {
+
+		// SHIM: Make the address persistent
+		var paginationLink = document.querySelector('.pagination a[href]');
+		if (paginationLink) {
+			updateLink(paginationLink);
+		}
+	}
+})();
+</script>
+
+
+<!-- For location-list.js -->
+<script type="text/template" id="you-are-here-template">
+	<div class="you-are-here"><span>You are here</span></div>
+</script>
+
+<script type="text/template" id="marker-template">
+	<div class="marker">
+		<img src="/assets/images/markers/purple.svg" alt="" />
+	</div>
+</script>
+
+<script type="text/template" id="list-item-template">
+	<a href="" class="location-summary">
+		<img src="" alt="" />
+		<h2></h2>
+		<p class="address"></p>
+		<p class="type"></p>
+		<p class="open">Open Now</p>
+		<p class="distance"><span></span> m</p>
+	</a>
+</script>
+
+<!-- Jim’s Google Maps API key -->
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4"></script>
+
+<!--
+<script src='https://api.mapbox.com/mapbox.js/v3.0.1/mapbox.js'></script>
+-->
+<script src="https://api.mapbox.com/mapbox-gl-js/v0.33.1/mapbox-gl.js"></script>
+
+<script>
+var MAP_ACCESS_TOKEN = 'pk.eyJ1IjoiZm9vZG9hc2lzbGEiLCJhIjoiY2l0ZjdudnN4MDhpYzJvbXlpb3IyOHg2OSJ9.POBdqXF5EIsGwfEzCm8Y3Q';
+
+var MAP_BOUNDS = [
+	[-119.9442369,32.7089729], // Southwest coordinates
+	[-116.63282912,35.8275538]  // Northeast coordinates
+];
+</script>
+
+<script>
+var itemsPerPage = 20;
+var listOffset = 180;
+</script>
+
+
+<script src="/api/food-pantry.js"></script>
+
+
+<script src="/assets/js/location-list.js"></script>
+
+<script>
+// Toggle between the map and list views
+(function() {
+	if (mapboxgl.supported()) {
+
+		var views = document.getElementById('search-views');
+		var template = document.getElementById('search-views-template');
+		views.insertAdjacentHTML('beforeend', template.innerHTML);
+
+		var mapButton = document.getElementById('map-button');
+		var listButton = document.getElementById('list-button');
+
+		listButton.style.display = "block";
+
+		document.body.classList.add('only-map');
+		document.body.classList.remove('only-list');
+
+		mapButton.addEventListener('click', function(e) {
+			mapButton.style.display = "none";
+			listButton.style.display = "block";
+
+			document.body.classList.add('only-map');
+			document.body.classList.remove('only-list');
+
+			e.preventDefault();
+		}, false);
+
+		listButton.addEventListener('click', function(e) {
+			mapButton.style.display = "block";
+			listButton.style.display = "none";
+
+			document.body.classList.remove('only-map');
+			document.body.classList.add('only-list');
+
+			e.preventDefault();
+		}, false);
+	} else {
+		if (console && console.log) console.log('MapboxGL doesn’t appear to be supported in this web browser. Showing the list instead…');
+		document.body.classList.add('only-list');
+	}
+})();
+</script>
+
+</body>
+</html>
+
+	</main>
+
+	
+
+	<!-- KUDOS: https://hacks.mozilla.org/2016/01/google-analytics-privacy-and-event-tracking/ -->
+	<script src="/assets/js/dnt-helper.js"></script>
+
+	<!-- Google Analtyics Tracking Code for foodoasis.la -->
+	<script>
+	if (!_dntEnabled()) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-83011478-1', 'auto');
+		ga('send', 'pageview');
+	}
+	</script>
+</body>
+</html>

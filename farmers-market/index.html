@@ -1,0 +1,641 @@
+<!doctype html>
+
+<html lang="en" dir="ltr">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<title>Farmers’ Markets in Los Angeles</title>
+
+	<meta name="description" content="A list of healthy food locations in Los Angeles
+" />
+
+	
+	<link rel="canonical" href="https://foodoasis.la/farmers-market/" />
+	
+	
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Reem+Kufi|Open+Sans:400,400i,600" />
+	
+
+	
+	
+	<link rel="stylesheet" href="https://api.tiles.mapbox.com/mapbox-gl-js/v0.33.1/mapbox-gl.css" />
+	
+
+	<link rel="stylesheet" href="/assets/css/beta.css" />
+
+	
+
+	<!-- for general use -->
+	<link rel="icon" type="image/png"    href="/assets/images/favicon.png" />
+
+	<!-- for iOS -->
+	<link rel="apple-touch-icon"         href="/assets/images/favicon-rgb-240-240-240.png" />
+
+	<!-- for Windows 8 -->
+	<meta name="msapplication-TileImage" content="/assets/images/favicon.png" />
+	<meta name="msapplication-TileColor" content="rgb(240, 240, 240)" />
+
+	<!-- Hotjar Tracking Code for foodoasis.la -->
+	<script>
+	    (function(h,o,t,j,a,r){
+	        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+	        h._hjSettings={hjid:383281,hjsv:5};
+	        a=o.getElementsByTagName('head')[0];
+	        r=o.createElement('script');r.async=1;
+	        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+	        a.appendChild(r);
+	    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+	</script>
+</head>
+<body class="strawberry   location-list">
+
+
+
+
+
+
+<div class="sticky">
+
+	<header>
+	<nav role="navigation" class="slideout-menu">
+		<div id="menuToggle">
+			<input type="checkbox" />
+			<span></span>
+			<span></span>
+			<span></span>
+			<ul id="menu">
+			<a href="/#" class="nav-item"><li>Home</li></a>
+			<a href="/locations" class="nav-item"><li>Map</li></a>
+			<hr/>
+			<a href="/organizations" class="nav-item small"><li>Organizations</li></a>
+			<a href="/resources" class="nav-item small"><li>Resources</li></a>
+			<a href="/about" class="nav-item small"><li>About</li></a>
+			<a href="/team" class="nav-item small"><li>Team</li></a>
+			<a href="/news" class="nav-item small"><li>News</li></a>
+			<a href="/faqs" class="nav-item small"><li>FAQs</li></a>
+			</ul>
+		</div>
+	</nav>
+	<h2><a href="/"><img src="/assets/images/fola.svg" alt="Food Oasis Los Angeles" /></a></h2>
+	<p class="tagline">Healthy Food for All Angelinos</p>
+
+	</header>
+
+	
+		<nav class="location-list-nav">
+	<ul class="options" id="search-views">
+		<li class="filter"><a href="/filters/" id="filters-link">Filter</a></li>
+		<li class="search">
+			<a href="/search/" id="search-link">
+				<img src="/assets/images/icons/search-black.svg" width="50" style="height: 1.5em; width: auto;" alt="Search" />
+				<span id="search-type">Farmers’ Markets</span> <span id="search-near">near</span> <em id="search-location" style="font-style: normal;">Los Angeles</em>
+			</a>
+		</li>
+	</ul>
+
+	<script type="text/template" id="search-views-template">
+		<li id="list-button" class="view" style="display: none;"><a href="">List</button></a>
+		<li id="map-button" class="view" style="display: none;"><a href="">Map</button></a>
+	</script>
+
+	<script>
+	var PAGE_PARAMETERS;
+	var getParameterByName;
+	var updateLink;
+
+	(function() {
+		// http://stackoverflow.com/questions/901115/how-can-i-get-query-string-values-in-javascript#answer-901144	
+		getParameterByName = function(name, url) {
+			if (!url) url = window.location.href;
+			name = name.replace(/[\[\]]/g, "\\$&");
+			var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+					results = regex.exec(url);
+			if (!results) return null;
+			if (!results[2]) return '';
+			return decodeURIComponent(results[2].replace(/\+/g, " "));
+		}
+
+		PAGE_PARAMETERS = {
+			type   : getParameterByName('type') || 'farmers-market',
+			address: getParameterByName('address'),
+			deserts: getParameterByName('deserts'),
+		};
+
+		// SHIM: Make the type persistent
+
+		updateLink = function(link) {
+			var params = [];
+			if (PAGE_PARAMETERS.type) params.push('type=' + PAGE_PARAMETERS.type);
+			if (PAGE_PARAMETERS.address) params.push('address=' + PAGE_PARAMETERS.address);
+			if (PAGE_PARAMETERS.deserts) params.push('deserts=' + PAGE_PARAMETERS.deserts);
+
+			var queryString = params.join('&');
+			link.setAttribute('href', link.getAttribute('href') + '?' + queryString);
+		}
+
+		if (PAGE_PARAMETERS.type || PAGE_PARAMETERS.address || PAGE_PARAMETERS.deserts) {
+			var filtersLink = document.getElementById('filters-link');
+			if (filtersLink) {
+				updateLink(filtersLink);
+			}
+
+			var searchLink = document.getElementById('search-link');
+			if (searchLink) {
+				updateLink(searchLink);
+			}
+		}
+
+		if (PAGE_PARAMETERS.type) {
+			var types = PAGE_PARAMETERS.type.split('|');
+
+			var searchType = document.getElementById('search-type');
+			var near = document.getElementById('search-near');
+
+			if (types.length === 1 || types.length === 2) {
+				// SHIM: Translate to a human readable version of the “type”.
+				var formattedTypes = [];
+				for (var index = 0; index < types.length; index++) {
+					formattedTypes.push((types[index] === 'food-pantry') ? 'food pantries' : types[index].replace(/\-/g, ' ') + 's');
+				}
+				searchType.innerText = formattedTypes.join(', ');
+				searchType.style.textTransform = 'capitalize';
+				//searchType.style.display = 'inline';
+				//near.style.display = 'inline';
+			} else {
+				//searchType.style.display = 'none';
+				//near.style.display = 'none';
+				searchType.innerText = 'Everything';
+				searchType.style.textTransform = 'capitalize';
+			}
+		}
+	})();
+	</script>
+</nav>
+
+	
+
+	
+
+</div>
+
+
+
+<div id="map" class="map-container"></div>
+
+</div>
+<div id="map-location-summary" class="location-summary-container"></div>
+
+
+	<main>
+			<ul class="list" id="locations">
+	
+
+		
+		
+		
+		
+		
+	<li class="farmers-market" data-latitude="34.0326" data-longitude="-118.2926">
+		<a href="/farmers-market/adams-vermont-st-agnes-church-farmers-market/" class="location-summary">
+			<img src="/assets/images/home/farmers-market.svg" alt="" />
+			<h2>Adams - Vermont Farmers Market / St. Agnes Church Farmer's Market</h2>
+			<p class="address">1432 W Adams Blvd</p>
+			<p class="type">Farmers Market</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="farmers-market" data-latitude="34.0937" data-longitude="-118.1288">
+		<a href="/farmers-market/alhambra-certified/" class="location-summary">
+			<img src="/assets/images/home/farmers-market.svg" alt="" />
+			<h2>Alhambra Certified Farmers Market</h2>
+			<p class="address">100 S. 2nd Street</p>
+			<p class="type">Farmers Market</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="farmers-market" data-latitude="34.2004" data-longitude="-118.1581">
+		<a href="/farmers-market/altadena/" class="location-summary">
+			<img src="/assets/images/home/farmers-market.svg" alt="" />
+			<h2>Altadena Farmers Market</h2>
+			<p class="address">600 W. Palm Street</p>
+			<p class="type">Farmers Market</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="farmers-market" data-latitude="34.647" data-longitude="-118.1662">
+		<a href="/farmers-market/antelope-valley-winery/" class="location-summary">
+			<img src="/assets/images/home/farmers-market.svg" alt="" />
+			<h2>Antelope Valley Winery Farmers Market</h2>
+			<p class="address">42041 20th St. West</p>
+			<p class="type">Farmers Market</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="farmers-market" data-latitude="34.045502" data-longitude="-118.236677">
+		<a href="/farmers-market/arts-district/" class="location-summary">
+			<img src="/assets/images/home/farmers-market.svg" alt="" />
+			<h2>Arts District Farmers Market</h2>
+			<p class="address">740 E 3rd St</p>
+			<p class="type">Farmers Market</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="farmers-market" data-latitude="34.1182" data-longitude="-118.2602">
+		<a href="/farmers-market/atwater-village/" class="location-summary">
+			<img src="/assets/images/home/farmers-market.svg" alt="" />
+			<h2>Atwater Village Farmers Market</h2>
+			<p class="address">Wells Fargo Parking Lot</p>
+			<p class="type">Farmers Market</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="farmers-market" data-latitude="34.0212" data-longitude="-118.3561">
+		<a href="/farmers-market/baldwin-la-brea/" class="location-summary">
+			<img src="/assets/images/home/farmers-market.svg" alt="" />
+			<h2>Baldwin La Brea Farmers Market</h2>
+			<p class="address">3601 S. La Brea Ave.</p>
+			<p class="type">Farmers Market</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="farmers-market" data-latitude="34.0856" data-longitude="-117.965">
+		<a href="/farmers-market/baldwin-park/" class="location-summary">
+			<img src="/assets/images/home/farmers-market.svg" alt="" />
+			<h2>Baldwin Park Farmers Market</h2>
+			<p class="address">Baldwin Park - Cesar Chavez &amp; Ramond</p>
+			<p class="type">Farmers Market</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="farmers-market" data-latitude="34.0533" data-longitude="-118.2529">
+		<a href="/farmers-market/bank-of-america-plaza/" class="location-summary">
+			<img src="/assets/images/home/farmers-market.svg" alt="" />
+			<h2>Bank Of America Plaza Farmers Market</h2>
+			<p class="address">333 S Hope St</p>
+			<p class="type">Farmers Market</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="farmers-market" data-latitude="33.8837" data-longitude="-118.1339">
+		<a href="/farmers-market/bellflower/" class="location-summary">
+			<img src="/assets/images/home/farmers-market.svg" alt="" />
+			<h2>Bellflower Farmers Market</h2>
+			<p class="address">16614 Clark Ave at Oak Street</p>
+			<p class="type">Farmers Market</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="farmers-market" data-latitude="34.0743" data-longitude="-118.3989">
+		<a href="/farmers-market/beverly-hills/" class="location-summary">
+			<img src="/assets/images/home/farmers-market.svg" alt="" />
+			<h2>Beverly Hills Farmers Market</h2>
+			<p class="address">9300 Civic Center Drive</p>
+			<p class="type">Farmers Market</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="farmers-market" data-latitude="34.047096" data-longitude="-118.218686">
+		<a href="/farmers-market/boyle-heights/" class="location-summary">
+			<img src="/assets/images/home/farmers-market.svg" alt="" />
+			<h2>Boyle Heights Farmers Market</h2>
+			<p class="address">1831 E 1st St</p>
+			<p class="type">Farmers Market</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="farmers-market" data-latitude="34.0506" data-longitude="-118.4751">
+		<a href="/farmers-market/brentwood-village/" class="location-summary">
+			<img src="/assets/images/home/farmers-market.svg" alt="" />
+			<h2>Brentwood Village Farmers Market</h2>
+			<p class="address">741 South Gretna Green Way</p>
+			<p class="type">Farmers Market</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="farmers-market" data-latitude="34.1828" data-longitude="-118.308">
+		<a href="/farmers-market/burbank/" class="location-summary">
+			<img src="/assets/images/home/farmers-market.svg" alt="" />
+			<h2>Burbank Farmers Market</h2>
+			<p class="address">Corner of Olive &amp; Glenoaks</p>
+			<p class="type">Farmers Market</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="farmers-market" data-latitude="34.235933" data-longitude="-118.528025">
+		<a href="/farmers-market/cal-state-university-northridge-csun-cfm/" class="location-summary">
+			<img src="/assets/images/home/farmers-market.svg" alt="" />
+			<h2>Cal State University Northridge (CSUN) Farmers Market (CFM)</h2>
+			<p class="address">18111 Nordhoff Street</p>
+			<p class="type">Farmers Market</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="farmers-market" data-latitude="34.1587" data-longitude="-118.636">
+		<a href="/farmers-market/calabasas-old-town/" class="location-summary">
+			<img src="/assets/images/home/farmers-market.svg" alt="" />
+			<h2>Calabasas Old Town Farmers Market</h2>
+			<p class="address">Calabasas &amp; Mulholland Dr.</p>
+			<p class="type">Farmers Market</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="farmers-market" data-latitude="34.2025" data-longitude="-118.6014">
+		<a href="/farmers-market/canoga-park/" class="location-summary">
+			<img src="/assets/images/home/farmers-market.svg" alt="" />
+			<h2>Canoga Park Farmers Market</h2>
+			<p class="address">On Owensmouth Avenue between Wyandotte Street &amp; Sherman Way</p>
+			<p class="type">Farmers Market</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="farmers-market" data-latitude="34.0058" data-longitude="-118.256">
+		<a href="/farmers-market/central-ave/" class="location-summary">
+			<img src="/assets/images/home/farmers-market.svg" alt="" />
+			<h2>Central Ave Farmers Market</h2>
+			<p class="address">courtyard of the Central Avenue Constituent Services Center</p>
+			<p class="type">Farmers Market</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="farmers-market" data-latitude="34.061" data-longitude="-118.4179">
+		<a href="/farmers-market/century-city/" class="location-summary">
+			<img src="/assets/images/home/farmers-market.svg" alt="" />
+			<h2>Century City Farmers Market</h2>
+			<p class="address">10100 Santa Monica Blvd.</p>
+			<p class="type">Farmers Market</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="farmers-market" data-latitude="33.8693" data-longitude="-118.0625">
+		<a href="/farmers-market/cerritos/" class="location-summary">
+			<img src="/assets/images/home/farmers-market.svg" alt="" />
+			<h2>Cerritos Farmers Market</h2>
+			<p class="address">17870 Park plaza Drive</p>
+			<p class="type">Farmers Market</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+
+
+	
+	</ul>
+
+
+<div class="pagination">
+	
+	<p><a href="/farmers-market/page2/"><span>Next 20 results</span> <img src="/assets/images/icons/forward.svg" /></a></p>
+	
+
+</div>
+<script>
+(function() {
+	if (PAGE_PARAMETERS.type || PAGE_PARAMETERS.address || PAGE_PARAMETERS.deserts) {
+
+		// SHIM: Make the address persistent
+		var paginationLink = document.querySelector('.pagination a[href]');
+		if (paginationLink) {
+			updateLink(paginationLink);
+		}
+	}
+})();
+</script>
+
+
+<!-- For location-list.js -->
+<script type="text/template" id="you-are-here-template">
+	<div class="you-are-here"><span>You are here</span></div>
+</script>
+
+<script type="text/template" id="marker-template">
+	<div class="marker">
+		<img src="/assets/images/markers/purple.svg" alt="" />
+	</div>
+</script>
+
+<script type="text/template" id="list-item-template">
+	<a href="" class="location-summary">
+		<img src="" alt="" />
+		<h2></h2>
+		<p class="address"></p>
+		<p class="type"></p>
+		<p class="open">Open Now</p>
+		<p class="distance"><span></span> m</p>
+	</a>
+</script>
+
+<!-- Jim’s Google Maps API key -->
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4"></script>
+
+<!--
+<script src='https://api.mapbox.com/mapbox.js/v3.0.1/mapbox.js'></script>
+-->
+<script src="https://api.mapbox.com/mapbox-gl-js/v0.33.1/mapbox-gl.js"></script>
+
+<script>
+var MAP_ACCESS_TOKEN = 'pk.eyJ1IjoiZm9vZG9hc2lzbGEiLCJhIjoiY2l0ZjdudnN4MDhpYzJvbXlpb3IyOHg2OSJ9.POBdqXF5EIsGwfEzCm8Y3Q';
+
+var MAP_BOUNDS = [
+	[-119.9442369,32.7089729], // Southwest coordinates
+	[-116.63282912,35.8275538]  // Northeast coordinates
+];
+</script>
+
+<script>
+var itemsPerPage = 20;
+var listOffset = 0;
+</script>
+
+
+<script src="/api/farmers-market.js"></script>
+
+
+<script src="/assets/js/location-list.js"></script>
+
+<script>
+// Toggle between the map and list views
+(function() {
+	if (mapboxgl.supported()) {
+
+		var views = document.getElementById('search-views');
+		var template = document.getElementById('search-views-template');
+		views.insertAdjacentHTML('beforeend', template.innerHTML);
+
+		var mapButton = document.getElementById('map-button');
+		var listButton = document.getElementById('list-button');
+
+		listButton.style.display = "block";
+
+		document.body.classList.add('only-map');
+		document.body.classList.remove('only-list');
+
+		mapButton.addEventListener('click', function(e) {
+			mapButton.style.display = "none";
+			listButton.style.display = "block";
+
+			document.body.classList.add('only-map');
+			document.body.classList.remove('only-list');
+
+			e.preventDefault();
+		}, false);
+
+		listButton.addEventListener('click', function(e) {
+			mapButton.style.display = "block";
+			listButton.style.display = "none";
+
+			document.body.classList.remove('only-map');
+			document.body.classList.add('only-list');
+
+			e.preventDefault();
+		}, false);
+	} else {
+		if (console && console.log) console.log('MapboxGL doesn’t appear to be supported in this web browser. Showing the list instead…');
+		document.body.classList.add('only-list');
+	}
+})();
+</script>
+
+</body>
+</html>
+
+	</main>
+
+	
+
+	<!-- KUDOS: https://hacks.mozilla.org/2016/01/google-analytics-privacy-and-event-tracking/ -->
+	<script src="/assets/js/dnt-helper.js"></script>
+
+	<!-- Google Analtyics Tracking Code for foodoasis.la -->
+	<script>
+	if (!_dntEnabled()) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-83011478-1', 'auto');
+		ga('send', 'pageview');
+	}
+	</script>
+</body>
+</html>

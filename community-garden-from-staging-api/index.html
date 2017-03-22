@@ -1,0 +1,641 @@
+<!doctype html>
+
+<html lang="en" dir="ltr">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<title>Community Gardens from Staging API in Los Angeles</title>
+
+	<meta name="description" content="A list of healthy food locations in Los Angeles
+" />
+
+	
+	<link rel="canonical" href="https://foodoasis.la/community-garden-from-staging-api/" />
+	
+	
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Reem+Kufi|Open+Sans:400,400i,600" />
+	
+
+	
+	
+	<link rel="stylesheet" href="https://api.tiles.mapbox.com/mapbox-gl-js/v0.33.1/mapbox-gl.css" />
+	
+
+	<link rel="stylesheet" href="/assets/css/beta.css" />
+
+	
+
+	<!-- for general use -->
+	<link rel="icon" type="image/png"    href="/assets/images/favicon.png" />
+
+	<!-- for iOS -->
+	<link rel="apple-touch-icon"         href="/assets/images/favicon-rgb-240-240-240.png" />
+
+	<!-- for Windows 8 -->
+	<meta name="msapplication-TileImage" content="/assets/images/favicon.png" />
+	<meta name="msapplication-TileColor" content="rgb(240, 240, 240)" />
+
+	<!-- Hotjar Tracking Code for foodoasis.la -->
+	<script>
+	    (function(h,o,t,j,a,r){
+	        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+	        h._hjSettings={hjid:383281,hjsv:5};
+	        a=o.getElementsByTagName('head')[0];
+	        r=o.createElement('script');r.async=1;
+	        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+	        a.appendChild(r);
+	    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+	</script>
+</head>
+<body class="lime   location-list">
+
+
+
+
+
+
+<div class="sticky">
+
+	<header>
+	<nav role="navigation" class="slideout-menu">
+		<div id="menuToggle">
+			<input type="checkbox" />
+			<span></span>
+			<span></span>
+			<span></span>
+			<ul id="menu">
+			<a href="/#" class="nav-item"><li>Home</li></a>
+			<a href="/locations" class="nav-item"><li>Map</li></a>
+			<hr/>
+			<a href="/organizations" class="nav-item small"><li>Organizations</li></a>
+			<a href="/resources" class="nav-item small"><li>Resources</li></a>
+			<a href="/about" class="nav-item small"><li>About</li></a>
+			<a href="/team" class="nav-item small"><li>Team</li></a>
+			<a href="/news" class="nav-item small"><li>News</li></a>
+			<a href="/faqs" class="nav-item small"><li>FAQs</li></a>
+			</ul>
+		</div>
+	</nav>
+	<h2><a href="/"><img src="/assets/images/fola.svg" alt="Food Oasis Los Angeles" /></a></h2>
+	<p class="tagline">Healthy Food for All Angelinos</p>
+
+	</header>
+
+	
+		<nav class="location-list-nav">
+	<ul class="options" id="search-views">
+		<li class="filter"><a href="/filters/" id="filters-link">Filter</a></li>
+		<li class="search">
+			<a href="/search/" id="search-link">
+				<img src="/assets/images/icons/search-black.svg" width="50" style="height: 1.5em; width: auto;" alt="Search" />
+				<span id="search-type">Community Gardens from Staging API</span> <span id="search-near">near</span> <em id="search-location" style="font-style: normal;">Los Angeles</em>
+			</a>
+		</li>
+	</ul>
+
+	<script type="text/template" id="search-views-template">
+		<li id="list-button" class="view" style="display: none;"><a href="">List</button></a>
+		<li id="map-button" class="view" style="display: none;"><a href="">Map</button></a>
+	</script>
+
+	<script>
+	var PAGE_PARAMETERS;
+	var getParameterByName;
+	var updateLink;
+
+	(function() {
+		// http://stackoverflow.com/questions/901115/how-can-i-get-query-string-values-in-javascript#answer-901144	
+		getParameterByName = function(name, url) {
+			if (!url) url = window.location.href;
+			name = name.replace(/[\[\]]/g, "\\$&");
+			var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+					results = regex.exec(url);
+			if (!results) return null;
+			if (!results[2]) return '';
+			return decodeURIComponent(results[2].replace(/\+/g, " "));
+		}
+
+		PAGE_PARAMETERS = {
+			type   : getParameterByName('type') || 'community-garden-from-staging-api',
+			address: getParameterByName('address'),
+			deserts: getParameterByName('deserts'),
+		};
+
+		// SHIM: Make the type persistent
+
+		updateLink = function(link) {
+			var params = [];
+			if (PAGE_PARAMETERS.type) params.push('type=' + PAGE_PARAMETERS.type);
+			if (PAGE_PARAMETERS.address) params.push('address=' + PAGE_PARAMETERS.address);
+			if (PAGE_PARAMETERS.deserts) params.push('deserts=' + PAGE_PARAMETERS.deserts);
+
+			var queryString = params.join('&');
+			link.setAttribute('href', link.getAttribute('href') + '?' + queryString);
+		}
+
+		if (PAGE_PARAMETERS.type || PAGE_PARAMETERS.address || PAGE_PARAMETERS.deserts) {
+			var filtersLink = document.getElementById('filters-link');
+			if (filtersLink) {
+				updateLink(filtersLink);
+			}
+
+			var searchLink = document.getElementById('search-link');
+			if (searchLink) {
+				updateLink(searchLink);
+			}
+		}
+
+		if (PAGE_PARAMETERS.type) {
+			var types = PAGE_PARAMETERS.type.split('|');
+
+			var searchType = document.getElementById('search-type');
+			var near = document.getElementById('search-near');
+
+			if (types.length === 1 || types.length === 2) {
+				// SHIM: Translate to a human readable version of the “type”.
+				var formattedTypes = [];
+				for (var index = 0; index < types.length; index++) {
+					formattedTypes.push((types[index] === 'food-pantry') ? 'food pantries' : types[index].replace(/\-/g, ' ') + 's');
+				}
+				searchType.innerText = formattedTypes.join(', ');
+				searchType.style.textTransform = 'capitalize';
+				//searchType.style.display = 'inline';
+				//near.style.display = 'inline';
+			} else {
+				//searchType.style.display = 'none';
+				//near.style.display = 'none';
+				searchType.innerText = 'Everything';
+				searchType.style.textTransform = 'capitalize';
+			}
+		}
+	})();
+	</script>
+</nav>
+
+	
+
+	
+
+</div>
+
+
+
+<div id="map" class="map-container"></div>
+
+</div>
+<div id="map-location-summary" class="location-summary-container"></div>
+
+
+	<main>
+			<ul class="list" id="locations">
+	
+
+		
+		
+		
+		
+		
+	<li class="community-garden" data-latitude="34.229619" data-longitude="-118.424512">
+		<a href="/community-garden-from-staging-api/arleta/" class="location-summary">
+			<img src="/assets/images/home/community-garden.svg" alt="" />
+			<h2>Arleta Community Garden</h2>
+			<p class="address">8800 Canterbury Avenue</p>
+			<p class="type">Community Garden</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="community-garden" data-latitude="33.942568" data-longitude="-118.258870">
+		<a href="/community-garden-from-staging-api/bougainvillea/" class="location-summary">
+			<img src="/assets/images/home/community-garden.svg" alt="" />
+			<h2>Bougainvillea Community Garden</h2>
+			<p class="address">2051 E 103rd Street</p>
+			<p class="type">Community Garden</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="community-garden" data-latitude="34.046196" data-longitude="-118.327627">
+		<a href="/community-garden-from-staging-api/crenshaw/" class="location-summary">
+			<img src="/assets/images/home/community-garden.svg" alt="" />
+			<h2>Crenshaw Community Garden</h2>
+			<p class="address">1423 S Crenshaw Blvd</p>
+			<p class="type">Community Garden</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="community-garden" data-latitude="34.133926" data-longitude="-118.188788">
+		<a href="/community-garden-from-staging-api/eagle-rockdale-and-art-park/" class="location-summary">
+			<img src="/assets/images/home/community-garden.svg" alt="" />
+			<h2>Eagle Rockdale Community Garden and Art Park</h2>
+			<p class="address">1003 Rockdale Avenue</p>
+			<p class="type">Community Garden</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="community-garden" data-latitude="33.977246" data-longitude="-118.463166">
+		<a href="/community-garden-from-staging-api/eastwind/" class="location-summary">
+			<img src="/assets/images/home/community-garden.svg" alt="" />
+			<h2>Eastwind Community Garden</h2>
+			<p class="address">110 Eastwind Street</p>
+			<p class="type">Community Garden</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="community-garden" data-latitude="34.092497" data-longitude="-118.161623">
+		<a href="/community-garden-from-staging-api/el-sereno/" class="location-summary">
+			<img src="/assets/images/home/community-garden.svg" alt="" />
+			<h2>El Sereno Community Garden</h2>
+			<p class="address">5466 Huntington Drive</p>
+			<p class="type">Community Garden</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="community-garden" data-latitude="34.097225" data-longitude="-118.242967">
+		<a href="/community-garden-from-staging-api/elysian-valley/" class="location-summary">
+			<img src="/assets/images/home/community-garden.svg" alt="" />
+			<h2>Elysian Valley Community Garden</h2>
+			<p class="address">1816 W Blake Avenue</p>
+			<p class="type">Community Garden</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="community-garden" data-latitude="33.969234" data-longitude="-118.404763">
+		<a href="/community-garden-from-staging-api/emerson-avenue/" class="location-summary">
+			<img src="/assets/images/home/community-garden.svg" alt="" />
+			<h2>Emerson Avenue Community Garden</h2>
+			<p class="address">6550 W 80th Street</p>
+			<p class="type">Community Garden</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="community-garden" data-latitude="34.094355" data-longitude="-118.333714">
+		<a href="/community-garden-from-staging-api/enrique-noguera-educational-garden/" class="location-summary">
+			<img src="/assets/images/home/community-garden.svg" alt="" />
+			<h2>Enrique Noguera Educational Garden</h2>
+			<p class="address">6614 Fountain Avenue</p>
+			<p class="type">Community Garden</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="community-garden" data-latitude="33.980628" data-longitude="-118.300742">
+		<a href="/community-garden-from-staging-api/epworth/" class="location-summary">
+			<img src="/assets/images/home/community-garden.svg" alt="" />
+			<h2>Epworth Community Garden</h2>
+			<p class="address">1419 W 65th Street</p>
+			<p class="type">Community Garden</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="community-garden" data-latitude="34.031700" data-longitude="-118.298016">
+		<a href="/community-garden-from-staging-api/erika-j-glazer/" class="location-summary">
+			<img src="/assets/images/home/community-garden.svg" alt="" />
+			<h2>Erika J. Glazer Community Garden</h2>
+			<p class="address">2632 Raymond Avenue</p>
+			<p class="type">Community Garden</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="community-garden" data-latitude="34.094742" data-longitude="-118.311782">
+		<a href="/community-garden-from-staging-api/fountains/" class="location-summary">
+			<img src="/assets/images/home/community-garden.svg" alt="" />
+			<h2>Fountain Community Gardens</h2>
+			<p class="address">5620 Fountain Avenue</p>
+			<p class="type">Community Garden</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="community-garden" data-latitude="33.968168" data-longitude="-118.265197">
+		<a href="/community-garden-from-staging-api/fremont-wellness-center-/" class="location-summary">
+			<img src="/assets/images/home/community-garden.svg" alt="" />
+			<h2>Fremont Wellness Center & Community Garden</h2>
+			<p class="address">7821 S Avalon Blvd</p>
+			<p class="type">Community Garden</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="community-garden" data-latitude="34.120054" data-longitude="-118.243006">
+		<a href="/community-garden-from-staging-api/glassell-park/" class="location-summary">
+			<img src="/assets/images/home/community-garden.svg" alt="" />
+			<h2>Glassell Park Community Garden</h2>
+			<p class="address">3305 Drew Street</p>
+			<p class="type">Community Garden</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="community-garden" data-latitude="34.030389" data-longitude="-118.367678">
+		<a href="/community-garden-from-staging-api/good-earth/" class="location-summary">
+			<img src="/assets/images/home/community-garden.svg" alt="" />
+			<h2>Good Earth Community Garden</h2>
+			<p class="address">5552 Boden Street</p>
+			<p class="type">Community Garden</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="community-garden" data-latitude="34.279178" data-longitude="-118.480809">
+		<a href="/community-garden-from-staging-api/granada-hills-salad-bowl-garden-club/" class="location-summary">
+			<img src="/assets/images/home/community-garden.svg" alt="" />
+			<h2>Granada Hills Salad Bowl Garden Club</h2>
+			<p class="address">16003 Rinaldi Street</p>
+			<p class="type">Community Garden</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="community-garden" data-latitude="33.926443" data-longitude="-118.262999">
+		<a href="/community-garden-from-staging-api/greater-watts/" class="location-summary">
+			<img src="/assets/images/home/community-garden.svg" alt="" />
+			<h2>Greater Watts Community Garden</h2>
+			<p class="address">660 E 118th Place</p>
+			<p class="type">Community Garden</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="community-garden" data-latitude="34.011177" data-longitude="-118.272696">
+		<a href="/community-garden-from-staging-api/growing-great-dreams/" class="location-summary">
+			<img src="/assets/images/home/community-garden.svg" alt="" />
+			<h2>Growing Great Dreams</h2>
+			<p class="address">125 E Martin Luther King Jr Boulevard</p>
+			<p class="type">Community Garden</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="community-garden" data-latitude="33.963433" data-longitude="-118.406470">
+		<a href="/community-garden-from-staging-api/holy-nativity/" class="location-summary">
+			<img src="/assets/images/home/community-garden.svg" alt="" />
+			<h2>Holy Nativity Community Garden</h2>
+			<p class="address">6700 West 83rd Street</p>
+			<p class="type">Community Garden</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+	<li class="community-garden" data-latitude="34.258132" data-longitude="-118.301699">
+		<a href="/community-garden-from-staging-api/howard-finn/" class="location-summary">
+			<img src="/assets/images/home/community-garden.svg" alt="" />
+			<h2>Howard Finn Community Garden</h2>
+			<p class="address">7747 Foothill Blvd</p>
+			<p class="type">Community Garden</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> miles away</p>
+			</script>
+		</a>
+	</li>
+
+
+
+	
+	</ul>
+
+
+<div class="pagination">
+	
+	<p><a href="/community-garden-from-staging-api/page2/"><span>Next 20 results</span> <img src="/assets/images/icons/forward.svg" /></a></p>
+	
+
+</div>
+<script>
+(function() {
+	if (PAGE_PARAMETERS.type || PAGE_PARAMETERS.address || PAGE_PARAMETERS.deserts) {
+
+		// SHIM: Make the address persistent
+		var paginationLink = document.querySelector('.pagination a[href]');
+		if (paginationLink) {
+			updateLink(paginationLink);
+		}
+	}
+})();
+</script>
+
+
+<!-- For location-list.js -->
+<script type="text/template" id="you-are-here-template">
+	<div class="you-are-here"><span>You are here</span></div>
+</script>
+
+<script type="text/template" id="marker-template">
+	<div class="marker">
+		<img src="/assets/images/markers/purple.svg" alt="" />
+	</div>
+</script>
+
+<script type="text/template" id="list-item-template">
+	<a href="" class="location-summary">
+		<img src="" alt="" />
+		<h2></h2>
+		<p class="address"></p>
+		<p class="type"></p>
+		<p class="open">Open Now</p>
+		<p class="distance"><span></span> m</p>
+	</a>
+</script>
+
+<!-- Jim’s Google Maps API key -->
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4"></script>
+
+<!--
+<script src='https://api.mapbox.com/mapbox.js/v3.0.1/mapbox.js'></script>
+-->
+<script src="https://api.mapbox.com/mapbox-gl-js/v0.33.1/mapbox-gl.js"></script>
+
+<script>
+var MAP_ACCESS_TOKEN = 'pk.eyJ1IjoiZm9vZG9hc2lzbGEiLCJhIjoiY2l0ZjdudnN4MDhpYzJvbXlpb3IyOHg2OSJ9.POBdqXF5EIsGwfEzCm8Y3Q';
+
+var MAP_BOUNDS = [
+	[-119.9442369,32.7089729], // Southwest coordinates
+	[-116.63282912,35.8275538]  // Northeast coordinates
+];
+</script>
+
+<script>
+var itemsPerPage = 20;
+var listOffset = 0;
+</script>
+
+
+<script src="/api/community-garden-from-staging-api.js"></script>
+
+
+<script src="/assets/js/location-list.js"></script>
+
+<script>
+// Toggle between the map and list views
+(function() {
+	if (mapboxgl.supported()) {
+
+		var views = document.getElementById('search-views');
+		var template = document.getElementById('search-views-template');
+		views.insertAdjacentHTML('beforeend', template.innerHTML);
+
+		var mapButton = document.getElementById('map-button');
+		var listButton = document.getElementById('list-button');
+
+		listButton.style.display = "block";
+
+		document.body.classList.add('only-map');
+		document.body.classList.remove('only-list');
+
+		mapButton.addEventListener('click', function(e) {
+			mapButton.style.display = "none";
+			listButton.style.display = "block";
+
+			document.body.classList.add('only-map');
+			document.body.classList.remove('only-list');
+
+			e.preventDefault();
+		}, false);
+
+		listButton.addEventListener('click', function(e) {
+			mapButton.style.display = "block";
+			listButton.style.display = "none";
+
+			document.body.classList.remove('only-map');
+			document.body.classList.add('only-list');
+
+			e.preventDefault();
+		}, false);
+	} else {
+		if (console && console.log) console.log('MapboxGL doesn’t appear to be supported in this web browser. Showing the list instead…');
+		document.body.classList.add('only-list');
+	}
+})();
+</script>
+
+</body>
+</html>
+
+	</main>
+
+	
+
+	<!-- KUDOS: https://hacks.mozilla.org/2016/01/google-analytics-privacy-and-event-tracking/ -->
+	<script src="/assets/js/dnt-helper.js"></script>
+
+	<!-- Google Analtyics Tracking Code for foodoasis.la -->
+	<script>
+	if (!_dntEnabled()) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-83011478-1', 'auto');
+		ga('send', 'pageview');
+	}
+	</script>
+</body>
+</html>
