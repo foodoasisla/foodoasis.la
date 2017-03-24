@@ -112,8 +112,11 @@
 				<br />
 				26455 Rockwell Canyon Rd.
 			
+
+						
 			<br />
 			Valencia, California 91355
+			
 		</p>
 		<p class="type"><a href="/farmers-market">Farmers Market</a></p>
 
@@ -153,6 +156,7 @@
 				details.classList.add('active');
 				e.preventDefault();
 				link.classList.add('disabled');
+				details.scrollIntoView(false);
 			}, false);
 		}
 	}
@@ -183,7 +187,9 @@ Valencia, California 91355
 
 	<hr />
 
-	
+
+
+
 	<h2>Hours</h2>
 	
 	<dl>
@@ -224,9 +230,9 @@ Valencia, California 91355
 		
 	
 	</dl>
-	
 
 	<hr />
+
 
 	<h2 style="position: absolute; left: -9999px; /* @hidden-accessible */">Information</h2>
 	<dl>
@@ -281,7 +287,6 @@ Valencia, California 91355
 	
 	<footer id="navigation">
 		<h2></h2>
-		<p >Support this project! &nbsp;&nbsp;&nbsp;&nbsp;<a class="donate-button" href="https://www.codeforamerica.org/donate" target="_blank">Donate</a></p><br/><br/>
 
 		<ul class="link-list has-icons">
 			<li>
@@ -302,6 +307,7 @@ Valencia, California 91355
 			<li><a href="/team"><span>Team</span></a></li>
 			<li><a href="/news"><span>News</span></a></li>
 			<li><a href="/faqs"><span><abbr title="Frequently Asked Questions">FAQs</abbr></a></span></li>
+			<li><a href="#donate"><span>Donate</span></a></li>
 		</ul>
 
 		<section class="sponsors">
@@ -312,6 +318,13 @@ Valencia, California 91355
 				</a>
 				
 			</div>
+		</section>
+
+		<section class="donate" id="donate">
+			<h2>Support this project</h2>
+			<p>We’re a volunteer-based project and would love your donation!</p>
+			<p>On the donation page, please choose <em>Los Angeles Brigade</em> and make it in honor of <em>Food Oasis LA</em> with the email address <em>info@foodoasis.la</em></p>
+			<p class="action"><a href="https://www.codeforamerica.org/donate" target="_blank">Donate</a></p>
 		</section>
 
 		<section class="contact">
