@@ -1,0 +1,611 @@
+<!doctype html>
+
+
+
+
+<html lang="en" dir="ltr">
+<head>
+
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<title>Supermarkets in Los Angeles, Page 23</title>
+
+	<meta name="description" content="A list of healthy food locations in Los Angeles
+" />
+
+	
+	<link rel="canonical" href="https://foodoasis.la/supermarket/" />
+	
+	
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Reem+Kufi|Open+Sans:400,400i,600" />
+	
+
+	
+	
+	<link rel="stylesheet" href="https://api.tiles.mapbox.com/mapbox-gl-js/v0.33.1/mapbox-gl.css" />
+	
+
+	<link rel="stylesheet" href="/assets/css/oasis.css" />
+
+	
+
+	<!-- for general use -->
+	<link rel="icon" type="image/png"    href="/assets/images/favicon.png" />
+
+	<!-- for iOS -->
+	<link rel="apple-touch-icon"         href="/assets/images/favicon-rgb-240-240-240.png" />
+
+	<!-- for Windows 8 -->
+	<meta name="msapplication-TileImage" content="/assets/images/favicon.png" />
+	<meta name="msapplication-TileColor" content="rgb(240, 240, 240)" />
+
+</head>
+<body class="strawberry   location-list">
+
+	
+
+	
+
+	
+		<header class="header">
+
+	<div class="primary-nav">
+		
+
+		<h2><a href="/"><img src="/assets/images/fola.svg" width="100" alt="Food Oasis Los Angeles" /></a></h2>
+		<p class="tagline">Healthy Food for All Angelenos</p>
+
+		<p class="nav-link">
+			<a href="/#navigation">
+				<svg width="22" height="19" viewBox="0 0 22 19">
+					<switch>
+						<g>
+							<polygon points="0.450127877 18.1050725 21.5498721 18.1050725 21.5498721 13.9746377 0.450127877 13.9746377"></polygon>
+							<polygon points="0.450127877 5.02536232 21.5498721 5.02536232 21.5498721 0.894927536 0.450127877 0.894927536"></polygon>
+							<polygon points="0.450127877 11.5652174 21.5498721 11.5652174 21.5498721 7.43478261 0.450127877 7.43478261"></polygon>
+						</g>
+						<foreignobject>
+							Menu
+						</foreignobject>
+					</switch>
+				</svg>
+			</a>
+		</p>
+
+	</div><!-- /.primary -->
+
+	
+	<nav class="secondary-nav location-list-nav">
+		
+<ul class="options" id="search-views">
+	<li class="filter"><a href="/filters/" id="filters-link">Filter</a></li>
+	<li class="search">
+		<a href="/search/" id="search-link">
+			<img src="/assets/images/icons/search-black.svg" width="50" style="height: 1.5em; width: auto;" alt="Search" />
+			<span id="search-type">Supermarkets</span> <span id="search-near">near</span> <em id="search-location" style="font-style: normal;">Los Angeles</em>
+		</a>
+	</li>
+</ul>
+
+<script type="text/template" id="search-views-template">
+	<li class="view" id="list-button" style="display: none;"><a href="">List</button></a>
+	<li class="view" id="map-button" style="display: none;"><a href="">Map</button></a>
+</script>
+
+<script>
+var PAGE_PARAMETERS;
+var getParameterByName;
+var updateLink;
+
+(function() {
+	// http://stackoverflow.com/questions/901115/how-can-i-get-query-string-values-in-javascript#answer-901144	
+	getParameterByName = function(name, url) {
+		if (!url) url = window.location.href;
+		name = name.replace(/[\[\]]/g, "\\$&");
+		var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+				results = regex.exec(url);
+		if (!results) return null;
+		if (!results[2]) return '';
+		return decodeURIComponent(results[2].replace(/\+/g, " "));
+	}
+
+	PAGE_PARAMETERS = {
+		type   : getParameterByName('type') || 'supermarket',
+		address: getParameterByName('address'),
+		deserts: getParameterByName('deserts'),
+		open: getParameterByName('open')
+	};
+
+	// SHIM: Make the type persistent
+
+	updateLink = function(link) {
+		var params = [];
+		if (PAGE_PARAMETERS.type) params.push('type=' + PAGE_PARAMETERS.type);
+		if (PAGE_PARAMETERS.address) params.push('address=' + PAGE_PARAMETERS.address);
+		if (PAGE_PARAMETERS.deserts) params.push('deserts=' + PAGE_PARAMETERS.deserts);
+		if (PAGE_PARAMETERS.open) params.push('open=' + PAGE_PARAMETERS.open);
+
+		var queryString = params.join('&');
+		link.setAttribute('href', link.getAttribute('href') + '?' + queryString);
+	}
+
+	if (PAGE_PARAMETERS.type || PAGE_PARAMETERS.address || PAGE_PARAMETERS.deserts || PAGE_PARAMETERS.open) {
+		var filtersLink = document.getElementById('filters-link');
+		if (filtersLink) {
+			updateLink(filtersLink);
+		}
+
+		var searchLink = document.getElementById('search-link');
+		if (searchLink) {
+			updateLink(searchLink);
+		}
+	}
+
+	if (PAGE_PARAMETERS.type) {
+		var types = PAGE_PARAMETERS.type.split('|');
+
+		var searchType = document.getElementById('search-type');
+		var near = document.getElementById('search-near');
+
+		if (types.length === 1 || types.length === 2) {
+			// SHIM: Translate to a human readable version of the “type”.
+			var formattedTypes = [];
+			for (var index = 0; index < types.length; index++) {
+				formattedTypes.push((types[index] === 'food-pantry') ? 'food pantries' : types[index].replace(/\-/g, ' ') + 's');
+			}
+			searchType.innerText = formattedTypes.join(', ');
+			searchType.style.textTransform = 'capitalize';
+			//searchType.style.display = 'inline';
+			//near.style.display = 'inline';
+		} else {
+			//searchType.style.display = 'none';
+			//near.style.display = 'none';
+			searchType.innerText = 'Everything';
+			searchType.style.textTransform = 'capitalize';
+		}
+	}
+})();
+</script>
+
+	</nav>
+	
+
+	
+
+</header>
+
+	
+
+	
+	<div class="map-container" id="map" ></div>
+
+	<div class="location-summary-container" id="map-location-summary" ></div>
+	
+
+	<main>
+		<ul class="location-list">
+	
+
+		
+		
+		
+		
+
+		
+	<li class="supermarket" data-latitude="34.087928" data-longitude="-118.30939">
+		<a href="/supermarket/smart-final-extra-939-n-western-ave/" class="location-summary">
+			<img src="/assets/images/home/supermarket.svg" alt="" />
+			<h2>Smart & Final Extra</h2>
+			<p class="address">939 N Western Ave</p>
+			<p class="type">Supermarket</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> <abbr title="miles">m</abbr></p>
+			</script>
+		</a>
+	</li>
+
+	<li class="supermarket" data-latitude="34.187162" data-longitude="-118.318639">
+		<a href="/supermarket/sprouts-farmers-market-1011-n-san-fernando-blvd/" class="location-summary">
+			<img src="/assets/images/home/supermarket.svg" alt="" />
+			<h2>Sprouts Farmers Market</h2>
+			<p class="address">1011 N San Fernando Blvd</p>
+			<p class="type">Supermarket</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> <abbr title="miles">m</abbr></p>
+			</script>
+		</a>
+	</li>
+
+	<li class="supermarket" data-latitude="34.152235" data-longitude="-118.827136">
+		<a href="/supermarket/sprouts-farmers-market-1012-s-westlake-blvd/" class="location-summary">
+			<img src="/assets/images/home/supermarket.svg" alt="" />
+			<h2>Sprouts Farmers Market</h2>
+			<p class="address">1012 S Westlake Blvd</p>
+			<p class="type">Supermarket</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> <abbr title="miles">m</abbr></p>
+			</script>
+		</a>
+	</li>
+
+	<li class="supermarket" data-latitude="33.806655" data-longitude="-118.358995">
+		<a href="/supermarket/sprouts-farmers-market-4230-pacific-coast-hwy/" class="location-summary">
+			<img src="/assets/images/home/supermarket.svg" alt="" />
+			<h2>Sprouts Farmers Market</h2>
+			<p class="address">4230 Pacific Coast Hwy</p>
+			<p class="type">Supermarket</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> <abbr title="miles">m</abbr></p>
+			</script>
+		</a>
+	</li>
+
+	<li class="supermarket" data-latitude="33.835592" data-longitude="-118.117663">
+		<a href="/supermarket/sprouts-farmers-market-4253-woodruff-ave/" class="location-summary">
+			<img src="/assets/images/home/supermarket.svg" alt="" />
+			<h2>Sprouts Farmers Market</h2>
+			<p class="address">4253 Woodruff Ave</p>
+			<p class="type">Supermarket</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> <abbr title="miles">m</abbr></p>
+			</script>
+		</a>
+	</li>
+
+	<li class="supermarket" data-latitude="33.918837" data-longitude="-117.889324">
+		<a href="/supermarket/sprouts-farmers-market-735-e-birch-st/" class="location-summary">
+			<img src="/assets/images/home/supermarket.svg" alt="" />
+			<h2>Sprouts Farmers Market</h2>
+			<p class="address">735 E Birch St</p>
+			<p class="type">Supermarket</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> <abbr title="miles">m</abbr></p>
+			</script>
+		</a>
+	</li>
+
+	<li class="supermarket" data-latitude="33.816074" data-longitude="-118.029489">
+		<a href="/supermarket/stater-bros-markets-10051-valley-view-st/" class="location-summary">
+			<img src="/assets/images/home/supermarket.svg" alt="" />
+			<h2>Stater Bros. Markets</h2>
+			<p class="address">10051 Valley View St</p>
+			<p class="type">Supermarket</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> <abbr title="miles">m</abbr></p>
+			</script>
+		</a>
+	</li>
+
+	<li class="supermarket" data-latitude="34.098075" data-longitude="-117.872853">
+		<a href="/supermarket/stater-bros-markets-1023-n-grand-ave/" class="location-summary">
+			<img src="/assets/images/home/supermarket.svg" alt="" />
+			<h2>Stater Bros. Markets</h2>
+			<p class="address">1023 N Grand Ave</p>
+			<p class="type">Supermarket</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> <abbr title="miles">m</abbr></p>
+			</script>
+		</a>
+	</li>
+
+	<li class="supermarket" data-latitude="34.036455" data-longitude="-117.924966">
+		<a href="/supermarket/stater-bros-markets-1025-e-amar-rd/" class="location-summary">
+			<img src="/assets/images/home/supermarket.svg" alt="" />
+			<h2>Stater Bros. Markets</h2>
+			<p class="address">1025 E Amar Rd</p>
+			<p class="type">Supermarket</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> <abbr title="miles">m</abbr></p>
+			</script>
+		</a>
+	</li>
+
+	<li class="supermarket" data-latitude="34.068219" data-longitude="-117.753266">
+		<a href="/supermarket/stater-bros-markets-1045-n-garey-ave/" class="location-summary">
+			<img src="/assets/images/home/supermarket.svg" alt="" />
+			<h2>Stater Bros. Markets</h2>
+			<p class="address">1045 N Garey Ave</p>
+			<p class="type">Supermarket</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> <abbr title="miles">m</abbr></p>
+			</script>
+		</a>
+	</li>
+
+	<li class="supermarket" data-latitude="34.107953" data-longitude="-117.73531">
+		<a href="/supermarket/stater-bros-markets-1055-w-foothill-blvd/" class="location-summary">
+			<img src="/assets/images/home/supermarket.svg" alt="" />
+			<h2>Stater Bros. Markets</h2>
+			<p class="address">1055 W Foothill Blvd</p>
+			<p class="type">Supermarket</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> <abbr title="miles">m</abbr></p>
+			</script>
+		</a>
+	</li>
+
+	<li class="supermarket" data-latitude="33.917938" data-longitude="-118.093138">
+		<a href="/supermarket/stater-bros-markets-11300-firestone-blvd/" class="location-summary">
+			<img src="/assets/images/home/supermarket.svg" alt="" />
+			<h2>Stater Bros. Markets</h2>
+			<p class="address">11300 Firestone Blvd</p>
+			<p class="type">Supermarket</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> <abbr title="miles">m</abbr></p>
+			</script>
+		</a>
+	</li>
+
+	<li class="supermarket" data-latitude="34.129703" data-longitude="-117.882753">
+		<a href="/supermarket/stater-bros-markets-1145-e-alosta-ave/" class="location-summary">
+			<img src="/assets/images/home/supermarket.svg" alt="" />
+			<h2>Stater Bros. Markets</h2>
+			<p class="address">1145 E Alosta Ave</p>
+			<p class="type">Supermarket</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> <abbr title="miles">m</abbr></p>
+			</script>
+		</a>
+	</li>
+
+	<li class="supermarket" data-latitude="33.980157" data-longitude="-118.051515">
+		<a href="/supermarket/stater-bros-markets-11750-whittier-blvd/" class="location-summary">
+			<img src="/assets/images/home/supermarket.svg" alt="" />
+			<h2>Stater Bros. Markets</h2>
+			<p class="address">11750 Whittier Blvd</p>
+			<p class="type">Supermarket</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> <abbr title="miles">m</abbr></p>
+			</script>
+		</a>
+	</li>
+
+	<li class="supermarket" data-latitude="33.87484" data-longitude="-118.08143">
+		<a href="/supermarket/stater-bros-markets-11815-artesia-blvd/" class="location-summary">
+			<img src="/assets/images/home/supermarket.svg" alt="" />
+			<h2>Stater Bros. Markets</h2>
+			<p class="address">11815 Artesia Blvd</p>
+			<p class="type">Supermarket</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> <abbr title="miles">m</abbr></p>
+			</script>
+		</a>
+	</li>
+
+	<li class="supermarket" data-latitude="33.888437" data-longitude="-118.06556">
+		<a href="/supermarket/stater-bros-markets-12523-alondra-blvd/" class="location-summary">
+			<img src="/assets/images/home/supermarket.svg" alt="" />
+			<h2>Stater Bros. Markets</h2>
+			<p class="address">12523 Alondra Blvd</p>
+			<p class="type">Supermarket</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> <abbr title="miles">m</abbr></p>
+			</script>
+		</a>
+	</li>
+
+	<li class="supermarket" data-latitude="33.915658" data-longitude="-118.010703">
+		<a href="/supermarket/stater-bros-markets-12800-la-mirada-blvd/" class="location-summary">
+			<img src="/assets/images/home/supermarket.svg" alt="" />
+			<h2>Stater Bros. Markets</h2>
+			<p class="address">12800 La Mirada Blvd</p>
+			<p class="type">Supermarket</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> <abbr title="miles">m</abbr></p>
+			</script>
+		</a>
+	</li>
+
+	<li class="supermarket" data-latitude="33.941326" data-longitude="-118.027877">
+		<a href="/supermarket/stater-bros-markets-14212-mulberry-dr/" class="location-summary">
+			<img src="/assets/images/home/supermarket.svg" alt="" />
+			<h2>Stater Bros. Markets</h2>
+			<p class="address">14212 Mulberry Dr</p>
+			<p class="type">Supermarket</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> <abbr title="miles">m</abbr></p>
+			</script>
+		</a>
+	</li>
+
+	<li class="supermarket" data-latitude="34.107587" data-longitude="-117.836402">
+		<a href="/supermarket/stater-bros-markets-1425-w-arrow-hwy/" class="location-summary">
+			<img src="/assets/images/home/supermarket.svg" alt="" />
+			<h2>Stater Bros. Markets</h2>
+			<p class="address">1425 W Arrow Hwy</p>
+			<p class="type">Supermarket</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> <abbr title="miles">m</abbr></p>
+			</script>
+		</a>
+	</li>
+
+	<li class="supermarket" data-latitude="33.993893" data-longitude="-117.758773">
+		<a href="/supermarket/stater-bros-markets-14250-chino-hills-pkwy/" class="location-summary">
+			<img src="/assets/images/home/supermarket.svg" alt="" />
+			<h2>Stater Bros. Markets</h2>
+			<p class="address">14250 Chino Hills Pkwy</p>
+			<p class="type">Supermarket</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> <abbr title="miles">m</abbr></p>
+			</script>
+		</a>
+	</li>
+
+
+
+	
+</ul>
+
+
+
+<div class="pagination">
+	<p><a href="/supermarket/page24/"><span>Next 20 results</span> <img src="/assets/images/icons/forward.svg" /></a></p>
+</div>
+
+<script>
+(function() {
+	if (PAGE_PARAMETERS.type || PAGE_PARAMETERS.address || PAGE_PARAMETERS.deserts) {
+
+		// SHIM: Pass the query string onto the next page
+		var paginationLink = document.querySelector('.pagination a[href]');
+		if (paginationLink) {
+			updateLink(paginationLink);
+		}
+	}
+})();
+</script>
+
+
+
+<!-- For location-list.js -->
+<script type="text/template" id="you-are-here-template">
+	<div class="you-are-here"><span>You are here</span></div>
+</script>
+
+<script type="text/template" id="list-item-template">
+	<a href="" class="location-summary">
+		<img src="" alt="" />
+		<h2></h2>
+		<p class="address"></p>
+		<p class="type"></p>
+		<p class="open">Open Now</p>
+		<p class="distance"><span></span> <abbr title="miles">m</abbr></p>
+	</a>
+</script>
+
+<script type="text/template" id="no-results-template">
+	<section role="status" class="message">
+		<h1>Oops! We couldn’t find any matching locations.</h1>
+		<p>You may want to <a href="/search/">try a new search</a></p>
+	</section>
+</script>
+
+<!-- Jim’s Google Maps API key -->
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4"></script>
+
+<script src="https://api.mapbox.com/mapbox-gl-js/v0.33.1/mapbox-gl.js"></script>
+
+<script>
+// FOLA’s Mapbox API key
+var MAP_ACCESS_TOKEN = 'pk.eyJ1IjoiZm9vZG9hc2lzbGEiLCJhIjoiY2l0ZjdudnN4MDhpYzJvbXlpb3IyOHg2OSJ9.POBdqXF5EIsGwfEzCm8Y3Q';
+
+// Los Angeles County boundaries
+var MAP_BOUNDS = [
+	[-119.9442369,32.7089729], // Southwest coordinates
+	[-116.63282912,35.8275538]  // Northeast coordinates
+];
+</script>
+
+<script>
+var itemsPerPage = 20;
+var listOffset = 440;
+</script>
+
+
+<script src="/api/supermarket.js"></script>
+
+
+<script src="/assets/js/location-list.js"></script>
+
+</body>
+</html>
+
+	</main>
+
+	
+
+	<!-- KUDOS: https://hacks.mozilla.org/2016/01/google-analytics-privacy-and-event-tracking/ -->
+<script src="/assets/js/dnt-helper.js"></script>
+
+<!-- Google Analytics Tracking Code for foodoasis.la -->
+<script>
+if (!_dntEnabled()) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-83011478-1', 'auto');
+	ga('send', 'pageview');
+}
+</script>
+
+<!-- Hotjar Tracking Code for foodoasis.la -->
+<script>
+if (!_dntEnabled()) {
+	(function(h,o,t,j,a,r){
+		h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+		h._hjSettings={hjid:383281,hjsv:5};
+		a=o.getElementsByTagName('head')[0];
+		r=o.createElement('script');r.async=1;
+		r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+		a.appendChild(r);
+	})(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+}
+</script>
+
+
+</body>
+</html>

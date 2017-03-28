@@ -9,9 +9,35 @@ var locations = [
 	name      : "Adams - Vermont Farmers Market / St. Agnes Church Farmer's Market",
 	address_1 : "1432 W Adams Blvd",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Wed",
+		open      : "1400",
+		close     : "1900"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/adams-vermont-st-agnes-church-farmers-market/"
 },
 
@@ -21,9 +47,35 @@ var locations = [
 	name      : "Alhambra Certified Farmers Market",
 	address_1 : "100 S. 2nd Street",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Sun",
+		open      : "830",
+		close     : "1300"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/alhambra-certified/"
 },
 
@@ -33,9 +85,35 @@ var locations = [
 	name      : "Altadena Farmers Market",
 	address_1 : "600 W. Palm Street",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Wed",
+		open      : "1600",
+		close     : "1900"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/altadena/"
 },
 
@@ -45,9 +123,35 @@ var locations = [
 	name      : "Antelope Valley Winery Farmers Market",
 	address_1 : "42041 20th St. West",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Sat",
+		open      : "900",
+		close     : "1200"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/antelope-valley-winery/"
 },
 
@@ -57,9 +161,35 @@ var locations = [
 	name      : "Arts District Farmers Market",
 	address_1 : "740 E 3rd St",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Sat",
+		open      : "1000",
+		close     : "1600"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/arts-district/"
 },
 
@@ -69,9 +199,35 @@ var locations = [
 	name      : "Atwater Village Farmers Market",
 	address_1 : "Wells Fargo Parking Lot",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Sun",
+		open      : "1000",
+		close     : "1400"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/atwater-village/"
 },
 
@@ -81,9 +237,35 @@ var locations = [
 	name      : "Baldwin La Brea Farmers Market",
 	address_1 : "3601 S. La Brea Ave.",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Sat",
+		open      : "900",
+		close     : "1430"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/baldwin-la-brea/"
 },
 
@@ -93,9 +275,35 @@ var locations = [
 	name      : "Baldwin Park Farmers Market",
 	address_1 : "Baldwin Park - Cesar Chavez & Ramond",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Fri",
+		open      : "830",
+		close     : "1330"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/baldwin-park/"
 },
 
@@ -105,9 +313,35 @@ var locations = [
 	name      : "Bank Of America Plaza Farmers Market",
 	address_1 : "333 S Hope St",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Fri",
+		open      : "1000",
+		close     : "1400"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/bank-of-america-plaza/"
 },
 
@@ -117,9 +351,35 @@ var locations = [
 	name      : "Bellflower Farmers Market",
 	address_1 : "16614 Clark Ave at Oak Street",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Mon",
+		open      : "900",
+		close     : "1300"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/bellflower/"
 },
 
@@ -129,9 +389,35 @@ var locations = [
 	name      : "Beverly Hills Farmers Market",
 	address_1 : "9300 Civic Center Drive",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Sun",
+		open      : "900",
+		close     : "1300"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/beverly-hills/"
 },
 
@@ -141,9 +427,35 @@ var locations = [
 	name      : "Boyle Heights Farmers Market",
 	address_1 : "1831 E 1st St",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Fri",
+		open      : "1500",
+		close     : "1900"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/boyle-heights/"
 },
 
@@ -153,9 +465,35 @@ var locations = [
 	name      : "Brentwood Village Farmers Market",
 	address_1 : "741 South Gretna Green Way",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Sun",
+		open      : "900",
+		close     : "1430"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/brentwood-village/"
 },
 
@@ -165,9 +503,35 @@ var locations = [
 	name      : "Burbank Farmers Market",
 	address_1 : "Corner of Olive & Glenoaks",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Sat",
+		open      : "800",
+		close     : "1230"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/burbank/"
 },
 
@@ -177,9 +541,35 @@ var locations = [
 	name      : "Cal State University Northridge (CSUN) Farmers Market (CFM)",
 	address_1 : "18111 Nordhoff Street",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Tue",
+		open      : "1000",
+		close     : "1400"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/cal-state-university-northridge-csun-cfm/"
 },
 
@@ -189,9 +579,35 @@ var locations = [
 	name      : "Calabasas Old Town Farmers Market",
 	address_1 : "Calabasas & Mulholland Dr.",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Sat",
+		open      : "800",
+		close     : "1300"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/calabasas-old-town/"
 },
 
@@ -201,9 +617,35 @@ var locations = [
 	name      : "Canoga Park Farmers Market",
 	address_1 : "On Owensmouth Avenue between Wyandotte Street & Sherman Way",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Sat",
+		open      : "900",
+		close     : "1400"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/canoga-park/"
 },
 
@@ -213,9 +655,35 @@ var locations = [
 	name      : "Central Ave Farmers Market",
 	address_1 : "courtyard of the Central Avenue Constituent Services Center",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Thu",
+		open      : "1000",
+		close     : "1500"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/central-ave/"
 },
 
@@ -225,9 +693,35 @@ var locations = [
 	name      : "Century City Farmers Market",
 	address_1 : "10100 Santa Monica Blvd.",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Thu",
+		open      : "1000",
+		close     : "1400"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/century-city/"
 },
 
@@ -237,9 +731,35 @@ var locations = [
 	name      : "Cerritos Farmers Market",
 	address_1 : "17870 Park plaza Drive",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Sat",
+		open      : "800",
+		close     : "1200"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/cerritos/"
 },
 
@@ -249,9 +769,35 @@ var locations = [
 	name      : "Children's Hospital LA CFM",
 	address_1 : "4650 Sunset Blvd.",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Wed",
+		open      : "1000",
+		close     : "1500"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/childrens-hospital-la-cfm/"
 },
 
@@ -261,9 +807,35 @@ var locations = [
 	name      : "Claremont Farmers Market",
 	address_1 : "N Indian Hill Blvd & W 2Nd St",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Sun",
+		open      : "800",
+		close     : "1300"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/claremont/"
 },
 
@@ -273,9 +845,35 @@ var locations = [
 	name      : "Compton Blue Line Farmers Market",
 	address_1 : "101 E Palmer Street",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Thu",
+		open      : "1100",
+		close     : "1900"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/compton-blue-line/"
 },
 
@@ -285,9 +883,35 @@ var locations = [
 	name      : "Covina Farmers Market",
 	address_1 : "Citrus Ave and San Bernandino Rd",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Fri",
+		open      : "1700",
+		close     : "2100"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/covina/"
 },
 
@@ -297,9 +921,35 @@ var locations = [
 	name      : "Crenshaw Baldwin Hill Farmers Market",
 	address_1 : "3650 W Martin Luther King Blvd",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Sat",
+		open      : "1000",
+		close     : "1500"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/crenshaw-baldwin-hill/"
 },
 
@@ -309,9 +959,35 @@ var locations = [
 	name      : "Culver City Farmers Market",
 	address_1 : "Main & Culver",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Tue",
+		open      : "1400",
+		close     : "1900"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/culver-city/"
 },
 
@@ -321,9 +997,35 @@ var locations = [
 	name      : "Diamond Bar Farmers Market",
 	address_1 : "Calvary Chapel Church",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Sat",
+		open      : "800",
+		close     : "1300"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/diamond-bar/"
 },
 
@@ -333,9 +1035,35 @@ var locations = [
 	name      : "Downey Farmers Market",
 	address_1 : "La Reina Ave & 2nd St",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Sat",
+		open      : "900",
+		close     : "1300"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/downey/"
 },
 
@@ -345,9 +1073,35 @@ var locations = [
 	name      : "Downtown Los Angeles (Fig at 7th) Farmers Market",
 	address_1 : "S Figueroa St & W 7th St",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Thu",
+		open      : "1100",
+		close     : "1400"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/downtown-los-angeles-fig-at-7th/"
 },
 
@@ -357,9 +1111,35 @@ var locations = [
 	name      : "Duarte City of Hope Farmers Market",
 	address_1 : "1500 Duarte Rd",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Thu",
+		open      : "1000",
+		close     : "1400"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/duarte-city-of-hope/"
 },
 
@@ -369,9 +1149,35 @@ var locations = [
 	name      : "Eagle Rock Farmers Market",
 	address_1 : "2035 Colorado Blvd.",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Fri",
+		open      : "1600",
+		close     : "2000"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/eagle-rock/"
 },
 
@@ -381,9 +1187,35 @@ var locations = [
 	name      : "East Hollywood Farmers Market",
 	address_1 : "5448 Hollywood Boulevard",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Thu",
+		open      : "1530",
+		close     : "1930"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/east-hollywood/"
 },
 
@@ -393,9 +1225,35 @@ var locations = [
 	name      : "East LA Farmers' Market",
 	address_1 : "4801 East 3rd Street",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Sat",
+		open      : "900",
+		close     : "1400"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/east-la-farmers-market/"
 },
 
@@ -405,9 +1263,35 @@ var locations = [
 	name      : "Echo Park Farmers Market",
 	address_1 : "Logan St. and Sunset Blvd",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Fri",
+		open      : "1500",
+		close     : "1930"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/echo-park/"
 },
 
@@ -417,9 +1301,35 @@ var locations = [
 	name      : "El Segundo Plaza Farmers Market",
 	address_1 : "300 Main St.",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Thu",
+		open      : "1500",
+		close     : "1900"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/el-segundo-plaza/"
 },
 
@@ -429,9 +1339,35 @@ var locations = [
 	name      : "Encino Farmers Market",
 	address_1 : "17400 Victory Blvd in Van Nuys",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Sun",
+		open      : "800",
+		close     : "1300"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/encino/"
 },
 
@@ -441,9 +1377,35 @@ var locations = [
 	name      : "Gardena Hollypark Farmers Market",
 	address_1 : "13000 Van Ness",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Sat",
+		open      : "630",
+		close     : "1200"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/gardena-hollypark/"
 },
 
@@ -453,9 +1415,35 @@ var locations = [
 	name      : "Green Acres",
 	address_1 : "5000 East Spring Street",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Thu",
+		open      : "1100",
+		close     : "1730"
+	},{
+		day       : "Sun",
+		open      : "830",
+		close     : "1430"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/green-acres/"
 },
 
@@ -465,9 +1453,35 @@ var locations = [
 	name      : "Hermosa Beach Farmers Market",
 	address_1 : "Valley Dr. between 8th St. & 10th St.",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Wed",
+		open      : "1100",
+		close     : "1600"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/hermosa-beach/"
 },
 
@@ -477,9 +1491,35 @@ var locations = [
 	name      : "Historic Downtown Farmers' Market (CFM)",
 	address_1 : "205 West 5th Street",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Sun",
+		open      : "900",
+		close     : "1400"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/historic-downtown-farmers-market-cfm/"
 },
 
@@ -489,9 +1529,35 @@ var locations = [
 	name      : "Hollywood Farmers Market",
 	address_1 : "1500 N Ivar Ave",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Sun",
+		open      : "800",
+		close     : "1300"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/hollywood/"
 },
 
@@ -501,9 +1567,35 @@ var locations = [
 	name      : "Howard Hughes Farmers Market",
 	address_1 : "6080 Center Drive",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Thu",
+		open      : "1000",
+		close     : "1400"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/howard-hughes/"
 },
 
@@ -513,9 +1605,35 @@ var locations = [
 	name      : "Huntington Park Farmers Market",
 	address_1 : "3401 East Florence Avenue",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Wed",
+		open      : "930",
+		close     : "1330"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/huntington-park/"
 },
 
@@ -525,9 +1643,35 @@ var locations = [
 	name      : "Inglewood Farmers Market",
 	address_1 : "Market Street and Manchester Blvd.",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Thu1st",
+		open      : "1500",
+		close     : "1900"
+	},{
+		day       : "Thu3rd",
+		open      : "1500",
+		close     : "1900"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/inglewood/"
 },
 
@@ -537,9 +1681,35 @@ var locations = [
 	name      : "Jack Newe's Farmers Market",
 	address_1 : "1920 S Brea Canyon Cut Off",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Sat",
+		open      : "800",
+		close     : "1400"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/jack-newes/"
 },
 
@@ -549,9 +1719,35 @@ var locations = [
 	name      : "Kaiser Baldwin Park Farmers Market",
 	address_1 : "1011 Baldwin Park Blvd",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Fri",
+		open      : "830",
+		close     : "1330"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/kaiser-baldwin-park/"
 },
 
@@ -561,9 +1757,35 @@ var locations = [
 	name      : "Kaiser Downey",
 	address_1 : "9333 E. Imperial Hwy in Kaiser Medical Center",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Thu",
+		open      : "900",
+		close     : "1400"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/kaiser-downey/"
 },
 
@@ -573,9 +1795,35 @@ var locations = [
 	name      : "Kaiser Medical Center Panorama City FM",
 	address_1 : "13652 Cantara Street",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Wed",
+		open      : "900",
+		close     : "1330"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/kaiser-medical-center-panorama-city-fm/"
 },
 
@@ -585,9 +1833,35 @@ var locations = [
 	name      : "Kaiser Medical Center Woodland Hills",
 	address_1 : "5601 De Soto Avenue",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Thu",
+		open      : "900",
+		close     : "1500"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/kaiser-medical-center-woodland-hills/"
 },
 
@@ -597,9 +1871,35 @@ var locations = [
 	name      : "Kaiser South Bay Farmers Market",
 	address_1 : "25825 S. Vermont Avenue",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Wed",
+		open      : "900",
+		close     : "1500"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/kaiser-south-bay/"
 },
 
@@ -609,9 +1909,35 @@ var locations = [
 	name      : "Kaiser -West LA Farmers Market",
 	address_1 : "6041 Cadillac Ave",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Wed",
+		open      : "900",
+		close     : "1400"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/kaiser-west-la/"
 },
 
@@ -621,9 +1947,35 @@ var locations = [
 	name      : "L.A. Central Avenue Farmers Market",
 	address_1 : "4301 S. Central Avenue",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Thu",
+		open      : "1000",
+		close     : "1500"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/l-a-central-avenue/"
 },
 
@@ -633,9 +1985,35 @@ var locations = [
 	name      : "L.A. City Hall (Little Tokyo CFM)",
 	address_1 : "200 North Main Street",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Thu",
+		open      : "1000",
+		close     : "1400"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/l-a-city-hall-little-tokyo-cfm/"
 },
 
@@ -645,9 +2023,35 @@ var locations = [
 	name      : "L.A. Larchmont Village Farmers Market",
 	address_1 : "Larchmont Bldg., Lot #694",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Sun",
+		open      : "1000",
+		close     : "1400"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/l-a-larchmont-village/"
 },
 
@@ -657,9 +2061,35 @@ var locations = [
 	name      : "L.A. Melrose Place Farmers Market",
 	address_1 : "Melrose Place & Croft",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Sun",
+		open      : "1000",
+		close     : "1400"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/l-a-melrose-place/"
 },
 
@@ -669,9 +2099,35 @@ var locations = [
 	name      : "L.A. Silverlake Farmers Market",
 	address_1 : "3700 Sunset Blvd.",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Tue",
+		open      : "1400",
+		close     : "1930"
+	},{
+		day       : "Sat",
+		open      : "800",
+		close     : "1330"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/l-a-silverlake/"
 },
 
@@ -681,9 +2137,35 @@ var locations = [
 	name      : "La Canada Flintridge Farmers Market",
 	address_1 : "Beulah Dr. & Foothill Ave.",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Sat",
+		open      : "900",
+		close     : "1300"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/la-canada-flintridge/"
 },
 
@@ -693,9 +2175,35 @@ var locations = [
 	name      : "La Cienega Farmers Market (CFM)",
 	address_1 : "1831 South La Cienega Blvd.",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Thu",
+		open      : "1400",
+		close     : "1930"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/la-cienega-cfm/"
 },
 
@@ -705,9 +2213,35 @@ var locations = [
 	name      : "La Puente Live Farmers Market",
 	address_1 : "Main Street & First Street",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Fri",
+		open      : "1800",
+		close     : "2200"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/la-puente-live/"
 },
 
@@ -717,9 +2251,35 @@ var locations = [
 	name      : "Lancaster Farmers Market / BLVD Farmers' Market",
 	address_1 : "758 West Lancaster Blvd",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Thu",
+		open      : "1500",
+		close     : "1700"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/lancaster-blvd-farmers-market/"
 },
 
@@ -729,9 +2289,35 @@ var locations = [
 	name      : "Lancaster Farmers Market",
 	address_1 : "721 Lancaster Blvd.",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Thu",
+		open      : "1600",
+		close     : "2100"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/lancaster/"
 },
 
@@ -741,9 +2327,35 @@ var locations = [
 	name      : "Lawndale Farmers Market",
 	address_1 : "14717 Burin Ave.",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Wed",
+		open      : "1400",
+		close     : "1900"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/lawndale/"
 },
 
@@ -753,9 +2365,35 @@ var locations = [
 	name      : "Lincoln Heights Farmers Market",
 	address_1 : "2334 Daly St.",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Wed",
+		open      : "1500",
+		close     : "2000"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/lincoln-heights/"
 },
 
@@ -765,9 +2403,35 @@ var locations = [
 	name      : "Local Harvest Farmers Market",
 	address_1 : "Marine Stadium at Appian Way & Nieto",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Wed",
+		open      : "1500",
+		close     : "1900"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/local-harvest/"
 },
 
@@ -777,9 +2441,35 @@ var locations = [
 	name      : "Long Beach Downtown CFM",
 	address_1 : "199 East 5th Street",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Fri",
+		open      : "1000",
+		close     : "1400"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/long-beach-downtown-cfm/"
 },
 
@@ -789,9 +2479,35 @@ var locations = [
 	name      : "Long Beach Southeast Farmers Market",
 	address_1 : "2nd St. and N. Marina Dr.",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Sun",
+		open      : "900",
+		close     : "1400"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/long-beach-southeast/"
 },
 
@@ -801,9 +2517,35 @@ var locations = [
 	name      : "Long Beach Uptown Farmers Market",
 	address_1 : "E 46Th St & Atlantic Ave",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Thu",
+		open      : "1500",
+		close     : "1830"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/long-beach-uptown/"
 },
 
@@ -813,9 +2555,35 @@ var locations = [
 	name      : "Los Feliz Village CFM",
 	address_1 : "1825 North Vermont Avenue",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Sun",
+		open      : "900",
+		close     : "1400"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/los-feliz-village-cfm/"
 },
 
@@ -825,9 +2593,35 @@ var locations = [
 	name      : "Malibu Farmers Market",
 	address_1 : "23555 Civic Center Way",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Sun",
+		open      : "1000",
+		close     : "1500"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/malibu/"
 },
 
@@ -837,9 +2631,35 @@ var locations = [
 	name      : "Manhattan Beach Farmers Market",
 	address_1 : "326 13th St",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Tue",
+		open      : "1100",
+		close     : "1600"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/manhattan-beach/"
 },
 
@@ -849,9 +2669,35 @@ var locations = [
 	name      : "Mar Vista Farmers Market",
 	address_1 : "3826 Grand View Blvd",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Sun",
+		open      : "900",
+		close     : "1400"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/mar-vista/"
 },
 
@@ -861,9 +2707,35 @@ var locations = [
 	name      : "Miracle Mile Farmers Market",
 	address_1 : "5700 Wilshire Blvd",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Wed",
+		open      : "1100",
+		close     : "1500"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/miracle-mile/"
 },
 
@@ -873,9 +2745,35 @@ var locations = [
 	name      : "Monrovia Farmers Market - Friday",
 	address_1 : "200 Block of Myrtle Ave @ Olive",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Fri",
+		open      : "1730",
+		close     : "2100"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/monrovia-friday/"
 },
 
@@ -885,9 +2783,35 @@ var locations = [
 	name      : "Monterey Park Farmers Market",
 	address_1 : "318 S. Ramona Ave",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Fri",
+		open      : "1600",
+		close     : "2000"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/monterey-park/"
 },
 
@@ -897,9 +2821,35 @@ var locations = [
 	name      : "Montrose Harvest Market Farmers Market",
 	address_1 : "Honolulu & Ocean Avenue",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Mon",
+		open      : "1000",
+		close     : "1500"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/montrose-harvest-market/"
 },
 
@@ -909,9 +2859,35 @@ var locations = [
 	name      : "Motor Avenue Farmers Market",
 	address_1 : "10316 National @ Motor Ave.",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Tue",
+		open      : "1100",
+		close     : "1600"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/motor-avenue/"
 },
 
@@ -921,9 +2897,35 @@ var locations = [
 	name      : "Newhall Farmers Market",
 	address_1 : "24500 Main Street",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Sat",
+		open      : "830",
+		close     : "1230"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/newhall/"
 },
 
@@ -933,9 +2935,35 @@ var locations = [
 	name      : "Northridge Farmers Market And Family Festival",
 	address_1 : "9301 Tampa Ave",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Wed",
+		open      : "1700",
+		close     : "2100"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/northridge-and-family-festival/"
 },
 
@@ -945,9 +2973,35 @@ var locations = [
 	name      : "Northridge University Farmers Market",
 	address_1 : "18111 Nordroff Street",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Tue",
+		open      : "1000",
+		close     : "1400"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/northridge-university/"
 },
 
@@ -957,9 +3011,35 @@ var locations = [
 	name      : "Old Highland Park Farmers Market",
 	address_1 : "5703 N Figueroa St",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Tue",
+		open      : "1500",
+		close     : "1900"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/old-highland-park/"
 },
 
@@ -969,9 +3049,35 @@ var locations = [
 	name      : "Old L.A. Farmers Market",
 	address_1 : "North Figueroa & Ave. 58",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Tue",
+		open      : "1500",
+		close     : "2000"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/old-l-a-/"
 },
 
@@ -981,9 +3087,35 @@ var locations = [
 	name      : "Palos Verdes Farmers Market",
 	address_1 : "27118 Silver Spur Rd",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Sun",
+		open      : "800",
+		close     : "1300"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/palos-verdes/"
 },
 
@@ -993,9 +3125,35 @@ var locations = [
 	name      : "Paramount Farmers Market",
 	address_1 : "15500 Downey Ave",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Fri",
+		open      : "930",
+		close     : "1330"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/paramount/"
 },
 
@@ -1005,9 +3163,35 @@ var locations = [
 	name      : "Pasadena Victory Park Farmers Market",
 	address_1 : "2900 N. Sierra Madre Blvd between Paloma and Washington Avenues",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Sat",
+		open      : "830",
+		close     : "1230"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/pasadena-victory-park/"
 },
 
@@ -1017,9 +3201,35 @@ var locations = [
 	name      : "Pasadena Villa Parke Farmers Market",
 	address_1 : "363 E. Villa St.",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Tue",
+		open      : "830",
+		close     : "1230"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/pasadena-villa-parke/"
 },
 
@@ -1029,9 +3239,35 @@ var locations = [
 	name      : "Playa Vista Farmers Market",
 	address_1 : "12775 W. Millennium Drive",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Sat",
+		open      : "900",
+		close     : "1400"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/playa-vista/"
 },
 
@@ -1041,9 +3277,35 @@ var locations = [
 	name      : "Pomona Valley CFM",
 	address_1 : "Corner of Pearl St & Garey Ave",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Sat",
+		open      : "730",
+		close     : "1130"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/pomona-valley-cfm/"
 },
 
@@ -1053,9 +3315,35 @@ var locations = [
 	name      : "Redondo Beach Farmers Market",
 	address_1 : "309 Esplanade",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Thu",
+		open      : "800",
+		close     : "1300"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/redondo-beach/"
 },
 
@@ -1065,9 +3353,35 @@ var locations = [
 	name      : "Riviera Village Farmers Market",
 	address_1 : "S Elena St & Avenida del Norte",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Sun",
+		open      : "800",
+		close     : "1300"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/riviera-village/"
 },
 
@@ -1077,9 +3391,35 @@ var locations = [
 	name      : "Rosemead Farmers Market",
 	address_1 : "8838 Valley Blvd.",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Mon",
+		open      : "1600",
+		close     : "2000"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/rosemead/"
 },
 
@@ -1089,9 +3429,35 @@ var locations = [
 	name      : "San Pedro Farmers Market",
 	address_1 : "W 6Th St & S Mesa St",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Fri",
+		open      : "900",
+		close     : "1400"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/san-pedro/"
 },
 
@@ -1101,9 +3467,35 @@ var locations = [
 	name      : "Santa Clarita Farmers Market",
 	address_1 : "College of the Canyons Valencia Campus",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Sun",
+		open      : "830",
+		close     : "1200"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/santa-clarita/"
 },
 
@@ -1113,9 +3505,35 @@ var locations = [
 	name      : "Santa Fe Springs Farmers Market",
 	address_1 : "11740 Telegraph Road",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Wed",
+		open      : "1700",
+		close     : "2100"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/santa-fe-springs/"
 },
 
@@ -1125,9 +3543,35 @@ var locations = [
 	name      : "Santa Monica Downtown Farmers Market",
 	address_1 : "Arizona Ave between 4th St and Ocean",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Sat",
+		open      : "830",
+		close     : "1300"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/santa-monica-downtown/"
 },
 
@@ -1137,9 +3581,35 @@ var locations = [
 	name      : "Santa Monica Farmers Market - Saturday Virginia Avenue Park",
 	address_1 : "2200 Virginia Avenue",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Sat",
+		open      : "800",
+		close     : "1300"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/santa-monica-saturday-virginia-avenue-park/"
 },
 
@@ -1149,9 +3619,35 @@ var locations = [
 	name      : "Santa Monica Farmers Market - Sunday Main Street",
 	address_1 : "2640 Main Street",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Sun",
+		open      : "830",
+		close     : "1330"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/santa-monica-sunday-main-street/"
 },
 
@@ -1161,9 +3657,35 @@ var locations = [
 	name      : "Temple City Farmers Market",
 	address_1 : "9701 Las  Tunas Dr",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Sun",
+		open      : "830",
+		close     : "1300"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/temple-city/"
 },
 
@@ -1173,9 +3695,35 @@ var locations = [
 	name      : "The Village Farmers Market",
 	address_1 : "6250 Topanga Blvd.",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Sun",
+		open      : "900",
+		close     : "1300"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/the-village/"
 },
 
@@ -1185,9 +3733,35 @@ var locations = [
 	name      : "The WALL Food + Flowers + Farmers Market",
 	address_1 : "755 Wall Street",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Sat",
+		open      : "900",
+		close     : "1400"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/the-wall-food-flowers-/"
 },
 
@@ -1197,9 +3771,35 @@ var locations = [
 	name      : "Toluca Lake Farmers Market",
 	address_1 : "Sancola Ave & Riverside Dr",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Sun",
+		open      : "1000",
+		close     : "1500"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/toluca-lake/"
 },
 
@@ -1209,9 +3809,35 @@ var locations = [
 	name      : "Topanga Canyon CFM",
 	address_1 : "1440 North Topanga Canyon Blvd.",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Fri",
+		open      : "900",
+		close     : "1300"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/topanga-canyon-cfm/"
 },
 
@@ -1221,9 +3847,35 @@ var locations = [
 	name      : "Torrance Providence Farmers Market",
 	address_1 : "4101 Torranc Blvd. @ Hawthorne Blvd",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Fri",
+		open      : "1000",
+		close     : "1500"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/torrance-providence/"
 },
 
@@ -1233,9 +3885,35 @@ var locations = [
 	name      : "Torrance Farmers Market -Tuesday and saturday- 2200 Crenshaw Blvd Torrance,Ca.90501",
 	address_1 : "2200 Crenshaw Blvd",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Tue",
+		open      : "800",
+		close     : "1300"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/torrance-tuesday-and-saturday-2200-crenshaw-blvd-torrance-ca-90501/"
 },
 
@@ -1245,9 +3923,35 @@ var locations = [
 	name      : "Uptown Whittier Farmers Market",
 	address_1 : "Bright Ave & Philadelphia St",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Fri",
+		open      : "800",
+		close     : "1300"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/uptown-whittier/"
 },
 
@@ -1257,9 +3961,35 @@ var locations = [
 	name      : "USC Hospitality Farmers Market",
 	address_1 : "3445 S. Figueroa Street",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Wed",
+		open      : "1100",
+		close     : "1500"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/usc-hospitality/"
 },
 
@@ -1269,9 +3999,35 @@ var locations = [
 	name      : "Valencia Farmers Market",
 	address_1 : "24201 Valencia Blvd",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Thu",
+		open      : "1600",
+		close     : "2000"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/valencia/"
 },
 
@@ -1281,9 +4037,35 @@ var locations = [
 	name      : "Venice Farmers Market",
 	address_1 : "N Venice Blvd & Venice Way",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Fri",
+		open      : "700",
+		close     : "1100"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/venice/"
 },
 
@@ -1293,9 +4075,35 @@ var locations = [
 	name      : "Watts Healthy Farmers Market",
 	address_1 : "1335 East 103rd Street",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Sat",
+		open      : "1000",
+		close     : "1400"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/watts-healthy/"
 },
 
@@ -1305,9 +4113,35 @@ var locations = [
 	name      : "Wellington Square Farmers Market",
 	address_1 : "4394 W Washington Blvd.",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Sun",
+		open      : "900",
+		close     : "1300"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/wellington-square/"
 },
 
@@ -1317,9 +4151,35 @@ var locations = [
 	name      : "West Covina Farmers Market",
 	address_1 : "195 S. Glendora Ave.",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Sat",
+		open      : "800",
+		close     : "1300"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/west-covina/"
 },
 
@@ -1329,9 +4189,35 @@ var locations = [
 	name      : "West Hollywood Farmers Market",
 	address_1 : "1200 N Vista St",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Mon",
+		open      : "900",
+		close     : "1400"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/west-hollywood/"
 },
 
@@ -1341,9 +4227,35 @@ var locations = [
 	name      : "West Los Angeles Farmers Market",
 	address_1 : "1645 Corinth Avenue at Santa Monica Blvd",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Sun",
+		open      : "900",
+		close     : "1400"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/west-los-angeles/"
 },
 
@@ -1353,9 +4265,35 @@ var locations = [
 	name      : "Westchester Farmers Market",
 	address_1 : "7000 W Manchester Ave",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Wed",
+		open      : "830",
+		close     : "1300"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/westchester/"
 },
 
@@ -1365,9 +4303,35 @@ var locations = [
 	name      : "Westwood Village Farmers Market",
 	address_1 : "1083 Braxton Avenue",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Thu",
+		open      : "1200",
+		close     : "1800"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/westwood-village/"
 },
 
@@ -1377,9 +4341,35 @@ var locations = [
 	name      : "Whittier Host Lions Farmers Market",
 	address_1 : "9401 S Painter Ave",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Sat",
+		open      : "900",
+		close     : "1300"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/whittier-host-lions/"
 },
 
@@ -1389,9 +4379,35 @@ var locations = [
 	name      : "Wilmington Farmers Market",
 	address_1 : "Avalon and L St.",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Thu",
+		open      : "900",
+		close     : "1300"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/wilmington/"
 },
 
@@ -1401,9 +4417,35 @@ var locations = [
 	name      : "Woodland Hills Farmers Market",
 	address_1 : "23504 Calabasas Rd",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Sat",
+		open      : "800",
+		close     : "1300"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/woodland-hills/"
 },
 
@@ -1413,11 +4455,38 @@ var locations = [
 	name      : "Woodman Avenue Farmers Market",
 	address_1 : "14006 Riverside Dr",
 	category  : "Farmers Market",
-	day       : "",
-	open      : "",
-	close     : "",
+	hours     : [{
+		day       : "Tue",
+		open      : "1500",
+		close     : "1900"
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
 	uri       : "/farmers-market/woodman-avenue/"
 }
+
 
 
 ];

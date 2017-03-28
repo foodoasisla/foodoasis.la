@@ -1,0 +1,611 @@
+<!doctype html>
+
+
+
+
+<html lang="en" dir="ltr">
+<head>
+
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<title>Supermarkets in Los Angeles, Page 5</title>
+
+	<meta name="description" content="A list of healthy food locations in Los Angeles
+" />
+
+	
+	<link rel="canonical" href="https://foodoasis.la/supermarket/" />
+	
+	
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Reem+Kufi|Open+Sans:400,400i,600" />
+	
+
+	
+	
+	<link rel="stylesheet" href="https://api.tiles.mapbox.com/mapbox-gl-js/v0.33.1/mapbox-gl.css" />
+	
+
+	<link rel="stylesheet" href="/assets/css/oasis.css" />
+
+	
+
+	<!-- for general use -->
+	<link rel="icon" type="image/png"    href="/assets/images/favicon.png" />
+
+	<!-- for iOS -->
+	<link rel="apple-touch-icon"         href="/assets/images/favicon-rgb-240-240-240.png" />
+
+	<!-- for Windows 8 -->
+	<meta name="msapplication-TileImage" content="/assets/images/favicon.png" />
+	<meta name="msapplication-TileColor" content="rgb(240, 240, 240)" />
+
+</head>
+<body class="strawberry   location-list">
+
+	
+
+	
+
+	
+		<header class="header">
+
+	<div class="primary-nav">
+		
+
+		<h2><a href="/"><img src="/assets/images/fola.svg" width="100" alt="Food Oasis Los Angeles" /></a></h2>
+		<p class="tagline">Healthy Food for All Angelenos</p>
+
+		<p class="nav-link">
+			<a href="/#navigation">
+				<svg width="22" height="19" viewBox="0 0 22 19">
+					<switch>
+						<g>
+							<polygon points="0.450127877 18.1050725 21.5498721 18.1050725 21.5498721 13.9746377 0.450127877 13.9746377"></polygon>
+							<polygon points="0.450127877 5.02536232 21.5498721 5.02536232 21.5498721 0.894927536 0.450127877 0.894927536"></polygon>
+							<polygon points="0.450127877 11.5652174 21.5498721 11.5652174 21.5498721 7.43478261 0.450127877 7.43478261"></polygon>
+						</g>
+						<foreignobject>
+							Menu
+						</foreignobject>
+					</switch>
+				</svg>
+			</a>
+		</p>
+
+	</div><!-- /.primary -->
+
+	
+	<nav class="secondary-nav location-list-nav">
+		
+<ul class="options" id="search-views">
+	<li class="filter"><a href="/filters/" id="filters-link">Filter</a></li>
+	<li class="search">
+		<a href="/search/" id="search-link">
+			<img src="/assets/images/icons/search-black.svg" width="50" style="height: 1.5em; width: auto;" alt="Search" />
+			<span id="search-type">Supermarkets</span> <span id="search-near">near</span> <em id="search-location" style="font-style: normal;">Los Angeles</em>
+		</a>
+	</li>
+</ul>
+
+<script type="text/template" id="search-views-template">
+	<li class="view" id="list-button" style="display: none;"><a href="">List</button></a>
+	<li class="view" id="map-button" style="display: none;"><a href="">Map</button></a>
+</script>
+
+<script>
+var PAGE_PARAMETERS;
+var getParameterByName;
+var updateLink;
+
+(function() {
+	// http://stackoverflow.com/questions/901115/how-can-i-get-query-string-values-in-javascript#answer-901144	
+	getParameterByName = function(name, url) {
+		if (!url) url = window.location.href;
+		name = name.replace(/[\[\]]/g, "\\$&");
+		var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+				results = regex.exec(url);
+		if (!results) return null;
+		if (!results[2]) return '';
+		return decodeURIComponent(results[2].replace(/\+/g, " "));
+	}
+
+	PAGE_PARAMETERS = {
+		type   : getParameterByName('type') || 'supermarket',
+		address: getParameterByName('address'),
+		deserts: getParameterByName('deserts'),
+		open: getParameterByName('open')
+	};
+
+	// SHIM: Make the type persistent
+
+	updateLink = function(link) {
+		var params = [];
+		if (PAGE_PARAMETERS.type) params.push('type=' + PAGE_PARAMETERS.type);
+		if (PAGE_PARAMETERS.address) params.push('address=' + PAGE_PARAMETERS.address);
+		if (PAGE_PARAMETERS.deserts) params.push('deserts=' + PAGE_PARAMETERS.deserts);
+		if (PAGE_PARAMETERS.open) params.push('open=' + PAGE_PARAMETERS.open);
+
+		var queryString = params.join('&');
+		link.setAttribute('href', link.getAttribute('href') + '?' + queryString);
+	}
+
+	if (PAGE_PARAMETERS.type || PAGE_PARAMETERS.address || PAGE_PARAMETERS.deserts || PAGE_PARAMETERS.open) {
+		var filtersLink = document.getElementById('filters-link');
+		if (filtersLink) {
+			updateLink(filtersLink);
+		}
+
+		var searchLink = document.getElementById('search-link');
+		if (searchLink) {
+			updateLink(searchLink);
+		}
+	}
+
+	if (PAGE_PARAMETERS.type) {
+		var types = PAGE_PARAMETERS.type.split('|');
+
+		var searchType = document.getElementById('search-type');
+		var near = document.getElementById('search-near');
+
+		if (types.length === 1 || types.length === 2) {
+			// SHIM: Translate to a human readable version of the “type”.
+			var formattedTypes = [];
+			for (var index = 0; index < types.length; index++) {
+				formattedTypes.push((types[index] === 'food-pantry') ? 'food pantries' : types[index].replace(/\-/g, ' ') + 's');
+			}
+			searchType.innerText = formattedTypes.join(', ');
+			searchType.style.textTransform = 'capitalize';
+			//searchType.style.display = 'inline';
+			//near.style.display = 'inline';
+		} else {
+			//searchType.style.display = 'none';
+			//near.style.display = 'none';
+			searchType.innerText = 'Everything';
+			searchType.style.textTransform = 'capitalize';
+		}
+	}
+})();
+</script>
+
+	</nav>
+	
+
+	
+
+</header>
+
+	
+
+	
+	<div class="map-container" id="map" ></div>
+
+	<div class="location-summary-container" id="map-location-summary" ></div>
+	
+
+	<main>
+		<ul class="location-list">
+	
+
+		
+		
+		
+		
+
+		
+	<li class="supermarket" data-latitude="33.937191" data-longitude="-118.129155">
+		<a href="/supermarket/aldi-8530-firestone-blvd/" class="location-summary">
+			<img src="/assets/images/home/supermarket.svg" alt="" />
+			<h2>Aldi</h2>
+			<p class="address">8530 Firestone Blvd</p>
+			<p class="type">Supermarket</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> <abbr title="miles">m</abbr></p>
+			</script>
+		</a>
+	</li>
+
+	<li class="supermarket" data-latitude="33.874874" data-longitude="-118.176054">
+		<a href="/supermarket/big-saver-foods-1313-e-artesia-blvd/" class="location-summary">
+			<img src="/assets/images/home/supermarket.svg" alt="" />
+			<h2>Big Saver Foods</h2>
+			<p class="address">1313 E Artesia Blvd</p>
+			<p class="type">Supermarket</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> <abbr title="miles">m</abbr></p>
+			</script>
+		</a>
+	</li>
+
+	<li class="supermarket" data-latitude="33.90148" data-longitude="-118.351206">
+		<a href="/supermarket/big-saver-foods-14310-hawthorne-blvd/" class="location-summary">
+			<img src="/assets/images/home/supermarket.svg" alt="" />
+			<h2>Big Saver Foods</h2>
+			<p class="address">14310 Hawthorne Blvd</p>
+			<p class="type">Supermarket</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> <abbr title="miles">m</abbr></p>
+			</script>
+		</a>
+	</li>
+
+	<li class="supermarket" data-latitude="33.803773" data-longitude="-118.212604">
+		<a href="/supermarket/big-saver-foods-1500-w-willow-st/" class="location-summary">
+			<img src="/assets/images/home/supermarket.svg" alt="" />
+			<h2>Big Saver Foods</h2>
+			<p class="address">1500 W Willow St</p>
+			<p class="type">Supermarket</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> <abbr title="miles">m</abbr></p>
+			</script>
+		</a>
+	</li>
+
+	<li class="supermarket" data-latitude="33.888681" data-longitude="-118.116563">
+		<a href="/supermarket/big-saver-foods-16000-woodruff-ave/" class="location-summary">
+			<img src="/assets/images/home/supermarket.svg" alt="" />
+			<h2>Big Saver Foods</h2>
+			<p class="address">16000 Woodruff Ave</p>
+			<p class="type">Supermarket</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> <abbr title="miles">m</abbr></p>
+			</script>
+		</a>
+	</li>
+
+	<li class="supermarket" data-latitude="33.775133" data-longitude="-118.164475">
+		<a href="/supermarket/big-saver-foods-2300-e-7th-st/" class="location-summary">
+			<img src="/assets/images/home/supermarket.svg" alt="" />
+			<h2>Big Saver Foods</h2>
+			<p class="address">2300 E 7th St</p>
+			<p class="type">Supermarket</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> <abbr title="miles">m</abbr></p>
+			</script>
+		</a>
+	</li>
+
+	<li class="supermarket" data-latitude="34.084767" data-longitude="-118.222224">
+		<a href="/supermarket/big-saver-foods-2619-n-figueroa-st/" class="location-summary">
+			<img src="/assets/images/home/supermarket.svg" alt="" />
+			<h2>Big Saver Foods</h2>
+			<p class="address">2619 N Figueroa St</p>
+			<p class="type">Supermarket</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> <abbr title="miles">m</abbr></p>
+			</script>
+		</a>
+	</li>
+
+	<li class="supermarket" data-latitude="34.073543" data-longitude="-118.210131">
+		<a href="/supermarket/big-saver-foods-3000-n-broadway/" class="location-summary">
+			<img src="/assets/images/home/supermarket.svg" alt="" />
+			<h2>Big Saver Foods</h2>
+			<p class="address">3000 N Broadway</p>
+			<p class="type">Supermarket</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> <abbr title="miles">m</abbr></p>
+			</script>
+		</a>
+	</li>
+
+	<li class="supermarket" data-latitude="34.003993" data-longitude="-118.201989">
+		<a href="/supermarket/big-saver-foods-4260-charter-st/" class="location-summary">
+			<img src="/assets/images/home/supermarket.svg" alt="" />
+			<h2>Big Saver Foods</h2>
+			<p class="address">4260 Charter St</p>
+			<p class="type">Supermarket</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> <abbr title="miles">m</abbr></p>
+			</script>
+		</a>
+	</li>
+
+	<li class="supermarket" data-latitude="34.08908" data-longitude="-118.170043">
+		<a href="/supermarket/big-saver-foods-5168-huntington-dr-s/" class="location-summary">
+			<img src="/assets/images/home/supermarket.svg" alt="" />
+			<h2>Big Saver Foods</h2>
+			<p class="address">5168 Huntington Dr S</p>
+			<p class="type">Supermarket</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> <abbr title="miles">m</abbr></p>
+			</script>
+		</a>
+	</li>
+
+	<li class="supermarket" data-latitude="33.988979" data-longitude="-118.24792">
+		<a href="/supermarket/big-saver-foods-5829-compton-ave/" class="location-summary">
+			<img src="/assets/images/home/supermarket.svg" alt="" />
+			<h2>Big Saver Foods</h2>
+			<p class="address">5829 Compton Ave</p>
+			<p class="type">Supermarket</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> <abbr title="miles">m</abbr></p>
+			</script>
+		</a>
+	</li>
+
+	<li class="supermarket" data-latitude="34.063082" data-longitude="-118.103227">
+		<a href="/supermarket/big-saver-foods-7619-garvey-ave/" class="location-summary">
+			<img src="/assets/images/home/supermarket.svg" alt="" />
+			<h2>Big Saver Foods</h2>
+			<p class="address">7619 Garvey Ave</p>
+			<p class="type">Supermarket</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> <abbr title="miles">m</abbr></p>
+			</script>
+		</a>
+	</li>
+
+	<li class="supermarket" data-latitude="33.979077" data-longitude="-118.089838">
+		<a href="/supermarket/big-saver-foods-9406-washington-blvd/" class="location-summary">
+			<img src="/assets/images/home/supermarket.svg" alt="" />
+			<h2>Big Saver Foods</h2>
+			<p class="address">9406 Washington Blvd</p>
+			<p class="type">Supermarket</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> <abbr title="miles">m</abbr></p>
+			</script>
+		</a>
+	</li>
+
+	<li class="supermarket" data-latitude="34.159152" data-longitude="-118.820954">
+		<a href="/supermarket/bristol-farms-140-promenade-way/" class="location-summary">
+			<img src="/assets/images/home/supermarket.svg" alt="" />
+			<h2>Bristol Farms</h2>
+			<p class="address">140 Promenade Way</p>
+			<p class="type">Supermarket</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> <abbr title="miles">m</abbr></p>
+			</script>
+		</a>
+	</li>
+
+	<li class="supermarket" data-latitude="34.053667" data-longitude="-118.440649">
+		<a href="/supermarket/bristol-farms-1515-westwood-blvd/" class="location-summary">
+			<img src="/assets/images/home/supermarket.svg" alt="" />
+			<h2>Bristol Farms</h2>
+			<p class="address">1515 Westwood Blvd</p>
+			<p class="type">Supermarket</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> <abbr title="miles">m</abbr></p>
+			</script>
+		</a>
+	</li>
+
+	<li class="supermarket" data-latitude="33.900532" data-longitude="-118.385259">
+		<a href="/supermarket/bristol-farms-1570-rosecrans-ave/" class="location-summary">
+			<img src="/assets/images/home/supermarket.svg" alt="" />
+			<h2>Bristol Farms</h2>
+			<p class="address">1570 Rosecrans Ave</p>
+			<p class="type">Supermarket</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> <abbr title="miles">m</abbr></p>
+			</script>
+		</a>
+	</li>
+
+	<li class="supermarket" data-latitude="33.81855" data-longitude="-118.382463">
+		<a href="/supermarket/bristol-farms-1700-s-pacific-coast-hwy/" class="location-summary">
+			<img src="/assets/images/home/supermarket.svg" alt="" />
+			<h2>Bristol Farms</h2>
+			<p class="address">1700 S Pacific Coast Hwy</p>
+			<p class="type">Supermarket</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> <abbr title="miles">m</abbr></p>
+			</script>
+		</a>
+	</li>
+
+	<li class="supermarket" data-latitude="34.040354" data-longitude="-118.472944">
+		<a href="/supermarket/bristol-farms-3105-wilshire-blvd/" class="location-summary">
+			<img src="/assets/images/home/supermarket.svg" alt="" />
+			<h2>Bristol Farms</h2>
+			<p class="address">3105 Wilshire Blvd</p>
+			<p class="type">Supermarket</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> <abbr title="miles">m</abbr></p>
+			</script>
+		</a>
+	</li>
+
+	<li class="supermarket" data-latitude="34.118585" data-longitude="-118.149728">
+		<a href="/supermarket/bristol-farms-606-fair-oaks-ave/" class="location-summary">
+			<img src="/assets/images/home/supermarket.svg" alt="" />
+			<h2>Bristol Farms</h2>
+			<p class="address">606 Fair Oaks Ave</p>
+			<p class="type">Supermarket</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> <abbr title="miles">m</abbr></p>
+			</script>
+		</a>
+	</li>
+
+	<li class="supermarket" data-latitude="34.097795" data-longitude="-118.361211">
+		<a href="/supermarket/bristol-farms-7880-w-sunset-blvd/" class="location-summary">
+			<img src="/assets/images/home/supermarket.svg" alt="" />
+			<h2>Bristol Farms</h2>
+			<p class="address">7880 W Sunset Blvd</p>
+			<p class="type">Supermarket</p>
+			<script type="text/template" class="open-template" data-day="" data-open="" data-close="">
+				<p class="open">Open Now</p>
+			</script>
+			<script type="text/template" class="distance-template">
+				<p class="distance"><span></span> <abbr title="miles">m</abbr></p>
+			</script>
+		</a>
+	</li>
+
+
+
+	
+</ul>
+
+
+
+<div class="pagination">
+	<p><a href="/supermarket/page6/"><span>Next 20 results</span> <img src="/assets/images/icons/forward.svg" /></a></p>
+</div>
+
+<script>
+(function() {
+	if (PAGE_PARAMETERS.type || PAGE_PARAMETERS.address || PAGE_PARAMETERS.deserts) {
+
+		// SHIM: Pass the query string onto the next page
+		var paginationLink = document.querySelector('.pagination a[href]');
+		if (paginationLink) {
+			updateLink(paginationLink);
+		}
+	}
+})();
+</script>
+
+
+
+<!-- For location-list.js -->
+<script type="text/template" id="you-are-here-template">
+	<div class="you-are-here"><span>You are here</span></div>
+</script>
+
+<script type="text/template" id="list-item-template">
+	<a href="" class="location-summary">
+		<img src="" alt="" />
+		<h2></h2>
+		<p class="address"></p>
+		<p class="type"></p>
+		<p class="open">Open Now</p>
+		<p class="distance"><span></span> <abbr title="miles">m</abbr></p>
+	</a>
+</script>
+
+<script type="text/template" id="no-results-template">
+	<section role="status" class="message">
+		<h1>Oops! We couldn’t find any matching locations.</h1>
+		<p>You may want to <a href="/search/">try a new search</a></p>
+	</section>
+</script>
+
+<!-- Jim’s Google Maps API key -->
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4"></script>
+
+<script src="https://api.mapbox.com/mapbox-gl-js/v0.33.1/mapbox-gl.js"></script>
+
+<script>
+// FOLA’s Mapbox API key
+var MAP_ACCESS_TOKEN = 'pk.eyJ1IjoiZm9vZG9hc2lzbGEiLCJhIjoiY2l0ZjdudnN4MDhpYzJvbXlpb3IyOHg2OSJ9.POBdqXF5EIsGwfEzCm8Y3Q';
+
+// Los Angeles County boundaries
+var MAP_BOUNDS = [
+	[-119.9442369,32.7089729], // Southwest coordinates
+	[-116.63282912,35.8275538]  // Northeast coordinates
+];
+</script>
+
+<script>
+var itemsPerPage = 20;
+var listOffset = 80;
+</script>
+
+
+<script src="/api/supermarket.js"></script>
+
+
+<script src="/assets/js/location-list.js"></script>
+
+</body>
+</html>
+
+	</main>
+
+	
+
+	<!-- KUDOS: https://hacks.mozilla.org/2016/01/google-analytics-privacy-and-event-tracking/ -->
+<script src="/assets/js/dnt-helper.js"></script>
+
+<!-- Google Analytics Tracking Code for foodoasis.la -->
+<script>
+if (!_dntEnabled()) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-83011478-1', 'auto');
+	ga('send', 'pageview');
+}
+</script>
+
+<!-- Hotjar Tracking Code for foodoasis.la -->
+<script>
+if (!_dntEnabled()) {
+	(function(h,o,t,j,a,r){
+		h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+		h._hjSettings={hjid:383281,hjsv:5};
+		a=o.getElementsByTagName('head')[0];
+		r=o.createElement('script');r.async=1;
+		r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+		a.appendChild(r);
+	})(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+}
+</script>
+
+
+</body>
+</html>
