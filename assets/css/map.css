@@ -44,7 +44,7 @@
 		height: 50vh;
 	}
 
-	.only-map > main,
+	.only-map main,
 	.only-map .pagination {
 		display: none !important;
 	}
