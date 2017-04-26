@@ -11,10 +11,10 @@ Here are steps you can follow to update the files…
 
 1. Clone the [https://github.com/foodoasisla/foodoasis.la](https://github.com/foodoasisla/foodoasis.la) respository into a folder called `_site`.
 
-2. Move that `_site` folder into your local [https://github.com/foodoasisla/site](https://github.com/foodoasisla/site) repository, replacing the `_site` folder that’s already there. (That's right! You can put a repository inside of a repository. It’s like Inception!)
+2. Move that `_site` folder into your local [https://github.com/foodoasisla/site](https://github.com/foodoasisla/site) repository, replacing the `_site` folder that’s already there, if it exists. (That's right! You can put a repository inside of a repository. It’s like Inception!)
 
-3. Switch to the [https://github.com/foodoasisla/site](https://github.com/foodoasisla/site) repository and run `jekyll build` or `jekyll serve`.
+3. Switch to your local [https://github.com/foodoasisla/site](https://github.com/foodoasisla/site) repository and run `jekyll build` or `jekyll serve`.
 
-4. Switch to the [https://github.com/foodoasisla/foodoasis.la](https://github.com/foodoasisla/foodoasis.la) repository. Commit and push the new files.
+4. Switch to your local [https://github.com/foodoasisla/foodoasis.la](https://github.com/foodoasisla/foodoasis.la) repository. Commit and push the new files.
 
 Your changes should now be visible at: https://foodoasis.la
