@@ -6,7 +6,7 @@ var locations = [
 {
 	latitude  : "34.0326",
 	longitude : "-118.2926",
-	name      : "Adams - Vermont Farmers Market / St. Agnes Church Farmer's Market",
+	name      : "Adams - Vermont Farmers Market / Saint Agnes Church Farmer's Market",
 	address_1 : "1432 W Adams Blvd",
 	category  : "Farmers Market",
 	hours     : [{
