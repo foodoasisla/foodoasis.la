@@ -10726,9 +10726,9 @@ var locations = [
 	address_1 : "1835 S. Hope Street",
 	category  : "Food Pantry",
 	hours     : [{
-		day       : "Tue",
-		open      : "1100",
-		close     : "1230"
+		day       : "",
+		open      : "",
+		close     : ""
 	},{
 		day       : "Wed",
 		open      : "1100",

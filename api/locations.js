@@ -10726,9 +10726,9 @@ var locations = [
 	address_1 : "1835 S. Hope Street",
 	category  : "Food Pantry",
 	hours     : [{
-		day       : "Tue",
-		open      : "1100",
-		close     : "1230"
+		day       : "",
+		open      : "",
+		close     : ""
 	},{
 		day       : "Wed",
 		open      : "1100",
@@ -45350,6 +45350,125 @@ var locations = [
 		close     : "2359"
 	}],
 	uri       : "/supermarket/yummy-com-6020-seabluff-dr/"
+}
+
+
+,
+
+
+
+{
+	latitude  : "34.016602",
+	longitude : "-118.270964",
+	name      : "Cheli’s Produce",
+	address_1 : "170 East 35th Street",
+	category  : "Pop-up Market",
+	hours     : [{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
+	uri       : "/pop-up-market/cheli-s-produce/"
+},
+
+{
+	latitude  : "34.04828",
+	longitude : "-118.258943",
+	name      : "Everytable Downtown LA",
+	address_1 : "The Bloc",
+	category  : "Restaurant",
+	hours     : [{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
+	uri       : "/locations/everytable-downtown-la/"
+},
+
+{
+	latitude  : "34.016794",
+	longitude : "-118.49745",
+	name      : "Everytable Santa Monica",
+	address_1 : "Third Street Promenade",
+	category  : "Restaurant",
+	hours     : [{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
+	uri       : "/restaurant/everytable-santa-monica/"
 }
 
 
