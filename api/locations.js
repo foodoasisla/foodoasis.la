@@ -45583,6 +45583,44 @@ var locations = [
 		close     : ""
 	}],
 	uri       : "/locations/everytable-south-la/"
+},
+
+{
+	latitude  : "33.943006",
+	longitude : "-118.237758",
+	name      : "Locol, Watts",
+	address_1 : "1950 East 103rd Street",
+	category  : "Restaurant",
+	hours     : [{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
+	uri       : "/locations/locol-watts/"
 }
 
 
