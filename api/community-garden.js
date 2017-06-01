@@ -384,6 +384,44 @@ var locations = [
 },
 
 {
+	latitude  : "33.738497",
+	longitude : "-118.286374",
+	name      : "Feed & Be Fed",
+	address_1 : "429 West 6th Street",
+	category  : "Community Garden",
+	hours     : [{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
+	uri       : "/community-garden/feed-be-fed/"
+},
+
+{
 	latitude  : "34.09474231",
 	longitude : "-118.3117822",
 	name      : "Fountain Community Gardens",
