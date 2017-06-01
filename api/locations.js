@@ -45621,6 +45621,44 @@ var locations = [
 		close     : ""
 	}],
 	uri       : "/locations/locol-watts/"
+},
+
+{
+	latitude  : "34.063588",
+	longitude : "-118.236106",
+	name      : "Orange trees at Los Angeles State Historic Park",
+	address_1 : "1245 North Spring Street",
+	category  : "Orchard",
+	hours     : [{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
+	uri       : "/locations/orange-trees-at-los-angeles-state-historic-park/"
 }
 
 
