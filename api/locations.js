@@ -45392,7 +45392,83 @@ var locations = [
 		open      : "",
 		close     : ""
 	}],
-	uri       : "/pop-up-market/cheli-s-produce/"
+	uri       : "/locations/chelis-produce/"
+},
+
+{
+	latitude  : "34.032181",
+	longitude : "-118.368756",
+	name      : "Daily Organics",
+	address_1 : "5746 Adams Boulevard",
+	category  : "Pop-up Market",
+	hours     : [{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
+	uri       : "/locations/daily-organics/"
+},
+
+{
+	latitude  : "34.0066",
+	longitude : "-118.3691",
+	name      : "Everytable Baldwin Hills",
+	address_1 : "Baldwin Hills Crenshaw Plaza",
+	category  : "Restaurant",
+	hours     : [{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
+	uri       : "/locations/everytable-baldwin-hills/"
 },
 
 {
@@ -45468,7 +45544,45 @@ var locations = [
 		open      : "",
 		close     : ""
 	}],
-	uri       : "/restaurant/everytable-santa-monica/"
+	uri       : "/locations/everytable-santa-monica/"
+},
+
+{
+	latitude  : "34.035012",
+	longitude : "-118.283582",
+	name      : "Everytable South LA",
+	address_1 : "1101 West 23rd Street",
+	category  : "Restaurant",
+	hours     : [{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
+	uri       : "/locations/everytable-south-la/"
 }
 
 
