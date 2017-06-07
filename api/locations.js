@@ -45398,8 +45398,8 @@ var locations = [
 {
 	latitude  : "34.587285",
 	longitude : "-118.115534",
-	name      : "AVBGC, Hammack Activity Center",
-	address_1 : "815 E. Ave Q-6",
+	name      : "Boys & Girls Clubs of the Antelope Valley, Hammack Activity Center",
+	address_1 : "815 East Avenue Q-6",
 	category  : "Free Summer Lunch",
 	hours     : [{
 		day       : "",
@@ -45436,8 +45436,8 @@ var locations = [
 {
 	latitude  : "34.785485",
 	longitude : "-118.131102",
-	name      : "AVBGC, Whitney Mac Center",
-	address_1 : "45404 N. Division",
+	name      : "Boys & Girls Clubs of the Antelope Valley, Whitney Mac Center",
+	address_1 : "45404 North Division Street",
 	category  : "Free Summer Lunch",
 	hours     : [{
 		day       : "",
@@ -45476,7 +45476,7 @@ var locations = [
 	longitude : "-118.270964",
 	name      : "Cheli’s Produce",
 	address_1 : "170 East 35th Street",
-	category  : "Pop-up Market",
+	category  : "Pop Up Market",
 	hours     : [{
 		day       : "",
 		open      : "",
@@ -45514,7 +45514,7 @@ var locations = [
 	longitude : "-118.368756",
 	name      : "Daily Organics",
 	address_1 : "5746 Adams Boulevard",
-	category  : "Pop-up Market",
+	category  : "Pop Up Market",
 	hours     : [{
 		day       : "",
 		open      : "",
