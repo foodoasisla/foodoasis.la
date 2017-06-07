@@ -45358,6 +45358,120 @@ var locations = [
 
 
 {
+	latitude  : "34.025762",
+	longitude : "-118.256665",
+	name      : "All Peoples Christian Center",
+	address_1 : "822 E. 20th Street",
+	category  : "Free Summer Lunch",
+	hours     : [{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
+	uri       : "/locations/all-peoples-christian-center/"
+},
+
+{
+	latitude  : "34.587285",
+	longitude : "-118.115534",
+	name      : "AVBGC, Hammack Activity Center",
+	address_1 : "815 E. Ave Q-6",
+	category  : "Free Summer Lunch",
+	hours     : [{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
+	uri       : "/locations/avbgc-hammack-activity-center/"
+},
+
+{
+	latitude  : "34.785485",
+	longitude : "-118.131102",
+	name      : "AVBGC, Whitney Mac Center",
+	address_1 : "45404 N. Division",
+	category  : "Free Summer Lunch",
+	hours     : [{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
+	uri       : "/locations/avbgc-whitney-mac-center/"
+},
+
+{
 	latitude  : "34.016602",
 	longitude : "-118.270964",
 	name      : "Cheli’s Produce",
