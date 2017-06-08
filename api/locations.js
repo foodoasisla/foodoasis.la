@@ -45738,8 +45738,8 @@ var locations = [
 },
 
 {
-	latitude  : "34.063588",
-	longitude : "-118.236106",
+	latitude  : "34.067136",
+	longitude : "-118.23263",
 	name      : "Orange trees at Los Angeles State Historic Park",
 	address_1 : "1245 North Spring Street",
 	category  : "Orchard",
