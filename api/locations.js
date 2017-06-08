@@ -46115,6 +46115,44 @@ var locations = [
 		close     : ""
 	}],
 	uri       : "/locations/orange-trees-at-los-angeles-state-historic-park/"
+},
+
+{
+	latitude  : "34.004253",
+	longitude : "-118.330749",
+	name      : "SÜPRMARKT LA",
+	address_1 : "Leimert Park",
+	category  : "Pop Up Market",
+	hours     : [{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
+	uri       : "/locations/suprmarkt-la/"
 }
 
 
