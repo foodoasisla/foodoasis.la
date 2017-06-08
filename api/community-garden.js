@@ -42,6 +42,44 @@ var locations = [
 },
 
 {
+	latitude  : "34.019163",
+	longitude : "-117.674564",
+	name      : "Chino Community Garden & Park",
+	address_1 : "5976 Riverside Drive",
+	category  : "Community Garden",
+	hours     : [{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
+	uri       : "/community-garden/chino-community-garden-park/"
+},
+
+{
 	latitude  : "34.04619603",
 	longitude : "-118.3276274",
 	name      : "Crenshaw Community Garden",
@@ -726,6 +764,44 @@ var locations = [
 },
 
 {
+	latitude  : "34.051828",
+	longitude : "-117.63874",
+	name      : "Huerta del Valle Garden",
+	address_1 : "831 East Belmont Street",
+	category  : "Community Garden",
+	hours     : [{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
+	uri       : "/community-garden/huerta-del-valle-garden/"
+},
+
+{
 	latitude  : "34.09173305",
 	longitude : "-118.234039",
 	name      : "Jardin Del Rio",
@@ -1144,6 +1220,82 @@ var locations = [
 },
 
 {
+	latitude  : "34.061316",
+	longitude : "-117.748393",
+	name      : "Pomona Hope Center Street Garden",
+	address_1 : "192 East Center Street",
+	category  : "Community Garden",
+	hours     : [{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
+	uri       : "/community-garden/pomona-hope-center-street-garden/"
+},
+
+{
+	latitude  : "34.042568",
+	longitude : "-117.76359",
+	name      : "Pomona South Hills Gardens",
+	address_1 : "1170 Fremont Street",
+	category  : "Community Garden",
+	hours     : [{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
+	uri       : "/community-garden/pomona-south-hills-gardens/"
+},
+
+{
 	latitude  : "33.74327698",
 	longitude : "-118.2830172",
 	name      : "Rancho San Pedro Community Garden",
@@ -1220,6 +1372,44 @@ var locations = [
 },
 
 {
+	latitude  : "34.067391",
+	longitude : "-117.748945",
+	name      : "Saint Paul’s Episcopal Church",
+	address_1 : "242 East Alvarado Street",
+	category  : "Community Garden",
+	hours     : [{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
+	uri       : "/community-garden/saint-paul-s-episcopal-church/"
+},
+
+{
 	latitude  : "34.04122508",
 	longitude : "-118.2132207",
 	name      : "Salesian Boys & Girls Club Community Garden",
@@ -1293,6 +1483,44 @@ var locations = [
 		close     : ""
 	}],
 	uri       : "/community-garden/san-pedro-gardens/"
+},
+
+{
+	latitude  : "34.049172",
+	longitude : "-117.735817",
+	name      : "Sarvodaya Farm",
+	address_1 : "1196 South San Antonio Avenue",
+	category  : "Community Garden",
+	hours     : [{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
+	uri       : "/community-garden/sarvodaya-farm/"
 },
 
 {
@@ -1483,6 +1711,44 @@ var locations = [
 		close     : ""
 	}],
 	uri       : "/community-garden/the-learning-garden/"
+},
+
+{
+	latitude  : "34.051526",
+	longitude : "-117.758303",
+	name      : "Urban Mission Garden",
+	address_1 : "810 South White Avenue",
+	category  : "Community Garden",
+	hours     : [{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
+	uri       : "/community-garden/urban-mission-garden/"
 },
 
 {

@@ -7908,6 +7908,44 @@ var locations = [
 },
 
 {
+	latitude  : "34.107761",
+	longitude : "-117.744848",
+	name      : "New Life Pomona",
+	address_1 : "275 East Foothill Boulevard",
+	category  : "Food Pantry",
+	hours     : [{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
+	uri       : "/food-pantry/new-life-pomona/"
+},
+
+{
 	latitude  : "33.9569988",
 	longitude : "-118.3527848",
 	name      : "New Region For Christ",
@@ -12047,6 +12085,44 @@ var locations = [
 		close     : ""
 	}],
 	uri       : "/food-pantry/trinity-pantry-ministry/"
+},
+
+{
+	latitude  : "34.064039",
+	longitude : "-117.747657",
+	name      : "Trinity United Methodist Church",
+	address_1 : "676 North Gibbs Street",
+	category  : "Food Pantry",
+	hours     : [{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	},{
+		day       : "",
+		open      : "",
+		close     : ""
+	}],
+	uri       : "/food-pantry/trinity-united-methodist-church/"
 },
 
 {
