@@ -1488,7 +1488,7 @@ var locations = [
 {
 	latitude  : "34.049172",
 	longitude : "-117.735817",
-	name      : "Sarvodaya Farm",
+	name      : "Sarvodaya Farms",
 	address_1 : "1196 South San Antonio Avenue",
 	category  : "Community Garden",
 	hours     : [{
@@ -1520,7 +1520,7 @@ var locations = [
 		open      : "",
 		close     : ""
 	}],
-	uri       : "/community-garden/sarvodaya-farm/"
+	uri       : "/community-garden/sarvodaya-farms/"
 },
 
 {
