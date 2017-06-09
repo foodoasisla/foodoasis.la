@@ -12,36 +12,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90007",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "",
+	phone     : "(213)454-8533",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "1400",
 		close     : "1900"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/adams-vermont-st-agnes-church-farmers-market/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -53,36 +59,42 @@ var locations = [
 	city      : "Alhambra",
 	zip       : "91801",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "http://www.cityofalhambra.org/page/289/certified_farmers_market/",
+	phone     : "(626)570-5081",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sun",
 		open      : "830",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/alhambra-certified/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -94,36 +106,42 @@ var locations = [
 	city      : "Altadena",
 	zip       : "91001",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "http://altadenafarmersmarket.com/",
+	phone     : "(310)595-0272",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "1600",
 		close     : "1900"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/altadena/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -135,36 +153,42 @@ var locations = [
 	city      : "Lancaster",
 	zip       : "93534",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat",
 		open      : "900",
 		close     : "1200"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/antelope-valley-winery/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -176,36 +200,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90013",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "http://laraba.org/ad-farmers-market/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat",
 		open      : "1000",
 		close     : "1600"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/arts-district/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -217,36 +247,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90039",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "",
+	phone     : "(323)463-3171",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sun",
 		open      : "1000",
 		close     : "1400"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/atwater-village/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -258,36 +294,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90016",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "http://www.localharvest.org/baldwin-la-brea-farmers-market-M66674",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat",
 		open      : "900",
 		close     : "1430"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/baldwin-la-brea/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -299,36 +341,42 @@ var locations = [
 	city      : "Baldwin Park",
 	zip       : "91706",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri",
 		open      : "830",
 		close     : "1330"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/baldwin-park/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -340,36 +388,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90021",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "",
+	phone     : "(818)591-8161",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri",
 		open      : "1000",
 		close     : "1400"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/bank-of-america-plaza/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -381,36 +435,42 @@ var locations = [
 	city      : "Bellflower",
 	zip       : "90706",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "900",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/bellflower/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -422,36 +482,42 @@ var locations = [
 	city      : "Beverly Hills",
 	zip       : "90210",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "http://www.beverlyhills.org/exploring/farmersmarket/",
+	phone     : "(310)285-6830",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sun",
 		open      : "900",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/beverly-hills/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -463,36 +529,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90033",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "https://www.facebook.com/Boyle-Heights-Farmers-Market-308825742488228/",
+	phone     : "(323)331-2752",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri",
 		open      : "1500",
 		close     : "1900"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/boyle-heights/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -504,36 +576,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90049",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "https://www.facebook.com/Brentwoodfm",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sun",
 		open      : "900",
 		close     : "1430"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/brentwood-village/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -545,36 +623,42 @@ var locations = [
 	city      : "Burbank",
 	zip       : "91502",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "https://www.facebook.com/burbankfarmersmarket",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "1230"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/burbank/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -586,36 +670,42 @@ var locations = [
 	city      : "Northridge",
 	zip       : "91325",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "https://www.yelp.com/biz/california-state-university-northridge-farmers-market-northridge",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tue",
 		open      : "1000",
 		close     : "1400"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/cal-state-university-northridge-csun-cfm/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -627,36 +717,42 @@ var locations = [
 	city      : "Calabasas",
 	zip       : "91303",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "https://www.yelp.com/biz/old-town-calabasas-farmers-market-calabasas",
+	phone     : "(818)591-8161",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/calabasas-old-town/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -668,36 +764,42 @@ var locations = [
 	city      : "Canoga Park",
 	zip       : "91303",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "https://www.facebook.com/CanogaParkFarmersMarket",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat",
 		open      : "900",
 		close     : "1400"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/canoga-park/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -709,36 +811,42 @@ var locations = [
 	city      : "Los angeles  California",
 	zip       : "90011",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "http://seela.org/markets-central-avenue/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu",
 		open      : "1000",
 		close     : "1500"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/central-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -750,36 +858,42 @@ var locations = [
 	city      : "Century City",
 	zip       : "90037",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "https://www.facebook.com/CenturyCityFM",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu",
 		open      : "1000",
 		close     : "1400"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/century-city/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -791,36 +905,42 @@ var locations = [
 	city      : "Cerritos",
 	zip       : "90703",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "https://www.facebook.com/CerritosFarmersMarket/",
+	phone     : "(562)597-7920",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "1200"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/cerritos/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -832,36 +952,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90027",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "https://www.facebook.com/chlafarmersmarket/",
+	phone     : "(323)361-8505",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "1000",
 		close     : "1500"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/childrens-hospital-la-cfm/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -873,36 +999,42 @@ var locations = [
 	city      : "Claremont",
 	zip       : "91711",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "http://www.claremontforum.org/claremont-farmers-market/",
+	phone     : "(714)345-3087",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/claremont/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -914,36 +1046,42 @@ var locations = [
 	city      : "Compton",
 	zip       : "90220",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "http://nfmd.org/ca/compton/1010233/",
+	phone     : "(888)353-5554 Ext.9",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu",
 		open      : "1100",
 		close     : "1900"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/compton-blue-line/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -955,36 +1093,42 @@ var locations = [
 	city      : "Covina",
 	zip       : "",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "http://www.covinafarmersmarket.com/",
+	phone     : "(928)854-1105",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri",
 		open      : "1700",
 		close     : "2100"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/covina/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -996,36 +1140,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90008",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "http://www.baldwinhillscrenshawplaza.com/farmersmarket",
+	phone     : "(323)290-6636",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat",
 		open      : "1000",
 		close     : "1500"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/crenshaw-baldwin-hill/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1037,36 +1187,42 @@ var locations = [
 	city      : "Culver City",
 	zip       : "90232",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "http://www.culvercity.org/live/get-involved/farmers-market",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tue",
 		open      : "1400",
 		close     : "1900"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/culver-city/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1078,36 +1234,42 @@ var locations = [
 	city      : "Diamond Bar",
 	zip       : "91765",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "http://www.local-farmers-markets.com/market/345/diamond-bar/diamond-bar-farmers-market",
+	phone     : "(323)447-6848",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/diamond-bar/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1119,36 +1281,42 @@ var locations = [
 	city      : "Downey",
 	zip       : "90242",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "https://www.facebook.com/DowneyFarmersMarket/",
+	phone     : "(818)591-8161",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat",
 		open      : "900",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/downey/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1160,36 +1328,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90017",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "https://www.facebook.com/FigAt7thFM/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu",
 		open      : "1100",
 		close     : "1400"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/downtown-los-angeles-fig-at-7th/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1201,36 +1375,42 @@ var locations = [
 	city      : "DUARTE",
 	zip       : "91010",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu",
 		open      : "1000",
 		close     : "1400"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/duarte-city-of-hope/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1242,36 +1422,42 @@ var locations = [
 	city      : "Eagle Rock",
 	zip       : "90041",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "https://www.facebook.com/EagleRockFarmersMarket/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri",
 		open      : "1600",
 		close     : "2000"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/eagle-rock/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1283,36 +1469,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90027",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "https://www.facebook.com/EHFarmersMkt/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu",
 		open      : "1530",
 		close     : "1930"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/east-hollywood/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1324,36 +1516,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90022",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "https://www.facebook.com/eastlafarmersmarket/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat",
 		open      : "900",
 		close     : "1400"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/east-la-farmers-market/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1365,36 +1563,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90026",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "https://www.facebook.com/Echo-Park-Farmers-Market-313522200882/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri",
 		open      : "1500",
 		close     : "1930"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/echo-park/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1406,36 +1610,42 @@ var locations = [
 	city      : "El Segundo",
 	zip       : "90245",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "https://www.facebook.com/elsegundofarmersmarket/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu",
 		open      : "1500",
 		close     : "1900"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/el-segundo-plaza/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1447,36 +1657,42 @@ var locations = [
 	city      : "Van Nuys",
 	zip       : "91406",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "http://www.encinofarmersmarket.org/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/encino/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1488,36 +1704,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90047",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat",
 		open      : "630",
 		close     : "1200"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/gardena-hollypark/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1529,36 +1751,50 @@ var locations = [
 	city      : "Long Beach",
 	zip       : "90815",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "https://www.yelp.com/biz/green-acres-farmers-market-long-beach",
+	phone     : "(562)972-8897",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu",
 		open      : "1100",
 		close     : "1730"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "830",
 		close     : "1430"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/green-acres/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1570,36 +1806,42 @@ var locations = [
 	city      : "Hermosa Beach",
 	zip       : "90254",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "https://www.facebook.com/farmermarkHB",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "1100",
 		close     : "1600"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/hermosa-beach/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1611,36 +1853,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90013",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "https://www.facebook.com/HistoricFarmersMarket/",
+	phone     : "(310)455-0181",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sun",
 		open      : "900",
 		close     : "1400"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/historic-downtown-farmers-market-cfm/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1652,36 +1900,42 @@ var locations = [
 	city      : "Hollywood",
 	zip       : "90028",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "http://www.hollywoodfarmersmarket.net/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/hollywood/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1693,36 +1947,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90230",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "https://www.facebook.com/HowardHughesFarmersMarket/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu",
 		open      : "1000",
 		close     : "1400"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/howard-hughes/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1734,36 +1994,42 @@ var locations = [
 	city      : "Huntington Park",
 	zip       : "90255",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "http://www.goodveg.org/hafm/index.php/markets/wednesday-huntington-park",
+	phone     : "(866)466-3834",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "930",
 		close     : "1330"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/huntington-park/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1775,36 +2041,50 @@ var locations = [
 	city      : "Inglewood",
 	zip       : "90302",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "https://www.facebook.com/inglewoodcertifiedfarmersmarket/",
+	phone     : "(323)952-7363",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu1st",
 		open      : "1500",
 		close     : "1900"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu3rd",
 		open      : "1500",
 		close     : "1900"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/inglewood/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1816,36 +2096,42 @@ var locations = [
 	city      : "Walnut",
 	zip       : "",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "https://www.yelp.com/biz/the-jack-newes-farmers-market-walnut",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "1400"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/jack-newes/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1857,36 +2143,42 @@ var locations = [
 	city      : "Baldwin Park",
 	zip       : "91706",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "https://thrive.kaiserpermanente.org/care-near-you/southern-california/baldwin-park/shc_calendar_event/farmers-market-6/",
+	phone     : "(626)851-5223",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri",
 		open      : "830",
 		close     : "1330"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/kaiser-baldwin-park/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1898,36 +2190,42 @@ var locations = [
 	city      : "Downey",
 	zip       : "90242",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu",
 		open      : "900",
 		close     : "1400"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/kaiser-downey/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1939,36 +2237,42 @@ var locations = [
 	city      : "Panorama City",
 	zip       : "91402",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "https://thrive.kaiserpermanente.org/care-near-you/southern-california/panorama-city/shc_calendar_event/kaiser-permanente-farmers-market/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "900",
 		close     : "1330"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/kaiser-medical-center-panorama-city-fm/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1980,36 +2284,42 @@ var locations = [
 	city      : "Woodland Hills",
 	zip       : "91367",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "https://thrive.kaiserpermanente.org/care-near-you/southern-california/woodland-hills/shc_calendar_event/farmers-market/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu",
 		open      : "900",
 		close     : "1500"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/kaiser-medical-center-woodland-hills/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2021,36 +2331,42 @@ var locations = [
 	city      : "Harbor City",
 	zip       : "90710",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "https://thrive.kaiserpermanente.org/care-near-you/southern-california/south-bay/shc_calendar_event/farmers-market-3/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "900",
 		close     : "1500"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/kaiser-south-bay/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2062,36 +2378,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90034",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "https://www.facebook.com/kaiserwestlafarmersmarket?fref=ts",
+	phone     : "(424)287-2280",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "900",
 		close     : "1400"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/kaiser-west-la/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2103,36 +2425,42 @@ var locations = [
 	city      : "Hollywood",
 	zip       : "90028",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "https://www.facebook.com/pg/CentralAvenueFarmersMarket/about/?ref=page_internal",
+	phone     : "(323)463-3171",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu",
 		open      : "1000",
 		close     : "1500"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/l-a-central-avenue/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2144,36 +2472,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90012",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "https://www.yelp.com/biz/farmers-market-at-los-angeles-city-hall-los-angeles",
+	phone     : "(323)660-8660",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu",
 		open      : "1000",
 		close     : "1400"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/l-a-city-hall-little-tokyo-cfm/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2185,36 +2519,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90042",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "https://www.facebook.com/LarchmontVillageFM/",
+	phone     : "(818)591-8161",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sun",
 		open      : "1000",
 		close     : "1400"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/l-a-larchmont-village/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2226,36 +2566,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90069",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "",
+	phone     : "(818)591-8161",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sun",
 		open      : "1000",
 		close     : "1400"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/l-a-melrose-place/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2267,36 +2613,50 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90026",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "",
+	phone     : "(213)484-4002",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tue",
 		open      : "1400",
 		close     : "1930"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "1330"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/l-a-silverlake/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2308,36 +2668,42 @@ var locations = [
 	city      : "La Canada Flintridge",
 	zip       : "91011",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "http://www.lacanadaflintridge.com/events-page/farmers-market.html",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat",
 		open      : "900",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/la-canada-flintridge/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2349,36 +2715,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90035",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "http://www.lacienegafarmersmarket.com/",
+	phone     : "(562) 495-1764",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu",
 		open      : "1400",
 		close     : "1930"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/la-cienega-cfm/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2390,36 +2762,42 @@ var locations = [
 	city      : "La Puente",
 	zip       : "91744",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "http://www.lapuentelive.com/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri",
 		open      : "1800",
 		close     : "2200"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/la-puente-live/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2431,36 +2809,42 @@ var locations = [
 	city      : "Lancaster",
 	zip       : "93534",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "http://www.theblvdlancaster.com/events.html?id=535#.WH7qI7byvdQ",
+	phone     : "(818)591-8161",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu",
 		open      : "1500",
 		close     : "1700"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/lancaster-blvd-farmers-market/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2472,36 +2856,42 @@ var locations = [
 	city      : "Lancaster",
 	zip       : "93534",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "http://www.cityoflancasterca.org/about-us/departments-services/parks-recreation-arts/special-events/blvd-farmers-market",
+	phone     : "(661)723-6077",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu",
 		open      : "1600",
 		close     : "2100"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/lancaster/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2513,36 +2903,42 @@ var locations = [
 	city      : "Lawndale",
 	zip       : "90260",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "http://www.lawndalecity.org/HTML/FarmersMarket.htm",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "1400",
 		close     : "1900"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/lawndale/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2554,36 +2950,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90031",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "https://www.facebook.com/LincolnHeightsCFM/",
+	phone     : "(323)437-0203",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "1500",
 		close     : "2000"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/lincoln-heights/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2595,36 +2997,42 @@ var locations = [
 	city      : "Long Beach",
 	zip       : "90803",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "http://www.localharvestfarmersmarkets.com/marine-stadium",
+	phone     : "(562)449-9299",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "1500",
 		close     : "1900"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/local-harvest/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2636,36 +3044,42 @@ var locations = [
 	city      : "Long Beach",
 	zip       : "90805",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "https://www.goodveg.org/friday-long-beach-downtown",
+	phone     : "(866)466-3834",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri",
 		open      : "1000",
 		close     : "1400"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/long-beach-downtown-cfm/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2677,36 +3091,42 @@ var locations = [
 	city      : "Long Beach",
 	zip       : "90803",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "http://lbfresh.org/eaters/find-local-food/farmers-markets/",
+	phone     : "(562)449-9299",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sun",
 		open      : "900",
 		close     : "1400"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/long-beach-southeast/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2718,36 +3138,42 @@ var locations = [
 	city      : "Long Beach",
 	zip       : "90807",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "http://lbfresh.org/eaters/find-local-food/farmers-markets/",
+	phone     : "(562)449-9299",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu",
 		open      : "1500",
 		close     : "1830"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/long-beach-uptown/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2759,36 +3185,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90027",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "https://www.yelp.com/biz/los-feliz-village-farmers-market-los-angeles",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sun",
 		open      : "900",
 		close     : "1400"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/los-feliz-village-cfm/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2800,36 +3232,42 @@ var locations = [
 	city      : "Malibu",
 	zip       : "90265",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "https://www.facebook.com/pages/Malibu-Farmers-Market/112872675433982",
+	phone     : "(310)428-4262",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sun",
 		open      : "1000",
 		close     : "1500"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/malibu/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2841,36 +3279,42 @@ var locations = [
 	city      : "Manhattan Beach",
 	zip       : "90266",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "http://downtownmanhattanbeach.com/manhattan-beach-farmers-market/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tue",
 		open      : "1100",
 		close     : "1600"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/manhattan-beach/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2882,36 +3326,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90066",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "http://www.marvistafarmersmarket.org/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sun",
 		open      : "900",
 		close     : "1400"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/mar-vista/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2923,36 +3373,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90036",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "",
+	phone     : "(818)591-8161",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "1100",
 		close     : "1500"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/miracle-mile/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2964,36 +3420,42 @@ var locations = [
 	city      : "Monrovia",
 	zip       : "91016",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "http://www.farmersmarketonline.com/fm/MonroviaFarmersMarket.html",
+	phone     : "(626)932-5501",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri",
 		open      : "1730",
 		close     : "2100"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/monrovia-friday/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3005,36 +3467,42 @@ var locations = [
 	city      : "Monterey Park",
 	zip       : "91754",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "http://www.montereypark.ca.gov/686/Farmers-Market",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri",
 		open      : "1600",
 		close     : "2000"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/monterey-park/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3046,36 +3514,42 @@ var locations = [
 	city      : "Santa Barbara",
 	zip       : "93101",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "",
+	phone     : "(805)637-6635",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "1000",
 		close     : "1500"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/montrose-harvest-market/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3087,36 +3561,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90034",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "http://www.motoravenuemarket.com/",
+	phone     : "(310)202-9002",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tue",
 		open      : "1100",
 		close     : "1600"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/motor-avenue/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3128,36 +3608,42 @@ var locations = [
 	city      : "Santa Clarita",
 	zip       : "91321",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "http://oldtownnewhall.com/old-town-newhall-farmers-market/",
+	phone     : "(661)250-3787",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat",
 		open      : "830",
 		close     : "1230"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/newhall/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3169,36 +3655,42 @@ var locations = [
 	city      : "Northridge",
 	zip       : "91324",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "",
+	phone     : "(805)643-6458",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "1700",
 		close     : "2100"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/northridge-and-family-festival/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3210,36 +3702,42 @@ var locations = [
 	city      : "Northridge",
 	zip       : "91330",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "",
+	phone     : "(818)677-1200",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tue",
 		open      : "1000",
 		close     : "1400"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/northridge-university/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3251,36 +3749,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90042",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "http://oldla.org/farmers-market/",
+	phone     : "(323)255-5030",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tue",
 		open      : "1500",
 		close     : "1900"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/old-highland-park/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3292,36 +3796,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90042",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "",
+	phone     : "(323)449-4100",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tue",
 		open      : "1500",
 		close     : "2000"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/old-l-a-/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3333,36 +3843,42 @@ var locations = [
 	city      : "Rolling Hills Estates",
 	zip       : "90274",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "",
+	phone     : "(310)328-8076",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/palos-verdes/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3374,36 +3890,42 @@ var locations = [
 	city      : "Paramount",
 	zip       : "90723",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "",
+	phone     : "(562)220-2224",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri",
 		open      : "930",
 		close     : "1330"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/paramount/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3415,36 +3937,42 @@ var locations = [
 	city      : "Pasadena",
 	zip       : "91107",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "http://www.pasadenafarmersmarket.org/pasadena_farmers_market_victory_park.html",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat",
 		open      : "830",
 		close     : "1230"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/pasadena-victory-park/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3456,36 +3984,42 @@ var locations = [
 	city      : "Pasadena",
 	zip       : "91101",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "http://www.pasadenafarmersmarket.org/pasadena_farmers_market_villa_parke.html",
+	phone     : "(626)449-0179",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tue",
 		open      : "830",
 		close     : "1230"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/pasadena-villa-parke/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3497,36 +4031,42 @@ var locations = [
 	city      : "Playa Vista",
 	zip       : "90094",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "http://www.farmermark.com/playavista/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat",
 		open      : "900",
 		close     : "1400"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/playa-vista/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3538,36 +4078,42 @@ var locations = [
 	city      : "Pomona",
 	zip       : "91767",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat",
 		open      : "730",
 		close     : "1130"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/pomona-valley-cfm/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3579,36 +4125,42 @@ var locations = [
 	city      : "Redondo Beach",
 	zip       : "90277",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "",
+	phone     : "(310)372-1171",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/redondo-beach/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3620,36 +4172,42 @@ var locations = [
 	city      : "Redondo Beach",
 	zip       : "90277",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/riviera-village/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3661,36 +4219,42 @@ var locations = [
 	city      : "Rosemead",
 	zip       : "91770",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "http://www.cityofrosemead.org/index.aspx?recordid=1528&page=13",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "1600",
 		close     : "2000"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/rosemead/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3702,36 +4266,42 @@ var locations = [
 	city      : "San Pedro",
 	zip       : "90731",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "",
+	phone     : "(310)832-2183",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri",
 		open      : "900",
 		close     : "1400"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/san-pedro/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3743,36 +4313,42 @@ var locations = [
 	city      : "Valencia",
 	zip       : "91355",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "http://visitsantaclarita.com/dining/farmers-markets/santa-clarita-farmers-market/",
+	phone     : "(805)529-6266",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sun",
 		open      : "830",
 		close     : "1200"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/santa-clarita/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3784,36 +4360,42 @@ var locations = [
 	city      : "Santa Fe Springs",
 	zip       : "90670",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "",
+	phone     : "(562)863-4896",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "1700",
 		close     : "2100"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/santa-fe-springs/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3825,36 +4407,42 @@ var locations = [
 	city      : "Santa Monica",
 	zip       : "90401",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "http://www.smgov.net/portals/farmersmarket/",
+	phone     : "(310)458-8712",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat",
 		open      : "830",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/santa-monica-downtown/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3866,36 +4454,42 @@ var locations = [
 	city      : "Santa Monica",
 	zip       : "90405",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "http://www.smgov.net/portals/farmersmarket/",
+	phone     : "(310)458-8712",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/santa-monica-saturday-virginia-avenue-park/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3907,36 +4501,42 @@ var locations = [
 	city      : "Santa Monica",
 	zip       : "90405",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "http://www.smgov.net/portals/farmersmarket/",
+	phone     : "(310)458-8712",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sun",
 		open      : "830",
 		close     : "1330"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/santa-monica-sunday-main-street/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3948,36 +4548,42 @@ var locations = [
 	city      : "Temple City",
 	zip       : "91780",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "http://www.ci.temple-city.ca.us/287/Farmers-Market",
+	phone     : "(626)422-1419",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sun",
 		open      : "830",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/temple-city/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3989,36 +4595,42 @@ var locations = [
 	city      : "Woodland HIlls",
 	zip       : "91367",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "http://www.ci.temple-city.ca.us/287/Farmers-Market",
+	phone     : "(818)591-8161",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sun",
 		open      : "900",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/the-village/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4030,36 +4642,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90014",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "http://www.laflowerdistrict.com/farmers-market",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat",
 		open      : "900",
 		close     : "1400"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/the-wall-food-flowers-/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4071,36 +4689,42 @@ var locations = [
 	city      : "Toluca Lake",
 	zip       : "91610",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "http://dola.com/events/weekly/sun/toluca-lake-farmers-market",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sun",
 		open      : "1000",
 		close     : "1500"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/toluca-lake/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4112,36 +4736,42 @@ var locations = [
 	city      : "Topanga",
 	zip       : "90503",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "http://www.sfma.net/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri",
 		open      : "900",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/topanga-canyon-cfm/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4153,36 +4783,42 @@ var locations = [
 	city      : "Torrance",
 	zip       : "90503",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "https://www.hlinc.co/little-company-of-mary-torrance",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri",
 		open      : "1000",
 		close     : "1500"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/torrance-providence/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4194,36 +4830,42 @@ var locations = [
 	city      : "Torrance",
 	zip       : "90501",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "http://www.torranceca.gov/6620.htm",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/torrance-tuesday-and-saturday-2200-crenshaw-blvd-torrance-ca-90501/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4235,36 +4877,42 @@ var locations = [
 	city      : "Whittier",
 	zip       : "90602",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "http://whittieruptown.org/fridaymarket/",
+	phone     : "(562)696-2662",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/uptown-whittier/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4276,36 +4924,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90007",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "http://hospitality.usc.edu/",
+	phone     : "(213)821-5707",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "1100",
 		close     : "1500"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/usc-hospitality/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4317,36 +4971,42 @@ var locations = [
 	city      : "valencia",
 	zip       : "91355",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu",
 		open      : "1600",
 		close     : "2000"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/valencia/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4358,36 +5018,42 @@ var locations = [
 	city      : "Venice",
 	zip       : "90291",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "1100"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/venice/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4399,36 +5065,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90002",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "http://seela.org/venue/watts-healthy-farmers-market-2/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat",
 		open      : "1000",
 		close     : "1400"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/watts-healthy/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4440,36 +5112,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90016",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "https://www.wellingtonsquarefarmersmarket.com/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sun",
 		open      : "900",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/wellington-square/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4481,36 +5159,42 @@ var locations = [
 	city      : "West Covina",
 	zip       : "91790",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "http://westcovinafarmersmarket.org/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/west-covina/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4522,36 +5206,42 @@ var locations = [
 	city      : "West Hollywood",
 	zip       : "90046",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "http://www.weho.org/residents/recreation-services/helen-albert-certified-farmers-market",
+	phone     : "(323)845-6535",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "900",
 		close     : "1400"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/west-hollywood/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4563,36 +5253,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90025",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sun",
 		open      : "900",
 		close     : "1400"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/west-los-angeles/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4604,36 +5300,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90045",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "830",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/westchester/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4645,36 +5347,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90024",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu",
 		open      : "1200",
 		close     : "1800"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/westwood-village/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4686,36 +5394,42 @@ var locations = [
 	city      : "Whittier",
 	zip       : "90605",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "http://www.whittierfarmersmarket.org/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat",
 		open      : "900",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/whittier-host-lions/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4727,36 +5441,42 @@ var locations = [
 	city      : "Wilminton",
 	zip       : "90744",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu",
 		open      : "900",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/wilmington/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4768,36 +5488,42 @@ var locations = [
 	city      : "Calabasas",
 	zip       : "91302",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "",
+	phone     : "(818)591-8161",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/woodland-hills/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4809,36 +5535,42 @@ var locations = [
 	city      : "Sherman Oaks",
 	zip       : "91423",
 	category  : "Farmers Market",
-	hours     : [{
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tue",
 		open      : "1500",
 		close     : "1900"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/farmers-market/woodman-avenue/"
+	
+
+	, content   : " "
+	
 }
 
 

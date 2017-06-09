@@ -12,36 +12,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90011",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "https//allpeoplescc.org/",
+	phone     : "(213)747-6357",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri",
 		open      : "1200",
 		close     : "1700"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/all-peoples-christian-center/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -53,36 +59,50 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90032",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)675-4873",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri2nd",
 		open      : "1500",
 		close     : "1700"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri4th",
 		open      : "1500",
 		close     : "1700"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/all-saints-conference/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -94,36 +114,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90042",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "http//www.allsaintsla.net/",
+	phone     : "(323)255-6806",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat4th",
 		open      : "0830",
 		close     : "0900"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/all-saints-episcopal-church-highland-park/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -135,36 +161,50 @@ var locations = [
 	city      : "Altadena",
 	zip       : "91001",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "http//altadenasdafamily.org/",
+	phone     : "(626)794-3953",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tue2nd",
 		open      : "0900",
 		close     : "1200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue4th",
 		open      : "0900",
 		close     : "1200"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/altadena-s-d-a-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -176,36 +216,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90019",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(818)414-7737",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu",
 		open      : "0930",
 		close     : "1030"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/ananda-marga-of-l-a-inc-/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -217,36 +263,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90044",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)754-2978",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "SatLast",
 		open      : "0900",
 		close     : "1100"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/ascensions/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -258,36 +310,42 @@ var locations = [
 	city      : "Baldwin Park",
 	zip       : "91706",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(626)338-4828",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "1830",
 		close     : "1930"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/baldwin-park-bilingual-s-d-a-/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -299,36 +357,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90059",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)757-9188",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu3rd",
 		open      : "1000",
 		close     : "1100"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/belvue-presbyterian-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -340,36 +404,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90018",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)735-0228",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu3rd",
 		open      : "0900",
 		close     : "1100"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/berean-s-d-a-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -381,36 +451,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90047",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)750-3240",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "0730",
 		close     : "1130"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/bethel-ame-church-richard-allen-center/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -422,36 +498,50 @@ var locations = [
 	city      : "Pomona",
 	zip       : "91767",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(909)630-5883",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sun1st",
 		open      : "1100",
 		close     : "1300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun3rd",
 		open      : "1100",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/bethel-s-d-a-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -463,36 +553,50 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90002",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)585-5939",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat2nd",
 		open      : "0800",
 		close     : "1000"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat4th",
 		open      : "0800",
 		close     : "1000"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/bethel-unspeakable-joy-christian-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -504,36 +608,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90043",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)299-2591",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat4th",
 		open      : "1300",
 		close     : "1500"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/bethesda-temple-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -545,36 +655,42 @@ var locations = [
 	city      : "Hollywood",
 	zip       : "90028",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)874-5577",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat",
 		open      : "0900",
 		close     : "1200"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/blessed-sacrament-hope-net/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -586,36 +702,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90061",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)752-3048",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "1500",
 		close     : "1600"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/blood-of-jesus-prayer-and-deliverance-ministry/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -627,36 +749,50 @@ var locations = [
 	city      : "Long Beach",
 	zip       : "90805",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "http//www.longbeachbreadoflife.com",
+	phone     : "(562)428-5422",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed2nd",
 		open      : "0830",
 		close     : "1200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed4th",
 		open      : "0830",
 		close     : "1200"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/bread-of-life-community-outreach/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -668,36 +804,50 @@ var locations = [
 	city      : "Inglewood",
 	zip       : "90301",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "http//www.breathla.org",
+	phone     : "(310)837-8782",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu1st",
 		open      : "1200",
 		close     : "1500"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu3rd",
 		open      : "1200",
 		close     : "1500"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/breath-of-life-s-d-a-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -709,36 +859,74 @@ var locations = [
 	city      : "Burbank",
 	zip       : "91506",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "http//www.burbanktemporaryaidcenter.org",
+	phone     : "(818)848-2822",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0900",
 		close     : "1700"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0900",
 		close     : "1700"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0900",
 		close     : "1700"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0900",
 		close     : "1700"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0900",
 		close     : "1700"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/burbank-temporary-aid-center/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -750,36 +938,42 @@ var locations = [
 	city      : "Hawthorne",
 	zip       : "90250",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "http//www.calvaryhawthorne.org/Calendar.html",
+	phone     : "(310)676-1144",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat1st",
 		open      : "1200",
 		close     : "1500"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/calvary-presbyterian-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -791,36 +985,50 @@ var locations = [
 	city      : "Long Beach",
 	zip       : "90813",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "http//catholiccharitiesla.org/where-we-are/program-directory-by-city/",
+	phone     : "(562)591-1641",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tue",
 		open      : "0930",
 		close     : "1500"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0930",
 		close     : "1500"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/cathloic-charities-of-los-angeles-inc-/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -832,36 +1040,74 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90033",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "http//catholiccharitiesla.org/where-we-are/program-directory-by-city/",
+	phone     : "((21)) 2-3514",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0900",
 		close     : "1300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0900",
 		close     : "1300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0900",
 		close     : "1300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0900",
 		close     : "1300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0900",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/catholic-charities-brownson-house/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -873,36 +1119,74 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90029",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "http//catholiccharitiesla.org/where-we-are/program-directory-by-city/",
+	phone     : "(213)251-3597",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "1000",
 		close     : "1500"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "1000",
 		close     : "1500"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "1000",
 		close     : "1500"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "1000",
 		close     : "1500"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "1000",
 		close     : "1500"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/catholic-charities-of-l-a-/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -914,36 +1198,66 @@ var locations = [
 	city      : "Pico Rivera",
 	zip       : "90660",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "http//catholiccharitiesla.org/where-we-are/program-directory-by-city/",
+	phone     : "(562)949-0937",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0900",
 		close     : "1200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0900",
 		close     : "1200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0900",
 		close     : "1200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0900",
 		close     : "1200"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/catholic-charities-of-los-angeles-inc-/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -955,36 +1269,74 @@ var locations = [
 	city      : "El Monte",
 	zip       : "91731",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(626)575-7652",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0900",
 		close     : "1300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0900",
 		close     : "1300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0900",
 		close     : "1300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0900",
 		close     : "1300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0900",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/catholic-charities-region-2/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -996,36 +1348,74 @@ var locations = [
 	city      : "Whittier",
 	zip       : "90605",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(562)556-4449",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "1500",
 		close     : "1600"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "1500",
 		close     : "1600"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "1500",
 		close     : "1600"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "1500",
 		close     : "1600"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "1500",
 		close     : "1600"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/catholic-rainbow-outreach/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1037,36 +1427,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90003",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)752-4400",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat",
 		open      : "1100",
 		close     : "1330"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/ccc-ebenezery-parish/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1078,36 +1474,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90041",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)255-7718",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tue3rd",
 		open      : "0900",
 		close     : "1200"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/central-filipino-s-d-a-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1119,36 +1521,42 @@ var locations = [
 	city      : "Norwalk",
 	zip       : "90650",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(562)237-3114",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat3rd",
 		open      : "1130",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/centro-cristiano-las-buenas-nuevas/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1160,36 +1568,42 @@ var locations = [
 	city      : "Bellflower",
 	zip       : "90706",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(562)481-1642",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "1830",
 		close     : "2030"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/centro-cristiano-manantial-de-vida/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1201,36 +1615,42 @@ var locations = [
 	city      : "North Hills",
 	zip       : "91343",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(818)892-2838",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "1000",
 		close     : "1200"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/centro-de-vida-international-church-movement/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1242,36 +1662,50 @@ var locations = [
 	city      : "Compton",
 	zip       : "90220",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(310)632-7337",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat2nd",
 		open      : "2030",
 		close     : "2130"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "SatLast",
 		open      : "2030",
 		close     : "2130"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/centro-palabra-de-fe/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1283,36 +1717,42 @@ var locations = [
 	city      : "Inglewood",
 	zip       : "90302",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(310)673-2584",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat3rd",
 		open      : "0900",
 		close     : "1200"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/chapel-of-peace-lutheran-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1324,36 +1764,58 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90020",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(213)219-3228",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sun1st",
 		open      : "1300",
 		close     : "1330"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun2nd",
 		open      : "1300",
 		close     : "1330"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun3rd",
 		open      : "1300",
 		close     : "1330"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/charismatic-ecumencial-ministries-international/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1365,36 +1827,42 @@ var locations = [
 	city      : "Hollywood",
 	zip       : "90038",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)953-4000",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat3rd",
 		open      : "1100",
 		close     : "1200"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/children-of-the-shepherd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1406,36 +1874,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90027",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)361-5981",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "1000",
 		close     : "1100"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/childrens-hospital-los-angeles/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1447,36 +1921,50 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90026",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)483-3035",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sun",
 		open      : "0900",
 		close     : "1200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0900",
 		close     : "1200"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/chinese-community-service-center/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1488,36 +1976,42 @@ var locations = [
 	city      : "Inglewood",
 	zip       : "90302",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(310)676-1499",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat3rd",
 		open      : "1000",
 		close     : "1230"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/christ-centered-ministries-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1529,36 +2023,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90037",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)732-1394",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "1100",
 		close     : "1130"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/christ-gospel-prayer-center/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1570,36 +2070,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90008",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)295-4139",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri4th",
 		open      : "1000",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/christ-the-good-shepherd-episcopal/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1611,36 +2117,66 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90019",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)936-9481",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri1st",
 		open      : "1000",
 		close     : "1300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri3rd",
 		open      : "1000",
 		close     : "1300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat1st",
 		open      : "1000",
 		close     : "1300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat3rd",
 		open      : "1000",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/christian-association-for-social-services/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1652,36 +2188,50 @@ var locations = [
 	city      : "Baldwin Park",
 	zip       : "91706",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(626)968-6716",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sun",
 		open      : "0900",
 		close     : "1200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "1900",
 		close     : "2100"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/church-of-god/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1693,36 +2243,50 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90031",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)227-9931",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri2nd",
 		open      : "1030",
 		close     : "1130"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri4th",
 		open      : "1030",
 		close     : "1130"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/church-of-the-epiphany/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1734,36 +2298,42 @@ var locations = [
 	city      : "Rosemead",
 	zip       : "91770",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(562)695-0019",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat3rd",
 		open      : "1000",
 		close     : "1200"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/church-of-the-nazarene-rosemead/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1775,36 +2345,82 @@ var locations = [
 	city      : "Baldwin Park",
 	zip       : "91706",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(626)960-9585",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0900",
 		close     : "1300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "2100",
 		close     : "1300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0900",
 		close     : "1300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "2100",
 		close     : "1300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0900",
 		close     : "1300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "1300",
 		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	],
 	uri       : "/food-pantry/church-of-the-redeemer/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1816,36 +2432,50 @@ var locations = [
 	city      : "Van Nuys",
 	zip       : "91411",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(818)284-1331",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tue",
 		open      : "0930",
 		close     : "1200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0930",
 		close     : "1200"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/church-of-the-valley/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1857,36 +2487,42 @@ var locations = [
 	city      : "Commerce",
 	zip       : "90040",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)887-4460",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu3rd",
 		open      : "1030",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/city-of-commerce-community-center/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1898,36 +2534,42 @@ var locations = [
 	city      : "Maywood",
 	zip       : "90270",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)562-5755",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu4th",
 		open      : "1300",
 		close     : "1500"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/city-of-maywood/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1939,36 +2581,74 @@ var locations = [
 	city      : "Norwalk",
 	zip       : "90650",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(562)929-5544",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0800",
 		close     : "1730"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0800",
 		close     : "1730"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0800",
 		close     : "1730"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0800",
 		close     : "1730"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0800",
 		close     : "1730"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/city-of-norwark-department-of-social-services/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1980,36 +2660,50 @@ var locations = [
 	city      : "Carson",
 	zip       : "90746",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(310)669-8300",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sun2nd",
 		open      : "1230",
 		close     : "1400"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun4th",
 		open      : "1230",
 		close     : "1400"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/city-of-truth-ministries/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2021,36 +2715,42 @@ var locations = [
 	city      : "Torrance",
 	zip       : "90505",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "http//www.coastchristian.org/",
+	phone     : "(310)373-8573",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "1600",
 		close     : "1800"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/coast-christian-fellowship/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2062,36 +2762,42 @@ var locations = [
 	city      : "Chatsworth",
 	zip       : "91311",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "http//chatsworthcongregational.church/",
+	phone     : "(818)882-3474",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat",
 		open      : "1600",
 		close     : "1700"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/congregational-church-of-chatsworth/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2103,36 +2809,42 @@ var locations = [
 	city      : "Pacoima",
 	zip       : "91331",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(818)993-2988",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu",
 		open      : "0900",
 		close     : "1000"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/cornerstone-christian-ministry/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2144,36 +2856,50 @@ var locations = [
 	city      : "Pico Rivera",
 	zip       : "90660",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(626)622-9202",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu2nd",
 		open      : "1800",
 		close     : "1930"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu4th",
 		open      : "1800",
 		close     : "1930"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/corys-kitchen-calvary-chapel-pico-rivera/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2185,36 +2911,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90032",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)972-1330",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "1630",
 		close     : "1830"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/corys-kitchen-el-sereno/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2226,36 +2958,42 @@ var locations = [
 	city      : "Walnut",
 	zip       : "91789",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(626)825-9441",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "1600",
 		close     : "1800"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/corys-kitchen-faith-center-ministries/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2267,36 +3005,50 @@ var locations = [
 	city      : "Duarte",
 	zip       : "91010",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(626)960-4639",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sun1st",
 		open      : "1700",
 		close     : "1900"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun3rd",
 		open      : "1700",
 		close     : "1900"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/corys-kitchen-iglesia-torre-de-alabanza/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2308,36 +3060,42 @@ var locations = [
 	city      : "Baldwin Park",
 	zip       : "91706",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(626)305-0392",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri",
 		open      : "1700",
 		close     : "1900"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/corys-kitchen-new-beginnings/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2349,36 +3107,42 @@ var locations = [
 	city      : "Irwindale",
 	zip       : "91706",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "http//www.coryskitchen.org/",
+	phone     : "(626)305-0392",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tues",
 		open      : "1800",
 		close     : "2000"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/corys-kitchen/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2390,36 +3154,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90011",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)931-5468",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu4th",
 		open      : "1200",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/cover-the-homeless-ministry/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2431,36 +3201,42 @@ var locations = [
 	city      : "Torrance",
 	zip       : "90504",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(310)323-2115",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed2nd",
 		open      : "0900",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/crenshaw-baptist-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2472,36 +3248,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90008",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)292-0141",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat3rd",
 		open      : "1000",
 		close     : "1200"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/crenshaw-united-methodist-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2513,36 +3295,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90026",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)681-3569",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri",
 		open      : "1530",
 		close     : "1700"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/crusaders-for-christ-baptist-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2554,36 +3342,50 @@ var locations = [
 	city      : "Pomona",
 	zip       : "91767",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(909)621-5369",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu2nd",
 		open      : "0930",
 		close     : "1300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu4th",
 		open      : "0930",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/cush-foundation/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2595,36 +3397,42 @@ var locations = [
 	city      : "Gardena",
 	zip       : "90248",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(310)719-2244",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat3rd",
 		open      : "0900",
 		close     : "1100"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/dae-hueng-presbyterian-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2636,36 +3444,58 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90044",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)755-1053",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat1st",
 		open      : "0830",
 		close     : "1030"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat2nd",
 		open      : "0830",
 		close     : "1030"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat4th",
 		open      : "0830",
 		close     : "1030"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/do-right-christian-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2677,36 +3507,50 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90022",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)262-2777",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tues",
 		open      : "0900",
 		close     : "1100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0900",
 		close     : "1100"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/door-of-hope-community-center/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2718,36 +3562,66 @@ var locations = [
 	city      : "Palmdale",
 	zip       : "93591",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(661)433-1186",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "1930",
 		close     : "2030"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0815",
 		close     : "1030"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "1930",
 		close     : "2030"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "1030",
 		close     : "1200"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/dos-testamentos-en-el-desierto/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2759,36 +3633,58 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90022",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)633-4734",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed1st",
 		open      : "1730",
 		close     : "1830"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed3rd",
 		open      : "1730",
 		close     : "1830"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "1200",
 		close     : "1245"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/east-l-a-bilingual-s-d-a-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2800,36 +3696,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90033",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)269-4214",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri3rd",
 		open      : "0900",
 		close     : "1100"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/east-la-community-corporation/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2841,36 +3743,42 @@ var locations = [
 	city      : "Palmdale",
 	zip       : "93550",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(661)874-8788",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "SatLast",
 		open      : "0830",
 		close     : "1000"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/east-palmdale-foursquare/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2882,36 +3790,74 @@ var locations = [
 	city      : "Hacienda Heights",
 	zip       : "91745",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(626)333-.726",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0830",
 		close     : "1330"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0830",
 		close     : "1330"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0830",
 		close     : "1330"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0830",
 		close     : "1330"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0830",
 		close     : "1330"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/east-san-gabriel-valley-coalition-for-the-homeless/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2923,36 +3869,58 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90022",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)726-7998",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0900",
 		close     : "1100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0900",
 		close     : "1100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0900",
 		close     : "1100"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/eastmont-community-center/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2964,36 +3932,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90022",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)396-7729",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "1930",
 		close     : "2000"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/eastmont-s-d-a-spanish-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3005,36 +3979,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90026",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)731-5472",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "1400",
 		close     : "1700"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/echo-park-united-methodist/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3046,36 +4026,50 @@ var locations = [
 	city      : "Pasadena",
 	zip       : "91104",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(626)797-2402",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tues",
 		open      : "0900",
 		close     : "1500"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0900",
 		close     : "1500"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/ecumenical-council-of-pasadena-area-congregations/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3087,36 +4081,42 @@ var locations = [
 	city      : "Quartz Hill",
 	zip       : "93536",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(661)943-1148",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tue3rd",
 		open      : "1200",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/ed-frankie-benson-evangelistic-ministries/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3128,36 +4128,74 @@ var locations = [
 	city      : "South El Monte",
 	zip       : "91731",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(626)444-7269",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0800",
 		close     : "1700"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0800",
 		close     : "1700"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0800",
 		close     : "1700"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0800",
 		close     : "1700"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0800",
 		close     : "1700"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/el-monte-south-emergency/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3169,36 +4207,42 @@ var locations = [
 	city      : "Pacoima",
 	zip       : "91331",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(818)896-9304",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri4th",
 		open      : "0900",
 		close     : "1700"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/eliza-shanks-homes-inc-/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3210,36 +4254,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90042",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)254-0191",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri",
 		open      : "1600",
 		close     : "1800"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/esmirna-pentecostal-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3251,36 +4301,50 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90003",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)753-3881",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed1st",
 		open      : "1030",
 		close     : "1130"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed3rd",
 		open      : "1030",
 		close     : "1130"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/estelle-van-meter-multipurpose/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3292,36 +4356,50 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90023",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)641-8943",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed2nd",
 		open      : "0800",
 		close     : "1000"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed4th",
 		open      : "0800",
 		close     : "1000"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/estrada-courts-community-center/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3333,36 +4411,50 @@ var locations = [
 	city      : "La Puente",
 	zip       : "91746",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(626)363-0300",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri1st",
 		open      : "1200",
 		close     : "1500"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri3rd",
 		open      : "1200",
 		close     : "1500"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/evergreen-baptist-church-of-san-gabriel-valley/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3374,36 +4466,58 @@ var locations = [
 	city      : "Whittier",
 	zip       : "90602",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "http//familychurch.co/",
+	phone     : "(626)893-1236",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sun",
 		open      : "1015",
 		close     : "1045"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "1215",
 		close     : "1230"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "1345",
 		close     : "1415"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/family-church-whittier/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3415,36 +4529,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90044",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)750-1744",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sun2nd",
 		open      : "1300",
 		close     : "1330"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/family-mennonite-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3456,36 +4576,50 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90062",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "http//54stsda.org/",
+	phone     : "(323)292-2762",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tue2nd",
 		open      : "0800",
 		close     : "1000"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue4th",
 		open      : "0800",
 		close     : "1000"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/fifty-fourth-street-s-d-a-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3497,36 +4631,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90037",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "http//www.figueroacoc.com/",
+	phone     : "(323)753-2536",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tue",
 		open      : "0730",
 		close     : "1100"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/figueroa-church-of-christ/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3538,36 +4678,42 @@ var locations = [
 	city      : "Long Beach",
 	zip       : "90806",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(310)212-5175",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat3rd",
 		open      : "1000",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/filipino-baptist-fellowship-of-long-beach/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3579,36 +4725,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90026",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(213)483-5821",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat",
 		open      : "1000",
 		close     : "1050"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/filipino-christian-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3620,36 +4772,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90018",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "http//www.famechurch.org/",
+	phone     : "(323)735-1251",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat4th",
 		open      : "0900",
 		close     : "1200"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/first-african-methodist-episcopal-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3661,36 +4819,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90005",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "http//fbcofla.org/community-outreach/hope-net/",
+	phone     : "(213)384-2151",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri",
 		open      : "0800",
 		close     : "0930"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/first-baptist-church-hope-net/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3702,36 +4866,50 @@ var locations = [
 	city      : "Altadena",
 	zip       : "91001",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(626)798-2361",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu1st",
 		open      : "1400",
 		close     : "1600"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu3rd",
 		open      : "1400",
 		close     : "1600"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/first-church-of-the-nazarene-altadena/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3743,36 +4921,42 @@ var locations = [
 	city      : "Pasadena",
 	zip       : "91107",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "http//www.paznaz.org/",
+	phone     : "(626)351-9631",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "1400",
 		close     : "1600"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/first-church-of-the-nazarene-pasadena/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3784,36 +4968,50 @@ var locations = [
 	city      : "Inglewood",
 	zip       : "90301",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "http//firstlutheranofinglewood.org/",
+	phone     : "(310)674-5103",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu2nd",
 		open      : "1000",
 		close     : "1130"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu4th",
 		open      : "1000",
 		close     : "1130"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/first-lutheran-church-of-inglewood/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3825,36 +5023,50 @@ var locations = [
 	city      : "Sun Villiage",
 	zip       : "93543",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "http//www.livingstonecathedral.org/index.php",
+	phone     : "(661)944-4128",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed2nd",
 		open      : "1100",
 		close     : "1300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed4th",
 		open      : "1100",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/first-missionary-baptist-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3866,36 +5078,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90047",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)756-2541",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu",
 		open      : "0900",
 		close     : "1100"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/first-new-christian-fellowship/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3907,36 +5125,50 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90019",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "http//fpcofla.org/",
+	phone     : "(323)935-5204",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sun3rd",
 		open      : "1300",
 		close     : "1400"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0900",
 		close     : "1100"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/first-presbyterian-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3948,36 +5180,42 @@ var locations = [
 	city      : "Hollywood",
 	zip       : "90028",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "http//firstsouthernbaptist.church/",
+	phone     : "(323)466-9631",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat1st",
 		open      : "1200",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/first-southern-baptist-church-of-hollywood/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3989,36 +5227,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90005",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "http//uula.org/",
+	phone     : "(213)389-1356",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat",
 		open      : "0800",
 		close     : "1000"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/first-unitarian-church-hope-net/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4030,36 +5274,42 @@ var locations = [
 	city      : "La Puente",
 	zip       : "91744",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(626)336-1927",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "SunLast",
 		open      : "1000",
 		close     : "1230"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/first-united-methodist-church-of-la-puente/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4071,36 +5321,74 @@ var locations = [
 	city      : "Gardena",
 	zip       : "90249",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(310)217-7300",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0800",
 		close     : "1600"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0800",
 		close     : "1600"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0800",
 		close     : "1600"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0800",
 		close     : "1600"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0800",
 		close     : "1600"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/food-net-asian-service-center/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4112,36 +5400,58 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90022",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)260-2804",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0800",
 		close     : "1600"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0800",
 		close     : "1600"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0800",
 		close     : "1600"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/food-net-centro-maravilla/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4153,36 +5463,66 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90063",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "http//wdacs.lacounty.gov/service-locations/east-los-angeles-service-center/",
+	phone     : "(323)260-2801",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0930",
 		close     : "1200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Mon",
 		open      : "1330",
 		close     : "1600"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0930",
 		close     : "1200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "1330",
 		close     : "1600"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/food-net-east-los-angeles-center/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4194,36 +5534,50 @@ var locations = [
 	city      : "Compton",
 	zip       : "90221",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(310)603-7401",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri2nd",
 		open      : "0800",
 		close     : "1000"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri4th",
 		open      : "0800",
 		close     : "1000"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/food-net-east-rancho-dominguez/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4235,36 +5589,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90001",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)586-6502",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tue2nd",
 		open      : "0900",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/food-net-florence-firestone-center/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4276,36 +5636,58 @@ var locations = [
 	city      : "Whittier",
 	zip       : "90606",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(562)699-9898",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu",
 		open      : "1100",
 		close     : "1400"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "1300",
 		close     : "1330"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "1430",
 		close     : "1600"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/food-net-los-nietos-service-center/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4317,36 +5699,42 @@ var locations = [
 	city      : "South El Monte",
 	zip       : "91733",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(626)575-5431",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "0830",
 		close     : "1030"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/food-net-san-gabriel-valley-center/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4358,36 +5746,66 @@ var locations = [
 	city      : "San Pedro",
 	zip       : "90731",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(310)519-6091",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tue2nd",
 		open      : "1400",
 		close     : "1630"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "1400",
 		close     : "1630"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "1400",
 		close     : "1630"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "1400",
 		close     : "1630"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/food-net-san-pedro-service-center/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4399,36 +5817,74 @@ var locations = [
 	city      : "Newhall",
 	zip       : "91321",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(661)254-0070",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0900",
 		close     : "1600"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0900",
 		close     : "1600"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0900",
 		close     : "1600"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0900",
 		close     : "1600"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0900",
 		close     : "1600"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/food-net-santa-clarita-service-center/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4440,36 +5896,50 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90061",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(310)217-5650",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed2nd",
 		open      : "1000",
 		close     : "1200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed4th",
 		open      : "1000",
 		close     : "1200"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/food-net-willowbrook-senior-center/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4481,36 +5951,58 @@ var locations = [
 	city      : "Monrovia",
 	zip       : "91016",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(626)359-1777",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "1300",
 		close     : "1530"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0900",
 		close     : "1130"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0900",
 		close     : "1130"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/foothill-unity-center/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4522,36 +6014,74 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90013",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(213)489-7763",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "1200",
 		close     : "1300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "1200",
 		close     : "1300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "1200",
 		close     : "1300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "1200",
 		close     : "1300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "1200",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/fred-jordan-mission/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4563,36 +6093,42 @@ var locations = [
 	city      : "Pasadena",
 	zip       : "91101",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(626)584-5433",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "1200",
 		close     : "1500"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/fuller-theological-seminary/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4604,36 +6140,50 @@ var locations = [
 	city      : "Gardena",
 	zip       : "90247",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(310)324-3992",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat1st",
 		open      : "1500",
 		close     : "1800"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat3rd",
 		open      : "1500",
 		close     : "1800"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/gardena-s-d-a-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4645,36 +6195,42 @@ var locations = [
 	city      : "Gardena",
 	zip       : "90248",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(310)329-6933",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sun",
 		open      : "1230",
 		close     : "1330"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/gardena-valley-assembly-of-god/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4686,36 +6242,42 @@ var locations = [
 	city      : "Glendale",
 	zip       : "91205",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(818)543-0110",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed2nd",
 		open      : "1100",
 		close     : "1200"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/glendale-filipino-s-d-a-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4727,36 +6289,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90004",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(213)386-0097",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat",
 		open      : "1000",
 		close     : "1100"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/good-news-central-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4768,36 +6336,50 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90008",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)292-3589",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu2nd",
 		open      : "1100",
 		close     : "1300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu4th",
 		open      : "1100",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/good-news-missionary-baptist-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4809,36 +6391,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90001",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)753-0117",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat3rd",
 		open      : "1000",
 		close     : "1200"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/good-news-prayer-center/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4850,36 +6438,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90003",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)759-8087",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed4th",
 		open      : "1100",
 		close     : "1200"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/gospel-mission-baptist-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4891,36 +6485,42 @@ var locations = [
 	city      : "La Mirada",
 	zip       : "90638",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(562)943-3791",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri",
 		open      : "1600",
 		close     : "1800"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/grace-evangelical-free-church-of-la-mirada/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4932,36 +6532,50 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90042",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(818)957-8090",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri2nd",
 		open      : "0930",
 		close     : "1030"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri4th",
 		open      : "0930",
 		close     : "1030"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/grace-presbyterian-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4973,36 +6587,82 @@ var locations = [
 	city      : "Lancaster",
 	zip       : "93534",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(661)940-5272",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tue",
 		open      : "1000",
 		close     : "1100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "1300",
 		close     : "1400"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "1000",
 		close     : "1100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "1000",
 		close     : "1100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "1000",
 		close     : "1100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "1400",
 		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	],
 	uri       : "/food-pantry/grace-resource-center-inc-/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -5014,36 +6674,42 @@ var locations = [
 	city      : "Inglewood",
 	zip       : "90303",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(310)677-9916",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat1st",
 		open      : "0900",
 		close     : "1200"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/greater-emmanuel-m-b-c-/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -5055,36 +6721,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90003",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)529-4446",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat",
 		open      : "0800",
 		close     : "1100"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/greater-new-morning-star-baptist-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -5096,36 +6768,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90003",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)757-5094",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat3rd",
 		open      : "0830",
 		close     : "1000"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/greater-new-unity-baptist-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -5137,36 +6815,50 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90063",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)261-8051",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed2nd",
 		open      : "0700",
 		close     : "0900"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed4th",
 		open      : "0700",
 		close     : "0900"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/guadalupe-food-program/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -5178,36 +6870,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90059",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)567-8524",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri",
 		open      : "0900",
 		close     : "1100"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/h-o-p-e-helping-other-people-excel/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -5219,36 +6917,42 @@ var locations = [
 	city      : "Panorama City",
 	zip       : "91402",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(818)644-9970",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu",
 		open      : "1600",
 		close     : "1800"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/hank-lacayo-youth-family-center/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -5260,36 +6964,50 @@ var locations = [
 	city      : "Wilmington",
 	zip       : "90744",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(310)835-5661",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed1st",
 		open      : "1800",
 		close     : "1930"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed3rd",
 		open      : "1800",
 		close     : "1930"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/harbor-christian-center/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -5301,36 +7019,50 @@ var locations = [
 	city      : "Hawaiian Gardens",
 	zip       : "90716",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(562)860-9097",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "1400",
 		close     : "1800"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0930",
 		close     : "1530"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/hawaiian-gardens-food-bank/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -5342,36 +7074,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90044",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)245-2651",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri4th",
 		open      : "1200",
 		close     : "1400"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/heavenly-vision-church-of-god-in-christ/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -5383,36 +7121,42 @@ var locations = [
 	city      : "Pomona",
 	zip       : "91768",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(909)620-1601",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sun",
 		open      : "1630",
 		close     : "1730"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/helping-hands-caring-hearts-ministry/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -5424,36 +7168,66 @@ var locations = [
 	city      : "Long Beach",
 	zip       : "90813",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(562)591-8778",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tue",
 		open      : "0930",
 		close     : "1200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "1330",
 		close     : "1530"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0930",
 		close     : "1200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "1330",
 		close     : "1530"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/helping-in-services-inc-/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -5465,36 +7239,50 @@ var locations = [
 	city      : "Lomita",
 	zip       : "90717",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(310)326-2757",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu2nd",
 		open      : "1800",
 		close     : "1900"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu4th",
 		open      : "1800",
 		close     : "1900"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/his-helping-hands/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -5506,36 +7294,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90011",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)232-7256",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu",
 		open      : "0930",
 		close     : "1130"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/hoap-inc-/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -5547,36 +7341,50 @@ var locations = [
 	city      : "Hollywood",
 	zip       : "90029",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)469-0710",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu",
 		open      : "1530",
 		close     : "1730"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "1130",
 		close     : "1330"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/hollywood-community-housing/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -5588,36 +7396,42 @@ var locations = [
 	city      : "Hollywood",
 	zip       : "90027",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)667-1212",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "1100",
 		close     : "1230"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/hollywood-lutheran-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -5629,36 +7443,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90038",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)461-4957",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri3rd",
 		open      : "1600",
 		close     : "1800"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/hollywood-west-tenant-action-committee/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -5670,36 +7490,58 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90037",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)232-3333",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0900",
 		close     : "1100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0900",
 		close     : "1100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0900",
 		close     : "1100"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/holy-cross-center/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -5711,36 +7553,42 @@ var locations = [
 	city      : "South Pasadena",
 	zip       : "91030",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(626)403-6140",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0900",
 		close     : "1045"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/holy-family-giving-bank/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -5752,36 +7600,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90003",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)777-2965",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat",
 		open      : "1200",
 		close     : "1400"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/holy-trinity-church-of-god-in-christ/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -5793,36 +7647,66 @@ var locations = [
 	city      : "Hermosa Beach",
 	zip       : "90254",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(310)374-4673",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "0900",
 		close     : "1200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "1300",
 		close     : "1600"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0900",
 		close     : "1200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "1300",
 		close     : "1600"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/hope-chapel-foursquare-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -5834,36 +7718,42 @@ var locations = [
 	city      : "Quartz Hill",
 	zip       : "93536",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(661)943-1074",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri",
 		open      : "0930",
 		close     : "1100"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/hope-chapel-lancaster/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -5875,36 +7765,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90029",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)663-9394",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat2nd",
 		open      : "0900",
 		close     : "1000"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/hope-international-bible-fellowship/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -5916,36 +7812,42 @@ var locations = [
 	city      : "Northridge",
 	zip       : "91324",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(818)998-2931",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat",
 		open      : "0700",
 		close     : "0730"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/houses-of-light-church-corporation/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -5957,36 +7859,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90045",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(213)268-4820",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tue",
 		open      : "1000",
 		close     : "1200"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/hurting-hungry/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -5998,36 +7906,42 @@ var locations = [
 	city      : "Granada Hills",
 	zip       : "91344",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(818)277-9982",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "1600",
 		close     : "1700"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/iglesia-bautista-renacer/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -6039,36 +7953,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90037",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)235-5988",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri",
 		open      : "1930",
 		close     : "2100"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/iglesia-cristiana-el-shaddai-usa/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -6080,36 +8000,50 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90042",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)257-4352",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu1st",
 		open      : "1030",
 		close     : "1130"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu3rd",
 		open      : "1030",
 		close     : "1130"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/iglesia-de-la-comunidad-presbyterian-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -6121,36 +8055,42 @@ var locations = [
 	city      : "San Fernando",
 	zip       : "91340",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(818)898-3848",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "1900",
 		close     : "2100"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/iglesia-evangelica-camino-de-santidad/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -6162,36 +8102,58 @@ var locations = [
 	city      : "Sun Valley",
 	zip       : "91352",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(818)765-0705",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sun",
 		open      : "1230",
 		close     : "1300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0900",
 		close     : "1000"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0900",
 		close     : "1000"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/iglesia-fuente-de-vida-community-center/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -6203,36 +8165,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90022",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)261-8397",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "1900",
 		close     : "1930"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/iglesia-la-puerta-abierta/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -6244,36 +8212,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90002",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)804-6615",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tue",
 		open      : "1900",
 		close     : "2000"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/iglesia-macedonia-defenders-of-the-christian-faith/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -6285,36 +8259,50 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90033",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)832-5313",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sun",
 		open      : "1300",
 		close     : "1400"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "1500",
 		close     : "1600"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/iglesia-pentecostes-roca-de-salvacion/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -6326,36 +8314,50 @@ var locations = [
 	city      : "South Gate",
 	zip       : "90280",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(310)713-1428",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sun",
 		open      : "1300",
 		close     : "1500"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "1900",
 		close     : "2100"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/iglesia-pentecostes-templo-calvario/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -6367,36 +8369,42 @@ var locations = [
 	city      : "West Covina",
 	zip       : "91790",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(626)833-8141",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu2nd",
 		open      : "1930",
 		close     : "2015"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/iglesia-piedra-angular/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -6408,36 +8416,42 @@ var locations = [
 	city      : "Norwalk",
 	zip       : "90650",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(562)743-4611",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri3rd",
 		open      : "1500",
 		close     : "2000"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/iglesia-un-renuevo/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -6449,36 +8463,42 @@ var locations = [
 	city      : "Pomona",
 	zip       : "91768",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(909)620-9161",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat3rd",
 		open      : "1100",
 		close     : "1230"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/imani-economic-community-development-corporation/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -6490,36 +8510,66 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90047",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)754-8453",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tue2nd",
 		open      : "1000",
 		close     : "1300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue4th",
 		open      : "1000",
 		close     : "1300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed4th",
 		open      : "1000",
 		close     : "1300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu4th",
 		open      : "1000",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/imani-unidos-a-i-d-s-project/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -6531,36 +8581,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90029",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)660-0034",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "1100",
 		close     : "1200"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/immaculate-heart-of-mary-hope-net/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -6572,36 +8628,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90010",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(213)389-3191",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat",
 		open      : "0930",
 		close     : "1130"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/immanuel-presbyterian-church-hope-net/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -6613,36 +8675,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90061",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)756-0360",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat",
 		open      : "0700",
 		close     : "0830"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/imperial-church-of-christ/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -6654,36 +8722,42 @@ var locations = [
 	city      : "Inglewood",
 	zip       : "90301",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(310)674-7690",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri3rd",
 		open      : "1000",
 		close     : "1200"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/inglewood-church-of-christ/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -6695,36 +8769,42 @@ var locations = [
 	city      : "Inglewood",
 	zip       : "90303",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(310)677-0446",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat2nd",
 		open      : "1000",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/inglewood-southside-christian-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -6736,36 +8816,58 @@ var locations = [
 	city      : "Pomona",
 	zip       : "91768",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(909)622-7278",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "1400",
 		close     : "1600"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "1400",
 		close     : "1600"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "1400",
 		close     : "1600"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/inland-valley-hope-partners/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -6777,36 +8879,74 @@ var locations = [
 	city      : "Sante Fe Springs",
 	zip       : "90670",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(562)903-1478",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0830",
 		close     : "1200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "1630",
 		close     : "1900"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0830",
 		close     : "1200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0830",
 		close     : "1200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0830",
 		close     : "1200"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/interfaith-food-center/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -6818,36 +8958,42 @@ var locations = [
 	city      : "Glendale",
 	zip       : "91204",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(818)770-0779",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "1500",
 		close     : "1800"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/international-families-association/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -6859,36 +9005,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90020",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(213)382-9200",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat",
 		open      : "1100",
 		close     : "1200"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/islamic-center-of-southern-ca-hope-net/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -6900,36 +9052,42 @@ var locations = [
 	city      : "Carson",
 	zip       : "90745",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(424)264-9875",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat",
 		open      : "1100",
 		close     : "1130"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/jesus-christ-the-reedemer-center/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -6941,36 +9099,42 @@ var locations = [
 	city      : "Harbor City",
 	zip       : "90710",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(310)667-0147",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed3rd",
 		open      : "1200",
 		close     : "1600"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/jesus-is-the-answer-apostolic-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -6982,36 +9146,74 @@ var locations = [
 	city      : "Van Nuys",
 	zip       : "91406",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "https//www.jfsla.org/page.aspx?pid=300",
+	phone     : "(818)988-7682",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sun",
 		open      : "0900",
 		close     : "1200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Mon",
 		open      : "1000",
 		close     : "1330"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "1000",
 		close     : "1330"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "1000",
 		close     : "1330"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "1000",
 		close     : "1330"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/jfs-sova-community-food-resource-program-valley/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -7023,36 +9225,74 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "91406",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "https//www.jfsla.org/page.aspx?pid=300",
+	phone     : "(818)988-7682",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sun",
 		open      : "0900",
 		close     : "1200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Mon",
 		open      : "1000",
 		close     : "1330"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "1000",
 		close     : "1330"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "1000",
 		close     : "1330"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "1000",
 		close     : "1330"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/jfs-sova-community-food-resource-program-west/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -7064,36 +9304,42 @@ var locations = [
 	city      : "Pacoima",
 	zip       : "91331",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(805)402-5050",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri",
 		open      : "1800",
 		close     : "1900"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/khalsa-care-foundation/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -7105,36 +9351,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90018",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(213)247-cell",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tue",
 		open      : "0830",
 		close     : "1130"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/koreatown-multipurpose-senior/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -7146,36 +9398,42 @@ var locations = [
 	city      : "La Puente",
 	zip       : "91744",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(626)912-9408",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tue",
 		open      : "2030",
 		close     : "2100"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/la-puente-spanish-s-d-a-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -7187,36 +9445,42 @@ var locations = [
 	city      : "Sylmar",
 	zip       : "91342",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(951)318-4420",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu",
 		open      : "1830",
 		close     : "2030"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/la-voz-sylmar-s-d-a-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -7228,36 +9492,42 @@ var locations = [
 	city      : "Gardena",
 	zip       : "90247",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "((32)) 7-3748",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "TueLast",
 		open      : "0900",
 		close     : "1000"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/lady-bug-ministry/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -7269,36 +9539,42 @@ var locations = [
 	city      : "Hawaiian Gardens",
 	zip       : "90716",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(310)764-4104",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat3rd",
 		open      : "1000",
 		close     : "1400"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/lawrence-ministries/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -7310,36 +9586,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90044",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(562)607-8780",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat",
 		open      : "0800",
 		close     : "1100"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/life-deliverance-ministries/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -7351,36 +9633,50 @@ var locations = [
 	city      : "Altadena",
 	zip       : "91001",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(626)797-3585",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed2nd",
 		open      : "1200",
 		close     : "1400"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed4th",
 		open      : "1200",
 		close     : "1400"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/lifeline-community-services-economic-development/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -7392,36 +9688,42 @@ var locations = [
 	city      : "Pasadena",
 	zip       : "91103",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(626)798-9163",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed3rd",
 		open      : "1000",
 		close     : "1200"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/lincoln-avenue-baptist-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -7433,36 +9735,50 @@ var locations = [
 	city      : "Rowland Heights",
 	zip       : "91748",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(714)202-7333",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat1st",
 		open      : "0900",
 		close     : "1100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat3rd",
 		open      : "0900",
 		close     : "1100"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/living-hope-community-partnership/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -7474,36 +9790,58 @@ var locations = [
 	city      : "Palmdale",
 	zip       : "93591",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(661)264-1717",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed1st",
 		open      : "0800",
 		close     : "1000"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed3rd",
 		open      : "0800",
 		close     : "1000"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed4th",
 		open      : "0800",
 		close     : "1000"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/living-springs-foursquare-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -7515,36 +9853,50 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90044",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)290-3909",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tue3rd",
 		open      : "1130",
 		close     : "1330"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue4th",
 		open      : "1130",
 		close     : "1330"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/living-truth-christian-fellowship/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -7556,36 +9908,58 @@ var locations = [
 	city      : "Canoga Park",
 	zip       : "91303",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(818)340-2050",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0900",
 		close     : "1200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0900",
 		close     : "1200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0900",
 		close     : "1200"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/loaves-fishes-canoga-park/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -7597,36 +9971,66 @@ var locations = [
 	city      : "Glendale",
 	zip       : "91204",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(818)409-3080",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "1000",
 		close     : "1530"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "1000",
 		close     : "1530"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "1000",
 		close     : "1530"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "1000",
 		close     : "1530"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/loaves-fishes-glendale/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -7638,36 +10042,58 @@ var locations = [
 	city      : "Van Nuys",
 	zip       : "91405",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(818)997-0943",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "1000",
 		close     : "130"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "1000",
 		close     : "1330"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "1000",
 		close     : "1330"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/loaves-fishes-van-nuys/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -7679,36 +10105,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90031",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)221-9111",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu",
 		open      : "1700",
 		close     : "1800"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/los-angeles-boys-girls-club/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -7720,36 +10152,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90007",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "((21)) 7-9646",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tue3rd",
 		open      : "1200",
 		close     : "1400"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/los-angeles-central-city-s-d-a-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -7761,36 +10199,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90020",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(213)385-6345",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri",
 		open      : "1600",
 		close     : "1800"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/los-angeles-first-church-of-the-nazarene-hope-net/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -7802,36 +10246,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90057",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(213)629-9172",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "FriLast",
 		open      : "1600",
 		close     : "1700"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/los-angeles-housing-partnership/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -7843,36 +10293,50 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90047",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)753-8300",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0830",
 		close     : "1000"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0830",
 		close     : "1000"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/love-faith-christian-center/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -7884,36 +10348,42 @@ var locations = [
 	city      : "Lancaster",
 	zip       : "93535",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(661)729-4106",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat2nd",
 		open      : "1430",
 		close     : "1630"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/loveship-community-outreach/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -7925,36 +10395,66 @@ var locations = [
 	city      : "Canoga Park",
 	zip       : "91304",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(818)901-9480",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tue",
 		open      : "1000",
 		close     : "1445"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "1000",
 		close     : "1445"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "1000",
 		close     : "1445"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "1000",
 		close     : "1445"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/lutheran-social-services-of-southern-california/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -7966,36 +10466,42 @@ var locations = [
 	city      : "Lynwood",
 	zip       : "90262",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(310)639-2010",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri",
 		open      : "2030",
 		close     : "2130"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/lynwood-all-peoples-first-assembly/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -8007,36 +10513,42 @@ var locations = [
 	city      : "Lynwood",
 	zip       : "90262",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(310)638-5163",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "0900",
 		close     : "1200"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/lynwood-united-methodist-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -8048,36 +10560,50 @@ var locations = [
 	city      : "Inglewood",
 	zip       : "90305",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)971-3511",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat2nd",
 		open      : "1400",
 		close     : "1500"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat4th",
 		open      : "1400",
 		close     : "1500"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/maranatha-s-d-a-community-center/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -8089,36 +10615,66 @@ var locations = [
 	city      : "Pacoima",
 	zip       : "91331",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(818)686-7334",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tue",
 		open      : "0800",
 		close     : "1400"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0800",
 		close     : "1400"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0800",
 		close     : "1400"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0900",
 		close     : "1200"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/meet-each-need-with-dignity/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -8130,36 +10686,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90027",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)669-3436",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat",
 		open      : "0900",
 		close     : "1100"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/metropolitan-community-churchof-l-a-hope-net/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -8171,36 +10733,42 @@ var locations = [
 	city      : "Montebello",
 	zip       : "90640",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)890-9600",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu",
 		open      : "0730",
 		close     : "1200"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/mexican-american-opportunity-foundation/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -8212,36 +10780,42 @@ var locations = [
 	city      : "Bell Gardens",
 	zip       : "90201",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(562)544-4264",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tue",
 		open      : "2030",
 		close     : "2130"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/mision-cristana-monte-de-sion/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -8253,36 +10827,42 @@ var locations = [
 	city      : "Lynwood",
 	zip       : "90262",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(310)635-3264",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri",
 		open      : "1530",
 		close     : "1700"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/missionaries-of-charity/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -8294,36 +10874,58 @@ var locations = [
 	city      : "Montebello",
 	zip       : "90640",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(626)810-5833",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tue",
 		open      : "1500",
 		close     : "1800"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "1500",
 		close     : "1800"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "1500",
 		close     : "1800"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/montebello-watch/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -8335,36 +10937,42 @@ var locations = [
 	city      : "Pomona",
 	zip       : "91766",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(909)868-0224",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat3rd",
 		open      : "1200",
 		close     : "1400"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/mt-sinai-c-o-g-i-c-/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -8376,36 +10984,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90043",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)292-4939",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "0900",
 		close     : "1100"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/my-friends-house/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -8417,36 +11031,50 @@ var locations = [
 	city      : "Palmdale",
 	zip       : "93550",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(661)965-4588",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat2nd",
 		open      : "0900",
 		close     : "1200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat4th",
 		open      : "0900",
 		close     : "1200"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/new-covenant-tabernacle-of-antelope-valley/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -8458,36 +11086,50 @@ var locations = [
 	city      : "Compton",
 	zip       : "90221",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(310)639-1013",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri1st",
 		open      : "1000",
 		close     : "1130"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri3rd",
 		open      : "1000",
 		close     : "1130"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/new-jerusalem-c-o-g-i-c-/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -8499,36 +11141,50 @@ var locations = [
 	city      : "Hawthorne",
 	zip       : "90250",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(310)676-6859",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sun",
 		open      : "1200",
 		close     : "1330"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "1400",
 		close     : "1530"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/new-life-community-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -8540,36 +11196,34 @@ var locations = [
 	city      : "Pomona",
 	zip       : "91767",
 	category  : "Food Pantry",
-	hours     : [{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	website   : "http://newlifepomona.com",
+	phone     : "(909) 593-5000",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/new-life-pomona/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -8581,36 +11235,42 @@ var locations = [
 	city      : "Inglewood",
 	zip       : "90301",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(424)227-8657",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat",
 		open      : "1130",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/new-region-for-christ/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -8622,36 +11282,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90037",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)731-7787",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat4th",
 		open      : "1145",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/normandie-community-development/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -8663,36 +11329,50 @@ var locations = [
 	city      : "North Hollywood",
 	zip       : "91604",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "http//www.nhifp.org/",
+	phone     : "(818)760-3575",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0900",
 		close     : "1300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0900",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/north-hollywood-interfaith/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -8704,36 +11384,42 @@ var locations = [
 	city      : "Norwalk",
 	zip       : "90650",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(562)863-0911",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "1700",
 		close     : "1900"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/norwalk-church-of-the-nazarene/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -8745,36 +11431,50 @@ var locations = [
 	city      : "Wilmington",
 	zip       : "90744",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(310)847-6937",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed1st",
 		open      : "1800",
 		close     : "1930"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed3rd",
 		open      : "1800",
 		close     : "1930"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/nuevo-amanecer/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -8786,36 +11486,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90032",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)225-4201",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu",
 		open      : "0800",
 		close     : "0900"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/our-lady-of-guadalupe-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -8827,36 +11533,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90033",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)268-7731",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tue3rd",
 		open      : "1300",
 		close     : "1500"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/our-lady-of-talpa-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -8868,36 +11580,50 @@ var locations = [
 	city      : "Compton",
 	zip       : "90221",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(310)631-5100",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri3rd",
 		open      : "0830",
 		close     : "1000"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "SatLast",
 		open      : "0830",
 		close     : "1000"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/our-lady-of-victory-conference/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -8909,36 +11635,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90012",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(213)629-3101",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri",
 		open      : "0800",
 		close     : "1100"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/our-lady-queen-of-angels-catholic-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -8950,36 +11682,50 @@ var locations = [
 	city      : "EL Monte",
 	zip       : "91731",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(626)579-2190",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tue",
 		open      : "1000",
 		close     : "1300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "1000",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/our-saviour-center/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -8991,36 +11737,66 @@ var locations = [
 	city      : "Palmdale",
 	zip       : "93550",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(661)267-5191",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0800",
 		close     : "1700"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0800",
 		close     : "1700"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0800",
 		close     : "1700"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0800",
 		close     : "1700"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/palmdale-community-foundation-s-a-v-e-s-/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -9032,36 +11808,42 @@ var locations = [
 	city      : "Palmdale",
 	zip       : "93550",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(661)947-2938",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tue4th",
 		open      : "1000",
 		close     : "1200"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/palmdale-foursquare-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -9073,36 +11855,50 @@ var locations = [
 	city      : "Palmdale",
 	zip       : "93550",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(661)947-8496",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed1st",
 		open      : "1000",
 		close     : "1200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed3rd",
 		open      : "1000",
 		close     : "1200"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/palmdale-s-d-a-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -9114,36 +11910,66 @@ var locations = [
 	city      : "Paramount",
 	zip       : "90723",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(562)531-6820",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri1st",
 		open      : "0900",
 		close     : "1000"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri2nd",
 		open      : "0900",
 		close     : "1000"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri3rd",
 		open      : "0900",
 		close     : "1000"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri4th",
 		open      : "0900",
 		close     : "1000"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/paramount-care-foundation/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -9155,36 +11981,50 @@ var locations = [
 	city      : "Lake View Terrace",
 	zip       : "91342",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(818)899-3950",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat2nd",
 		open      : "0900",
 		close     : "1100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat3rd",
 		open      : "0900",
 		close     : "1100"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/peace-lutheran-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -9196,36 +12036,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90039",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)842-7888",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "1500",
 		close     : "1700"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/pentecostal-church-of-god/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -9237,36 +12083,50 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90061",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(310)538-4013",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri2nd",
 		open      : "1100",
 		close     : "1330"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri4th",
 		open      : "1100",
 		close     : "1500"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/people-for-community-improvement/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -9278,36 +12138,42 @@ var locations = [
 	city      : "La Puente",
 	zip       : "91744",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(562)895-4587",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat",
 		open      : "0830",
 		close     : "1030"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/pico-rivera-iglesia-crece/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -9319,36 +12185,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90001",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)581-7672",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed2nd",
 		open      : "0900",
 		close     : "1100"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/pilgrims-hope-baptist-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -9360,36 +12232,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90026",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(213)250-4353",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri",
 		open      : "1800",
 		close     : "1900"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/pilipino-worker-center-of-southern-california/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -9401,36 +12279,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90001",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)585-0570",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat3rd",
 		open      : "0730",
 		close     : "0830"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/presentation-of-mary-catholic/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -9442,36 +12326,74 @@ var locations = [
 	city      : "Woodland Hills",
 	zip       : "91367",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(818)346-5554",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "1000",
 		close     : "1500"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "1000",
 		close     : "1500"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "1000",
 		close     : "1500"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "1000",
 		close     : "1500"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "1000",
 		close     : "1200"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/prince-of-peace-coalition/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -9483,36 +12405,74 @@ var locations = [
 	city      : "Canoga Park",
 	zip       : "91303",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(818)887-9386",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0900",
 		close     : "1300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0900",
 		close     : "1300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0900",
 		close     : "1300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0900",
 		close     : "1300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0900",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/prince-of-peace-family-rescue/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -9524,36 +12484,50 @@ var locations = [
 	city      : "Bell",
 	zip       : "90201",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)560-3780",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu2nd",
 		open      : "1100",
 		close     : "1300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu4th",
 		open      : "1100",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/principe-de-paz/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -9565,36 +12539,66 @@ var locations = [
 	city      : "Covina",
 	zip       : "91723",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(626)373-2976",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tue",
 		open      : "1400",
 		close     : "1730"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "1400",
 		close     : "1600"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "1400",
 		close     : "1730"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "1400",
 		close     : "1600"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/project-2911-a-community-development-corporation/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -9606,36 +12610,50 @@ var locations = [
 	city      : "Van Nuys",
 	zip       : "91411",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)385-4442",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sun",
 		open      : "1230",
 		close     : "1400"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "1030",
 		close     : "1230"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/rccg-victory-house-of-california/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -9647,36 +12665,58 @@ var locations = [
 	city      : "Winnetka",
 	zip       : "91306",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(818)341-1629",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "1000",
 		close     : "1430"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "1000",
 		close     : "1430"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "1000",
 		close     : "1430"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/redeemer-lutheran-outreach/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -9688,36 +12728,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90007",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)732-4124",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat",
 		open      : "1000",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/redeemer-missionary-baptist-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -9729,36 +12775,42 @@ var locations = [
 	city      : "Compton",
 	zip       : "90220",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(310)663-0789",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat",
 		open      : "1100",
 		close     : "1200"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/rehoboth-courage-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -9770,36 +12822,42 @@ var locations = [
 	city      : "Sun Valley",
 	zip       : "91352",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(818)588-1024",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "1000",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/resting-place-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -9811,36 +12869,50 @@ var locations = [
 	city      : "San Pedro",
 	zip       : "90731",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(310)832-2788",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat2nd",
 		open      : "1030",
 		close     : "1130"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat4th",
 		open      : "1030",
 		close     : "1130"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/rock-solid-christian-assembly/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -9852,36 +12924,42 @@ var locations = [
 	city      : "Bellflower",
 	zip       : "90706",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(562)925-1443",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri3rd",
 		open      : "1500",
 		close     : "1600"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/rosewood-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -9893,36 +12971,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90004",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)662-1194",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri3rd",
 		open      : "1530",
 		close     : "1630"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/rosewood-revitalization-group/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -9934,36 +13018,42 @@ var locations = [
 	city      : "Lancaster",
 	zip       : "93535",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(661)946-6267",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon4th",
 		open      : "0900",
 		close     : "1100"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/s-a-friendly-village-mobile-park/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -9975,36 +13065,42 @@ var locations = [
 	city      : "Quartz Hill",
 	zip       : "93536",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(661)943-3228",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tue2nd",
 		open      : "0900",
 		close     : "1100"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/s-a-mayflower-gardens/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -10016,36 +13112,42 @@ var locations = [
 	city      : "Palmdale",
 	zip       : "93550",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(661)947-4700",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tue2nd",
 		open      : "1200",
 		close     : "1400"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/s-a-mountain-view-mobile/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -10057,36 +13159,42 @@ var locations = [
 	city      : "Pearblossom",
 	zip       : "93553",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(661)839-6123",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon3rd",
 		open      : "0900",
 		close     : "1100"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/s-a-pearblossom-united-methodist/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -10098,36 +13206,42 @@ var locations = [
 	city      : "Littlerock",
 	zip       : "93543",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(661)944-6100",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon3rd",
 		open      : "1200",
 		close     : "1400"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/s-a-penney-lynn-wind/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -10139,36 +13253,42 @@ var locations = [
 	city      : "Alhambra",
 	zip       : "91803",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(626)281-0466",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu3rd",
 		open      : "1530",
 		close     : "1730"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/s-v-p-all-souls-conference/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -10180,36 +13300,50 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90031",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)221-3179",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu1st",
 		open      : "1000",
 		close     : "1230"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu3rd",
 		open      : "1000",
 		close     : "1230"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/sacred-heart-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -10221,36 +13355,50 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90047",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)753-3535",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "1100",
 		close     : "1130"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed3rd",
 		open      : "1100",
 		close     : "1130"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/saint-mark/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -10262,36 +13410,74 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90063",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)263-7577",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0900",
 		close     : "1600"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0900",
 		close     : "1600"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0900",
 		close     : "1600"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0900",
 		close     : "1600"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0900",
 		close     : "1600"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/salvation-army-east-l-a-/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -10303,36 +13489,66 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90015",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(213)896-9178",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0900",
 		close     : "1600"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0900",
 		close     : "1600"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "1200",
 		close     : "1600"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "1200",
 		close     : "1600"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/salvation-army-l-a-central-corp/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -10344,36 +13560,50 @@ var locations = [
 	city      : "Lancaster",
 	zip       : "93534",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(661)948-3418",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon4th",
 		open      : "1200",
 		close     : "1600"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0900",
 		close     : "1030"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/salvation-army-lancaster-corp/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -10385,36 +13615,74 @@ var locations = [
 	city      : "Pasadena",
 	zip       : "91106",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(626)773-4400",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0900",
 		close     : "1130"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0900",
 		close     : "1130"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0900",
 		close     : "1130"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0900",
 		close     : "1130"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0900",
 		close     : "1130"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/salvation-army-pasadena-tabernacle/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -10426,36 +13694,74 @@ var locations = [
 	city      : "Pomona",
 	zip       : "91767-2800",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(909)623-1579",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0800",
 		close     : "1600"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0800",
 		close     : "1200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0800",
 		close     : "1600"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0800",
 		close     : "1200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0800",
 		close     : "1600"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/salvation-army-pomona/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -10467,36 +13773,74 @@ var locations = [
 	city      : "Redondo Beach",
 	zip       : "90277",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(310)318-2827",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0900",
 		close     : "1100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0900",
 		close     : "1100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0900",
 		close     : "1100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0900",
 		close     : "1100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0900",
 		close     : "1100"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/salvation-army-redondo-beach/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -10508,36 +13852,66 @@ var locations = [
 	city      : "Newhall",
 	zip       : "91321",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(661)799-7486",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0900",
 		close     : "1500"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0900",
 		close     : "1500"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0900",
 		close     : "1500"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0900",
 		close     : "1500"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/salvation-army-santa-clarita-valley-corps/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -10549,36 +13923,66 @@ var locations = [
 	city      : "Whittier",
 	zip       : "90606",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(562)696-9562",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tue",
 		open      : "1300",
 		close     : "1600"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "1300",
 		close     : "1600"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "1300",
 		close     : "1600"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "1300",
 		close     : "1600"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/salvation-army-santa-fe-springs/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -10590,36 +13994,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90001",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)586-0759",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "1100",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/salvation-army-south-l-a-/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -10631,36 +14041,42 @@ var locations = [
 	city      : "Huntington Park",
 	zip       : "90255",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)587-4221",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu",
 		open      : "1300",
 		close     : "1500"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/salvation-army-southeast-comm-corp/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -10672,36 +14088,74 @@ var locations = [
 	city      : "Whittier",
 	zip       : "90602",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(562)698-8348",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "1300",
 		close     : "1445"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "1300",
 		close     : "1445"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "1300",
 		close     : "1445"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "1300",
 		close     : "1445"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "1300",
 		close     : "1445"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/salvation-army-whittier-corp-/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -10713,36 +14167,42 @@ var locations = [
 	city      : "San Gabriel",
 	zip       : "91776",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(626)457-3035",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sun",
 		open      : "0800",
 		close     : "1000"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/san-gabriel-mission/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -10754,36 +14214,42 @@ var locations = [
 	city      : "La Puente",
 	zip       : "91746",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(626)333-0294",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri",
 		open      : "0900",
 		close     : "1100"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/san-gabriel-valley-y-w-c-a-/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -10795,36 +14261,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90059",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)569-5951",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat3rd",
 		open      : "0800",
 		close     : "0930"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/san-miguel-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -10836,36 +14308,50 @@ var locations = [
 	city      : "San Pedro",
 	zip       : "90731",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(310)832-7228",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri",
 		open      : "0900",
 		close     : "1200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "1400",
 		close     : "1500"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/san-pedro-temple-corps/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -10877,36 +14363,42 @@ var locations = [
 	city      : "Newhall",
 	zip       : "91321",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(661)255-9078",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri3rd",
 		open      : "0900",
 		close     : "1200"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/santa-clarita-valley/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -10918,36 +14410,50 @@ var locations = [
 	city      : "La Puente",
 	zip       : "91744",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(626)918-3227",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tue",
 		open      : "1500",
 		close     : "1800"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "1500",
 		close     : "1800"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/servants-arms-community-based-organization/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -10959,36 +14465,42 @@ var locations = [
 	city      : "Lancaster",
 	zip       : "93534",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(661)400-2570",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "SatLast",
 		open      : "1330",
 		close     : "1430"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/shekinah-worship-center/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -11000,36 +14512,50 @@ var locations = [
 	city      : "Glendora",
 	zip       : "91740",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(626)852-7630",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "1700",
 		close     : "1900"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "1700",
 		close     : "1900"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/shepherds-pantry/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -11041,36 +14567,50 @@ var locations = [
 	city      : "Pasadena",
 	zip       : "91104",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(626)773-0505",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu1st",
 		open      : "1200",
 		close     : "1400"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu3rd",
 		open      : "1200",
 		close     : "1400"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/shield-of-faith-christian-center-of-pasadena/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -11082,36 +14622,42 @@ var locations = [
 	city      : "Lynwood",
 	zip       : "90262",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)242-5000",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu",
 		open      : "1000",
 		close     : "1400"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/shields-for-families/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -11123,36 +14669,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90027",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)663-3151",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "1730",
 		close     : "1830"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/silverlake-community-church-hope-net/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -11164,36 +14716,74 @@ var locations = [
 	city      : "Huntington Park",
 	zip       : "90255",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)585-8254",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0900",
 		close     : "1600"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0900",
 		close     : "1600"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0900",
 		close     : "1600"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0900",
 		close     : "1600"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0900",
 		close     : "1600"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/southeast-churches-service-center/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -11205,36 +14795,50 @@ var locations = [
 	city      : "La Verne",
 	zip       : "91750",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(909)392-5777",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed1st",
 		open      : "1100",
 		close     : "1600"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed3rd",
 		open      : "1100",
 		close     : "1600"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/sowing-seeds-for-life/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -11246,36 +14850,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90033",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)222-7063",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "1800",
 		close     : "1930"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/spanish-american-s-d-a-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -11287,36 +14897,66 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90007",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)731-2464",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0900",
 		close     : "1030"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0900",
 		close     : "1030"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0900",
 		close     : "1030"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0900",
 		close     : "1030"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/st-agnes-parish/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -11328,36 +14968,42 @@ var locations = [
 	city      : "Pasadena",
 	zip       : "91103",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(626) 79-4183",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat",
 		open      : "0900",
 		close     : "1100"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/st-andrew-catholic-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -11369,36 +15015,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90026",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(213)908-8827",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri",
 		open      : "0800",
 		close     : "1030"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/st-athanasius-st-paul-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -11410,36 +15062,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90062",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)292-0781",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri3rd",
 		open      : "0930",
 		close     : "1100"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/st-brigid-catholic-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -11451,36 +15109,42 @@ var locations = [
 	city      : "Torrance",
 	zip       : "90504",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(310)329-0993",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "SatLast",
 		open      : "1100",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/st-catherine-laboure-catholic/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -11492,36 +15156,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90037",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "((32)) 2-6628",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat3rd",
 		open      : "0900",
 		close     : "1030"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/st-cecilia-catholic-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -11533,36 +15203,66 @@ var locations = [
 	city      : "North Hollywood",
 	zip       : "91602",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(818)985-7365",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tue",
 		open      : "0900",
 		close     : "1145"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0900",
 		close     : "1145"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0900",
 		close     : "1145"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0900",
 		close     : "1145"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/st-charles-service-center/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -11574,36 +15274,50 @@ var locations = [
 	city      : "San Fernando",
 	zip       : "91340",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(818)365-3194",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri2nd",
 		open      : "0900",
 		close     : "1100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri4th",
 		open      : "0900",
 		close     : "1100"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/st-ferdinand-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -11615,36 +15329,58 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90015",
 	category  : "Food Pantry",
-	hours     : [{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
+	website   : "http://sfcla.org",
+	phone     : "(213) 747-5347",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "1100",
 		close     : "1230"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "1100",
 		close     : "1230"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "1100",
 		close     : "1230"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/st-francis-center/"
+	
+
+	, content   : "<p>For 45 years, St. Francis Center has provided hunger relief and human services to homeless and extremely low-income families and individuals in Los Angeles.</p>  <p><strong>All program recipients must first register on Tuesdays between 10am-noon.</strong> Please visit the <a href=\"http://sfcla.org/programs/family-well-being/\">St. Francis Center website</a> for more details.</p> "
+	
 },
 
 {
@@ -11656,36 +15392,50 @@ var locations = [
 	city      : "Bellflower",
 	zip       : "90706",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(562)862-0273",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu2nd",
 		open      : "1600",
 		close     : "1800"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu4th",
 		open      : "1600",
 		close     : "1800"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/st-george-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -11697,36 +15447,50 @@ var locations = [
 	city      : "Bell Gardens",
 	zip       : "90201",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(562)927-4495",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri2nd",
 		open      : "1100",
 		close     : "1300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri4th",
 		open      : "1100",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/st-gertrudes-conference/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -11738,36 +15502,42 @@ var locations = [
 	city      : "South Gate",
 	zip       : "90280",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)563-3522",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat4th",
 		open      : "0800",
 		close     : "1000"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/st-helen-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -11779,36 +15549,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90010",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)934-5870",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu",
 		open      : "0800",
 		close     : "0900"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/st-james-episcopal-church-hope-net/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -11820,36 +15596,50 @@ var locations = [
 	city      : "Covina",
 	zip       : "91724",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(562)691-0299",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu2nd",
 		open      : "1700",
 		close     : "1900"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu4th",
 		open      : "1700",
 		close     : "1900"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/st-john-coptic-orthodox/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -11861,36 +15651,42 @@ var locations = [
 	city      : "Hacienda Heights",
 	zip       : "91745",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(626)330-2269",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat",
 		open      : "0830",
 		close     : "1230"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/st-john-vianney-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -11902,36 +15698,50 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90007",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(213)747-6285",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tue",
 		open      : "0700",
 		close     : "0830"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0700",
 		close     : "0830"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/st-johns-cathedral-hope-net/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -11943,36 +15753,58 @@ var locations = [
 	city      : "Pomona",
 	zip       : "91768",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(909)469-9773",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0900",
 		close     : "1100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0900",
 		close     : "1100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0900",
 		close     : "1100"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/st-joseph-conference/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -11984,36 +15816,50 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90002",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)567-1439",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tue",
 		open      : "0700",
 		close     : "0830"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0700",
 		close     : "0830"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/st-lawrence-of-brindisi/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -12025,36 +15871,42 @@ var locations = [
 	city      : "Temple City",
 	zip       : "91780",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(626)291-5900",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri",
 		open      : "1300",
 		close     : "1400"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/st-luke-catholic-community/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -12066,36 +15918,58 @@ var locations = [
 	city      : "Lennox",
 	zip       : "90304",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(310)672-2208",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0900",
 		close     : "1600"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0900",
 		close     : "1600"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0900",
 		close     : "1600"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/st-margarets-center/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -12107,36 +15981,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90011",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)231-1040",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "0800",
 		close     : "1000"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/st-mark-missionary-baptist/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -12148,36 +16028,50 @@ var locations = [
 	city      : "Northridge",
 	zip       : "91325",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(818)342-4414",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sun3rd",
 		open      : "0900",
 		close     : "1400"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue3rd",
 		open      : "0900",
 		close     : "1400"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/st-mary-st-athanasius-coptic-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -12189,36 +16083,66 @@ var locations = [
 	city      : "Whittier",
 	zip       : "90602",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(562)698-0107",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0900",
 		close     : "1200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0900",
 		close     : "1200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0900",
 		close     : "1200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat3rd",
 		open      : "1200",
 		close     : "1400"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/st-marys-place/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -12230,36 +16154,50 @@ var locations = [
 	city      : "Redondo Beach",
 	zip       : "90278",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(310)370-4319",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu1st",
 		open      : "0900",
 		close     : "1100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu3rd",
 		open      : "0900",
 		close     : "1100"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/st-pauls-methodist-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -12271,36 +16209,58 @@ var locations = [
 	city      : "Wilmington",
 	zip       : "90744",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(310)952-0144",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0900",
 		close     : "1100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0900",
 		close     : "1100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0900",
 		close     : "1100"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/st-peter-and-paul-poverty-program/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -12312,36 +16272,50 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90011",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)291-8917",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tue2nd",
 		open      : "0730",
 		close     : "0830"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue4th",
 		open      : "0730",
 		close     : "0830"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/st-philips-episcopal-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -12353,36 +16327,42 @@ var locations = [
 	city      : "Monterey Park",
 	zip       : "91754",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(626)573-9984",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat",
 		open      : "0930",
 		close     : "1130"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/st-stephens-community-outreach-program/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -12394,36 +16374,58 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90006",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)737-3325",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat1st",
 		open      : "0700",
 		close     : "0900"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat2nd",
 		open      : "0700",
 		close     : "0900"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat3rd",
 		open      : "0700",
 		close     : "0900"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/st-thomas-center/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -12435,36 +16437,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90007",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(213)749-8950",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu",
 		open      : "0800",
 		close     : "1100"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/st-vincent-de-paul-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -12476,36 +16484,50 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90007",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(213)746-6900",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat2nd",
 		open      : "0800",
 		close     : "0900"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat4th",
 		open      : "0800",
 		close     : "0900"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/star-christian-school/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -12517,36 +16539,58 @@ var locations = [
 	city      : "Tujunga",
 	zip       : "91042",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(818)352-2421",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "0900",
 		close     : "1130"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0900",
 		close     : "1130"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0900",
 		close     : "1130"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/sunland-tujunga-t-a-c-/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -12558,36 +16602,42 @@ var locations = [
 	city      : "Compton",
 	zip       : "90220",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(310)386-8803",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tue4th",
 		open      : "0900",
 		close     : "1200"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/tamarind-avenue-s-d-a-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -12599,36 +16649,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90062",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)291-6753",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu",
 		open      : "0800",
 		close     : "1030"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/testimonial-community-love-ctr/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -12640,36 +16696,58 @@ var locations = [
 	city      : "Venice",
 	zip       : "90291",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(310)821-6116",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0900",
 		close     : "1200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0900",
 		close     : "1200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0900",
 		close     : "1200"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/the-bible-tabernacle-venice/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -12681,36 +16759,90 @@ var locations = [
 	city      : "Santa Clarita",
 	zip       : "91351",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(661)252-5087",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sun",
 		open      : "1230",
 		close     : "1700"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Mon",
 		open      : "0900",
 		close     : "1700"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0900",
 		close     : "1700"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0900",
 		close     : "1700"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0900",
 		close     : "1700"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "1700",
 		close     : ""
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0900",
 		close     : "1700"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/food-pantry/the-bible-tabernacle/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -12722,36 +16854,50 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90029",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(213)675-8291",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat1st",
 		open      : "0700",
 		close     : "0800"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat3rd",
 		open      : "0700",
 		close     : "0800"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/the-great-vision-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -12763,36 +16909,50 @@ var locations = [
 	city      : "Bellflower",
 	zip       : "90706",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(562)866-8283",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed2nd",
 		open      : "2000",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed4th",
 		open      : "2000",
 		close     : "2100"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/the-lords-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -12804,36 +16964,50 @@ var locations = [
 	city      : "Hawthorne",
 	zip       : "90249",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(310)679-9099",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tue1st",
 		open      : "0700",
 		close     : "1000"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue3rd",
 		open      : "0700",
 		close     : "1000"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/tongan-community-service-center/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -12845,36 +17019,50 @@ var locations = [
 	city      : "Lancaster",
 	zip       : "93535",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(661)951-9881",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri2nd",
 		open      : "1100",
 		close     : "1230"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri4th",
 		open      : "1100",
 		close     : "1230"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/total-deliverance-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -12886,36 +17074,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90001",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)582-7797",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "1100",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/travelers-rest-missionary-b-c-/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -12927,36 +17121,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90018",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)735-0044",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "0930",
 		close     : "1045"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/trinity-baptist-church-l-a-/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -12968,36 +17168,42 @@ var locations = [
 	city      : "Pasadena",
 	zip       : "91106",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(626)792-1212",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tue",
 		open      : "1200",
 		close     : "1400"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/trinity-evangelical-lutheran-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -13009,36 +17215,82 @@ var locations = [
 	city      : "San Pedro",
 	zip       : "90732",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(310)742-3279",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sun",
 		open      : "0930",
 		close     : "1050"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "1300",
 		close     : "1500"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0930",
 		close     : "1050"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "1300",
 		close     : "1500"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0930",
 		close     : "1050"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "1500",
 		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	],
 	uri       : "/food-pantry/trinity-pantry-ministry/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -13050,36 +17302,34 @@ var locations = [
 	city      : "Pomona",
 	zip       : "91767",
 	category  : "Food Pantry",
-	hours     : [{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	website   : "http://www.umc.org/find-a-church/church/75538",
+	phone     : "(909) 629-9748",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/trinity-united-methodist-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -13091,36 +17341,66 @@ var locations = [
 	city      : "Tujunga",
 	zip       : "91042",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(818)352-1481",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "1100",
 		close     : "1300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "1100",
 		close     : "1300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat2nd",
 		open      : "1000",
 		close     : "1200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat4th",
 		open      : "1000",
 		close     : "1200"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/tujunga-united-methodist-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -13132,36 +17412,42 @@ var locations = [
 	city      : "Lake Los Angeles",
 	zip       : "93591",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(661)264-1215",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat2nd",
 		open      : "0800",
 		close     : "1130"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/twin-lakes-community-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -13173,36 +17459,50 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90062",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)766-0001",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sun1st",
 		open      : "1300",
 		close     : "1400"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun3rd",
 		open      : "1300",
 		close     : "1400"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/united-african-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -13214,36 +17514,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90003",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)758-1213",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "1100",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/united-gospel-outreach/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -13255,36 +17561,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90037",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)766-9889",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "1300",
 		close     : "1430"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/university-s-d-a-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -13296,36 +17608,42 @@ var locations = [
 	city      : "Glendale",
 	zip       : "91206",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(818)409-8056",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu3rd",
 		open      : "1200",
 		close     : "1500"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/vallejo-drive-s-d-a-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -13337,36 +17655,50 @@ var locations = [
 	city      : "Pacoima",
 	zip       : "91331",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(818)896-4488",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat2nd",
 		open      : "1430",
 		close     : "1600"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat4th",
 		open      : "1430",
 		close     : "1600"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/valley-crossroads-s-d-a-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -13378,36 +17710,42 @@ var locations = [
 	city      : "Torrance",
 	zip       : "90502",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(310)530-0533",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat3rd",
 		open      : "1000",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/vermont-avenue-baptist-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -13419,36 +17757,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90011",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)231-2424",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri",
 		open      : "0800",
 		close     : "1130"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/victory-baptist-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -13460,36 +17804,42 @@ var locations = [
 	city      : "Azusa",
 	zip       : "91702",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(626)335-4013",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri",
 		open      : "0900",
 		close     : "1500"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/village-covenant/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -13501,36 +17851,50 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90003",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)233-4647",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat2nd",
 		open      : "1500",
 		close     : "1600"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat4th",
 		open      : "1500",
 		close     : "1600"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/vision-of-hope-outreach-ministry/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -13542,36 +17906,50 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90011",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(310)920-1026",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat2nd",
 		open      : "1000",
 		close     : "1200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat4th",
 		open      : "1000",
 		close     : "1200"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/visions-community-outreach/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -13583,36 +17961,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90037",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)298-0727",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Thu",
 		open      : "1030",
 		close     : "1200"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/wesley-united-methodist-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -13624,36 +18008,50 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90016",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)731-6672",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Fri3rd",
 		open      : "1000",
 		close     : "1100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat4th",
 		open      : "1200",
 		close     : "1400"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/west-adams-church-of-christ/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -13665,36 +18063,58 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90016",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)751-3440",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0900",
 		close     : "1300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tues",
 		open      : "0900",
 		close     : "1300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0900",
 		close     : "1300"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/west-angeles-community-corporation/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -13706,36 +18126,50 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90033",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)264-2170",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tue1st",
 		open      : "1000",
 		close     : "1200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue3rd",
 		open      : "1000",
 		close     : "1200"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/white-memorial-s-d-a-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -13747,36 +18181,50 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90059",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)569-7676",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed3rd",
 		open      : "1700",
 		close     : "1900"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat2nd",
 		open      : "1000",
 		close     : "1200"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/willowbrook-project-area-commission/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -13788,36 +18236,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90010",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(213)388-2401",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sun",
 		open      : "0830",
 		close     : "0930"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/wilshire-boulevard-temple-hope-net/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -13829,36 +18283,42 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90020",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(213)387-5387",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "1100",
 		close     : "1200"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/wilshire-presbyterian-church-hope-net/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -13870,36 +18330,42 @@ var locations = [
 	city      : "Santa Monica",
 	zip       : "90401",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(310)450-4050",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tue",
 		open      : "1300",
 		close     : "1430"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/wsfb-ocean-park-community-ctr/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -13911,36 +18377,42 @@ var locations = [
 	city      : "Santa Monica",
 	zip       : "90404",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(310)829-4411",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Wed",
 		open      : "1600",
 		close     : "1730"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/wsfb-st-annes-social-service/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -13952,36 +18424,58 @@ var locations = [
 	city      : "Culver City",
 	zip       : "90232",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(310)838-2702",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0900",
 		close     : "1145"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0900",
 		close     : "1145"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0900",
 		close     : "1145"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/wsfb-st-augustine-saves/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -13993,36 +18487,58 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90066",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(310)390-5034",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tue",
 		open      : "0900",
 		close     : "1200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "1300",
 		close     : "1500"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "1300",
 		close     : "1500"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/wsfb-st-gerards-social-services/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -14034,36 +18550,74 @@ var locations = [
 	city      : "Venice",
 	zip       : "90291",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(310)396-6468",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "1000",
 		close     : "1200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "1300",
 		close     : "1500"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "1000",
 		close     : "1200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "1000",
 		close     : "1200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "1300",
 		close     : "1500"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/wsfb-st-josephs-center/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -14075,36 +18629,50 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90026",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(213)413-4154",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Sat2nd",
 		open      : "1500",
 		close     : "1545"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat4th",
 		open      : "1500",
 		close     : "1645"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/young-hwa-united-methodist-church/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -14116,36 +18684,50 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90043",
 	category  : "Food Pantry",
-	hours     : [{
+	website   : "",
+	phone     : "(323)753-4610",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Tue1st",
 		open      : "1000",
 		close     : "1200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue3rd",
 		open      : "1000",
 		close     : "1200"
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/food-pantry/zion-hill-baptist-church/"
+	
+
+	, content   : " "
+	
 }
 
 

@@ -12,36 +12,34 @@ var locations = [
 	city      : "San Fernando Valley",
 	zip       : "91331",
 	category  : "Community Garden",
-	hours     : [{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/community-garden/arleta/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -53,36 +51,34 @@ var locations = [
 	city      : "Chino",
 	zip       : "91710",
 	category  : "Community Garden",
-	hours     : [{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	website   : "http://www.cityofchino.org/government-services/community-services/healthy-chino/community-garden",
+	phone     : "909-334-3478",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/community-garden/chino-community-garden-park/"
+	
+
+	, content   : "<h2 id=\"schedule-a-group-tour\">Schedule a Group Tour</h2>  <p>Interested in scheduling a group tour? The Community Garden is accepts a limited number of private tours. For more information or to schedule a tour, please contact the Healthy Chino office at 909-334-3478 or <a href=\"healthychino@cityofchino.org\">healthychino@cityofchino.org</a>.</p> "
+	
 },
 
 {
@@ -94,36 +90,34 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90019",
 	category  : "Community Garden",
-	hours     : [{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	website   : "http://crenshawgarden.blogspot.com/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/community-garden/crenshaw/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -135,36 +129,34 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90041",
 	category  : "Community Garden",
-	hours     : [{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	website   : "https://www.facebook.com/Eagle-Rockdale-Community-Garden-Art-Park-121724107876620/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/community-garden/eagle-rockdale-art-park/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -176,36 +168,34 @@ var locations = [
 	city      : "Marina Del Rey",
 	zip       : "90292",
 	category  : "Community Garden",
-	hours     : [{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	website   : "http://www.eastwindgarden.com/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/community-garden/eastwind/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -217,36 +207,34 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90032",
 	category  : "Community Garden",
-	hours     : [{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	website   : "https://communitygarden.org/find-a-garden/gardens/el-sereno-community-garden/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/community-garden/el-sereno/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -258,36 +246,34 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90039",
 	category  : "Community Garden",
-	hours     : [{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	website   : "http://lagardencouncil.org/elysianvalley/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/community-garden/elysian-valley/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -299,36 +285,34 @@ var locations = [
 	city      : "Westchester",
 	zip       : "90045",
 	category  : "Community Garden",
-	hours     : [{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	website   : "http://www.eacgc.org/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/community-garden/emerson-avenue/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -340,36 +324,34 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90038",
 	category  : "Community Garden",
-	hours     : [{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	website   : "https://www.facebook.com/pages/Enrique-Noguera-Gardens/213260882100604",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/community-garden/enrique-noguera-educational-garden/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -381,36 +363,34 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90047",
 	category  : "Community Garden",
-	hours     : [{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	website   : "https://www.facebook.com/pages/Epworth-Community-Garden/246001935564389",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/community-garden/epworth/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -422,36 +402,34 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90007",
 	category  : "Community Garden",
-	hours     : [{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	website   : "http://www.lanlt.org/parks-and-gardens.php#erika",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/community-garden/erika-j-glazer/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -463,36 +441,34 @@ var locations = [
 	city      : "San Pedro",
 	zip       : "90731",
 	category  : "Community Garden",
-	hours     : [{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	website   : "http://www.feedandbefed.org",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/community-garden/feed-be-fed/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -504,36 +480,34 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90028",
 	category  : "Community Garden",
-	hours     : [{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	website   : "https://www.yelp.com/biz/fountain-community-garden-los-angeles",
+	phone     : "(323) 387-3241",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/community-garden/fountains/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -545,36 +519,34 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90003",
 	category  : "Community Garden",
-	hours     : [{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	website   : "http://www.fremontwccg.org/",
+	phone     : "213-572-0188",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/community-garden/fremont-wellness-center-/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -586,36 +558,34 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90065",
 	category  : "Community Garden",
-	hours     : [{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	website   : "http://glassellparknc.org/2015/03/community-garden-blooms-again/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/community-garden/glassell-park/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -627,36 +597,34 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90016",
 	category  : "Community Garden",
-	hours     : [{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/community-garden/good-earth/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -668,36 +636,34 @@ var locations = [
 	city      : "Granada Hills",
 	zip       : "91344",
 	category  : "Community Garden",
-	hours     : [{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	website   : "",
+	phone     : "818-368-4533",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/community-garden/granada-hills-salad-bowl-garden-club/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -709,36 +675,34 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90059",
 	category  : "Community Garden",
-	hours     : [{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/community-garden/greater-watts/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -750,36 +714,34 @@ var locations = [
 	city      : "Westchester",
 	zip       : "90045",
 	category  : "Community Garden",
-	hours     : [{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	website   : "http://www.holynativityparish.org/the-community-garden-at-holy-nativity/",
+	phone     : "(310) 670-4777",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/community-garden/holy-nativity/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -791,36 +753,34 @@ var locations = [
 	city      : "Tujunga",
 	zip       : "91042",
 	category  : "Community Garden",
-	hours     : [{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	website   : "https://www.facebook.com/pg/Finn-Community-Garden-1056595011050119/photos/?tab=album&album_id=1068115096564777",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/community-garden/howard-finn/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -832,36 +792,34 @@ var locations = [
 	city      : "Ontario",
 	zip       : "91761",
 	category  : "Community Garden",
-	hours     : [{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	website   : "http://www.huertadelvalle.org",
+	phone     : "909-509-2996​​",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/community-garden/huerta-del-valle-garden/"
+	
+
+	, content   : "<p>We offer tours ​on Monday, Tuesday, Thursday, and Saturday at 12:00 pm.</p>  <p><a href=\"http://www.huertadelvalle.org/toursvolunteer.html\">http://www.huertadelvalle.org/toursvolunteer.html</a></p> "
+	
 },
 
 {
@@ -873,36 +831,34 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90031",
 	category  : "Community Garden",
-	hours     : [{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/community-garden/jardin-del-rio/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -914,36 +870,34 @@ var locations = [
 	city      : "San Pedro",
 	zip       : "90731",
 	category  : "Community Garden",
-	hours     : [{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/community-garden/john-s-gibson-senior-garden/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -955,36 +909,34 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90038",
 	category  : "Community Garden",
-	hours     : [{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	website   : "https://www.facebook.com/Mansfield-Fountain-Community-Garden-Hollywood-CA-1062186980476336/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/community-garden/mansfield-fountain/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -996,36 +948,34 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90029",
 	category  : "Community Garden",
-	hours     : [{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	website   : "https://www.facebook.com/pages/Manzanita-Street-Organic-Community-Garden/398760433516388",
+	phone     : "(323) 533-3235",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/community-garden/manzanita-street/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1037,36 +987,34 @@ var locations = [
 	city      : "Culver City",
 	zip       : "90230",
 	category  : "Community Garden",
-	hours     : [{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	website   : "https://www.oceanviewfarms.net/location.php",
+	phone     : "310-915-1123",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/community-garden/mar-vista/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1078,36 +1026,34 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90045",
 	category  : "Community Garden",
-	hours     : [{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/community-garden/messiah-organic/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1119,36 +1065,34 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90042",
 	category  : "Community Garden",
-	hours     : [{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	website   : "https://communitygarden.org/find-a-garden/gardens/milagro-allegro-community-garden/",
+	phone     : "323-256-7122",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/community-garden/milagro-allegro/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1160,36 +1104,34 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90005",
 	category  : "Community Garden",
-	hours     : [{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/community-garden/moothart-collingnon-francis-avenue/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1201,36 +1143,34 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90027",
 	category  : "Community Garden",
-	hours     : [{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/community-garden/norman-harriton/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1242,36 +1182,34 @@ var locations = [
 	city      : "Mar Vista",
 	zip       : "90066",
 	category  : "Community Garden",
-	hours     : [{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	website   : "https://www.oceanviewfarms.net/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/community-garden/ocean-view-farms/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1283,36 +1221,34 @@ var locations = [
 	city      : "West Hills",
 	zip       : "91304",
 	category  : "Community Garden",
-	hours     : [{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/community-garden/orcutt-ranch-horticultural-center-rancho-sombra-del-roble/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1324,36 +1260,34 @@ var locations = [
 	city      : "Pomona",
 	zip       : "91767",
 	category  : "Community Garden",
-	hours     : [{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	website   : "http://www.pomonahope.org/what-we-do/current-programs/community-garden/",
+	phone     : "909-918-4769",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/community-garden/pomona-hope-center-street-garden/"
+	
+
+	, content   : "<p>The garden is located on the southwest corner of Center Street and Gibbs Avenue.</p>  <p>For more information visit the <a href=\"http://www.centerstreetgarden.org\">Center Street Community Garden website</a></p>  <p>You can also reach the Garden Coordinator, Barbara Evans, at 909-918-4769.</p> "
+	
 },
 
 {
@@ -1365,36 +1299,34 @@ var locations = [
 	city      : "Pomona",
 	zip       : "91766",
 	category  : "Community Garden",
-	hours     : [{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	website   : "https://www.facebook.com/SHPChurchOnline/",
+	phone     : "909-629-0492",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/community-garden/pomona-south-hills-gardens/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1406,36 +1338,34 @@ var locations = [
 	city      : "San Pedro",
 	zip       : "90731",
 	category  : "Community Garden",
-	hours     : [{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/community-garden/rancho-san-pedro/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1447,36 +1377,34 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90004",
 	category  : "Community Garden",
-	hours     : [{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	website   : "",
+	phone     : "(323) 821-7748",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/community-garden/rosewood-gardens/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1488,36 +1416,34 @@ var locations = [
 	city      : "Pomona",
 	zip       : "91767",
 	category  : "Community Garden",
-	hours     : [{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	website   : "http://www.saintpaulspomona.org/ministries/",
+	phone     : "909-622-2015",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/community-garden/saint-paul-s-episcopal-church/"
+	
+
+	, content   : "<p><a href=\"http://seedsofhope.ladiocese.org/\">Seeds of Hope</a> is a ministry of the Episcopal Diocese of Los Angeles which works with congregations, communities, and schools, to turn unused land into productive and beautiful gardens and orchards that provide fresh and nutritious foods to areas of need across the county. Join us for our garden work days at St. Paul’s to help us grow this ministry of sustainable food justice! To catch an upcoming work day, stay tuned to our <a href=\"http://www.saintpaulspomona.org/events\">calendar of events</a></p> "
+	
 },
 
 {
@@ -1529,36 +1455,34 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90033",
 	category  : "Community Garden",
-	hours     : [{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/community-garden/salesian-boys-girls-club/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1570,36 +1494,34 @@ var locations = [
 	city      : "San Pedro",
 	zip       : "90731",
 	category  : "Community Garden",
-	hours     : [{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/community-garden/san-pedro-gardens/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1611,36 +1533,34 @@ var locations = [
 	city      : "Pomona",
 	zip       : "91766",
 	category  : "Community Garden",
-	hours     : [{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	website   : "http://sarvodayafarms.com",
+	phone     : "909 660 3514",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/community-garden/sarvodaya-farms/"
+	
+
+	, content   : "<p>Sarvodaya Farms is located in the backyard of a residence across from Washington Park.</p>  <h2 id=\"visiting-hours\">Visiting Hours</h2>  <dl>   <dt>Monday</dt>   <dd>9am – 12pm</dd>   <dt>Friday</dt>   <dd>9am – 12pm</dd> </dl>  <p><em>Farming is hard work and we occasionally take a day off. Call ahead if you want to make sure we are around! 909 660 3514</em></p> "
+	
 },
 
 {
@@ -1652,36 +1572,34 @@ var locations = [
 	city      : "Encino",
 	zip       : "91436",
 	category  : "Community Garden",
-	hours     : [{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	website   : "http://www.laparks.org/horticulture/sepulveda-garden-center",
+	phone     : "(818) 784-5180",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/community-garden/sepulveda-garden-center/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1693,36 +1611,34 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90012",
 	category  : "Community Garden",
-	hours     : [{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	website   : "https://www.facebook.com/Solano-Canyon-Community-Garden-133534380050987/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/community-garden/solano-canyon/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1734,36 +1650,34 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90012",
 	category  : "Community Garden",
-	hours     : [{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	website   : "https://springstreetcommunitygarden.org",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/community-garden/spring-street/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1775,36 +1689,34 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90059",
 	category  : "Community Garden",
-	hours     : [{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/community-garden/stanford-avalon/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1816,36 +1728,34 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90006",
 	category  : "Community Garden",
-	hours     : [{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	website   : "http://www.thelearninggarden.org/",
+	phone     : "(310) 722-3656",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/community-garden/the-learning-garden/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1857,36 +1767,34 @@ var locations = [
 	city      : "Pomona",
 	zip       : "91766",
 	category  : "Community Garden",
-	hours     : [{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	website   : "http://www.umpomona.org",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/community-garden/urban-mission-garden/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1898,36 +1806,34 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90037",
 	category  : "Community Garden",
-	hours     : [{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/community-garden/vermont-square/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1939,36 +1845,34 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90046",
 	category  : "Community Garden",
-	hours     : [{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	},{
-		day       : "",
-		open      : "",
-		close     : ""
-	}],
+	website   : "http://www.wattlesfarm.com/",
+	phone     : "(323) 663-7441",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
 	uri       : "/community-garden/wattles-farm/"
+	
+
+	, content   : " "
+	
 }
 
 

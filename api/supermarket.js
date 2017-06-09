@@ -12,36 +12,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90039",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "365bywholefoods.com",
+	phone     : "(323) 378-3891",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/365-by-whole-foods-market-2520-glendale-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -53,36 +107,90 @@ var locations = [
 	city      : "Covina",
 	zip       : "91722",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com/",
+	phone     : "(626) 974-4582",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "900",
 		close     : "1900"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "900",
 		close     : "1900"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "900",
 		close     : "1900"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "900",
 		close     : "1900"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "900",
 		close     : "1900"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "900",
 		close     : "1700"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "1000",
 		close     : "1800"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-1000-n-azusa-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -94,36 +202,90 @@ var locations = [
 	city      : "Glendale",
 	zip       : "91204",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com",
+	phone     : "(818) 244-8109",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-1000-s-central-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -135,36 +297,90 @@ var locations = [
 	city      : "Lancaster",
 	zip       : "93535",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "",
+	phone     : "(661) 948-9620",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-101-e-avenue-e/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -176,36 +392,90 @@ var locations = [
 	city      : "Long Beach",
 	zip       : "90806",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com",
+	phone     : "(562) 988-8785",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-101-e-willow-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -217,36 +487,90 @@ var locations = [
 	city      : "Lancaster",
 	zip       : "93535",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com/",
+	phone     : "(661) 948-7332",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-1010-e-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -258,36 +582,90 @@ var locations = [
 	city      : "Covina",
 	zip       : "91724",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com/",
+	phone     : "(626) 332-1060",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-1023-n-grand-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -299,36 +677,90 @@ var locations = [
 	city      : "Carson",
 	zip       : "90745",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com/",
+	phone     : "(310) 835-6402",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-110-e-carson-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -340,36 +772,90 @@ var locations = [
 	city      : "Chino",
 	zip       : "91710",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com",
+	phone     : "(909) 464-1594",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-12013-central-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -381,36 +867,90 @@ var locations = [
 	city      : "Wilmington",
 	zip       : "90744",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com",
+	phone     : "(310) 835-1427",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-1222-n-avalon-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -422,36 +962,90 @@ var locations = [
 	city      : "Diamond Bar",
 	zip       : "91765",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com",
+	phone     : "(909) 861-6207",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-1235-s-diamond-bar-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -463,36 +1057,90 @@ var locations = [
 	city      : "Hawthorne",
 	zip       : "90250",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com",
+	phone     : "(310) 675-9494",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-12630-hawthorne-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -504,36 +1152,90 @@ var locations = [
 	city      : "Whittier",
 	zip       : "90602",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com",
+	phone     : "(562) 696-5025",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "1200",
 		close     : "1500"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "1200",
 		close     : "1500"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "1200",
 		close     : "1500"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "1200",
 		close     : "1500"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "1200",
 		close     : "1500"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "1200",
 		close     : "1500"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "1200",
 		close     : "1500"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-13003-whittier-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -545,36 +1247,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90065",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com",
+	phone     : "(323) 222-0121",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "900",
 		close     : "1700"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "1000",
 		close     : "1600"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-133-w-avenue-45/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -586,36 +1342,90 @@ var locations = [
 	city      : "Glendora",
 	zip       : "91740",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com/",
+	phone     : "(626) 963-5358",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-133-w-route-66/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -627,36 +1437,90 @@ var locations = [
 	city      : "Venice",
 	zip       : "90292",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com",
+	phone     : "(310) 574-0606",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "0"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-13401-washington-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -668,36 +1532,90 @@ var locations = [
 	city      : "Hawthorne",
 	zip       : "90250",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com/",
+	phone     : "(310) 644-7200",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-14401-inglewood-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -709,36 +1627,90 @@ var locations = [
 	city      : "Redondo Beach",
 	zip       : "90277",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com/",
+	phone     : "(310) 316-3551",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-1516-s-pacific-coast-hwy/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -750,36 +1722,90 @@ var locations = [
 	city      : "La Mirada",
 	zip       : "90638",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com",
+	phone     : "(714) 521-2310",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-15200-rosecrans-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -791,36 +1817,90 @@ var locations = [
 	city      : "Chino Hills",
 	zip       : "91709",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com/",
+	phone     : "(909) 606-8184",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "900",
 		close     : "1700"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "1000",
 		close     : "1800"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-15970-los-serranos-country-club-dr/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -832,36 +1912,90 @@ var locations = [
 	city      : "Granada Hills",
 	zip       : "91344",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com",
+	phone     : "(818) 366-9555",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "900",
 		close     : "1700"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "1000",
 		close     : "1800"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-16201-san-fernando-mission-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -873,36 +2007,90 @@ var locations = [
 	city      : "San Pedro",
 	zip       : "90732",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com/",
+	phone     : "(310) 831-1161",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-1636-w-25th-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -914,36 +2102,90 @@ var locations = [
 	city      : "Hacienda Heights",
 	zip       : "91745",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com",
+	phone     : "(626) 964-7737",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "900",
 		close     : "1700"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "1000",
 		close     : "1800"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-17120-colima-rd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -955,36 +2197,90 @@ var locations = [
 	city      : "Gardena",
 	zip       : "90248",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com/",
+	phone     : "(310) 380-4620",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-1735-w-artesia-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -996,36 +2292,90 @@ var locations = [
 	city      : "Thousand Oaks",
 	zip       : "91362",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com/",
+	phone     : "(805) 493-1551",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-1736-e-avenida-de-los-arboles/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1037,36 +2387,90 @@ var locations = [
 	city      : "La Habra",
 	zip       : "90631",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com",
+	phone     : "(562) 697-6442",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-1800-w-whittier-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1078,36 +2482,90 @@ var locations = [
 	city      : "Porter Ranch",
 	zip       : "91324",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com",
+	phone     : "(818) 368-3694",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-18555-devonshire-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1119,36 +2577,90 @@ var locations = [
 	city      : "Walnut",
 	zip       : "91789",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com",
+	phone     : "(626) 965-7377",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "900",
 		close     : "1700"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "1000",
 		close     : "1800"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-18730-amar-rd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1160,36 +2672,90 @@ var locations = [
 	city      : "Reseda",
 	zip       : "91335",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com",
+	phone     : "(818) 772-0010",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-19307-saticoy-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1201,36 +2767,90 @@ var locations = [
 	city      : "Rowland Heights",
 	zip       : "91748",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com/",
+	phone     : "(909) 869-7886",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "900",
 		close     : "1700"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "1000",
 		close     : "1800"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-19725-colima-rd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1242,36 +2862,90 @@ var locations = [
 	city      : "Carson",
 	zip       : "90745",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com/",
+	phone     : "(310) 513-1900",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-200-e-sepulveda-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1283,36 +2957,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90027",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com",
+	phone     : "(323) 660-0687",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-2035-hillhurst-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1324,36 +3052,90 @@ var locations = [
 	city      : "Torrance",
 	zip       : "90503",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com",
+	phone     : "(310) 540-6824",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "900",
 		close     : "1700"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "1000",
 		close     : "1800"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-21035-hawthorne-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1365,36 +3147,90 @@ var locations = [
 	city      : "Redondo Beach",
 	zip       : "90278",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com/",
+	phone     : "(310) 542-2122",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-2115-artesia-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1406,36 +3242,90 @@ var locations = [
 	city      : "Lomita",
 	zip       : "90717",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com/",
+	phone     : "(310) 326-3351",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-2130-pacific-coast-hwy/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1447,36 +3337,90 @@ var locations = [
 	city      : "San Dimas",
 	zip       : "91773",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com",
+	phone     : "(909) 599-8836",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-220-e-bonita-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1488,36 +3432,90 @@ var locations = [
 	city      : "Woodland Hills",
 	zip       : "91367",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com",
+	phone     : "(818) 883-6565",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "900",
 		close     : "1800"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "1000",
 		close     : "1800"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-22840-victory-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1529,36 +3527,90 @@ var locations = [
 	city      : "Valencia",
 	zip       : "91355",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://vallartasupermarkets.com",
+	phone     : "(661) 259-3342",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-23449-lyons-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1570,36 +3622,90 @@ var locations = [
 	city      : "Valencia",
 	zip       : "91354",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com",
+	phone     : "(661) 775-0163",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-23850-copperhill-dr/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1611,36 +3717,90 @@ var locations = [
 	city      : "Alhambra",
 	zip       : "91803",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com",
+	phone     : "(626) 293-7100",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-2400-w-commonwealth-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1652,36 +3812,90 @@ var locations = [
 	city      : "Montebello",
 	zip       : "90640",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com/",
+	phone     : "(323) 888-2250",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-2469-via-campo/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1693,36 +3907,90 @@ var locations = [
 	city      : "Brea",
 	zip       : "92821",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com",
+	phone     : "(714) 671-1180",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-2500-e-imperial-hwy/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1734,36 +4002,90 @@ var locations = [
 	city      : "Hermosa Beach",
 	zip       : "90254",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com/",
+	phone     : "(310) 379-7437",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "1130",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "1130",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "1130",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "1130",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "1130",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "1130",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "1000",
 		close     : "2130"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-2510-pacific-coast-hwy/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1775,36 +4097,90 @@ var locations = [
 	city      : "Rosamond",
 	zip       : "93560",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com",
+	phone     : "(661) 256-0756",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-2547-w-rosamond-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1816,36 +4192,90 @@ var locations = [
 	city      : "Santa Monica",
 	zip       : "90405",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com/",
+	phone     : "(310) 452-3811",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-2627-lincoln-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1857,36 +4287,90 @@ var locations = [
 	city      : "West Covina",
 	zip       : "91791",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "",
+	phone     : "(626) 915-5555",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "900",
 		close     : "1700"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "1000",
 		close     : "1800"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-2630-e-workman-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1898,36 +4382,90 @@ var locations = [
 	city      : "Calabasas",
 	zip       : "91302",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com/",
+	phone     : "(818) 880-9080",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "500",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-26521-agoura-rd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1939,36 +4477,90 @@ var locations = [
 	city      : "Valencia",
 	zip       : "91381",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://ems02013.egain.net/CustomerInquiries",
+	phone     : "(661) 799-8516",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "900",
 		close     : "1700"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "1000",
 		close     : "1800"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-26850-the-old-rd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -1980,36 +4572,90 @@ var locations = [
 	city      : "Santa Clarita",
 	zip       : "91350",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com/",
+	phone     : "(661) 296-9655",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-27631-bouquet-canyon-rd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2021,36 +4667,90 @@ var locations = [
 	city      : "San Pedro",
 	zip       : "90732",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com/",
+	phone     : "(310) 831-1323",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-28090-s-western-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2062,36 +4762,90 @@ var locations = [
 	city      : "Arcadia",
 	zip       : "91006",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com/",
+	phone     : "(626) 446-1416",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-298-e-live-oak-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2103,36 +4857,90 @@ var locations = [
 	city      : "Pomona",
 	zip       : "91767",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com",
+	phone     : "(909) 392-1555",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "0"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-3180-n-garey-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2144,36 +4952,90 @@ var locations = [
 	city      : "Chino Hills",
 	zip       : "91709",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com/",
+	phone     : "(909) 590-3660",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-3255-grand-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2185,36 +5047,90 @@ var locations = [
 	city      : "Long Beach",
 	zip       : "90805",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com",
+	phone     : "(562) 529-6098",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-3400-e-south-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2226,36 +5142,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90034",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com",
+	phone     : "(310) 390-7857",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-3443-s-sepulveda-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2267,36 +5237,90 @@ var locations = [
 	city      : "El Monte",
 	zip       : "91732",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com",
+	phone     : "(626) 442-4020",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-3828-peck-rd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2308,36 +5332,90 @@ var locations = [
 	city      : "Burbank",
 	zip       : "91505",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com/",
+	phone     : "(818) 954-0817",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-3830-w-verdugo-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2349,36 +5427,90 @@ var locations = [
 	city      : "Pasadena",
 	zip       : "91107",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com",
+	phone     : "(626) 351-0076",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-3841-e-sierra-madre-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2390,36 +5522,90 @@ var locations = [
 	city      : "Palmdale",
 	zip       : "93551",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com",
+	phone     : "(661) 274-9557",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-38727-tierra-subida-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2431,36 +5617,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90008",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com/",
+	phone     : "(323) 295-1919",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-3901-crenshaw-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2472,36 +5712,90 @@ var locations = [
 	city      : "South Gate",
 	zip       : "90280",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://albertsons.com",
+	phone     : "(323) 569-1588",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "0"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-4155-tweedy-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2513,36 +5807,90 @@ var locations = [
 	city      : "Lancaster",
 	zip       : "93534",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com/",
+	phone     : "(661) 940-4747",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-43543-20th-st-w/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2554,36 +5902,90 @@ var locations = [
 	city      : "Long Beach",
 	zip       : "90802",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com",
+	phone     : "(562) 436-0678",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-450-long-beach-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2595,36 +5997,90 @@ var locations = [
 	city      : "Lakewood",
 	zip       : "90712",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com",
+	phone     : "(562) 634-0405",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-5015-del-amo-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2636,36 +6092,90 @@ var locations = [
 	city      : "Palmdale",
 	zip       : "93551",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com",
+	phone     : "(661) 718-3732",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-5038-w-avenue-n/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2677,36 +6187,90 @@ var locations = [
 	city      : "Thousand Oaks",
 	zip       : "91362",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com/",
+	phone     : "(818) 889-9819",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-5770-lindero-canyon-rd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2718,36 +6282,90 @@ var locations = [
 	city      : "Redondo Beach",
 	zip       : "90277",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com/",
+	phone     : "(310) 376-2170",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-615-n-pacific-coast-hwy/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2759,36 +6377,90 @@ var locations = [
 	city      : "Long Beach",
 	zip       : "90808",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com",
+	phone     : "(562) 425-8456",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "900",
 		close     : "1700"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "1000",
 		close     : "1800"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-6235-e-spring-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2800,36 +6472,90 @@ var locations = [
 	city      : "Tujunga",
 	zip       : "91042",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com/",
+	phone     : "(818) 248-2745",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-6240-foothill-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2841,36 +6567,90 @@ var locations = [
 	city      : "Long Beach",
 	zip       : "90803",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com/",
+	phone     : "(562) 430-4822",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-6255-e-2nd-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2882,36 +6662,90 @@ var locations = [
 	city      : "Long Beach",
 	zip       : "90814",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com",
+	phone     : "(562) 439-4004",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-644-redondo-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2923,36 +6757,90 @@ var locations = [
 	city      : "Van Nuys",
 	zip       : "91405",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com",
+	phone     : "(818) 787-8035",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "900",
 		close     : "1700"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "1000",
 		close     : "1800"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-7227-van-nuys-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -2964,36 +6852,90 @@ var locations = [
 	city      : "Monrovia",
 	zip       : "91016",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com/",
+	phone     : "(626) 305-4231",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "900",
 		close     : "1700"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "1000",
 		close     : "1800"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-725-e-huntington-dr/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3005,36 +6947,90 @@ var locations = [
 	city      : "Downey",
 	zip       : "90241",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com/",
+	phone     : "(562) 869-9670",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-7676-firestone-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3046,36 +7042,90 @@ var locations = [
 	city      : "Downey",
 	zip       : "90241",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com",
+	phone     : "(562) 862-7513",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "",
 		close     : ""
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-8320-firestone-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3087,36 +7137,90 @@ var locations = [
 	city      : "Montebello",
 	zip       : "90640",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com",
+	phone     : "(323) 724-0462",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-855-n-wilcox-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3128,36 +7232,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90034",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com/",
+	phone     : "(310) 202-6167",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-8985-venice-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3169,36 +7327,90 @@ var locations = [
 	city      : "North Hills",
 	zip       : "91325",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.albertsons.com/",
+	phone     : "(818) 894-6415",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/albertsons-9022-balboa-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3210,36 +7422,90 @@ var locations = [
 	city      : "Cerritos",
 	zip       : "90703",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.aldi.us/",
+	phone     : "(562) 860-8224",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "900",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/aldi-11530-south-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3251,36 +7517,90 @@ var locations = [
 	city      : "Covina",
 	zip       : "91722",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.aldi.us/",
+	phone     : "(626) 331-1112",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "900",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/aldi-1400-n-azusa-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3292,36 +7612,90 @@ var locations = [
 	city      : "Downey",
 	zip       : "90241",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.aldi.us/",
+	phone     : "(562) 622-4713",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "900",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/aldi-8530-firestone-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3333,36 +7707,90 @@ var locations = [
 	city      : "Long Beach",
 	zip       : "90805",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.bigsaverfoods.com",
+	phone     : "(562) 423-2800",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/big-saver-foods-1313-e-artesia-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3374,36 +7802,90 @@ var locations = [
 	city      : "Lawndale",
 	zip       : "90260",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.bigsaverfoods.com/",
+	phone     : "(310) 331-4558",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/big-saver-foods-14310-hawthorne-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3415,36 +7897,90 @@ var locations = [
 	city      : "Long Beach",
 	zip       : "90810",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.bigsaverfoods.com/",
+	phone     : "(562) 595-7595",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/big-saver-foods-1500-w-willow-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3456,36 +7992,90 @@ var locations = [
 	city      : "Bellflower",
 	zip       : "90706",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.bigsaverfoods.com/",
+	phone     : "(562) 920-7912",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/big-saver-foods-16000-woodruff-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3497,36 +8087,90 @@ var locations = [
 	city      : "Long Beach",
 	zip       : "90804",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.bigsaverfoods.com/",
+	phone     : "(562) 438-4499",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/big-saver-foods-2300-e-7th-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3538,36 +8182,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90065",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://bigsaverfoods.com",
+	phone     : "(323) 222-0113",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/big-saver-foods-2619-n-figueroa-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3579,36 +8277,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90031",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://bigsaverfoods.com",
+	phone     : "(323) 222-3524",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/big-saver-foods-3000-n-broadway/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3620,36 +8372,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90058",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.bigsaverfoods.com",
+	phone     : "(323) 582-7222",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/big-saver-foods-4260-charter-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3661,36 +8467,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90032",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.bigsaverfoods.com/",
+	phone     : "(323) 222-9130",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/big-saver-foods-5168-huntington-dr-s/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3702,36 +8562,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90001",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.bigsaverfoods.com/",
+	phone     : "(323) 582-8295",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/big-saver-foods-5829-compton-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3743,36 +8657,90 @@ var locations = [
 	city      : "Rosemead",
 	zip       : "91770",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.bigsaverfoods.com/",
+	phone     : "(626) 571-7816",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/big-saver-foods-7619-garvey-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3784,36 +8752,90 @@ var locations = [
 	city      : "Pico Rivera",
 	zip       : "90660",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.bigsaverfoods.com/",
+	phone     : "(562) 949-6299",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2130"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/big-saver-foods-9406-washington-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3825,36 +8847,90 @@ var locations = [
 	city      : "Thousand Oaks",
 	zip       : "91362",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.bristolfarms.com/locations_detail.php?loc=77",
+	phone     : "(805) 370-9197",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/bristol-farms-140-promenade-way/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3866,36 +8942,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90024",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.bristolfarms.com/locations_detail.php?loc=72",
+	phone     : "(310) 481-0100",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/bristol-farms-1515-westwood-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3907,36 +9037,90 @@ var locations = [
 	city      : "Manhattan Beach",
 	zip       : "90266",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.bristolfarms.com/locations_detail.php?loc=67",
+	phone     : "(310) 643-5229",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/bristol-farms-1570-rosecrans-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3948,36 +9132,90 @@ var locations = [
 	city      : "Redondo Beach",
 	zip       : "90277",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.bristolfarms.com",
+	phone     : "(310) 303-3922",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "1900"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "1900"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "1900"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "1900"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "1900"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "1900"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "1800"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/bristol-farms-1700-s-pacific-coast-hwy/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -3989,36 +9227,90 @@ var locations = [
 	city      : "Santa Monica",
 	zip       : "90403",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.bristolfarms.com/locations_detail.php?loc=101",
+	phone     : "(310) 829-3137",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/bristol-farms-3105-wilshire-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4030,36 +9322,90 @@ var locations = [
 	city      : "South Pasadena",
 	zip       : "91030",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.bristolfarms.com/locations_detail.php?loc=70",
+	phone     : "(626) 441-5450",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/bristol-farms-606-fair-oaks-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4071,36 +9417,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90046",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.bristolfarms.com/locations_detail.php?loc=65",
+	phone     : "(323) 874-6301",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/bristol-farms-7880-w-sunset-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4112,36 +9512,90 @@ var locations = [
 	city      : "Palos Verdes Peninsula",
 	zip       : "90274",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.bristolfarms.com/locations_detail.php?loc=69",
+	phone     : "(310) 541-9157",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/bristol-farms-837-silver-spur-rd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4153,36 +9607,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90045",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.bristolfarms.com/locations_detail.php?loc=71",
+	phone     : "(310) 410-0593",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/bristol-farms-8448-lincoln-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4194,36 +9702,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90048",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.bristolfarms.com/locations_detail.php?loc=64",
+	phone     : "(310) 248-2804",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/bristol-farms-9039-beverly-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4235,36 +9797,90 @@ var locations = [
 	city      : "Carson",
 	zip       : "90745",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.bristolfarms.com",
+	phone     : "(310) 233-4700",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2130"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/bristol-farms-915-e-230th-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4276,36 +9892,90 @@ var locations = [
 	city      : "Lynwood",
 	zip       : "90262",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://elsupermarkets.com/",
+	phone     : "(310) 438-4660",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/el-super-10721-atlantic-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4317,36 +9987,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90044",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.elsupermarkets.com/",
+	phone     : "(323) 565-4005",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/el-super-1100-w-slauson-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4358,36 +10082,90 @@ var locations = [
 	city      : "Wilmington",
 	zip       : "90744",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.elsupermarkets.com/",
+	phone     : "(310) 513-4270",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/el-super-120-w-anaheim-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4399,36 +10177,90 @@ var locations = [
 	city      : "La Puente",
 	zip       : "91744",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.elsupermarkets.com",
+	phone     : "(626) 869-5124",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/el-super-1285-n-hacienda-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4440,36 +10272,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90001",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.elsupermarkets.com/",
+	phone     : "(323) 584-0432",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "1130",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "1130",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "1130",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "1130",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "1130",
 		close     : "1400"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "1130",
 		close     : "1400"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "1130",
 		close     : "2330"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/el-super-1301-e-gage-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4481,36 +10367,90 @@ var locations = [
 	city      : "Baldwin Park",
 	zip       : "91706",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.elsupermarkets.com/",
+	phone     : "(626) 869-5140",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/el-super-14103-ramona-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4522,36 +10462,90 @@ var locations = [
 	city      : "Paramount",
 	zip       : "90723",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.elsupermarkets.com",
+	phone     : "(562) 748-0221",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2130"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/el-super-14601-lakewood-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4563,36 +10557,90 @@ var locations = [
 	city      : "Panorama City",
 	zip       : "91402",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.elsupermarkets.com",
+	phone     : "(818) 830-5725",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/el-super-14620-parthenia-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4604,36 +10652,90 @@ var locations = [
 	city      : "Lawndale",
 	zip       : "90260",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://elsupermarkets.com/",
+	phone     : "(310) 848-1930",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/el-super-15202-hawthorne-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4645,36 +10747,90 @@ var locations = [
 	city      : "Pomona",
 	zip       : "91767",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.elsupermarkets.com",
+	phone     : "(909) 461-4179",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "1700"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "1700"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "1700"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "1700"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "1700"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "1700"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "1700"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/el-super-1575-e-holt-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4686,36 +10842,90 @@ var locations = [
 	city      : "San Fernando",
 	zip       : "91340",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://elsupermarkets.com/",
+	phone     : "(818) 336-5081",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/el-super-315-san-fernando-mission-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4727,36 +10937,90 @@ var locations = [
 	city      : "South Gate",
 	zip       : "90280",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://elsupermarkets.com/",
+	phone     : "(323) 973-4727",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/el-super-3211-firestone-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4768,36 +11032,90 @@ var locations = [
 	city      : "Inglewood",
 	zip       : "90303",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.elsupermarkets.com/",
+	phone     : "(310) 672-3210",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/el-super-3321-w-century-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4809,36 +11127,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90063",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://elsupermarkets.com/",
+	phone     : "(323) 526-0120",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/el-super-3405-e-cesar-e-chavez-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4850,36 +11222,90 @@ var locations = [
 	city      : "Long Beach",
 	zip       : "90802",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://elsupermarkets.com/",
+	phone     : "(562) 257-1574",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/el-super-450-long-beach-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4891,36 +11317,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90042",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.elsupermarkets.com",
+	phone     : "(323) 916-8218",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/el-super-5610-york-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4932,36 +11412,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90022",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://elsupermarkets.com/",
+	phone     : "(323) 720-5060",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/el-super-5646-whittier-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -4973,36 +11507,90 @@ var locations = [
 	city      : "South Gate",
 	zip       : "90280",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.elsupermarkets.com",
+	phone     : "(562) 927-7901",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/el-super-5702-firestone-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -5014,36 +11602,90 @@ var locations = [
 	city      : "Bell Gardens",
 	zip       : "90201",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "",
+	phone     : "(323) 560-1148",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "900"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "900"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "900"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "900"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "900"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "900"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "900"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/el-super-6203-gage-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -5055,36 +11697,90 @@ var locations = [
 	city      : "Huntington Park",
 	zip       : "90255",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://elsupermarkets.com/",
+	phone     : "(323) 983-7777",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2130"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/el-super-7000-s-alameda-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -5096,36 +11792,90 @@ var locations = [
 	city      : "Covina",
 	zip       : "91722",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.elsupermarkets.com",
+	phone     : "(626) 334-4261",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/el-super-960-w-arrow-hwy/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -5137,36 +11887,90 @@ var locations = [
 	city      : "Pacoima",
 	zip       : "91331",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.elsupermarkets.com",
+	phone     : "(818) 834-1810",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/el-super-9710-woodman-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -5178,36 +11982,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90057",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "",
+	phone     : "(213) 385-7381",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2130"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/family-market-2426-w-8th-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -5219,36 +12077,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90011",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://familymarket.us",
+	phone     : "(323) 235-4701",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/family-market-2500-hooper-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -5260,36 +12172,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90011",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "",
+	phone     : "(323) 233-8801",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/family-market-4267-ascot-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -5301,36 +12267,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90022",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "",
+	phone     : "(323) 261-8445",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2130"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/family-market-4304-floral-dr/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -5342,36 +12362,90 @@ var locations = [
 	city      : "Norwalk",
 	zip       : "90650",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.food4less.com/",
+	phone     : "(562) 868-6685",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/food-4-less-10901-imperial-hwy/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -5383,36 +12457,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90006",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.food4less.com/",
+	phone     : "(213) 386-1680",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/food-4-less-1091-s-hoover-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -5424,36 +12552,90 @@ var locations = [
 	city      : "Lynwood",
 	zip       : "90262",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.food4less.com/",
+	phone     : "(310) 632-9954",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/food-4-less-11245-long-beach-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -5465,36 +12647,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90047",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.food4less.com/",
+	phone     : "(323) 757-1257",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/food-4-less-11407-s-western-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -5506,36 +12742,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90059",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.food4less.com/",
+	phone     : "(323) 564-3986",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/food-4-less-11840-wilmington-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -5547,36 +12837,90 @@ var locations = [
 	city      : "El Monte",
 	zip       : "91732",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.food4less.com/",
+	phone     : "(626) 442-7155",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/food-4-less-11950-garvey-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -5588,36 +12932,90 @@ var locations = [
 	city      : "Hawaiian Gardens",
 	zip       : "90716",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.food4less.com/",
+	phone     : "(562) 429-9135",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/food-4-less-12222-carson-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -5629,36 +13027,90 @@ var locations = [
 	city      : "Sylmar",
 	zip       : "91342",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.food4less.com/",
+	phone     : "(818) 362-3309",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/food-4-less-12689-glenoaks-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -5670,36 +13122,90 @@ var locations = [
 	city      : "Pacoima",
 	zip       : "91331",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.food4less.com/",
+	phone     : "(818) 890-1151",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/food-4-less-12765-van-nuys-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -5711,36 +13217,90 @@ var locations = [
 	city      : "Gardena",
 	zip       : "90248",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.food4less.com/",
+	phone     : "(310) 768-3095",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/food-4-less-1299-w-artesia-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -5752,36 +13312,90 @@ var locations = [
 	city      : "Pasadena",
 	zip       : "91104",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.food4less.com/",
+	phone     : "(626) 791-7412",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/food-4-less-1329-n-lake-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -5793,36 +13407,90 @@ var locations = [
 	city      : "Whittier",
 	zip       : "90605",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.food4less.com/",
+	phone     : "(562) 946-1425",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/food-4-less-13413-telegraph-rd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -5834,36 +13502,90 @@ var locations = [
 	city      : "Downey",
 	zip       : "90242",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.food4less.com/",
+	phone     : "(562) 633-0830",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/food-4-less-13525-lakewood-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -5875,36 +13597,90 @@ var locations = [
 	city      : "Hawthorne",
 	zip       : "90250",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.food4less.com/",
+	phone     : "(310) 644-1183",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/food-4-less-14500-ocean-gate-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -5916,36 +13692,90 @@ var locations = [
 	city      : "Signal Hill",
 	zip       : "90755",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.food4less.com/",
+	phone     : "(562) 989-7576",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/food-4-less-1600-e-willow-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -5957,36 +13787,90 @@ var locations = [
 	city      : "North Hills",
 	zip       : "91343",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.food4less.com/",
+	phone     : "(818) 830-0249",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/food-4-less-16208-parthenia-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -5998,36 +13882,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90002",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.food4less.com/",
+	phone     : "(323) 564-3753",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/food-4-less-1651-e-103rd-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -6039,36 +13977,90 @@ var locations = [
 	city      : "Santa Clarita",
 	zip       : "91406",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.food4less.com/",
+	phone     : "(818) 997-0170",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/food-4-less-16530-sherman-way/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -6080,36 +14072,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90017",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.food4less.com/",
+	phone     : "(213) 353-0920",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/food-4-less-1700-w-6th-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -6121,36 +14167,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90006",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.food4less.com/",
+	phone     : "(323) 731-0164",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/food-4-less-1717-s-western-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -6162,36 +14262,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90018",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.food4less.com/",
+	phone     : "(323) 735-8317",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/food-4-less-1748-w-jefferson-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -6203,36 +14357,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90047",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.food4less.com/",
+	phone     : "(323) 293-1369",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/food-4-less-1820-w-slauson-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -6244,36 +14452,90 @@ var locations = [
 	city      : "West Covina",
 	zip       : "91744",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.food4less.com/",
+	phone     : "(626) 916-1120",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/food-4-less-1821-n-hacienda-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -6285,36 +14547,90 @@ var locations = [
 	city      : "Compton",
 	zip       : "90220",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.food4less.com/",
+	phone     : "(310) 609-3385",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/food-4-less-1900-w-rosecrans-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -6326,36 +14642,90 @@ var locations = [
 	city      : "Canyon Country",
 	zip       : "91351",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.food4less.com/",
+	phone     : "(661) 250-7357",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/food-4-less-19200-soledad-canyon-rd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -6367,36 +14737,90 @@ var locations = [
 	city      : "Winnetka",
 	zip       : "91306",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.food4less.com/",
+	phone     : "(818) 998-8074",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/food-4-less-20155-saticoy-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -6408,36 +14832,90 @@ var locations = [
 	city      : "Pomona",
 	zip       : "91766",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.food4less.com/",
+	phone     : "(909) 902-0299",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/food-4-less-2090-s-garey-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -6449,36 +14927,90 @@ var locations = [
 	city      : "Long Beach",
 	zip       : "90805",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.food4less.com/",
+	phone     : "(562) 422-9646",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/food-4-less-2185-e-south-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -6490,36 +15022,90 @@ var locations = [
 	city      : "Palmdale",
 	zip       : "93550",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.food4less.com/",
+	phone     : "(661) 266-9091",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/food-4-less-2341-e-avenue-s/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -6531,36 +15117,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90033",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.food4less.com/",
+	phone     : "(323) 268-0461",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/food-4-less-2750-e-1st-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -6572,36 +15212,90 @@ var locations = [
 	city      : "Baldwin Park",
 	zip       : "91706",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.food4less.com/",
+	phone     : "(626) 856-0511",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/food-4-less-3000-baldwin-park-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -6613,36 +15307,90 @@ var locations = [
 	city      : "Inglewood",
 	zip       : "90303",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.food4less.com/",
+	phone     : "(310) 677-2520",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/food-4-less-3200-w-century-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -6654,36 +15402,90 @@ var locations = [
 	city      : "Wilmington",
 	zip       : "90744",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.food4less.com/",
+	phone     : "(310) 847-7488",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/food-4-less-336-w-anaheim-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -6695,36 +15497,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90023",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.food4less.com/",
+	phone     : "(323) 980-5067",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/food-4-less-3654-e-olympic-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -6736,36 +15592,90 @@ var locations = [
 	city      : "Maywood",
 	zip       : "90270",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.food4less.com/",
+	phone     : "(323) 773-2214",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/food-4-less-4400-slauson-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -6777,36 +15687,90 @@ var locations = [
 	city      : "Lancaster",
 	zip       : "93536",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.food4less.com/",
+	phone     : "(661) 940-6373",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/food-4-less-44455-valley-central-way/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -6818,36 +15782,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90032",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.food4less.com/",
+	phone     : "(323) 222-2659",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/food-4-less-4910-huntington-dr-s/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -6859,36 +15877,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90037",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.food4less.com/",
+	phone     : "(323) 846-8895",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/food-4-less-5318-s-main-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -6900,36 +15972,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90027",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.food4less.com/",
+	phone     : "(323) 871-8011",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/food-4-less-5420-w-sunset-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -6941,36 +16067,90 @@ var locations = [
 	city      : "West Covina",
 	zip       : "91791",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.food4less.com/",
+	phone     : "(626) 967-5244",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/food-4-less-615-n-azusa-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -6982,36 +16162,90 @@ var locations = [
 	city      : "Long Beach",
 	zip       : "90805",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.food4less.com/",
+	phone     : "(562) 220-2373",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/food-4-less-6700-cherry-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -7023,36 +16257,90 @@ var locations = [
 	city      : "Bell Gardens",
 	zip       : "90201",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.food4less.com/",
+	phone     : "(323) 771-2003",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/food-4-less-6901-eastern-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -7064,36 +16352,90 @@ var locations = [
 	city      : "Huntington Park",
 	zip       : "90255",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.food4less.com/",
+	phone     : "(323) 585-6430",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/food-4-less-6920-santa-fe-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -7105,36 +16447,90 @@ var locations = [
 	city      : "Whittier",
 	zip       : "90606",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.food4less.com/",
+	phone     : "(562) 699-3358",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/food-4-less-7810-norwalk-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -7146,36 +16542,90 @@ var locations = [
 	city      : "North Hollywood",
 	zip       : "91605",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.food4less.com/",
+	phone     : "(818) 252-4855",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/food-4-less-8035-webb-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -7187,36 +16637,90 @@ var locations = [
 	city      : "Torrance",
 	zip       : "90502",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.food4less.com/",
+	phone     : "(310) 549-4870",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/food-4-less-851-sepulveda-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -7228,36 +16732,90 @@ var locations = [
 	city      : "Panorama City",
 	zip       : "91402",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.food4less.com/",
+	phone     : "(818) 830-7085",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/food-4-less-8530-tobias-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -7269,36 +16827,90 @@ var locations = [
 	city      : "Pico Rivera",
 	zip       : "90660",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.food4less.com/",
+	phone     : "(562) 948-3435",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/food-4-less-8620-whittier-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -7310,36 +16922,90 @@ var locations = [
 	city      : "Pacoima",
 	zip       : "91331",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.food4less.com/",
+	phone     : "(818) 897-3545",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/food-4-less-9635-laurel-canyon-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -7351,36 +17017,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90067",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://gelsons.com",
+	phone     : "(310) 277-4288",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/gelsons-market-10250-santa-monica-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -7392,36 +17112,90 @@ var locations = [
 	city      : "Marina del Rey",
 	zip       : "90292",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://gelsons.com/store-locations/marina-del-rey",
+	phone     : "(310) 306-2952",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/gelsons-market-13455-maxella-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -7433,36 +17207,90 @@ var locations = [
 	city      : "Pacific Palisades",
 	zip       : "90272",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://gelsons.com/store-locations/pacific-palisades",
+	phone     : "(310) 459-4483",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/gelsons-market-15424-w-sunset-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -7474,36 +17302,90 @@ var locations = [
 	city      : "Encino",
 	zip       : "91436",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://gelsons.com/store-locations/encino",
+	phone     : "(818) 906-5780",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/gelsons-market-16450-ventura-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -7515,36 +17397,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90067",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.gelsons.com/",
+	phone     : "(310) 277-4288",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "900",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/gelsons-market-1930-century-park-w/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -7556,36 +17492,90 @@ var locations = [
 	city      : "Calabasas",
 	zip       : "91302",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://gelsons.com/store-locations/calabasas",
+	phone     : "(818) 906-6228",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/gelsons-market-22277-mulholland-hwy/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -7597,36 +17587,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90027",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://gelsons.com",
+	phone     : "(323) 660-0387",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/gelsons-market-2725-hyperion-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -7638,36 +17682,90 @@ var locations = [
 	city      : "Westlake Village",
 	zip       : "91361",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://gelsons.com/store-locations/westlake-village",
+	phone     : "(805) 496-0353",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/gelsons-market-2734-townsgate-rd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -7679,36 +17777,90 @@ var locations = [
 	city      : "Sherman Oaks",
 	zip       : "91403",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://gelsons.com/store-locations/sherman-oaks",
+	phone     : "(818) 377-4140",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/gelsons-market-4520-van-nuys-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -7720,36 +17872,90 @@ var locations = [
 	city      : "Valley Village",
 	zip       : "91607",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://gelsons.com/store-locations/valley-village/noho",
+	phone     : "(818) 906-5743",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/gelsons-market-4738-laurel-canyon-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -7761,36 +17967,90 @@ var locations = [
 	city      : "Tarzana",
 	zip       : "91356",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://gelsons.com/store-locations/tarzana",
+	phone     : "(818) 906-5752",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/gelsons-market-5500-reseda-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -7802,36 +18062,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90028",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://gelsons.com/store-locations/hollywood",
+	phone     : "(323) 464-7316",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/gelsons-market-5877-franklin-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -7843,36 +18157,90 @@ var locations = [
 	city      : "Long Beach",
 	zip       : "90803",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://gelsons.com/store-locations/long-beach",
+	phone     : "(562) 430-6042",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/gelsons-market-6255-e-2nd-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -7884,36 +18252,90 @@ var locations = [
 	city      : "La Canada Flintridge",
 	zip       : "91011",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://gelsons.com",
+	phone     : "(818) 790-0563",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/gelsons-market-635-foothill-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -7925,36 +18347,90 @@ var locations = [
 	city      : "West Hollywood",
 	zip       : "90069",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://gelsons.com/store-locations/west-hollywood",
+	phone     : "(323) 656-5580",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/gelsons-market-8330-santa-monica-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -7966,36 +18442,90 @@ var locations = [
 	city      : "Cerritos",
 	zip       : "90703",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.islandpacificmarket.com/",
+	phone     : "(562) 809-8889",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "1100",
 		close     : "2000"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "1300",
 		close     : "2000"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "1100",
 		close     : "1400"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "1200",
 		close     : "2000"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "1100",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "1000",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "1000",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/island-pacific-11481-south-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -8007,36 +18537,90 @@ var locations = [
 	city      : "West Covina",
 	zip       : "91792",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.islandpacificmarket.com/",
+	phone     : "(626) 964-4858",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2130"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/island-pacific-1512-e-amar-rd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -8048,36 +18632,90 @@ var locations = [
 	city      : "Canoga Park",
 	zip       : "91304",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.islandpacificmarket.com/",
+	phone     : "(818) 857-3400",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2000"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2000"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/island-pacific-20922-roscoe-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -8089,36 +18727,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90004",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.islandpacificmarket.com/",
+	phone     : "(213) 674-2980",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/island-pacific-229-s-vermont-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -8130,36 +18822,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90004",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.islandpacificmarket.com/",
+	phone     : "(323) 671-1020",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/island-pacific-627-n-vermont-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -8171,36 +18917,90 @@ var locations = [
 	city      : "Panorama City",
 	zip       : "91402",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.islandpacificmarket.com/",
+	phone     : "(818) 895-2423",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/island-pacific-8340-van-nuys-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -8212,36 +19012,90 @@ var locations = [
 	city      : "Valley Village",
 	zip       : "91607",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.jonsmarketplace.com/",
+	phone     : "(818) 985-4780",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/jons-marketplace-12122-magnolia-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -8253,36 +19107,90 @@ var locations = [
 	city      : "Glendale",
 	zip       : "91201",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.jonsmarketplace.com/",
+	phone     : "(818) 244-2575",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/jons-marketplace-1717-w-glenoaks-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -8294,36 +19202,90 @@ var locations = [
 	city      : "Winnetka",
 	zip       : "91306",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.jonsmarketplace.com",
+	phone     : "(818) 576-0477",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/jons-marketplace-20151-roscoe-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -8335,36 +19297,90 @@ var locations = [
 	city      : "Reseda",
 	zip       : "91335",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.jonsmarketplace.com/",
+	phone     : "(818) 758-3422",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/jons-marketplace-24-18135-sherman-way/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -8376,36 +19392,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90005",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.jonsmarketplace.com/",
+	phone     : "(213) 383-6891",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2130"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/jons-marketplace-3334-w-8th-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -8417,36 +19487,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90029",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.jonsmarketplace.com",
+	phone     : "(323) 461-9382",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/jons-marketplace-5315-santa-monica-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -8458,36 +19582,90 @@ var locations = [
 	city      : "Glendale",
 	zip       : "91205",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.jonsmarketplace.com/",
+	phone     : "(818) 956-0999",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "1100",
 		close     : "1400"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "1100",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "900"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "1000",
 		close     : "1400"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "800"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "1100",
 		close     : "1900"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "1100",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/jons-marketplace-600-e-colorado-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -8499,36 +19677,90 @@ var locations = [
 	city      : "Van Nuys",
 	zip       : "91405",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.jonsmarketplace.com",
+	phone     : "(818) 781-1772",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/jons-marketplace-6655-van-nuys-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -8540,36 +19772,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90027",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.lassens.com",
+	phone     : "(323) 660-0052",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "",
 		close     : ""
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/lassens-natural-foods-2080-hillhurst-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -8581,36 +19867,90 @@ var locations = [
 	city      : "Thousand Oaks",
 	zip       : "91362",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.lassens.com/",
+	phone     : "(805) 413-1990",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "",
 		close     : ""
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/lassens-natural-foods-2150-e-thousand-oaks-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -8622,36 +19962,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90026",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://lassens.com",
+	phone     : "(213) 542-6535",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "",
 		close     : ""
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/lassens-natural-foods-vitamins-1631-w-sunset-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -8663,36 +20057,90 @@ var locations = [
 	city      : "Thousand Oaks",
 	zip       : "91362",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://lassens.com",
+	phone     : "(805) 495-2609",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "",
 		close     : ""
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/lassens-natural-foods-vitamins-2857-e-thousand-oaks-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -8704,36 +20152,90 @@ var locations = [
 	city      : "Long Beach",
 	zip       : "90806",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.northgatemarkets.com/",
+	phone     : "(562) 599-5075",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/northgate-2120-pacific-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -8745,36 +20247,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90006",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.northgatemarkets.com/",
+	phone     : "(213) 249-9173",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/northgate-gonzalez-markets-2323-w-olympic-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -8786,36 +20342,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90033",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.northgatemarkets.com/",
+	phone     : "(323) 262-0595",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/northgate-gonzalez-markets-425-s-soto-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -8827,36 +20437,90 @@ var locations = [
 	city      : "Culver City",
 	zip       : "90230",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.northgatemarkets.com",
+	phone     : "(310) 390-9639",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/northgate-gonzalez-markets-4700-inglewood-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -8868,36 +20532,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90011",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.northgatemarkets.com",
+	phone     : "(323) 846-8804",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/northgate-gonzalez-markets-944-e-slauson-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -8909,36 +20627,90 @@ var locations = [
 	city      : "Norwalk",
 	zip       : "90650",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.northgatemarkets.com/",
+	phone     : "(562) 863-8203",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2230"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2230"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2230"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2230"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2230"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2230"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2230"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/northgate-market-11660-firestone-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -8950,36 +20722,90 @@ var locations = [
 	city      : "West Covina",
 	zip       : "91790",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.northgatemarkets.com",
+	phone     : "(626) 919-5183",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/northgate-market-1320-w-francisquito-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -8991,36 +20817,90 @@ var locations = [
 	city      : "Paramount",
 	zip       : "90723",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.northgatemarkets.com",
+	phone     : "(562) 259-9950",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/northgate-market-16259-paramount-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -9032,36 +20912,90 @@ var locations = [
 	city      : "South Gate",
 	zip       : "90280",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.northgatemarkets.com/",
+	phone     : "(323) 277-3000",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/northgate-market-2633-santa-ana-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -9073,36 +21007,90 @@ var locations = [
 	city      : "El Monte",
 	zip       : "91732",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.northgatemarkets.com/",
+	phone     : "(626) 442-8200",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/northgate-market-3828-peck-rd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -9114,36 +21102,90 @@ var locations = [
 	city      : "Bell Gardens",
 	zip       : "90201",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.northgatemarkets.com",
+	phone     : "(323) 562-2188",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/northgate-market-6801-atlantic-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -9155,36 +21197,90 @@ var locations = [
 	city      : "La Puente",
 	zip       : "91744",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.northgatemarkets.com/",
+	phone     : "(626) 435-1440",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/northgate-market-831-n-hacienda-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -9196,36 +21292,90 @@ var locations = [
 	city      : "Pico Rivera",
 	zip       : "90660",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.northgatemarkets.com",
+	phone     : "(562) 949-6143",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/northgate-super-market-9101-telegraph-rd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -9237,36 +21387,90 @@ var locations = [
 	city      : "Wilmington",
 	zip       : "90744",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.northgatemarkets.com/",
+	phone     : "(310) 549-9882",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2230"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2230"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2230"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2230"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2230"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2230"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2230"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/northgates-1222-n-avalon-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -9278,36 +21482,90 @@ var locations = [
 	city      : "Wilmington",
 	zip       : "90744",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.northgatemarkets.com/",
+	phone     : "(310) 549-7389",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/northgates-311-w-pacific-coast-hwy/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -9319,36 +21577,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90057",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.numerounomarkets.com/",
+	phone     : "(213) 989-0950",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/numero-uno-market-1831-w-3rd-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -9360,36 +21672,90 @@ var locations = [
 	city      : "Culver City",
 	zip       : "90230",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.pavilions.com/",
+	phone     : "(310) 398-1945",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/pavilions-11030-jefferson-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -9401,36 +21767,90 @@ var locations = [
 	city      : "Burbank",
 	zip       : "91506",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.pavilions.com/",
+	phone     : "(818) 567-0257",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/pavilions-1110-w-alameda-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -9442,36 +21862,90 @@ var locations = [
 	city      : "Thousand Oaks",
 	zip       : "91362",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.pavilions.com/",
+	phone     : "(818) 597-1261",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/pavilions-1135-lindero-canyon-rd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -9483,36 +21957,90 @@ var locations = [
 	city      : "South Pasadena",
 	zip       : "91030",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.pavilions.com/",
+	phone     : "(626) 799-2261",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "530",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "530",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "530",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "530",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "530",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "530",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "530",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/pavilions-1213-fair-oaks-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -9524,36 +22052,90 @@ var locations = [
 	city      : "Monrovia",
 	zip       : "91016",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.pavilions.com/",
+	phone     : "(626) 303-4547",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "500",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/pavilions-130-w-foothill-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -9565,36 +22147,90 @@ var locations = [
 	city      : "Sherman Oaks",
 	zip       : "91403",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.pavilions.com/",
+	phone     : "(818) 986-7213",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/pavilions-14845-ventura-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -9606,36 +22242,90 @@ var locations = [
 	city      : "Malibu",
 	zip       : "90265",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.pavilions.com/",
+	phone     : "(310) 457-2401",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/pavilions-29211-heathercliff-rd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -9647,36 +22337,90 @@ var locations = [
 	city      : "Marina del Rey",
 	zip       : "90292",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.pavilions.com/",
+	phone     : "(310) 821-7208",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/pavilions-4365-glencoe-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -9688,36 +22432,90 @@ var locations = [
 	city      : "Lakewood",
 	zip       : "90713",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.pavilions.com/",
+	phone     : "(562) 866-3781",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/pavilions-5500-woodruff-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -9729,36 +22527,90 @@ var locations = [
 	city      : "Long Beach",
 	zip       : "90808",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.pavilions.com/",
+	phone     : "(562) 496-2151",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/pavilions-5949-e-spring-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -9770,36 +22622,90 @@ var locations = [
 	city      : "West Hills",
 	zip       : "91307",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.pavilions.com/",
+	phone     : "(818) 999-5939",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/pavilions-6534-platt-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -9811,36 +22717,90 @@ var locations = [
 	city      : "Palos Verdes Peninsula",
 	zip       : "90274",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.pavilions.com/",
+	phone     : "(310) 377-1994",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "1300",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "900",
 		close     : "1200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "1100",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "900",
 		close     : "1000"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "1200",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "1000",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2000"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/pavilions-7-peninsula-ctr/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -9852,36 +22812,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90038",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.pavilions.com/",
+	phone     : "(323) 461-4167",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "0"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/pavilions-727-vine-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -9893,36 +22907,90 @@ var locations = [
 	city      : "Arcadia",
 	zip       : "91007",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.pavilions.com/",
+	phone     : "(626) 446-9483",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/pavilions-745-w-naomi-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -9934,36 +23002,90 @@ var locations = [
 	city      : "Santa Monica",
 	zip       : "90403",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.pavilions.com/",
+	phone     : "(310) 395-1682",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "130"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "130"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "130"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "130"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "130"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "130"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "130"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/pavilions-820-montana-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -9975,36 +23097,90 @@ var locations = [
 	city      : "Pasadena",
 	zip       : "91106",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.pavilions.com/",
+	phone     : "(626) 449-3968",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/pavilions-845-e-california-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -10016,36 +23192,90 @@ var locations = [
 	city      : "West Hollywood",
 	zip       : "90069",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.pavilions.com/",
+	phone     : "(310) 595-1730",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "0"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/pavilions-8969-santa-monica-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -10057,36 +23287,90 @@ var locations = [
 	city      : "Beverly Hills",
 	zip       : "90212",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.pavilions.com/",
+	phone     : "(310) 553-5734",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/pavilions-9467-w-olympic-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -10098,36 +23382,90 @@ var locations = [
 	city      : "Norwalk",
 	zip       : "90650",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.paylessfoods.com/",
+	phone     : "(562) 929-2255",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/payless-foods-12301-norwalk-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -10139,36 +23477,90 @@ var locations = [
 	city      : "Carson",
 	zip       : "90745",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.paylessfoods.com/",
+	phone     : "(310) 830-8241",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/payless-foods-23501-avalon-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -10180,36 +23572,90 @@ var locations = [
 	city      : "San Fernando",
 	zip       : "91340",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.paylessfoods.com",
+	phone     : "(818) 365-8603",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2000"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2000"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2000"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2000"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "",
 		close     : ""
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "",
 		close     : ""
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2000"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/payless-foods-757-s-workman-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -10221,36 +23667,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90064",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(310) 553-8117",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-10309-w-olympic-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -10262,36 +23762,90 @@ var locations = [
 	city      : "Sunland",
 	zip       : "91040",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(818) 352-4544",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2000"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2000"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2000"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2000"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "",
 		close     : ""
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "",
 		close     : ""
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2000"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-10455-sunland-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -10303,36 +23857,90 @@ var locations = [
 	city      : "San Pedro",
 	zip       : "90732",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(310) 833-3506",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-1050-n-western-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -10344,36 +23952,90 @@ var locations = [
 	city      : "Culver City",
 	zip       : "90230",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(310) 839-4107",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-10772-jefferson-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -10385,36 +24047,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90024",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(310) 824-5994",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-10861-le-conte-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -10426,36 +24142,90 @@ var locations = [
 	city      : "North Hollywood",
 	zip       : "91601",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(818) 760-4148",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-10900-magnolia-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -10467,36 +24237,90 @@ var locations = [
 	city      : "Studio City",
 	zip       : "91604",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(818) 760-7008",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "0"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-10901-ventura-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -10508,36 +24332,90 @@ var locations = [
 	city      : "Burbank",
 	zip       : "91504",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(818) 845-6424",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-1100-n-san-fernando-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -10549,36 +24427,90 @@ var locations = [
 	city      : "Hermosa Beach",
 	zip       : "90254",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(310) 798-6800",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-1100-pacific-coast-hwy/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -10590,36 +24522,90 @@ var locations = [
 	city      : "Arcadia",
 	zip       : "91007",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(626) 447-3548",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-1101-w-huntington-dr/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -10631,36 +24617,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90064",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(310) 479-4351",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-11361-national-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -10672,36 +24712,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90064",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(310) 473-5238",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-11727-w-olympic-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -10713,36 +24807,90 @@ var locations = [
 	city      : "Whittier",
 	zip       : "90601",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(562) 692-4565",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-11825-whittier-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -10754,36 +24902,90 @@ var locations = [
 	city      : "Hawthorne",
 	zip       : "90250",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "https://www.ralphs.com/",
+	phone     : "(310) 679-9164",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "0"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-11873-hawthorne-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -10795,36 +24997,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90044",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(323) 757-4147",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-11922-s-vermont-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -10836,36 +25092,90 @@ var locations = [
 	city      : "Glendale",
 	zip       : "91202",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(818) 246-1752",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-1200-n-central-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -10877,36 +25187,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90025",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(310) 477-8746",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-12057-wilshire-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -10918,36 +25282,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90038",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(323) 876-8790",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-1233-n-la-brea-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -10959,36 +25377,90 @@ var locations = [
 	city      : "Studio City",
 	zip       : "91604",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(818) 761-6196",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-12842-ventura-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -11000,36 +25472,90 @@ var locations = [
 	city      : "Van Nuys",
 	zip       : "91423",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(818) 986-2293",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-12921-magnolia-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -11041,36 +25567,90 @@ var locations = [
 	city      : "Cerritos",
 	zip       : "90703",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(562) 860-5635",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-13321-south-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -11082,36 +25662,90 @@ var locations = [
 	city      : "Sherman Oaks",
 	zip       : "91423",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(747) 233-6108",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-14049-ventura-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -11123,36 +25757,90 @@ var locations = [
 	city      : "Redondo Beach",
 	zip       : "90278",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(310) 370-9446",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-1413-hawthorne-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -11164,36 +25852,90 @@ var locations = [
 	city      : "Glendale",
 	zip       : "91205",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(818) 548-0945",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-1416-e-colorado-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -11205,36 +25947,90 @@ var locations = [
 	city      : "Van Nuys",
 	zip       : "91401",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(818) 989-5640",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "0"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-14440-burbank-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -11246,36 +26042,90 @@ var locations = [
 	city      : "Whittier",
 	zip       : "90605",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(562) 945-3779",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-14919-whittier-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -11287,36 +26137,90 @@ var locations = [
 	city      : "Pacific Palisades",
 	zip       : "90272",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(310) 454-3001",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-15120-w-sunset-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -11328,36 +26232,90 @@ var locations = [
 	city      : "Pasadena",
 	zip       : "91101",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(626) 793-7480",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "1000",
 		close     : "1730"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "1000",
 		close     : "1730"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-160-n-lake-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -11369,36 +26327,90 @@ var locations = [
 	city      : "Bellflower",
 	zip       : "90706",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(562) 925-5529",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2000"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2000"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2000"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2000"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "",
 		close     : ""
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "",
 		close     : ""
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2000"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-16123-bellflower-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -11410,36 +26422,90 @@ var locations = [
 	city      : "Encino",
 	zip       : "91436",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(818) 386-0118",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-16325-ventura-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -11451,36 +26517,90 @@ var locations = [
 	city      : "Santa Monica",
 	zip       : "90404",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(310) 582-3900",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-1644-cloverfield-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -11492,36 +26612,90 @@ var locations = [
 	city      : "North Hills",
 	zip       : "91344",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(818) 363-3173",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-16940-devonshire-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -11533,36 +26707,90 @@ var locations = [
 	city      : "Van Nuys",
 	zip       : "91406",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(818) 609-8425",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-17250-saticoy-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -11574,36 +26802,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90047",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "https://www.ralphs.com/",
+	phone     : "(323) 750-3151",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-1730-w-manchester-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -11615,36 +26897,90 @@ var locations = [
 	city      : "South Pasadena",
 	zip       : "91030",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(626) 403-0082",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-1745-garfield-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -11656,36 +26992,90 @@ var locations = [
 	city      : "Torrance",
 	zip       : "90504",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(310) 327-3277",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-17500-crenshaw-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -11697,36 +27087,90 @@ var locations = [
 	city      : "Torrance",
 	zip       : "90501",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(310) 787-8786",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-1770-w-carson-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -11738,36 +27182,90 @@ var locations = [
 	city      : "Encino",
 	zip       : "91316",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(818) 345-6882",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-17840-ventura-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -11779,36 +27277,90 @@ var locations = [
 	city      : "Granada Hills",
 	zip       : "91344",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(818) 831-6556",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-18010-chatsworth-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -11820,36 +27372,90 @@ var locations = [
 	city      : "Reseda",
 	zip       : "91335",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(818) 343-3492",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2000"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2000"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2000"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2000"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "",
 		close     : ""
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "",
 		close     : ""
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2000"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-18318-vanowen-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -11861,36 +27467,90 @@ var locations = [
 	city      : "Long Beach",
 	zip       : "90815",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(562) 494-4371",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-1930-n-lakewood-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -11902,36 +27562,90 @@ var locations = [
 	city      : "Canyon Country",
 	zip       : "91351",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(661) 252-6226",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-19340-soledad-canyon-rd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -11943,36 +27657,90 @@ var locations = [
 	city      : "Porter Ranch",
 	zip       : "91326",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(818) 832-5955",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-19781-rinaldi-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -11984,36 +27752,90 @@ var locations = [
 	city      : "Woodland Hills",
 	zip       : "91364",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(818) 883-7552",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-20060-ventura-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -12025,36 +27847,90 @@ var locations = [
 	city      : "Lakewood",
 	zip       : "90715",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(562) 860-5468",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "1000",
 		close     : "1730"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "1000",
 		close     : "1730"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-20137-pioneer-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -12066,36 +27942,90 @@ var locations = [
 	city      : "Arcadia",
 	zip       : "91006",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(626) 357-1942",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-211-e-foothill-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -12107,36 +28037,90 @@ var locations = [
 	city      : "Glendale",
 	zip       : "91206",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(818) 549-0035",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-211-n-glendale-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -12148,36 +28132,90 @@ var locations = [
 	city      : "Chatsworth",
 	zip       : "91311",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(818) 341-0950",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-21431-devonshire-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -12189,36 +28227,90 @@ var locations = [
 	city      : "Woodland Hills",
 	zip       : "91364",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(818) 883-1907",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-21909-ventura-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -12230,36 +28322,90 @@ var locations = [
 	city      : "Gardena",
 	zip       : "90247",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(310) 538-9008",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-2201-w-redondo-beach-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -12271,36 +28417,90 @@ var locations = [
 	city      : "Monterey Park",
 	zip       : "91754",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(323) 721-3367",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-2230-s-atlantic-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -12312,36 +28512,90 @@ var locations = [
 	city      : "Canoga Park",
 	zip       : "91303",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(818) 883-1230",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-22333-sherman-way/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -12353,36 +28607,90 @@ var locations = [
 	city      : "Long Beach",
 	zip       : "90807",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(562) 424-2012",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-2250-e-carson-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -12394,36 +28702,90 @@ var locations = [
 	city      : "Altadena",
 	zip       : "91001",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(626) 794-1175",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-2270-lake-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -12435,36 +28797,90 @@ var locations = [
 	city      : "West Hills",
 	zip       : "91307",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(818) 716-8199",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-22915-victory-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -12476,36 +28892,90 @@ var locations = [
 	city      : "Malibu",
 	zip       : "90265",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(310) 456-2917",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-23841-malibu-rd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -12517,36 +28987,90 @@ var locations = [
 	city      : "Stevenson Ranch",
 	zip       : "91381",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(661) 253-0656",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-24975-pico-canyon-rd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -12558,36 +29082,90 @@ var locations = [
 	city      : "Burbank",
 	zip       : "91502",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(818) 556-1558",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-25-e-alameda-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -12599,36 +29177,90 @@ var locations = [
 	city      : "Valencia",
 	zip       : "91355",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(661) 254-3440",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-25930-mcbean-pkwy/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -12640,36 +29272,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90036",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(323) 937-3264",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-260-s-la-brea-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -12681,36 +29367,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90007",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(323) 732-3863",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-2600-s-vermont-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -12722,36 +29462,90 @@ var locations = [
 	city      : "Burbank",
 	zip       : "91505",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(818) 845-5914",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-2600-w-victory-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -12763,36 +29557,90 @@ var locations = [
 	city      : "La Crescenta",
 	zip       : "91214",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(818) 249-5448",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-2675-foothill-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -12804,36 +29652,90 @@ var locations = [
 	city      : "Manhattan Beach",
 	zip       : "90266",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(310) 546-2472",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-2700-n-sepulveda-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -12845,36 +29747,90 @@ var locations = [
 	city      : "Valencia",
 	zip       : "91354",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(661) 263-7690",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-27760-mcbean-pkwy/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -12886,36 +29842,90 @@ var locations = [
 	city      : "Torrance",
 	zip       : "90505",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(310) 325-0611",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-2909-rolling-hills-rd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -12927,36 +29937,90 @@ var locations = [
 	city      : "Long Beach",
 	zip       : "90814",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(562) 434-3899",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-2930-e-4th-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -12968,36 +30032,90 @@ var locations = [
 	city      : "Castaic",
 	zip       : "91384",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(661) 702-6911",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-29675-the-old-rd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -13009,36 +30127,90 @@ var locations = [
 	city      : "Rancho Palos Verdes",
 	zip       : "90275",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(310) 377-6941",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-30019-hawthorne-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -13050,36 +30222,90 @@ var locations = [
 	city      : "Brea",
 	zip       : "92821",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(714) 529-4505",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-305-w-imperial-hwy/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -13091,36 +30317,90 @@ var locations = [
 	city      : "Pasadena",
 	zip       : "91105",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(626) 793-4179",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-320-w-colorado-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -13132,36 +30412,90 @@ var locations = [
 	city      : "Monterey Park",
 	zip       : "91754",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(626) 289-0261",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-330-n-atlantic-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -13173,36 +30507,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90043",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(323) 293-0199",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-3300-w-slauson-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -13214,36 +30602,90 @@ var locations = [
 	city      : "Long Beach",
 	zip       : "90808",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(562) 421-0413",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-3380-n-los-coyotes-diagonal/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -13255,36 +30697,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90020",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(213) 480-1421",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-3410-w-3rd-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -13296,36 +30792,90 @@ var locations = [
 	city      : "Torrance",
 	zip       : "90505",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(310) 542-1639",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-3455-sepulveda-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -13337,36 +30887,90 @@ var locations = [
 	city      : "Pasadena",
 	zip       : "91107",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(626) 351-8806",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-3601-e-foothill-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -13378,36 +30982,90 @@ var locations = [
 	city      : "Culver City",
 	zip       : "90232",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(310) 558-4027",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-3827-culver-ctr/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -13419,36 +31077,90 @@ var locations = [
 	city      : "Thousand Oaks",
 	zip       : "91362",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(805) 496-2469",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2000"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2000"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2000"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2000"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "",
 		close     : ""
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "",
 		close     : ""
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2000"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-3963-e-thousand-oaks-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -13460,36 +31172,90 @@ var locations = [
 	city      : "Cypress",
 	zip       : "90630",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(714) 827-7947",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-4033-ball-rd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -13501,36 +31267,90 @@ var locations = [
 	city      : "Marina del Rey",
 	zip       : "90292",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(310) 574-0909",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-4311-lincoln-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -13542,36 +31362,90 @@ var locations = [
 	city      : "Marina del Rey",
 	zip       : "90292",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(310) 823-4684",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-4700-admiralty-way/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -13583,36 +31457,90 @@ var locations = [
 	city      : "Calabasas",
 	zip       : "91302",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(818) 223-0284",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-4754-commons-way/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -13624,36 +31552,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90019",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(323) 937-4107",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-4760-w-pico-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -13665,36 +31647,90 @@ var locations = [
 	city      : "El Segundo",
 	zip       : "90245",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(310) 615-0537",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-500-n-sepulveda-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -13706,36 +31742,90 @@ var locations = [
 	city      : "Torrance",
 	zip       : "90505",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(310) 378-0295",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-5035-pacific-coast-hwy/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -13747,36 +31837,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90016",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "https://www.ralphs.com/",
+	phone     : "(323) 292-0633",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "500",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "500",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "500",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "500",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "500",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "500",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "500",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-5080-rodeo-rd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -13788,36 +31932,90 @@ var locations = [
 	city      : "La Canada Flintridge",
 	zip       : "91011",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(818) 790-0584",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-521-foothill-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -13829,36 +32027,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90045",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(310) 641-2813",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-5245-w-centinela-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -13870,36 +32122,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90027",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(323) 957-9657",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-5429-hollywood-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -13911,36 +32217,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90036",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(323) 936-4954",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-5601-wilshire-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -13952,36 +32312,90 @@ var locations = [
 	city      : "Agoura Hills",
 	zip       : "91301",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(818) 889-5429",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-5727-kanan-rd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -13993,36 +32407,90 @@ var locations = [
 	city      : "Lakewood",
 	zip       : "90713",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(562) 867-7282",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-5951-del-amo-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -14034,36 +32502,90 @@ var locations = [
 	city      : "Long Beach",
 	zip       : "90803",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(562) 795-0167",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-6290-e-pacific-coast-hwy/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -14075,36 +32597,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90015",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(213) 452-0840",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-645-w-9th-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -14116,36 +32692,90 @@ var locations = [
 	city      : "Carson",
 	zip       : "90745",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(310) 518-4191",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-650-e-carson-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -14157,36 +32787,90 @@ var locations = [
 	city      : "Glendora",
 	zip       : "91740",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(626) 857-7700",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-655-s-grand-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -14198,36 +32882,90 @@ var locations = [
 	city      : "North Hollywood",
 	zip       : "91606",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(818) 765-2770",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-6657-laurel-canyon-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -14239,36 +32977,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90005",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(213) 383-5058",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-670-s-western-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -14280,36 +33072,90 @@ var locations = [
 	city      : "Van Nuys",
 	zip       : "91405",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(818) 785-6136",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-7221-woodman-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -14321,36 +33167,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90046",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(323) 512-8382",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-7257-w-sunset-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -14362,36 +33262,90 @@ var locations = [
 	city      : "Sun Valley",
 	zip       : "91352",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(818) 768-0378",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-8325-laurel-canyon-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -14403,36 +33357,90 @@ var locations = [
 	city      : "Downey",
 	zip       : "90241",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(562) 869-2733",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-8626-firestone-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -14444,36 +33452,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90045",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(310) 649-1526",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-8701-lincoln-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -14485,36 +33547,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90045",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(310) 645-2035",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-8824-s-sepulveda-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -14526,36 +33642,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90048",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(310) 278-1351",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-9040-beverly-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -14567,36 +33737,90 @@ var locations = [
 	city      : "Venice",
 	zip       : "90291",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(310) 392-4854",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-910-lincoln-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -14608,36 +33832,90 @@ var locations = [
 	city      : "Downey",
 	zip       : "90240",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(562) 869-2042",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-9200-lakewood-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -14649,36 +33927,90 @@ var locations = [
 	city      : "Pico Rivera",
 	zip       : "90660",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(562) 948-4519",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-9320-slauson-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -14690,36 +34022,90 @@ var locations = [
 	city      : "Temple City",
 	zip       : "91780",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(626) 286-0898",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-9470-las-tunas-dr/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -14731,36 +34117,90 @@ var locations = [
 	city      : "Inglewood",
 	zip       : "90302",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(310) 673-6365",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-950-n-la-brea-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -14772,36 +34212,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90035",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.ralphs.com/",
+	phone     : "(310) 271-2672",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/ralphs-9616-w-pico-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -14813,36 +34307,90 @@ var locations = [
 	city      : "Glendale",
 	zip       : "91201",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.smartandfinal.com/",
+	phone     : "(818) 242-2486",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-and-final-1855-w-glenoaks-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -14854,36 +34402,90 @@ var locations = [
 	city      : "Chatsworth",
 	zip       : "91311",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/CHATSWORTH/528/",
+	phone     : "(818) 772-2021",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-10340-mason-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -14895,36 +34497,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90046",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/W.-HOLLYWOOD/474/",
+	phone     : "(323) 876-0421",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-1041-n-fuller-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -14936,36 +34592,90 @@ var locations = [
 	city      : "Pacoima",
 	zip       : "91331",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/PACOIMA/372/",
+	phone     : "(818) 896-6212",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-10893-san-fernando-rd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -14977,36 +34687,90 @@ var locations = [
 	city      : "Norwalk",
 	zip       : "90650",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/NORWALK/325/",
+	phone     : "(562) 863-7057",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-10935-firestone-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -15018,36 +34782,90 @@ var locations = [
 	city      : "El Monte",
 	zip       : "91731",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/EL-MONTE/373/",
+	phone     : "(626) 443-1381",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-11110-ramona-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -15059,36 +34877,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90064",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/LOS-ANGELES/395/",
+	phone     : "(310) 473-0344",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-11221-w-pico-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -15100,36 +34972,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90059",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/LOS-ANGELES/341/",
+	phone     : "(323) 569-7148",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-1125-e-el-segundo-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -15141,36 +35067,90 @@ var locations = [
 	city      : "Whittier",
 	zip       : "90606",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.smartandfinal.com",
+	phone     : "(562) 695-1093",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-11460-washington-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -15182,36 +35162,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90021",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/LOS-ANGELES/310/",
+	phone     : "(213) 747-6697",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "500",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "500",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "500",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "500",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "500",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "500",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-1216-compton-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -15223,36 +35257,90 @@ var locations = [
 	city      : "Chino",
 	zip       : "91710",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/CHINO/494/",
+	phone     : "(909) 627-7687",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-12164-central-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -15264,36 +35352,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90025",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/W.-LOS-ANGELES/315/",
+	phone     : "(310) 207-8688",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-12210-santa-monica-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -15305,36 +35447,90 @@ var locations = [
 	city      : "Long Beach",
 	zip       : "90813",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/LONG-BEACH/440/",
+	phone     : "(562) 218-0991",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-1320-atlantic-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -15346,36 +35542,90 @@ var locations = [
 	city      : "Redondo Beach",
 	zip       : "90277",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.locations.smartandfinal.com/",
+	phone     : "(310) 540-6157",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-1516-s-pacific-coast-hwy/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -15387,36 +35637,90 @@ var locations = [
 	city      : "Whittier",
 	zip       : "90603",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.smartandfinal.com",
+	phone     : "(562) 945-7769",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "1700"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "1700"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "1700"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "1700"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "1700"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "",
 		close     : ""
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "",
 		close     : ""
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-15214-whittier-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -15428,36 +35732,90 @@ var locations = [
 	city      : "Gardena",
 	zip       : "90247",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/GARDENA/487/",
+	phone     : "(310) 324-8991",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-1550-w-redondo-beach-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -15469,36 +35827,90 @@ var locations = [
 	city      : "Inglewood",
 	zip       : "90302",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/INGLEWOOD/457/",
+	phone     : "(310) 673-4997",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-1575-centinela-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -15510,36 +35922,90 @@ var locations = [
 	city      : "Pomona",
 	zip       : "91768",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/POMONA/308/",
+	phone     : "(909) 622-3321",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-160-w-willow-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -15551,36 +36017,90 @@ var locations = [
 	city      : "Encino",
 	zip       : "91436",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/ENCINO/477/",
+	phone     : "(818) 789-0242",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-16847-ventura-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -15592,36 +36112,90 @@ var locations = [
 	city      : "Long Beach",
 	zip       : "90815",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/LONG-BEACH/301/",
+	phone     : "(562) 494-6208",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-1755-ximeno-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -15633,36 +36207,90 @@ var locations = [
 	city      : "Rowland Heights",
 	zip       : "91748",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/CITY-OF-INDUSTRY/472/",
+	phone     : "(626) 965-0483",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-18204-gale-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -15674,36 +36302,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90035",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/LOS-ANGELES/478/",
+	phone     : "(310) 558-0576",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-1835-s-la-cienega-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -15715,36 +36397,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90031",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.smartandfinal.com/",
+	phone     : "(323) 223-6252",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-2019-pasadena-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -15756,36 +36492,90 @@ var locations = [
 	city      : "Long Beach",
 	zip       : "90810",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/CARSON/369/",
+	phone     : "(310) 762-2536",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-20410-s-susana-rd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -15797,36 +36587,90 @@ var locations = [
 	city      : "Torrance",
 	zip       : "90502",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/TORRANCE/348/",
+	phone     : "(310) 328-3023",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-21600-s-vermont-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -15838,36 +36682,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90033",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/LOS-ANGELES/345/",
+	phone     : "(323) 268-9179",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-2308-e-4th-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -15879,36 +36777,90 @@ var locations = [
 	city      : "Newhall",
 	zip       : "91321",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/SANTA-CLARITA/468/",
+	phone     : "(661) 255-9822",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-23640b-lyons-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -15920,36 +36872,90 @@ var locations = [
 	city      : "Monrovia",
 	zip       : "91016",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/MONROVIA/314/",
+	phone     : "(626) 358-3261",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-266-e-huntington-dr/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -15961,36 +36967,90 @@ var locations = [
 	city      : "Palmdale",
 	zip       : "93550",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.smartandfinal.com/",
+	phone     : "(661) 274-9686",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-266-e-palmdale-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -16002,36 +37062,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90057",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/LOS-ANGELES/459/",
+	phone     : "(213) 382-6434",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-2720-beverly-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -16043,36 +37157,90 @@ var locations = [
 	city      : "Torrance",
 	zip       : "90505",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/TORRANCE/458/",
+	phone     : "(310) 539-3526",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-2775-pacific-coast-hwy/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -16084,36 +37252,90 @@ var locations = [
 	city      : "Valencia",
 	zip       : "91355",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/VALENCIA/483/",
+	phone     : "(661) 775-1416",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-28207-newhall-ranch-rd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -16125,36 +37347,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90016",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/LOS-ANGELES/470/",
+	phone     : "(323) 730-8300",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-2929-crenshaw-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -16166,36 +37442,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90006",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/LOS-ANGELES/364/",
+	phone     : "(323) 732-9101",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-2949-w-pico-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -16207,36 +37537,90 @@ var locations = [
 	city      : "Baldwin Park",
 	zip       : "91706",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/BALDWIN-PARK/481/",
+	phone     : "(626) 337-1434",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-3123-baldwin-park-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -16248,36 +37632,90 @@ var locations = [
 	city      : "Pasadena",
 	zip       : "91107",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/PASADENA/485/",
+	phone     : "(626) 396-9677",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-3299-e-colorado-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -16289,36 +37727,90 @@ var locations = [
 	city      : "Redondo Beach",
 	zip       : "90277",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/REDONDO-BEACH/322/",
+	phone     : "(310) 540-7344",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-332-s-pacific-coast-hwy/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -16330,36 +37822,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90007",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/LOS-ANGELES/456/",
+	phone     : "(323) 733-5875",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-3607-s-vermont-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -16371,36 +37917,90 @@ var locations = [
 	city      : "Burbank",
 	zip       : "91505",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/BURBANK/471/",
+	phone     : "(818) 562-3234",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-3708-w-burbank-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -16412,36 +38012,90 @@ var locations = [
 	city      : "Pasadena",
 	zip       : "91103",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/PASADENA/370/",
+	phone     : "(626) 568-8446",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-401-n-fair/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -16453,36 +38107,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90040",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://smartandfinal.com",
+	phone     : "(323) 725-0791",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-5500-sheila-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -16494,36 +38202,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90036",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/LOS-ANGELES/371/",
+	phone     : "(323) 939-0946",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-5555-wilshire-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -16535,36 +38297,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90022",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.smartandfinal.com/",
+	phone     : "(323) 888-4204",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-5700-e-olympic-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -16576,36 +38392,90 @@ var locations = [
 	city      : "Lakewood",
 	zip       : "90713",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.smartandfinal.com/",
+	phone     : "(562) 425-0666",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "1700"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "1700"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "1700"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "1700"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "1700"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "",
 		close     : ""
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "",
 		close     : ""
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-5925-carson-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -16617,36 +38487,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90040",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://smartandfinal.com",
+	phone     : "(323) 869-7500",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "900",
 		close     : "1700"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "900",
 		close     : "1700"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "900",
 		close     : "1700"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "900",
 		close     : "1700"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "900",
 		close     : "1700"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "",
 		close     : ""
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "",
 		close     : ""
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-600-citadel-dr/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -16658,36 +38582,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90042",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/HIGHLAND-PARK/413/",
+	phone     : "(323) 258-2199",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-6060-n-figueroa-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -16699,36 +38677,90 @@ var locations = [
 	city      : "Tujunga",
 	zip       : "91042",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/TUJUNGA/414/",
+	phone     : "(818) 352-9399",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-6555-foothill-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -16740,36 +38772,90 @@ var locations = [
 	city      : "Alhambra",
 	zip       : "91801",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/ALHAMBRA/321/",
+	phone     : "(626) 281-2049",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-725-e-main-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -16781,36 +38867,90 @@ var locations = [
 	city      : "Panorama City",
 	zip       : "91402",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/VAN-NUYS/349/",
+	phone     : "(818) 780-7222",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-7815-van-nuys-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -16822,36 +38962,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90044",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/LOS-ANGELES/337/",
+	phone     : "(323) 758-5734",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-8137-s-vermont-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -16863,36 +39057,90 @@ var locations = [
 	city      : "San Dimas",
 	zip       : "91773",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/SAN-DIMAS/305/",
+	phone     : "(909) 592-2190",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-extra-1005-w-arrow-hwy/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -16904,36 +39152,90 @@ var locations = [
 	city      : "Inglewood",
 	zip       : "90303",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/INGLEWOOD/366/",
+	phone     : "(323) 779-9966",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-extra-10100-crenshaw-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -16945,36 +39247,90 @@ var locations = [
 	city      : "Culver City",
 	zip       : "90034",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/LOS-ANGELES/330/",
+	phone     : "(310) 559-1722",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-extra-10113-venice-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -16986,36 +39342,90 @@ var locations = [
 	city      : "Lynwood",
 	zip       : "90262",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/LYNWOOD/333/",
+	phone     : "(310) 631-8639",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-extra-10833-long-beach-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -17027,36 +39437,90 @@ var locations = [
 	city      : "Covina",
 	zip       : "91722",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/COVINA/367/",
+	phone     : "(626) 915-6619",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-extra-114-n-azusa-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -17068,36 +39532,90 @@ var locations = [
 	city      : "Whittier",
 	zip       : "90602",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/WHITTIER/716/",
+	phone     : "(562) 907-7037",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-extra-13003-whittier-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -17109,36 +39627,90 @@ var locations = [
 	city      : "Whittier",
 	zip       : "90604",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/WHITTIER/482/",
+	phone     : "(562) 941-7282",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-extra-15055-mulberry-dr/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -17150,36 +39722,90 @@ var locations = [
 	city      : "Lawndale",
 	zip       : "90260",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/LAWNDALE/529/",
+	phone     : "(310) 973-2355",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-extra-15205-hawthorne-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -17191,36 +39817,90 @@ var locations = [
 	city      : "La Puente",
 	zip       : "91744",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/LA-PUENTE/317/",
+	phone     : "(626) 330-2495",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-extra-15427-amar-rd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -17232,36 +39912,90 @@ var locations = [
 	city      : "Bellflower",
 	zip       : "90706",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/BELLFLOWER/311/",
+	phone     : "(562) 920-6268",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-extra-15930-bellflower-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -17273,36 +40007,90 @@ var locations = [
 	city      : "North Hills",
 	zip       : "91344",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/GRANADA-HILLS/460/",
+	phone     : "(818) 892-3338",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-extra-16210-devonshire-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -17314,36 +40102,90 @@ var locations = [
 	city      : "Glendale",
 	zip       : "91201",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/GLENDALE/428/",
+	phone     : "(818) 242-2486",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-extra-1855-w-glenoaks-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -17355,36 +40197,90 @@ var locations = [
 	city      : "Porter Ranch",
 	zip       : "91324",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/NORTHRIDGE/420/",
+	phone     : "(818) 368-6409",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-extra-18555-devonshire-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -17396,36 +40292,90 @@ var locations = [
 	city      : "La Habra",
 	zip       : "90631",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/LA-HABRA/422/",
+	phone     : "(562) 690-4516",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-extra-1941-w-imperial-hwy/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -17437,36 +40387,90 @@ var locations = [
 	city      : "San Fernando",
 	zip       : "91340",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/SAN-FERNANDO/323/",
+	phone     : "(818) 838-9187",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-extra-2040-glenoaks-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -17478,36 +40482,90 @@ var locations = [
 	city      : "Glendale",
 	zip       : "91206",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/GLENDALE/304/",
+	phone     : "(818) 243-4239",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-extra-210-n-verdugo-rd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -17519,36 +40577,90 @@ var locations = [
 	city      : "Woodland Hills",
 	zip       : "91364",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/WOODLAND-HILLS/324/",
+	phone     : "(818) 225-9590",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-extra-22631-ventura-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -17560,36 +40672,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90031",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/LINCOLN-HEIGHTS/511/",
+	phone     : "(323) 539-2400",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-extra-2511-daly-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -17601,36 +40767,90 @@ var locations = [
 	city      : "Rancho Palos Verdes",
 	zip       : "90275",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/RANCHO-PALOS-VERDES/306/",
+	phone     : "(310) 832-4179",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-extra-28500-s-western-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -17642,36 +40862,90 @@ var locations = [
 	city      : "Palmdale",
 	zip       : "93551",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/PALMDALE/437/",
+	phone     : "(661) 947-2121",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-extra-39212-10th-st-w/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -17683,36 +40957,90 @@ var locations = [
 	city      : "Lakewood",
 	zip       : "90713",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/LAKEWOOD/598/",
+	phone     : "(562) 429-0500",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-extra-4237-woodruff-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -17724,36 +41052,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90019",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/LOS-ANGELES/444/",
+	phone     : "(323) 549-9586",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-extra-4550-w-pico-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -17765,36 +41147,90 @@ var locations = [
 	city      : "Bell Gardens",
 	zip       : "90201",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/BELL/319/",
+	phone     : "(323) 562-3421",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-extra-5029-florence-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -17806,36 +41242,90 @@ var locations = [
 	city      : "Venice",
 	zip       : "90291",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/VENICE/332/",
+	phone     : "(310) 392-4954",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-extra-604-lincoln-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -17847,36 +41337,90 @@ var locations = [
 	city      : "Long Beach",
 	zip       : "90814",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/LONG-BEACH/434/",
+	phone     : "(562) 438-0450",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-extra-644-redondo-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -17888,36 +41432,90 @@ var locations = [
 	city      : "North Hollywood",
 	zip       : "91606",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/NORTH-HOLLYWOOD/374/",
+	phone     : "(818) 982-6202",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-extra-6601-laurel-canyon-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -17929,36 +41527,90 @@ var locations = [
 	city      : "Winnetka",
 	zip       : "91306",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/WINNETKA/512/",
+	phone     : "(818) 274-0111",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-extra-7224-mason-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -17970,36 +41622,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90017",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/LOS-ANGELES/484/",
+	phone     : "(213) 629-0039",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-extra-845-s-figueroa-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -18011,36 +41717,90 @@ var locations = [
 	city      : "Montebello",
 	zip       : "90640",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/MONTEBELLO/522/",
+	phone     : "(323) 888-4204",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-extra-855-n-wilcox-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -18052,36 +41812,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90029",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://locations.smartandfinal.com/CA/LOS-ANGELES/363/",
+	phone     : "(323) 466-9289",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/smart-final-extra-939-n-western-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -18093,36 +41907,90 @@ var locations = [
 	city      : "Burbank",
 	zip       : "91504",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.sprouts.com",
+	phone     : "(818) 566-4089",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/sprouts-farmers-market-1011-n-san-fernando-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -18134,36 +42002,90 @@ var locations = [
 	city      : "Westlake Village",
 	zip       : "91361",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.sprouts.com",
+	phone     : "(805) 917-4200",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/sprouts-farmers-market-1012-s-westlake-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -18175,36 +42097,90 @@ var locations = [
 	city      : "Torrance",
 	zip       : "90505",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.sprouts.com",
+	phone     : "(424) 903-7062",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/sprouts-farmers-market-4230-pacific-coast-hwy/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -18216,36 +42192,90 @@ var locations = [
 	city      : "Lakewood",
 	zip       : "90713",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.sprouts.com",
+	phone     : "(562) 739-2541",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/sprouts-farmers-market-4253-woodruff-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -18257,36 +42287,90 @@ var locations = [
 	city      : "Brea",
 	zip       : "92821",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.sprouts.com",
+	phone     : "(714) 482-1000",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/sprouts-farmers-market-735-e-birch-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -18298,36 +42382,90 @@ var locations = [
 	city      : "Cypress",
 	zip       : "90630",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.staterbros.com/",
+	phone     : "(714) 761-1662",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/stater-bros-markets-10051-valley-view-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -18339,36 +42477,90 @@ var locations = [
 	city      : "Covina",
 	zip       : "91724",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.staterbros.com/",
+	phone     : "(626) 543-1104",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/stater-bros-markets-1023-n-grand-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -18380,36 +42572,90 @@ var locations = [
 	city      : "West Covina",
 	zip       : "91792",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.staterbros.com/",
+	phone     : "(626) 968-6005",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/stater-bros-markets-1025-e-amar-rd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -18421,36 +42667,90 @@ var locations = [
 	city      : "Pomona",
 	zip       : "91767",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.staterbros.com/",
+	phone     : "(909) 629-9244",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/stater-bros-markets-1045-n-garey-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -18462,36 +42762,90 @@ var locations = [
 	city      : "Claremont",
 	zip       : "91711",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.staterbros.com/",
+	phone     : "(909) 624-0619",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/stater-bros-markets-1055-w-foothill-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -18503,36 +42857,90 @@ var locations = [
 	city      : "Norwalk",
 	zip       : "90650",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.staterbros.com/",
+	phone     : "(562) 929-1878",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/stater-bros-markets-11300-firestone-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -18544,36 +42952,90 @@ var locations = [
 	city      : "Azusa",
 	zip       : "91702",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.staterbros.com/",
+	phone     : "(626) 335-2310",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/stater-bros-markets-1145-e-alosta-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -18585,36 +43047,90 @@ var locations = [
 	city      : "Whittier",
 	zip       : "90601",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.staterbros.com/",
+	phone     : "(562) 696-3212",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/stater-bros-markets-11750-whittier-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -18626,36 +43142,90 @@ var locations = [
 	city      : "Artesia",
 	zip       : "90701",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.staterbros.com/",
+	phone     : "(562) 924-9429",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/stater-bros-markets-11815-artesia-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -18667,36 +43237,90 @@ var locations = [
 	city      : "Norwalk",
 	zip       : "90650",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.staterbros.com/",
+	phone     : "(562) 921-3908",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/stater-bros-markets-12523-alondra-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -18708,36 +43332,90 @@ var locations = [
 	city      : "La Mirada",
 	zip       : "90638",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.staterbros.com/",
+	phone     : "(562) 943-3783",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/stater-bros-markets-12800-la-mirada-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -18749,36 +43427,90 @@ var locations = [
 	city      : "Whittier",
 	zip       : "90604",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.staterbros.com/",
+	phone     : "(562) 941-7711",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/stater-bros-markets-14212-mulberry-dr/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -18790,36 +43522,90 @@ var locations = [
 	city      : "San Dimas",
 	zip       : "91773",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.staterbros.com/",
+	phone     : "(909) 599-1374",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/stater-bros-markets-1425-w-arrow-hwy/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -18831,36 +43617,90 @@ var locations = [
 	city      : "Chino Hills",
 	zip       : "91709",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.staterbros.com/",
+	phone     : "(909) 591-5405",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/stater-bros-markets-14250-chino-hills-pkwy/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -18872,36 +43712,90 @@ var locations = [
 	city      : "Bellflower",
 	zip       : "90706",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.staterbros.com/",
+	phone     : "(562) 866-2474",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/stater-bros-markets-17220-lakewood-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -18913,36 +43807,90 @@ var locations = [
 	city      : "Glendora",
 	zip       : "91740",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.staterbros.com/",
+	phone     : "(626) 963-0513",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/stater-bros-markets-1830-e-route-66/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -18954,36 +43902,90 @@ var locations = [
 	city      : "Lancaster",
 	zip       : "93535",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.staterbros.com/",
+	phone     : "(661) 948-1885",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/stater-bros-markets-1850-e-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -18995,36 +43997,90 @@ var locations = [
 	city      : "Rowland Heights",
 	zip       : "91748",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.staterbros.com/",
+	phone     : "(909) 598-6619",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/stater-bros-markets-19756-colima-rd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -19036,36 +44092,90 @@ var locations = [
 	city      : "Walnut",
 	zip       : "91789",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.staterbros.com/",
+	phone     : "(909) 598-6534",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/stater-bros-markets-20677-amar-rd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -19077,36 +44187,90 @@ var locations = [
 	city      : "La Verne",
 	zip       : "91750",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.staterbros.com/",
+	phone     : "(909) 593-1591",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/stater-bros-markets-2090-foothill-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -19118,36 +44282,90 @@ var locations = [
 	city      : "Palmdale",
 	zip       : "93550",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.staterbros.com/",
+	phone     : "(661) 266-1076",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/stater-bros-markets-2535-e-avenue-s/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -19159,36 +44377,90 @@ var locations = [
 	city      : "Newhall",
 	zip       : "91321",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.staterbros.com/",
+	phone     : "(661) 298-7988",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/stater-bros-markets-26900-sierra-hwy/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -19200,36 +44472,90 @@ var locations = [
 	city      : "Lancaster",
 	zip       : "93536",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.staterbros.com/",
+	phone     : "(661) 943-2545",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/stater-bros-markets-2845-w-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -19241,36 +44567,90 @@ var locations = [
 	city      : "Palmdale",
 	zip       : "93552",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.staterbros.com/",
+	phone     : "(661) 285-9184",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/stater-bros-markets-37218-47th-st-e/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -19282,36 +44662,90 @@ var locations = [
 	city      : "West Covina",
 	zip       : "91791",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.staterbros.com/",
+	phone     : "(626) 915-4951",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/stater-bros-markets-375-n-azusa-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -19323,36 +44757,90 @@ var locations = [
 	city      : "Chino",
 	zip       : "91710",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.staterbros.com/",
+	phone     : "(909) 627-3015",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/stater-bros-markets-4721-riverside-dr/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -19364,36 +44852,90 @@ var locations = [
 	city      : "Long Beach",
 	zip       : "90808",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.staterbros.com/",
+	phone     : "(562) 429-5611",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/stater-bros-markets-6501-e-spring-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -19405,36 +44947,90 @@ var locations = [
 	city      : "Chino",
 	zip       : "91710",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.staterbros.com/",
+	phone     : "(909) 627-6665",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/stater-bros-markets-6989-schaefer-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -19446,36 +45042,90 @@ var locations = [
 	city      : "Downey",
 	zip       : "90241",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.staterbros.com/",
+	phone     : "(562) 923-0394",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/stater-bros-markets-7814-firestone-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -19487,36 +45137,90 @@ var locations = [
 	city      : "La Habra",
 	zip       : "90631",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.staterbros.com/",
+	phone     : "(562) 694-3896",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/stater-bros-markets-851-n-harbor-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -19528,36 +45232,90 @@ var locations = [
 	city      : "Paramount",
 	zip       : "90723",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.staterbros.com/",
+	phone     : "(562) 633-5721",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/stater-bros-markets-8640-alondra-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -19569,36 +45327,90 @@ var locations = [
 	city      : "Paramount",
 	zip       : "90723",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.superafoods.com",
+	phone     : "(562) 634-3162",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/super-a-foods-13120-downey-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -19610,36 +45422,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90041",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://superafoods.com",
+	phone     : "(323) 254-7341",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/super-a-foods-2245-yosemite-dr/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -19651,36 +45517,90 @@ var locations = [
 	city      : "Montebello",
 	zip       : "90640",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.superafoods.com",
+	phone     : "(323) 725-1559",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/super-a-foods-2924-w-beverly-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -19692,36 +45612,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90065",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.superafoods.com",
+	phone     : "(323) 222-7512",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/super-a-foods-2925-division-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -19733,36 +45707,90 @@ var locations = [
 	city      : "Alhambra",
 	zip       : "91801",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://superafoods.com",
+	phone     : "(626) 282-0605",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "",
 		close     : ""
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "2030",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "",
 		close     : ""
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "",
 		close     : ""
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "",
 		close     : ""
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "",
 		close     : ""
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "",
 		close     : ""
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/super-a-foods-300-w-main-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -19774,36 +45802,90 @@ var locations = [
 	city      : "Torrance",
 	zip       : "90503",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.superafoods.com/",
+	phone     : "(310) 793-9114",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/super-a-foods-4848-w-190th-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -19815,36 +45897,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90042",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.superafoods.com/",
+	phone     : "(323) 551-6884",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/super-a-foods-5250-york-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -19856,36 +45992,90 @@ var locations = [
 	city      : "Temple City",
 	zip       : "91780",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.superafoods.com/",
+	phone     : "(626) 248-0383",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/super-a-foods-5595-rosemead-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -19897,36 +46087,90 @@ var locations = [
 	city      : "Bell Gardens",
 	zip       : "90201",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://superafoods.com",
+	phone     : "(562) 927-8784",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/super-a-foods-6380-florence-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -19938,36 +46182,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90040",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://superafoods.com",
+	phone     : "(323) 869-0600",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2130"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/super-a-foods-7200-dominion-cir/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -19979,36 +46277,90 @@ var locations = [
 	city      : "South Gate",
 	zip       : "90280",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://superapanaderia.powersites.net",
+	phone     : "(323) 563-6072",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/super-a-foods-8116-california-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -20020,36 +46372,90 @@ var locations = [
 	city      : "Monrovia",
 	zip       : "91016",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.superafoods.com",
+	phone     : "(626) 574-9077",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/super-a-foods-935-w-duarte-rd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -20061,36 +46467,90 @@ var locations = [
 	city      : "Northridge",
 	zip       : "91324",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.superkingmarket.com/",
+	phone     : "(818) 350-5970",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/super-king-market-19500-plummer-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -20102,36 +46562,90 @@ var locations = [
 	city      : "Altadena",
 	zip       : "91001",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.superkingmarket.com/",
+	phone     : "(626) 296-9311",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/super-king-market-2260-lincoln-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -20143,36 +46657,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90065",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.superkingmarkets.com",
+	phone     : "(323) 225-0044",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/super-king-market-2716-n-san-fernando-rd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -20184,36 +46752,90 @@ var locations = [
 	city      : "Claremont",
 	zip       : "91711",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://superkingmarkets.com/",
+	phone     : "(909) 625-3841",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/super-king-market-436-auto-center-dr/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -20225,36 +46847,90 @@ var locations = [
 	city      : "Azusa",
 	zip       : "91702",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.superkingmarket.com/",
+	phone     : "(626) 334-5097",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/super-king-market-632-e-foothill-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -20266,36 +46942,90 @@ var locations = [
 	city      : "Van Nuys",
 	zip       : "91405",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.superkingmarkets.com/",
+	phone     : "(818) 464-4322",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/super-king-market-7227-van-nuys-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -20307,36 +47037,90 @@ var locations = [
 	city      : "Lancaster",
 	zip       : "93535",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://superiorgrocers.com/",
+	phone     : "(661) 802-0063",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/superior-grocers-1010-e-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -20348,36 +47132,90 @@ var locations = [
 	city      : "El Monte",
 	zip       : "91731",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.superiorgrocers.com",
+	phone     : "(626) 401-2469",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/superior-grocers-10683-valley-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -20389,36 +47227,90 @@ var locations = [
 	city      : "Inglewood",
 	zip       : "90303",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.superiorgrocers.com/",
+	phone     : "(323) 757-6012",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/superior-grocers-11202-crenshaw-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -20430,36 +47322,90 @@ var locations = [
 	city      : "Chino",
 	zip       : "91710",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.superiorsuperwarehouse.com/",
+	phone     : "(909) 590-5415",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/superior-grocers-12375-central-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -20471,36 +47417,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90065",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.superiorgrocers.com",
+	phone     : "(323) 223-3878",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/superior-grocers-133-w-avenue-45/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -20512,36 +47512,90 @@ var locations = [
 	city      : "Baldwin Park",
 	zip       : "91706",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.superiorgrocers.com",
+	phone     : "(626) 646-1835",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/superior-grocers-14433-ramona-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -20553,36 +47607,90 @@ var locations = [
 	city      : "La Puente",
 	zip       : "91745",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.superiorgrocers.com/",
+	phone     : "(626) 855-4432",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/superior-grocers-151-s-hacienda-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -20594,36 +47702,90 @@ var locations = [
 	city      : "Bellflower",
 	zip       : "90706",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.superiorgrocers.com/",
+	phone     : "(562) 202-9066",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/superior-grocers-16100-lakewood-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -20635,36 +47797,90 @@ var locations = [
 	city      : "Pomona",
 	zip       : "91767",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.superiorgrocers.com/",
+	phone     : "(909) 392-4695",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2230"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2230"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2230"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2230"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2230"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/superior-grocers-3180-n-garey-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -20676,36 +47892,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90016",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.superiorgrocers.com/",
+	phone     : "(323) 294-4309",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/superior-grocers-3480-s-la-brea-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -20717,36 +47987,90 @@ var locations = [
 	city      : "Palmdale",
 	zip       : "93550",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.superiorgrocers.com",
+	phone     : "(661) 538-2260",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/superior-grocers-38360-20th-st-e/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -20758,36 +48082,90 @@ var locations = [
 	city      : "Maywood",
 	zip       : "90270",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.superiorgrocers.com/",
+	phone     : "(323) 560-1501",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2130"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/superior-grocers-4308-slauson-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -20799,36 +48177,90 @@ var locations = [
 	city      : "Long Beach",
 	zip       : "90805",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://superiorgrocers.com/",
+	phone     : "(562) 634-6700",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/superior-grocers-5450-cherry-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -20840,36 +48272,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90044",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.superiorgrocers.com/",
+	phone     : "(323) 541-0107",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "700"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "900",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "900",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "900",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "900",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "900",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "900",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/superior-grocers-5824-s-vermont-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -20881,36 +48367,90 @@ var locations = [
 	city      : "North Hollywood",
 	zip       : "91606",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.superiorgrocers.com/",
+	phone     : "(818) 763-1235",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/superior-grocers-6140-lankershim-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -20922,36 +48462,90 @@ var locations = [
 	city      : "Pacoima",
 	zip       : "91331",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.superiorgrocers.com",
+	phone     : "(818) 897-2604",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/superior-grocers-9801-laurel-canyon-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -20963,36 +48557,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90024",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(310) 824-1495",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-1000-glendon-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -21004,36 +48652,90 @@ var locations = [
 	city      : "North Hollywood",
 	zip       : "91602",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(818) 762-2787",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "900",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-10130-riverside-dr/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -21045,36 +48747,90 @@ var locations = [
 	city      : "Glendale",
 	zip       : "91207",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(818) 507-8192",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-103-e-glenoaks-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -21086,36 +48842,90 @@ var locations = [
 	city      : "Chatsworth",
 	zip       : "91311",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(818) 341-3010",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-10330-mason-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -21127,36 +48937,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90064",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(310) 470-1917",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-10850-national-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -21168,36 +49032,90 @@ var locations = [
 	city      : "Hermosa Beach",
 	zip       : "90254",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-1100-pacific-coast-hwy/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -21209,36 +49127,90 @@ var locations = [
 	city      : "Granada Hills",
 	zip       : "91344",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(818) 368-6461",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-11114-balboa-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -21250,36 +49222,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90064",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(310) 477-5949",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-11755-w-olympic-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -21291,36 +49317,90 @@ var locations = [
 	city      : "Studio City",
 	zip       : "91604",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(818) 509-0168",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-11976-ventura-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -21332,36 +49412,90 @@ var locations = [
 	city      : "Cerritos",
 	zip       : "90703",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(562) 402-5148",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-12861-towne-center-dr/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -21373,36 +49507,90 @@ var locations = [
 	city      : "Chino Hills",
 	zip       : "91709",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(909) 627-1404",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-13911-peyton-dr/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -21414,36 +49602,90 @@ var locations = [
 	city      : "Sherman Oaks",
 	zip       : "91423",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(818) 789-2771",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-14119-riverside-dr/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -21455,36 +49697,90 @@ var locations = [
 	city      : "Whittier",
 	zip       : "90603",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(562) 698-1642",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-15025-whittier-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -21496,36 +49792,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90041",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(323) 257-6422",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-1566-colorado-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -21537,36 +49887,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90028",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(323) 856-0689",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-1600-vine-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -21578,36 +49982,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90036",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(323) 931-4012",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-175-s-fairfax-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -21619,36 +50077,90 @@ var locations = [
 	city      : "Redondo Beach",
 	zip       : "90277",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(310) 316-1745",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-1761-s-elena-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -21660,36 +50172,90 @@ var locations = [
 	city      : "Encino",
 	zip       : "91316",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(818) 990-7751",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-17640-burbank-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -21701,36 +50267,90 @@ var locations = [
 	city      : "Manhattan Beach",
 	zip       : "90266",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(310) 725-9800",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-1800-rosecrans-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -21742,36 +50362,90 @@ var locations = [
 	city      : "Manhattan Beach",
 	zip       : "90266",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(310) 372-1274",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-1821-manhattan-beach-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -21783,36 +50457,90 @@ var locations = [
 	city      : "Torrance",
 	zip       : "90503",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(310) 793-8585",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-19720-hawthorne-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -21824,36 +50552,90 @@ var locations = [
 	city      : "Woodland Hills",
 	zip       : "91364",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(818) 712-9475",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-21055-ventura-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -21865,36 +50647,90 @@ var locations = [
 	city      : "Burbank",
 	zip       : "91502",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(818) 848-4299",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-214-e-alameda-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -21906,36 +50742,90 @@ var locations = [
 	city      : "Long Beach",
 	zip       : "90815",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(562) 596-2514",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-2222-n-bellflower-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -21947,36 +50837,90 @@ var locations = [
 	city      : "Montrose",
 	zip       : "91020",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(818) 957-3613",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-2462-honolulu-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -21988,36 +50932,90 @@ var locations = [
 	city      : "Brea",
 	zip       : "92821",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(714) 257-1180",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-2500-e-imperial-hwy/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -22029,36 +51027,90 @@ var locations = [
 	city      : "Torrance",
 	zip       : "90505",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(310) 326-9520",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-2545-pacific-coast-hwy/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -22070,36 +51122,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90036",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(323) 965-1989",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "900",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-263-s-la-brea-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -22111,36 +51217,90 @@ var locations = [
 	city      : "Santa Clarita",
 	zip       : "91350",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(661) 263-3796",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-26517-bouquet-canyon-rd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -22152,36 +51312,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90027",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(323) 665-6774",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-2738-hyperion-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -22193,36 +51407,90 @@ var locations = [
 	city      : "Rancho Palos Verdes",
 	zip       : "90275",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(310) 832-1241",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-28901-s-western-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -22234,36 +51502,90 @@ var locations = [
 	city      : "Agoura Hills",
 	zip       : "91301",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(818) 865-8217",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-28941-canwood-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -22275,36 +51597,90 @@ var locations = [
 	city      : "Rancho Palos Verdes",
 	zip       : "90275",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(310) 544-1727",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-31176-hawthorne-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -22316,36 +51692,90 @@ var locations = [
 	city      : "Santa Monica",
 	zip       : "90405",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(310) 581-0253",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-3212-pico-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -22357,36 +51787,90 @@ var locations = [
 	city      : "Pasadena",
 	zip       : "91101",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(626) 395-9553",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-345-s-lake-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -22398,36 +51882,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90034",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(310) 836-2458",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-3456-s-sepulveda-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -22439,36 +51977,90 @@ var locations = [
 	city      : "Thousand Oaks",
 	zip       : "91362",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(805) 494-5040",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-3835-e-thousand-oaks-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -22480,36 +52072,90 @@ var locations = [
 	city      : "Palmdale",
 	zip       : "93551",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(661) 947-2890",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-39507-10th-st-w/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -22521,36 +52167,90 @@ var locations = [
 	city      : "Long Beach",
 	zip       : "90807",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(562) 422-1020",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-4210-long-beach-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -22562,36 +52262,90 @@ var locations = [
 	city      : "Pasadena",
 	zip       : "91107",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(626) 351-3399",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-467-n-rosemead-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -22603,36 +52357,90 @@ var locations = [
 	city      : "La Canada Flintridge",
 	zip       : "91011",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(818) 790-6373",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-475-foothill-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -22644,36 +52452,90 @@ var locations = [
 	city      : "Claremont",
 	zip       : "91711",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(909) 625-8784",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-475-w-foothill-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -22685,36 +52547,90 @@ var locations = [
 	city      : "Monrovia",
 	zip       : "91016",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(626) 358-8884",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-604-w-huntington-dr/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -22726,36 +52642,90 @@ var locations = [
 	city      : "Pasadena",
 	zip       : "91105",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(626) 568-9254",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-610-s-arroyo-pkwy/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -22767,36 +52737,90 @@ var locations = [
 	city      : "South Pasadena",
 	zip       : "91030",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(626) 441-6263",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-613-mission-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -22808,36 +52832,90 @@ var locations = [
 	city      : "Culver City",
 	zip       : "90230",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-6150-w-slauson-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -22849,36 +52927,90 @@ var locations = [
 	city      : "Long Beach",
 	zip       : "90803",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(562) 596-4388",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-6451-e-pacific-coast-hwy/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -22890,36 +53022,90 @@ var locations = [
 	city      : "West Hills",
 	zip       : "91307",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(818) 347-2591",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-6751-fallbrook-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -22931,36 +53117,90 @@ var locations = [
 	city      : "San Gabriel",
 	zip       : "91775",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(626) 285-5862",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-7260-rosemead-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -22972,36 +53212,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90046",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(323) 822-7663",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-8000-w-sunset-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -23013,36 +53307,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90048",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(310) 248-2984",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "900",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "900",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "900",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "900",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "900",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "900",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "900",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-8500-burton-way/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -23054,36 +53402,90 @@ var locations = [
 	city      : "San Dimas",
 	zip       : "91773",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(909) 305-4757",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-856-w-arrow-hwy/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -23095,36 +53497,90 @@ var locations = [
 	city      : "West Hollywood",
 	zip       : "90069",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(310) 657-0152",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "900",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-8611-santa-monica-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -23136,36 +53592,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90045",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(310) 338-9238",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-8645-s-sepulveda-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -23177,36 +53687,90 @@ var locations = [
 	city      : "Culver City",
 	zip       : "90232",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.traderjoes.com/",
+	phone     : "(310) 202-1108",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/trader-joes-9290-culver-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -23218,36 +53782,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90021",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.urban-radish.com",
+	phone     : "(213) 892-1570",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/urban-radish-661-imperial-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -23259,36 +53877,90 @@ var locations = [
 	city      : "North Hollywood",
 	zip       : "91606",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vallartasupermarkets.com/",
+	phone     : "(818) 509-2932",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "630",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "630",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "630",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "630",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "630",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "630",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "630",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vallarta-10859-oxnard-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -23300,36 +53972,90 @@ var locations = [
 	city      : "Burbank",
 	zip       : "91505",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vallartasupermarkets.com/",
+	phone     : "(818) 846-1717",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "630",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "630",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "630",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "630",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "630",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "630",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "630",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vallarta-10950-sherman-way/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -23341,36 +54067,90 @@ var locations = [
 	city      : "Lancaster",
 	zip       : "93534",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "",
+	phone     : "(661) 951-0233",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vallarta-1111-w-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -23382,36 +54162,90 @@ var locations = [
 	city      : "North Hollywood",
 	zip       : "91606",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vallartasupermarkets.com/",
+	phone     : "(818) 760-7021",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "630",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "630",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "630",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "630",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "630",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "630",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "630",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vallarta-13051-victory-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -23423,36 +54257,90 @@ var locations = [
 	city      : "Van Nuys",
 	zip       : "91405",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vallartasupermarkets.com/",
+	phone     : "(818) 782-8266",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vallarta-13715-vanowen-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -23464,36 +54352,90 @@ var locations = [
 	city      : "Sylmar",
 	zip       : "91342",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vallartasupermarkets.com",
+	phone     : "(818) 362-7577",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "630",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "630",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "630",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "630",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "630",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "630",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "630",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vallarta-13820-foothill-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -23505,36 +54447,90 @@ var locations = [
 	city      : "Baldwin Park",
 	zip       : "91706",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vallartasupermarkets.com/",
+	phone     : "(626) 480-8960",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vallarta-13940-ramona-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -23546,36 +54542,90 @@ var locations = [
 	city      : "Lancaster",
 	zip       : "93534",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vallartasupermarkets.com/",
+	phone     : "(661) 945-3034",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vallarta-1801-w-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -23587,36 +54637,90 @@ var locations = [
 	city      : "Palmdale",
 	zip       : "93550",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vallartasupermarkets.com/",
+	phone     : "(661) 273-1120",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vallarta-1803-e-palmdale-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -23628,36 +54732,90 @@ var locations = [
 	city      : "Canyon Country",
 	zip       : "91351",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vallartasupermarkets.com/",
+	phone     : "(661) 347-7390",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "630",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "630",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "630",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "630",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "630",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "630",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "630",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vallarta-18571-soledad-canyon-rd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -23669,36 +54827,90 @@ var locations = [
 	city      : "Winnetka",
 	zip       : "91306",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vallartasupermarkets.com/",
+	phone     : "(818) 716-5704",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vallarta-19725-vanowen-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -23710,36 +54922,90 @@ var locations = [
 	city      : "Canoga Park",
 	zip       : "91303",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vallartasupermarkets.com/",
+	phone     : "(818) 346-1665",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vallarta-21208-sherman-way/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -23751,36 +55017,90 @@ var locations = [
 	city      : "Canoga Park",
 	zip       : "91304",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vallartasupermarkets.com",
+	phone     : "(818) 704-1717",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vallarta-21555-roscoe-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -23792,36 +55112,90 @@ var locations = [
 	city      : "Valencia",
 	zip       : "91355",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vallartasupermarkets.com/",
+	phone     : "(661) 260-1110",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "630",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "630",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "630",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "630",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "630",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "630",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "630",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vallarta-23449-lyons-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -23833,36 +55207,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90058",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vallartasupermarkets.com/",
+	phone     : "(323) 826-9477",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "500",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "500",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "400",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "200",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "200",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "200",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "200",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vallarta-2550-e-25th-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -23874,36 +55302,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90023",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vallartasupermarkets.com/",
+	phone     : "(323) 980-4400",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vallarta-3425-whittier-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -23915,36 +55397,90 @@ var locations = [
 	city      : "Northridge",
 	zip       : "91324",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vallartasupermarkets.com/",
+	phone     : "(818) 576-1280",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vallarta-8453-reseda-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -23956,36 +55492,90 @@ var locations = [
 	city      : "Whittier",
 	zip       : "90602",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vallartasupermarkets.com/",
+	phone     : "(562) 758-6464",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "1000",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "1000",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "900",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "900",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "900",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "900",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "1000",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vallarta-8510-painter-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -23997,36 +55587,90 @@ var locations = [
 	city      : "Pacoima",
 	zip       : "91331",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vallartasupermarkets.com/",
+	phone     : "(818) 920-2700",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vallarta-9011-woodman-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -24038,36 +55682,90 @@ var locations = [
 	city      : "Pacoima",
 	zip       : "91331",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "",
+	phone     : "(818) 890-5975",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vallartas-10147-san-fernando-rd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -24079,36 +55777,90 @@ var locations = [
 	city      : "Pacoima",
 	zip       : "91331",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vallartasupermarkets.com/",
+	phone     : "(818) 897-9700",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vallartas-10175-san-fernando-rd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -24120,36 +55872,90 @@ var locations = [
 	city      : "Sylmar",
 	zip       : "91342",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vallartasupermarkets.com/",
+	phone     : "(818) 898-0088",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vallartas-12881-bradley-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -24161,36 +55967,90 @@ var locations = [
 	city      : "Palmdale",
 	zip       : "93552",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vallartasupermarkets.com/",
+	phone     : "(661) 208-4276",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vallartas-38118-47th-st-e/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -24202,36 +56062,90 @@ var locations = [
 	city      : "San Fernando",
 	zip       : "91340",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vallartasupermarkets.com/",
+	phone     : "(818) 365-2301",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "630",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "630",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "630",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "630",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "630",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "630",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "630",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vallartas-757-s-workman-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -24243,36 +56157,90 @@ var locations = [
 	city      : "Lancaster",
 	zip       : "93535",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vallartasupermarkets.com/",
+	phone     : "(661) 974-7002",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vallartas-815-e-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -24284,36 +56252,90 @@ var locations = [
 	city      : "Pacoima",
 	zip       : "91331",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vallartasupermarkets.com/",
+	phone     : "(818) 920-2700",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vallartas-9011-woodman-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -24325,36 +56347,90 @@ var locations = [
 	city      : "Panorama City",
 	zip       : "91402",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vallartasupermarkets.com/",
+	phone     : "(818) 894-4949",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vallartas-9134-van-nuys-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -24366,36 +56442,90 @@ var locations = [
 	city      : "Mission Hills",
 	zip       : "91345",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(818) 891-1352",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-10321-sepulveda-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -24407,36 +56537,90 @@ var locations = [
 	city      : "South Pasadena",
 	zip       : "91030",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(626) 441-3898",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-1129-fair-oaks-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -24448,36 +56632,90 @@ var locations = [
 	city      : "San Dimas",
 	zip       : "91773",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(909) 592-3261",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-1160-via-verde/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -24489,36 +56727,90 @@ var locations = [
 	city      : "Redondo Beach",
 	zip       : "90277",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(310) 374-7987",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-1212-beryl-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -24530,36 +56822,90 @@ var locations = [
 	city      : "San Pedro",
 	zip       : "90731",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(310) 832-7063",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-1221-s-gaffey-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -24571,36 +56917,90 @@ var locations = [
 	city      : "Avalon",
 	zip       : "90704",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(310) 510-0280",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-123-metropole-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -24612,36 +57012,90 @@ var locations = [
 	city      : "Gardena",
 	zip       : "90247",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(310) 767-7920",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-1260-w-redondo-beach-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -24653,36 +57107,90 @@ var locations = [
 	city      : "Santa Monica",
 	zip       : "90403",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(310) 394-1414",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-1311-wilshire-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -24694,36 +57202,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90026",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(213) 483-5573",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-1342-n-alvarado-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -24735,36 +57297,90 @@ var locations = [
 	city      : "Sylmar",
 	zip       : "91342",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(818) 367-1849",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-13730-foothill-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -24776,36 +57392,90 @@ var locations = [
 	city      : "Pasadena",
 	zip       : "91104",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(626) 798-7603",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-1390-n-allen-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -24817,36 +57487,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90019",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(323) 939-9335",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-1430-s-fairfax-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -24858,36 +57582,90 @@ var locations = [
 	city      : "San Pedro",
 	zip       : "90732",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(310) 832-8459",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "500",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-1440-w-25th-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -24899,36 +57677,90 @@ var locations = [
 	city      : "Pasadena",
 	zip       : "91105",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(626) 577-7149",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-155-w-california-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -24940,36 +57772,90 @@ var locations = [
 	city      : "Whittier",
 	zip       : "90603",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(562) 943-0516",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-15740-la-forge-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -24981,36 +57867,90 @@ var locations = [
 	city      : "La Verne",
 	zip       : "91750",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(909) 593-2572",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "500",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-1600-foothill-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -25022,36 +57962,90 @@ var locations = [
 	city      : "Canyon Country",
 	zip       : "91387",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(661) 252-3838",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-16550-soledad-canyon-rd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -25063,36 +58057,90 @@ var locations = [
 	city      : "Granada Hills",
 	zip       : "91344",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(818) 831-8511",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-16830-san-fernando-mission-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -25104,36 +58152,90 @@ var locations = [
 	city      : "Pacific Palisades",
 	zip       : "90272",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(310) 454-2502",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-17380-w-sunset-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -25145,36 +58247,90 @@ var locations = [
 	city      : "Long Beach",
 	zip       : "90815",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(562) 498-2111",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-1820-ximeno-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -25186,36 +58342,90 @@ var locations = [
 	city      : "Tarzana",
 	zip       : "91356",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(818) 881-5527",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-18439-ventura-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -25227,36 +58437,90 @@ var locations = [
 	city      : "Reseda",
 	zip       : "91335",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(818) 881-7020",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-19333-victory-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -25268,36 +58532,90 @@ var locations = [
 	city      : "Montrose",
 	zip       : "91020",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(818) 249-4595",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-2039-verdugo-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -25309,36 +58627,90 @@ var locations = [
 	city      : "Chatsworth",
 	zip       : "91311",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(818) 341-7151",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "500",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-20440-devonshire-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -25350,36 +58722,90 @@ var locations = [
 	city      : "Thousand Oaks",
 	zip       : "91362",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(805) 492-2497",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-2048-de-los-avda/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -25391,36 +58817,90 @@ var locations = [
 	city      : "La Habra",
 	zip       : "90631",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(562) 905-2800",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-2101-w-imperial-hwy/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -25432,36 +58912,90 @@ var locations = [
 	city      : "Hacienda Heights",
 	zip       : "91745",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(626) 330-4216",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-2122-s-hacienda-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -25473,36 +59007,90 @@ var locations = [
 	city      : "Pasadena",
 	zip       : "91107",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(626) 744-2615",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-2355-e-colorado-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -25514,36 +59102,90 @@ var locations = [
 	city      : "Newhall",
 	zip       : "91321",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(661) 259-9214",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-24160-lyons-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -25555,36 +59197,90 @@ var locations = [
 	city      : "Torrance",
 	zip       : "90505",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(310) 784-1020",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-24325-crenshaw-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -25596,36 +59292,90 @@ var locations = [
 	city      : "Redondo Beach",
 	zip       : "90277",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(310) 378-7434",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-245-palos-verdes-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -25637,36 +59387,90 @@ var locations = [
 	city      : "Stevenson Ranch",
 	zip       : "91381",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(661) 254-3570",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "500",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-25850-the-old-rd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -25678,36 +59482,90 @@ var locations = [
 	city      : "Santa Clarita",
 	zip       : "91350",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(661) 296-0031",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-26518-bouquet-canyon-rd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -25719,36 +59577,90 @@ var locations = [
 	city      : "Westlake Village",
 	zip       : "91361",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(805) 497-1921",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-2725-agoura-rd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -25760,36 +59672,90 @@ var locations = [
 	city      : "Burbank",
 	zip       : "91505",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(818) 848-9542",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-301-n-pass-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -25801,36 +59767,90 @@ var locations = [
 	city      : "Palmdale",
 	zip       : "93551",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(661) 265-9285",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "500",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-3027-rancho-vista-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -25842,36 +59862,90 @@ var locations = [
 	city      : "Glendale",
 	zip       : "91204",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(818) 246-7161",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-311-w-los-feliz-rd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -25883,36 +59957,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90034",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(310) 477-8717",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-3118-s-sepulveda-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -25924,36 +60052,90 @@ var locations = [
 	city      : "La Crescenta",
 	zip       : "91214",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(818) 658-1018",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "500",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-3233-foothill-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -25965,36 +60147,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90020",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(213) 384-6552",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-3461-w-3rd-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -26006,36 +60242,90 @@ var locations = [
 	city      : "Walnut",
 	zip       : "91789",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(909) 595-6465",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-350-n-lemon-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -26047,36 +60337,90 @@ var locations = [
 	city      : "Long Beach",
 	zip       : "90803",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(562) 987-3122",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-3900-e-ocean-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -26088,36 +60432,90 @@ var locations = [
 	city      : "Redondo Beach",
 	zip       : "90278",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(310) 349-0860",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-4001-inglewood-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -26129,36 +60527,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90066",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(310) 391-1503",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-4030-s-centinela-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -26170,36 +60622,90 @@ var locations = [
 	city      : "Studio City",
 	zip       : "91604",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(818) 985-5401",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "0"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-4033-laurel-canyon-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -26211,36 +60717,90 @@ var locations = [
 	city      : "Lancaster",
 	zip       : "93536",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(661) 722-7291",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "500",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-4033-w-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -26252,36 +60812,90 @@ var locations = [
 	city      : "Manhattan Beach",
 	zip       : "90266",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(310) 379-3051",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-410-manhattan-beach-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -26293,36 +60907,90 @@ var locations = [
 	city      : "Lakewood",
 	zip       : "90713",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(562) 496-4144",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "500",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-4226-woodruff-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -26334,36 +61002,90 @@ var locations = [
 	city      : "Glendora",
 	zip       : "91740",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(626) 914-6015",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-431-e-arrow-hwy/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -26375,36 +61097,90 @@ var locations = [
 	city      : "Glendora",
 	zip       : "91740",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(626) 963-2913",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "500",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-435-foothill-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -26416,36 +61192,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90027",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(323) 662-8107",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "0"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "0"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-4520-w-sunset-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -26457,36 +61287,90 @@ var locations = [
 	city      : "Long Beach",
 	zip       : "90807",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(562) 984-1421",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-4550-atlantic-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -26498,36 +61382,90 @@ var locations = [
 	city      : "Torrance",
 	zip       : "90503",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(310) 371-1172",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-4705-torrance-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -26539,36 +61477,90 @@ var locations = [
 	city      : "Inglewood",
 	zip       : "90301",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(310) 677-0286",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-500-e-manchester-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -26580,36 +61572,90 @@ var locations = [
 	city      : "Claremont",
 	zip       : "91711",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(909) 621-4644",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "500",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-550-e-baseline-rd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -26621,36 +61667,90 @@ var locations = [
 	city      : "Glendale",
 	zip       : "91206",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(818) 242-5926",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-561-n-glendale-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -26662,36 +61762,90 @@ var locations = [
 	city      : "Agoura Hills",
 	zip       : "91301",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(818) 991-2857",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-5671-kanan-rd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -26703,36 +61857,90 @@ var locations = [
 	city      : "Long Beach",
 	zip       : "90802",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(562) 491-1210",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-600-e-broadway/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -26744,36 +61952,90 @@ var locations = [
 	city      : "Pasadena",
 	zip       : "91103",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(626) 578-1233",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-655-n-fair-oaks-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -26785,36 +62047,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90045",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(310) 641-9423",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-6571-w-80th-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -26826,36 +62142,90 @@ var locations = [
 	city      : "Santa Monica",
 	zip       : "90401",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(310) 260-0260",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-710-brdway/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -26867,36 +62237,90 @@ var locations = [
 	city      : "Hermosa Beach",
 	zip       : "90254",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(310) 374-4484",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "0",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "0",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-715-pier-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -26908,36 +62332,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90041",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(323) 254-5716",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "500",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "500",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-7311-n-figueroa-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -26949,36 +62427,90 @@ var locations = [
 	city      : "West Covina",
 	zip       : "91790",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(626) 337-5615",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-777-s-glendora-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -26990,36 +62522,90 @@ var locations = [
 	city      : "Sunland",
 	zip       : "91042",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(818) 353-4917",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-7789-foothill-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -27031,36 +62617,90 @@ var locations = [
 	city      : "Brea",
 	zip       : "92821",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(714) 529-4941",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-780-n-brea-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -27072,36 +62712,90 @@ var locations = [
 	city      : "Montebello",
 	zip       : "90640",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(323) 722-1706",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-804-w-beverly-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -27113,36 +62807,90 @@ var locations = [
 	city      : "Canoga Park",
 	zip       : "91304",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(818) 703-5959",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-8201-topanga-canyon-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -27154,36 +62902,90 @@ var locations = [
 	city      : "Northridge",
 	zip       : "91324",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(818) 349-2494",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-9119-reseda-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -27195,36 +62997,90 @@ var locations = [
 	city      : "Covina",
 	zip       : "91724",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(626) 967-0072",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-932-e-badillo-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -27236,36 +63092,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90034",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.vons.com/",
+	phone     : "(310) 836-4161",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-9860-national-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -27277,36 +63187,90 @@ var locations = [
 	city      : "Pasadena",
 	zip       : "91107",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://vons.com/",
+	phone     : "(626) 844-0096",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "600",
 		close     : "1200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "600",
 		close     : "1200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "600",
 		close     : "1200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "600",
 		close     : "1200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "600",
 		close     : "1200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "600",
 		close     : "1200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "600",
 		close     : "1200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/vons-food-and-pharmacy-2310-e-colorado-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -27318,36 +63282,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90024",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.wholefoodsmarket.com",
+	phone     : "(310) 824-0858",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/whole-foods-1050-gayley-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -27359,36 +63377,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90064",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.wholefoodsmarket.com",
+	phone     : "(310) 996-8840",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/whole-foods-11666-national-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -27400,36 +63472,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90049",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.wholefoodsmarket.com",
+	phone     : "(310) 826-4433",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/whole-foods-11737-san-vicente-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -27441,36 +63567,90 @@ var locations = [
 	city      : "Playa del Rey",
 	zip       : "90094",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.wholefoodsmarket.com",
+	phone     : "(310) 862-9900",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/whole-foods-12746-w-jefferson-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -27482,36 +63662,90 @@ var locations = [
 	city      : "Santa Monica",
 	zip       : "90403",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.wholefoodsmarket.com",
+	phone     : "(310) 576-4707",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/whole-foods-1425-montana-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -27523,36 +63757,90 @@ var locations = [
 	city      : "Porter Ranch",
 	zip       : "91326",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.wholefoodsmarket.com",
+	phone     : "(818) 363-3933",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/whole-foods-19340-rinaldi-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -27564,36 +63852,90 @@ var locations = [
 	city      : "Woodland Hills",
 	zip       : "91364",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.wholefoodsmarket.com",
+	phone     : "(818) 610-0000",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/whole-foods-21347-ventura-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -27605,36 +63947,90 @@ var locations = [
 	city      : "Santa Monica",
 	zip       : "90403",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.wholefoodsmarket.com",
+	phone     : "(310) 315-0662",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/whole-foods-2201-wilshire-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -27646,36 +64042,90 @@ var locations = [
 	city      : "Venice",
 	zip       : "90291",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.wholefoodsmarket.com",
+	phone     : "(310) 566-9480",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/whole-foods-225-lincoln-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -27687,36 +64137,90 @@ var locations = [
 	city      : "Beverly Hills",
 	zip       : "90210",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.wholefoodsmarket.com",
+	phone     : "(310) 274-3360",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/whole-foods-239-n-crescent-dr/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -27728,36 +64232,90 @@ var locations = [
 	city      : "Valencia",
 	zip       : "91355",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.wholefoodsmarket.com",
+	phone     : "(661) 260-2377",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/whole-foods-24130-valencia-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -27769,36 +64327,90 @@ var locations = [
 	city      : "Torrance",
 	zip       : "90505",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.wholefoodsmarket.com",
+	phone     : "(310) 257-8700",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/whole-foods-2655-pacific-coast-hwy/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -27810,36 +64422,90 @@ var locations = [
 	city      : "Glendale",
 	zip       : "91206",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.wholefoodsmarket.com",
+	phone     : "(818) 548-3695",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/whole-foods-331-n-glendale-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -27851,36 +64517,90 @@ var locations = [
 	city      : "Pasadena",
 	zip       : "91107",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.wholefoodsmarket.com",
+	phone     : "(626) 351-5994",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/whole-foods-3751-e-foothill-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -27892,36 +64612,90 @@ var locations = [
 	city      : "Redondo Beach",
 	zip       : "90277",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.wholefoodsmarket.com",
+	phone     : "(310) 376-6931",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/whole-foods-405-n-pacific-coast-hwy/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -27933,36 +64707,90 @@ var locations = [
 	city      : "Sherman Oaks",
 	zip       : "91403",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.wholefoodsmarket.com",
+	phone     : "(818) 382-3700",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/whole-foods-4520-sepulveda-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -27974,36 +64802,90 @@ var locations = [
 	city      : "Pasadena",
 	zip       : "91105",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.wholefoodsmarket.com",
+	phone     : "(626) 204-2266",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/whole-foods-465-s-arroyo-pkwy/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -28015,36 +64897,90 @@ var locations = [
 	city      : "Santa Monica",
 	zip       : "90401",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.wholefoodsmarket.com",
+	phone     : "(310) 395-4510",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/whole-foods-500-wilshire-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -28056,36 +64992,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90036",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.wholefoodsmarket.com",
+	phone     : "(323) 964-6800",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2300"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2300"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/whole-foods-6350-w-3rd-st/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -28097,36 +65087,90 @@ var locations = [
 	city      : "Long Beach",
 	zip       : "90803",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.wholefoodsmarket.com",
+	phone     : "(562) 598-8687",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/whole-foods-6550-e-pacific-coast-hwy/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -28138,36 +65182,90 @@ var locations = [
 	city      : "El Segundo",
 	zip       : "90245",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.wholefoodsmarket.com",
+	phone     : "(310) 333-1900",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "1000",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "1000",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "1000",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "1000",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "1000",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "1000",
 		close     : "2100"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "1100",
 		close     : "1900"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/whole-foods-760-s-sepulveda-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -28179,36 +65277,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90017",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.wholefoodsmarket.com",
+	phone     : "(213) 873-4745",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2200"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/whole-foods-788-s-grand-ave/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -28220,36 +65372,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90026",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.yummy.com",
+	phone     : "(323) 912-9188",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/yummy-com-3607-w-sunset-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -28261,36 +65467,90 @@ var locations = [
 	city      : "Los Angeles",
 	zip       : "90019",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.yummy.com",
+	phone     : "(323) 965-0600",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "700",
 		close     : "2200"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "700",
 		close     : "2130"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "700",
 		close     : "2100"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/yummy-com-5520-san-vicente-blvd/"
+	
+
+	, content   : " "
+	
 },
 
 {
@@ -28302,36 +65562,90 @@ var locations = [
 	city      : "Playa Vista",
 	zip       : "90094",
 	category  : "Supermarket",
-	hours     : [{
+	website   : "http://www.yummy.com",
+	phone     : "(310) 862-9790",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
 		day       : "Mon",
 		open      : "800",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Tue",
 		open      : "800",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Wed",
 		open      : "800",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Thu",
 		open      : "800",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Fri",
 		open      : "800",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sat",
 		open      : "800",
 		close     : "2359"
-	},{
+	}
+	
+	
+
+	
+	,
+	{
 		day       : "Sun",
 		open      : "800",
 		close     : "2359"
-	}],
+	}
+	
+	
+
+	],
 	uri       : "/supermarket/yummy-com-6020-seabluff-dr/"
+	
+
+	, content   : " "
+	
 }
 
 
