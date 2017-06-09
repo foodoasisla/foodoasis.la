@@ -308,7 +308,7 @@ var updateLink;
 	
 
 	
-	<div class="map-container" id="map" ></div>
+	<div class="map-container" id="map"></div>
 
 	<div class="location-summary-container" id="map-location-summary" ></div>
 	
@@ -333,7 +333,7 @@ var updateLink;
 
 			<h2>Children's Hospital LA CFM</h2>
 			<p class="address">
-				
+				4650 Sunset Blvd.
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -356,7 +356,7 @@ var updateLink;
 
 			<h2>Claremont Farmers Market</h2>
 			<p class="address">
-				
+				N Indian Hill Blvd & W 2Nd St
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -379,7 +379,7 @@ var updateLink;
 
 			<h2>Compton Blue Line Farmers Market</h2>
 			<p class="address">
-				
+				101 E Palmer Street
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -402,7 +402,10 @@ var updateLink;
 
 			<h2>Covina Farmers Market</h2>
 			<p class="address">
+				Citrus Ave and San Bernandino Rd
 				
+					<br />
+					Heritage Plaza
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -425,7 +428,7 @@ var updateLink;
 
 			<h2>Crenshaw Baldwin Hill Farmers Market</h2>
 			<p class="address">
-				
+				3650 W Martin Luther King Blvd
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -448,7 +451,7 @@ var updateLink;
 
 			<h2>Culver City Farmers Market</h2>
 			<p class="address">
-				
+				Main & Culver
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -471,7 +474,7 @@ var updateLink;
 
 			<h2>Diamond Bar Farmers Market</h2>
 			<p class="address">
-				
+				Calvary Chapel Church
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -494,7 +497,7 @@ var updateLink;
 
 			<h2>Downey Farmers Market</h2>
 			<p class="address">
-				
+				La Reina Ave & 2nd St
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -517,7 +520,7 @@ var updateLink;
 
 			<h2>Downtown Los Angeles (Fig at 7th) Farmers Market</h2>
 			<p class="address">
-				
+				S Figueroa St & W 7th St
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -540,7 +543,7 @@ var updateLink;
 
 			<h2>Duarte City of Hope Farmers Market</h2>
 			<p class="address">
-				
+				1500 Duarte Rd
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -563,7 +566,7 @@ var updateLink;
 
 			<h2>Eagle Rock Farmers Market</h2>
 			<p class="address">
-				
+				2035 Colorado Blvd.
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -586,7 +589,7 @@ var updateLink;
 
 			<h2>East Hollywood Farmers Market</h2>
 			<p class="address">
-				
+				5448 Hollywood Boulevard
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -609,7 +612,7 @@ var updateLink;
 
 			<h2>East LA Farmers' Market</h2>
 			<p class="address">
-				
+				4801 East 3rd Street
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -632,7 +635,7 @@ var updateLink;
 
 			<h2>Echo Park Farmers Market</h2>
 			<p class="address">
-				
+				Logan St. and Sunset Blvd
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -655,7 +658,7 @@ var updateLink;
 
 			<h2>El Segundo Plaza Farmers Market</h2>
 			<p class="address">
-				
+				300 Main St.
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -678,7 +681,7 @@ var updateLink;
 
 			<h2>Encino Farmers Market</h2>
 			<p class="address">
-				
+				17400 Victory Blvd in Van Nuys
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -701,7 +704,7 @@ var updateLink;
 
 			<h2>Gardena Hollypark Farmers Market</h2>
 			<p class="address">
-				
+				13000 Van Ness
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -724,7 +727,7 @@ var updateLink;
 
 			<h2>Green Acres</h2>
 			<p class="address">
-				
+				5000 East Spring Street
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -747,7 +750,7 @@ var updateLink;
 
 			<h2>Hermosa Beach Farmers Market</h2>
 			<p class="address">
-				
+				Valley Dr. between 8th St. & 10th St.
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -770,7 +773,7 @@ var updateLink;
 
 			<h2>Historic Downtown Farmers' Market (CFM)</h2>
 			<p class="address">
-				
+				205 West 5th Street
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -902,10 +905,21 @@ var updateLink;
 	</section>
 </script>
 
+<script src="/assets/js/helpers.js"></script>
+<script src="/assets/js/location-list-toggle-view.js"></script>
+
 <!-- Jim’s Google Maps API key -->
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4"></script>
 
 <script src="https://api.mapbox.com/mapbox-gl-js/v0.33.1/mapbox-gl.js"></script>
+
+<script>
+	if (!mapboxgl.supported()) {
+		if (console && console.log) console.log('MapboxGL doesn’t appear to be supported in this web browser. Showing the list instead…');
+		window.oasis.showList();
+		window.oasis.hideToggleButtons();
+	}
+</script>
 
 <script>
 // FOLA’s Mapbox API key
@@ -1017,9 +1031,22 @@ var listOffset = 20;
 <script src="/api/farmers-market.js"></script>
 
 
-<script src="/assets/js/helpers.js"></script>
+<script>
+(function() {
+
+	var foodSourcesList = document.querySelector('ul.location-list');
+	if (foodSourcesList) foodSourcesList.classList.add('sorting');
+
+	// If sorting is taking a long time, show the default list again.
+	setTimeout(function() {
+		var foodSourcesList = document.querySelector('ul.location-list');
+		if (foodSourcesList) foodSourcesList.classList.remove('sorting');
+	}, 5000);
+
+})();
+</script>
+
 <script src="/assets/js/geolocate.js"></script>
-<script src="/assets/js/location-list-toggle-view.js"></script>
 <script src="/assets/js/location-list-sort.js"></script>
 <script src="/assets/js/location-list-item.js"></script>
 <script src="/assets/js/location-list-map.js"></script>
@@ -1028,10 +1055,9 @@ var listOffset = 20;
 
 	window.oasis.createMap();
 
-	var foodSourcesList = document.querySelector('ul.location-list');
-	if (foodSourcesList) foodSourcesList.classList.add('sorting');
 	window.oasis.findUserLocation(function(userLocation) {
 		var list = window.oasis.sortByClosest(userLocation.latitude, userLocation.longitude);
+		var foodSourcesList = document.querySelector('ul.location-list');
 		if (foodSourcesList) foodSourcesList.classList.remove('sorting');
 		if (document.getElementById('search-location')) document.getElementById('search-location').textContent = userLocation.label;
 		window.oasis.addMarkers(list, userLocation.geolocated, userLocation.latitude, userLocation.longitude);

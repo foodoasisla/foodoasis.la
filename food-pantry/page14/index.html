@@ -308,7 +308,7 @@ var updateLink;
 	
 
 	
-	<div class="map-container" id="map" ></div>
+	<div class="map-container" id="map"></div>
 
 	<div class="location-summary-container" id="map-location-summary" ></div>
 	
@@ -333,7 +333,7 @@ var updateLink;
 
 			<h2>Salvation Army- Whittier Corp.</h2>
 			<p class="address">
-				
+				7926 Pickering Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -356,7 +356,7 @@ var updateLink;
 
 			<h2>San Gabriel Mission</h2>
 			<p class="address">
-				
+				428 South Mission Drive
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -379,7 +379,7 @@ var updateLink;
 
 			<h2>San Gabriel Valley Y.W.C.A.</h2>
 			<p class="address">
-				
+				510 N. Vineland Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -402,7 +402,7 @@ var updateLink;
 
 			<h2>San Miguel Church</h2>
 			<p class="address">
-				
+				2214 E. 108th Street
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -425,7 +425,7 @@ var updateLink;
 
 			<h2>San Pedro Temple Corps</h2>
 			<p class="address">
-				
+				138 S. Bandini Street
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -448,7 +448,7 @@ var updateLink;
 
 			<h2>Santa Clarita Valley Food Pantry</h2>
 			<p class="address">
-				
+				24133 Railroad Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -471,7 +471,7 @@ var updateLink;
 
 			<h2>Servants Arms Community Based Organization</h2>
 			<p class="address">
-				
+				1720 N. Walnut Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -494,7 +494,7 @@ var updateLink;
 
 			<h2>Shekinah Worship Center</h2>
 			<p class="address">
-				
+				42640 10th Street West
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -517,7 +517,7 @@ var updateLink;
 
 			<h2>Shepherd's Pantry</h2>
 			<p class="address">
-				
+				657 E. Arrow Highway
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -540,7 +540,7 @@ var updateLink;
 
 			<h2>Shield of Faith Christian Center of Pasadena</h2>
 			<p class="address">
-				
+				1127 N. Lake Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -563,7 +563,7 @@ var updateLink;
 
 			<h2>Shields for Families</h2>
 			<p class="address">
-				
+				11705 Deputy Yamamoto Place
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -586,7 +586,7 @@ var updateLink;
 
 			<h2>Silverlake Community Church-Hope Net</h2>
 			<p class="address">
-				
+				2930 Hyperion Ave
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -609,7 +609,7 @@ var updateLink;
 
 			<h2>Southeast Churches Service Center</h2>
 			<p class="address">
-				
+				2780 E. Gage Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -632,7 +632,7 @@ var updateLink;
 
 			<h2>Sowing Seeds for Life</h2>
 			<p class="address">
-				
+				1350 Arrow Hwy
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -655,7 +655,7 @@ var updateLink;
 
 			<h2>Spanish American S.D.A. Church</h2>
 			<p class="address">
-				
+				1815 E. Bridge Street
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -678,7 +678,7 @@ var updateLink;
 
 			<h2>St. Agnes Parish</h2>
 			<p class="address">
-				
+				2625 S. Vermont Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -701,7 +701,7 @@ var updateLink;
 
 			<h2>St. Andrew Catholic Church</h2>
 			<p class="address">
-				
+				140 Chestnut Street
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -724,7 +724,7 @@ var updateLink;
 
 			<h2>St. Athanasius & St. Paul Church</h2>
 			<p class="address">
-				
+				840 Echo Park Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -747,7 +747,7 @@ var updateLink;
 
 			<h2>St. Brigid Catholic Church</h2>
 			<p class="address">
-				
+				5214 S. Western Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -770,7 +770,7 @@ var updateLink;
 
 			<h2>St. Catherine Laboure Catholic</h2>
 			<p class="address">
-				
+				3846 Redondo Beach Boulevard
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -902,10 +902,21 @@ var updateLink;
 	</section>
 </script>
 
+<script src="/assets/js/helpers.js"></script>
+<script src="/assets/js/location-list-toggle-view.js"></script>
+
 <!-- Jim’s Google Maps API key -->
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4"></script>
 
 <script src="https://api.mapbox.com/mapbox-gl-js/v0.33.1/mapbox-gl.js"></script>
+
+<script>
+	if (!mapboxgl.supported()) {
+		if (console && console.log) console.log('MapboxGL doesn’t appear to be supported in this web browser. Showing the list instead…');
+		window.oasis.showList();
+		window.oasis.hideToggleButtons();
+	}
+</script>
 
 <script>
 // FOLA’s Mapbox API key
@@ -1017,9 +1028,22 @@ var listOffset = 260;
 <script src="/api/food-pantry.js"></script>
 
 
-<script src="/assets/js/helpers.js"></script>
+<script>
+(function() {
+
+	var foodSourcesList = document.querySelector('ul.location-list');
+	if (foodSourcesList) foodSourcesList.classList.add('sorting');
+
+	// If sorting is taking a long time, show the default list again.
+	setTimeout(function() {
+		var foodSourcesList = document.querySelector('ul.location-list');
+		if (foodSourcesList) foodSourcesList.classList.remove('sorting');
+	}, 5000);
+
+})();
+</script>
+
 <script src="/assets/js/geolocate.js"></script>
-<script src="/assets/js/location-list-toggle-view.js"></script>
 <script src="/assets/js/location-list-sort.js"></script>
 <script src="/assets/js/location-list-item.js"></script>
 <script src="/assets/js/location-list-map.js"></script>
@@ -1028,10 +1052,9 @@ var listOffset = 260;
 
 	window.oasis.createMap();
 
-	var foodSourcesList = document.querySelector('ul.location-list');
-	if (foodSourcesList) foodSourcesList.classList.add('sorting');
 	window.oasis.findUserLocation(function(userLocation) {
 		var list = window.oasis.sortByClosest(userLocation.latitude, userLocation.longitude);
+		var foodSourcesList = document.querySelector('ul.location-list');
 		if (foodSourcesList) foodSourcesList.classList.remove('sorting');
 		if (document.getElementById('search-location')) document.getElementById('search-location').textContent = userLocation.label;
 		window.oasis.addMarkers(list, userLocation.geolocated, userLocation.latitude, userLocation.longitude);

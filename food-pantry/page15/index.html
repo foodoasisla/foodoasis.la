@@ -308,7 +308,7 @@ var updateLink;
 	
 
 	
-	<div class="map-container" id="map" ></div>
+	<div class="map-container" id="map"></div>
 
 	<div class="location-summary-container" id="map-location-summary" ></div>
 	
@@ -333,7 +333,7 @@ var updateLink;
 
 			<h2>St. Cecilia Catholic Church</h2>
 			<p class="address">
-				
+				4230 S. Normandie Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -356,7 +356,7 @@ var updateLink;
 
 			<h2>St. Charles Service Center</h2>
 			<p class="address">
-				
+				10825 Moorpark Street
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -379,7 +379,7 @@ var updateLink;
 
 			<h2>St. Ferdinand Church</h2>
 			<p class="address">
-				
+				1109 Coronel Street
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -402,7 +402,7 @@ var updateLink;
 
 			<h2>St. Francis Center</h2>
 			<p class="address">
-				
+				1835 S. Hope Street
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -425,7 +425,7 @@ var updateLink;
 
 			<h2>St. George Church</h2>
 			<p class="address">
-				
+				15721 Cornuta Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -448,7 +448,7 @@ var updateLink;
 
 			<h2>St. Gertrudes Conference</h2>
 			<p class="address">
-				
+				7025 Garfield Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -471,7 +471,7 @@ var updateLink;
 
 			<h2>St. Helen Church</h2>
 			<p class="address">
-				
+				9314 Madison Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -494,7 +494,7 @@ var updateLink;
 
 			<h2>St. James Episcopal Church-Hope Net</h2>
 			<p class="address">
-				
+				3903 Wilshire Boulevard
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -517,7 +517,7 @@ var updateLink;
 
 			<h2>St. John Coptic Orthodox</h2>
 			<p class="address">
-				
+				21329 E. Cienega Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -540,7 +540,7 @@ var updateLink;
 
 			<h2>St. John Vianney Church</h2>
 			<p class="address">
-				
+				1345 Turnbull Canyon Road
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -563,7 +563,7 @@ var updateLink;
 
 			<h2>St. John's Cathedral-Hope Net</h2>
 			<p class="address">
-				
+				514 W. Adams Boulevard
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -586,7 +586,7 @@ var updateLink;
 
 			<h2>St. Joseph Conference</h2>
 			<p class="address">
-				
+				1150 W. Holt Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -609,7 +609,7 @@ var updateLink;
 
 			<h2>St. Lawrence of Brindisi</h2>
 			<p class="address">
-				
+				10122 Compton Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -632,7 +632,7 @@ var updateLink;
 
 			<h2>St. Luke Catholic Community</h2>
 			<p class="address">
-				
+				9451 Broadway
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -655,7 +655,7 @@ var updateLink;
 
 			<h2>St. Margaret's Center</h2>
 			<p class="address">
-				
+				10217 Inglewood Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -678,7 +678,7 @@ var updateLink;
 
 			<h2>St. Mark Missionary Baptist</h2>
 			<p class="address">
-				
+				5017 Compton Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -701,7 +701,7 @@ var updateLink;
 
 			<h2>St. Mary & St. Athanasius Coptic Church</h2>
 			<p class="address">
-				
+				17431 Roscoe Blvd.
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -724,7 +724,7 @@ var updateLink;
 
 			<h2>St. Mary's Place</h2>
 			<p class="address">
-				
+				7215 Newlin Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -747,7 +747,7 @@ var updateLink;
 
 			<h2>St. Paul's Methodist Church</h2>
 			<p class="address">
-				
+				2600 Nelson Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -770,7 +770,7 @@ var updateLink;
 
 			<h2>St. Peter and Paul Poverty Program</h2>
 			<p class="address">
-				
+				943 Lagoon Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -902,10 +902,21 @@ var updateLink;
 	</section>
 </script>
 
+<script src="/assets/js/helpers.js"></script>
+<script src="/assets/js/location-list-toggle-view.js"></script>
+
 <!-- Jim’s Google Maps API key -->
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4"></script>
 
 <script src="https://api.mapbox.com/mapbox-gl-js/v0.33.1/mapbox-gl.js"></script>
+
+<script>
+	if (!mapboxgl.supported()) {
+		if (console && console.log) console.log('MapboxGL doesn’t appear to be supported in this web browser. Showing the list instead…');
+		window.oasis.showList();
+		window.oasis.hideToggleButtons();
+	}
+</script>
 
 <script>
 // FOLA’s Mapbox API key
@@ -1017,9 +1028,22 @@ var listOffset = 280;
 <script src="/api/food-pantry.js"></script>
 
 
-<script src="/assets/js/helpers.js"></script>
+<script>
+(function() {
+
+	var foodSourcesList = document.querySelector('ul.location-list');
+	if (foodSourcesList) foodSourcesList.classList.add('sorting');
+
+	// If sorting is taking a long time, show the default list again.
+	setTimeout(function() {
+		var foodSourcesList = document.querySelector('ul.location-list');
+		if (foodSourcesList) foodSourcesList.classList.remove('sorting');
+	}, 5000);
+
+})();
+</script>
+
 <script src="/assets/js/geolocate.js"></script>
-<script src="/assets/js/location-list-toggle-view.js"></script>
 <script src="/assets/js/location-list-sort.js"></script>
 <script src="/assets/js/location-list-item.js"></script>
 <script src="/assets/js/location-list-map.js"></script>
@@ -1028,10 +1052,9 @@ var listOffset = 280;
 
 	window.oasis.createMap();
 
-	var foodSourcesList = document.querySelector('ul.location-list');
-	if (foodSourcesList) foodSourcesList.classList.add('sorting');
 	window.oasis.findUserLocation(function(userLocation) {
 		var list = window.oasis.sortByClosest(userLocation.latitude, userLocation.longitude);
+		var foodSourcesList = document.querySelector('ul.location-list');
 		if (foodSourcesList) foodSourcesList.classList.remove('sorting');
 		if (document.getElementById('search-location')) document.getElementById('search-location').textContent = userLocation.label;
 		window.oasis.addMarkers(list, userLocation.geolocated, userLocation.latitude, userLocation.longitude);

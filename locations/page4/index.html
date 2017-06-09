@@ -308,7 +308,7 @@ var updateLink;
 	
 
 	
-	<div class="map-container" id="map" ></div>
+	<div class="map-container" id="map"></div>
 
 	<div class="location-summary-container" id="map-location-summary" ></div>
 	
@@ -332,7 +332,7 @@ var updateLink;
 
 			<h2>Albertsons</h2>
 			<p class="address">
-				
+				19307 Saticoy St
 				
 			</p>
 			<p class="type">Supermarket</p>
@@ -355,7 +355,7 @@ var updateLink;
 
 			<h2>Albertsons</h2>
 			<p class="address">
-				
+				27631 Bouquet Canyon Rd
 				
 			</p>
 			<p class="type">Supermarket</p>
@@ -378,7 +378,7 @@ var updateLink;
 
 			<h2>Albertsons</h2>
 			<p class="address">
-				
+				23449 Lyons Ave
 				
 			</p>
 			<p class="type">Supermarket</p>
@@ -401,7 +401,7 @@ var updateLink;
 
 			<h2>Albertsons</h2>
 			<p class="address">
-				
+				5770 Lindero Canyon Rd
 				
 			</p>
 			<p class="type">Supermarket</p>
@@ -424,7 +424,7 @@ var updateLink;
 
 			<h2>Albertsons</h2>
 			<p class="address">
-				
+				3830 W Verdugo Ave
 				
 			</p>
 			<p class="type">Supermarket</p>
@@ -447,7 +447,7 @@ var updateLink;
 
 			<h2>Albertsons</h2>
 			<p class="address">
-				
+				3255 Grand Ave
 				
 			</p>
 			<p class="type">Supermarket</p>
@@ -470,7 +470,7 @@ var updateLink;
 
 			<h2>Albertsons</h2>
 			<p class="address">
-				
+				12013 Central Ave
 				
 			</p>
 			<p class="type">Supermarket</p>
@@ -493,7 +493,7 @@ var updateLink;
 
 			<h2>Albertsons</h2>
 			<p class="address">
-				
+				1023 N Grand Ave
 				
 			</p>
 			<p class="type">Supermarket</p>
@@ -516,7 +516,7 @@ var updateLink;
 
 			<h2>Albertsons</h2>
 			<p class="address">
-				
+				3828 Peck Rd
 				
 			</p>
 			<p class="type">Supermarket</p>
@@ -539,7 +539,7 @@ var updateLink;
 
 			<h2>Albertsons</h2>
 			<p class="address">
-				
+				133 W Route 66
 				
 			</p>
 			<p class="type">Supermarket</p>
@@ -562,7 +562,7 @@ var updateLink;
 
 			<h2>Albertsons</h2>
 			<p class="address">
-				
+				2400 W Commonwealth Ave
 				
 			</p>
 			<p class="type">Supermarket</p>
@@ -585,7 +585,7 @@ var updateLink;
 
 			<h2>Albertsons</h2>
 			<p class="address">
-				
+				2500 E Imperial Hwy
 				
 			</p>
 			<p class="type">Supermarket</p>
@@ -608,7 +608,7 @@ var updateLink;
 
 			<h2>Albertsons</h2>
 			<p class="address">
-				
+				43543 20th St W
 				
 			</p>
 			<p class="type">Supermarket</p>
@@ -631,7 +631,7 @@ var updateLink;
 
 			<h2>Albertsons</h2>
 			<p class="address">
-				
+				1010 E Ave
 				
 			</p>
 			<p class="type">Supermarket</p>
@@ -654,7 +654,7 @@ var updateLink;
 
 			<h2>Albertsons</h2>
 			<p class="address">
-				
+				101 E Avenue E
 				
 			</p>
 			<p class="type">Supermarket</p>
@@ -677,7 +677,7 @@ var updateLink;
 
 			<h2>Albertsons</h2>
 			<p class="address">
-				
+				38727 Tierra Subida Ave
 				
 			</p>
 			<p class="type">Supermarket</p>
@@ -700,7 +700,7 @@ var updateLink;
 
 			<h2>Albertsons</h2>
 			<p class="address">
-				
+				2547 W Rosamond Blvd
 				
 			</p>
 			<p class="type">Supermarket</p>
@@ -723,7 +723,7 @@ var updateLink;
 
 			<h2>Albertsons</h2>
 			<p class="address">
-				
+				3400 E South St
 				
 			</p>
 			<p class="type">Supermarket</p>
@@ -746,7 +746,7 @@ var updateLink;
 
 			<h2>Albertsons</h2>
 			<p class="address">
-				
+				1800 W Whittier Blvd
 				
 			</p>
 			<p class="type">Supermarket</p>
@@ -769,7 +769,7 @@ var updateLink;
 
 			<h2>Albertsons</h2>
 			<p class="address">
-				
+				22840 Victory Blvd
 				
 			</p>
 			<p class="type">Supermarket</p>
@@ -901,10 +901,21 @@ var updateLink;
 	</section>
 </script>
 
+<script src="/assets/js/helpers.js"></script>
+<script src="/assets/js/location-list-toggle-view.js"></script>
+
 <!-- Jim’s Google Maps API key -->
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4"></script>
 
 <script src="https://api.mapbox.com/mapbox-gl-js/v0.33.1/mapbox-gl.js"></script>
+
+<script>
+	if (!mapboxgl.supported()) {
+		if (console && console.log) console.log('MapboxGL doesn’t appear to be supported in this web browser. Showing the list instead…');
+		window.oasis.showList();
+		window.oasis.hideToggleButtons();
+	}
+</script>
 
 <script>
 // FOLA’s Mapbox API key
@@ -1016,9 +1027,22 @@ var listOffset = 60;
 <script src="/api/locations.js"></script>
 
 
-<script src="/assets/js/helpers.js"></script>
+<script>
+(function() {
+
+	var foodSourcesList = document.querySelector('ul.location-list');
+	if (foodSourcesList) foodSourcesList.classList.add('sorting');
+
+	// If sorting is taking a long time, show the default list again.
+	setTimeout(function() {
+		var foodSourcesList = document.querySelector('ul.location-list');
+		if (foodSourcesList) foodSourcesList.classList.remove('sorting');
+	}, 5000);
+
+})();
+</script>
+
 <script src="/assets/js/geolocate.js"></script>
-<script src="/assets/js/location-list-toggle-view.js"></script>
 <script src="/assets/js/location-list-sort.js"></script>
 <script src="/assets/js/location-list-item.js"></script>
 <script src="/assets/js/location-list-map.js"></script>
@@ -1027,10 +1051,9 @@ var listOffset = 60;
 
 	window.oasis.createMap();
 
-	var foodSourcesList = document.querySelector('ul.location-list');
-	if (foodSourcesList) foodSourcesList.classList.add('sorting');
 	window.oasis.findUserLocation(function(userLocation) {
 		var list = window.oasis.sortByClosest(userLocation.latitude, userLocation.longitude);
+		var foodSourcesList = document.querySelector('ul.location-list');
 		if (foodSourcesList) foodSourcesList.classList.remove('sorting');
 		if (document.getElementById('search-location')) document.getElementById('search-location').textContent = userLocation.label;
 		window.oasis.addMarkers(list, userLocation.geolocated, userLocation.latitude, userLocation.longitude);

@@ -308,7 +308,7 @@ var updateLink;
 	
 
 	
-	<div class="map-container" id="map" ></div>
+	<div class="map-container" id="map"></div>
 
 	<div class="location-summary-container" id="map-location-summary" ></div>
 	
@@ -333,7 +333,7 @@ var updateLink;
 
 			<h2>Mision Cristana Monte de Sion</h2>
 			<p class="address">
-				
+				6315 Eastern Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -356,7 +356,7 @@ var updateLink;
 
 			<h2>Missionaries of Charity</h2>
 			<p class="address">
-				
+				10950 California Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -379,7 +379,7 @@ var updateLink;
 
 			<h2>Montebello Watch</h2>
 			<p class="address">
-				
+				1033 South Maple Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -402,7 +402,7 @@ var updateLink;
 
 			<h2>Mt. Sinai C.O.G.I.C.</h2>
 			<p class="address">
-				
+				936 W. Ninth Street
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -425,7 +425,7 @@ var updateLink;
 
 			<h2>My Friends House</h2>
 			<p class="address">
-				
+				3533 West 58th Place
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -448,7 +448,7 @@ var updateLink;
 
 			<h2>New Covenant Tabernacle of Antelope Valley</h2>
 			<p class="address">
-				
+				38626 9th Street East
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -471,7 +471,7 @@ var updateLink;
 
 			<h2>New Jerusalem C.O.G.I.C.</h2>
 			<p class="address">
-				
+				420 S. Sante Fe Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -494,7 +494,7 @@ var updateLink;
 
 			<h2>New Life Community Church</h2>
 			<p class="address">
-				
+				5009 W. 119th Street
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -517,7 +517,7 @@ var updateLink;
 
 			<h2>New Life Pomona</h2>
 			<p class="address">
-				
+				275 East Foothill Boulevard
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -540,7 +540,7 @@ var updateLink;
 
 			<h2>New Region For Christ</h2>
 			<p class="address">
-				
+				520 S. La Brea Ave
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -563,7 +563,7 @@ var updateLink;
 
 			<h2>Normandie Community Development Food Pantry</h2>
 			<p class="address">
-				
+				3801 South Normandie Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -586,7 +586,7 @@ var updateLink;
 
 			<h2>North Hollywood Interfaith Food Pantry</h2>
 			<p class="address">
-				
+				4390 Colfax Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -609,7 +609,7 @@ var updateLink;
 
 			<h2>Norwalk Church of the Nazarene</h2>
 			<p class="address">
-				
+				15000 Studebaker Road
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -632,7 +632,7 @@ var updateLink;
 
 			<h2>Nuevo Amanecer</h2>
 			<p class="address">
-				
+				1035 N. Avalon Boulevard
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -655,7 +655,7 @@ var updateLink;
 
 			<h2>Our Lady of Guadalupe Church</h2>
 			<p class="address">
-				
+				4509 Mercury Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -678,7 +678,7 @@ var updateLink;
 
 			<h2>Our Lady of Talpa Church</h2>
 			<p class="address">
-				
+				427 S. Evergreen Ave.
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -701,7 +701,7 @@ var updateLink;
 
 			<h2>Our Lady of Victory Conference</h2>
 			<p class="address">
-				
+				410 E. Palmer Street
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -724,7 +724,7 @@ var updateLink;
 
 			<h2>Our Lady Queen of Angels Catholic Church</h2>
 			<p class="address">
-				
+				535 N. Main Street
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -747,7 +747,7 @@ var updateLink;
 
 			<h2>Our Saviour Center</h2>
 			<p class="address">
-				
+				4368 Santa Anita Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -770,7 +770,7 @@ var updateLink;
 
 			<h2>Palmdale Community Foundation-S.A.V.E.S.</h2>
 			<p class="address">
-				
+				1002 East Avenue Q12
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -902,10 +902,21 @@ var updateLink;
 	</section>
 </script>
 
+<script src="/assets/js/helpers.js"></script>
+<script src="/assets/js/location-list-toggle-view.js"></script>
+
 <!-- Jim’s Google Maps API key -->
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4"></script>
 
 <script src="https://api.mapbox.com/mapbox-gl-js/v0.33.1/mapbox-gl.js"></script>
+
+<script>
+	if (!mapboxgl.supported()) {
+		if (console && console.log) console.log('MapboxGL doesn’t appear to be supported in this web browser. Showing the list instead…');
+		window.oasis.showList();
+		window.oasis.hideToggleButtons();
+	}
+</script>
 
 <script>
 // FOLA’s Mapbox API key
@@ -1017,9 +1028,22 @@ var listOffset = 200;
 <script src="/api/food-pantry.js"></script>
 
 
-<script src="/assets/js/helpers.js"></script>
+<script>
+(function() {
+
+	var foodSourcesList = document.querySelector('ul.location-list');
+	if (foodSourcesList) foodSourcesList.classList.add('sorting');
+
+	// If sorting is taking a long time, show the default list again.
+	setTimeout(function() {
+		var foodSourcesList = document.querySelector('ul.location-list');
+		if (foodSourcesList) foodSourcesList.classList.remove('sorting');
+	}, 5000);
+
+})();
+</script>
+
 <script src="/assets/js/geolocate.js"></script>
-<script src="/assets/js/location-list-toggle-view.js"></script>
 <script src="/assets/js/location-list-sort.js"></script>
 <script src="/assets/js/location-list-item.js"></script>
 <script src="/assets/js/location-list-map.js"></script>
@@ -1028,10 +1052,9 @@ var listOffset = 200;
 
 	window.oasis.createMap();
 
-	var foodSourcesList = document.querySelector('ul.location-list');
-	if (foodSourcesList) foodSourcesList.classList.add('sorting');
 	window.oasis.findUserLocation(function(userLocation) {
 		var list = window.oasis.sortByClosest(userLocation.latitude, userLocation.longitude);
+		var foodSourcesList = document.querySelector('ul.location-list');
 		if (foodSourcesList) foodSourcesList.classList.remove('sorting');
 		if (document.getElementById('search-location')) document.getElementById('search-location').textContent = userLocation.label;
 		window.oasis.addMarkers(list, userLocation.geolocated, userLocation.latitude, userLocation.longitude);

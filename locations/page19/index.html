@@ -308,7 +308,7 @@ var updateLink;
 	
 
 	
-	<div class="map-container" id="map" ></div>
+	<div class="map-container" id="map"></div>
 
 	<div class="location-summary-container" id="map-location-summary" ></div>
 	
@@ -332,7 +332,7 @@ var updateLink;
 
 			<h2>Glassell Park Community Garden</h2>
 			<p class="address">
-				
+				3304 Drew Street
 				
 			</p>
 			<p class="type">Community Garden</p>
@@ -355,7 +355,7 @@ var updateLink;
 
 			<h2>Glendale Filipino S.D.A. Church</h2>
 			<p class="address">
-				
+				310 E. Chestnut Street
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -378,7 +378,7 @@ var updateLink;
 
 			<h2>Good Earth Community Garden</h2>
 			<p class="address">
-				
+				5990 Boden St
 				
 			</p>
 			<p class="type">Community Garden</p>
@@ -401,7 +401,7 @@ var updateLink;
 
 			<h2>Good News Central Church</h2>
 			<p class="address">
-				
+				3500 West 1st Street
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -424,7 +424,7 @@ var updateLink;
 
 			<h2>Good News Missionary Baptist Church</h2>
 			<p class="address">
-				
+				2400 W. Vernon Ave
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -447,7 +447,7 @@ var updateLink;
 
 			<h2>Good News Prayer Center</h2>
 			<p class="address">
-				
+				1722 East Firestone Boulevard
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -470,7 +470,7 @@ var updateLink;
 
 			<h2>Gospel Mission Baptist Church</h2>
 			<p class="address">
-				
+				7301 S. Avalon Boulevard
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -493,7 +493,7 @@ var updateLink;
 
 			<h2>Grace Evangelical Free Church of La Mirada</h2>
 			<p class="address">
-				
+				12717 Santa Gertrudes Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -516,7 +516,7 @@ var updateLink;
 
 			<h2>Grace Presbyterian Church</h2>
 			<p class="address">
-				
+				1500 N. Ave 53
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -539,7 +539,7 @@ var updateLink;
 
 			<h2>Grace Resource Center, Inc.</h2>
 			<p class="address">
-				
+				45134 N. Sierra Hwy.
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -562,7 +562,7 @@ var updateLink;
 
 			<h2>Granada Hills Salad Bowl Garden Club</h2>
 			<p class="address">
-				
+				16003 Rinaldi Street
 				
 			</p>
 			<p class="type">Community Garden</p>
@@ -585,7 +585,7 @@ var updateLink;
 
 			<h2>Greater Emmanuel M.B.C.</h2>
 			<p class="address">
-				
+				3727 West 111th Place
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -608,7 +608,7 @@ var updateLink;
 
 			<h2>Greater New Morning Star Baptist Church</h2>
 			<p class="address">
-				
+				210 W. Florence Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -631,7 +631,7 @@ var updateLink;
 
 			<h2>Greater New Unity Baptist Church</h2>
 			<p class="address">
-				
+				9719 S. Avalon Boulevard
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -654,7 +654,7 @@ var updateLink;
 
 			<h2>Greater Watts Community Garden</h2>
 			<p class="address">
-				
+				660 E 118th Place
 				
 			</p>
 			<p class="type">Community Garden</p>
@@ -677,7 +677,7 @@ var updateLink;
 
 			<h2>Green Acres</h2>
 			<p class="address">
-				
+				5000 East Spring Street
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -700,7 +700,7 @@ var updateLink;
 
 			<h2>Guadalupe Food Program</h2>
 			<p class="address">
-				
+				4018 East Hammel Street
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -723,7 +723,7 @@ var updateLink;
 
 			<h2>H.O.P.E. Helping Other People Excel</h2>
 			<p class="address">
-				
+				11163 S. Central Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -746,7 +746,7 @@ var updateLink;
 
 			<h2>HOAP Inc.</h2>
 			<p class="address">
-				
+				5014 S. Avalon Boulevard
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -769,7 +769,7 @@ var updateLink;
 
 			<h2>Hank Lacayo Youth & Family Center</h2>
 			<p class="address">
-				
+				7915 Van Nuys Boulevard
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -901,10 +901,21 @@ var updateLink;
 	</section>
 </script>
 
+<script src="/assets/js/helpers.js"></script>
+<script src="/assets/js/location-list-toggle-view.js"></script>
+
 <!-- Jim’s Google Maps API key -->
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4"></script>
 
 <script src="https://api.mapbox.com/mapbox-gl-js/v0.33.1/mapbox-gl.js"></script>
+
+<script>
+	if (!mapboxgl.supported()) {
+		if (console && console.log) console.log('MapboxGL doesn’t appear to be supported in this web browser. Showing the list instead…');
+		window.oasis.showList();
+		window.oasis.hideToggleButtons();
+	}
+</script>
 
 <script>
 // FOLA’s Mapbox API key
@@ -1016,9 +1027,22 @@ var listOffset = 360;
 <script src="/api/locations.js"></script>
 
 
-<script src="/assets/js/helpers.js"></script>
+<script>
+(function() {
+
+	var foodSourcesList = document.querySelector('ul.location-list');
+	if (foodSourcesList) foodSourcesList.classList.add('sorting');
+
+	// If sorting is taking a long time, show the default list again.
+	setTimeout(function() {
+		var foodSourcesList = document.querySelector('ul.location-list');
+		if (foodSourcesList) foodSourcesList.classList.remove('sorting');
+	}, 5000);
+
+})();
+</script>
+
 <script src="/assets/js/geolocate.js"></script>
-<script src="/assets/js/location-list-toggle-view.js"></script>
 <script src="/assets/js/location-list-sort.js"></script>
 <script src="/assets/js/location-list-item.js"></script>
 <script src="/assets/js/location-list-map.js"></script>
@@ -1027,10 +1051,9 @@ var listOffset = 360;
 
 	window.oasis.createMap();
 
-	var foodSourcesList = document.querySelector('ul.location-list');
-	if (foodSourcesList) foodSourcesList.classList.add('sorting');
 	window.oasis.findUserLocation(function(userLocation) {
 		var list = window.oasis.sortByClosest(userLocation.latitude, userLocation.longitude);
+		var foodSourcesList = document.querySelector('ul.location-list');
 		if (foodSourcesList) foodSourcesList.classList.remove('sorting');
 		if (document.getElementById('search-location')) document.getElementById('search-location').textContent = userLocation.label;
 		window.oasis.addMarkers(list, userLocation.geolocated, userLocation.latitude, userLocation.longitude);

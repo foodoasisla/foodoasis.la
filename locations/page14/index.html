@@ -308,7 +308,7 @@ var updateLink;
 	
 
 	
-	<div class="map-container" id="map" ></div>
+	<div class="map-container" id="map"></div>
 
 	<div class="location-summary-container" id="map-location-summary" ></div>
 	
@@ -332,7 +332,7 @@ var updateLink;
 
 			<h2>Family Mennonite Church</h2>
 			<p class="address">
-				
+				6520 S. Normandie Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -355,7 +355,7 @@ var updateLink;
 
 			<h2>Fifty Fourth Street S.D.A. Church</h2>
 			<p class="address">
-				
+				1973 West 54th Street
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -378,7 +378,7 @@ var updateLink;
 
 			<h2>Figueroa Church of Christ</h2>
 			<p class="address">
-				
+				455 W. 57th Street
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -401,7 +401,7 @@ var updateLink;
 
 			<h2>Filipino Baptist Fellowship of Long Beach</h2>
 			<p class="address">
-				
+				2155 Atlantic Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -424,7 +424,7 @@ var updateLink;
 
 			<h2>Filipino Christian Church</h2>
 			<p class="address">
-				
+				301 N. Union Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -447,7 +447,7 @@ var updateLink;
 
 			<h2>First African Methodist Episcopal Church</h2>
 			<p class="address">
-				
+				2270 S. Harvard Boulevard
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -470,7 +470,7 @@ var updateLink;
 
 			<h2>First Baptist Church-Hope Net</h2>
 			<p class="address">
-				
+				760 S. Westmoreland Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -493,7 +493,7 @@ var updateLink;
 
 			<h2>First Church of the Nazarene-Altadena</h2>
 			<p class="address">
-				
+				9 W. Mendocino Street
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -516,7 +516,7 @@ var updateLink;
 
 			<h2>First Church of the Nazarene-Pasadena</h2>
 			<p class="address">
-				
+				3700 E. Sierra Madre Boulevard
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -539,7 +539,7 @@ var updateLink;
 
 			<h2>First Lutheran Church of Inglewood</h2>
 			<p class="address">
-				
+				600 West Queen Street
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -562,7 +562,7 @@ var updateLink;
 
 			<h2>First Missionary Baptist Church</h2>
 			<p class="address">
-				
+				37721 N. 100th Street East
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -585,7 +585,7 @@ var updateLink;
 
 			<h2>First New Christian Fellowship</h2>
 			<p class="address">
-				
+				1555 W. 108th Street
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -608,7 +608,7 @@ var updateLink;
 
 			<h2>First Presbyterian Church</h2>
 			<p class="address">
-				
+				1809 West Boulevard.
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -631,7 +631,7 @@ var updateLink;
 
 			<h2>First Southern Baptist Church of Hollywood</h2>
 			<p class="address">
-				
+				1528 N. Wilton Place
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -654,7 +654,7 @@ var updateLink;
 
 			<h2>First Unitarian Church-Hope Net</h2>
 			<p class="address">
-				
+				2936 W. 8th Street
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -677,7 +677,7 @@ var updateLink;
 
 			<h2>First United Methodist Church of La Puente</h2>
 			<p class="address">
-				
+				15701 E. Hill Street
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -700,7 +700,7 @@ var updateLink;
 
 			<h2>Food 4 Less</h2>
 			<p class="address">
-				
+				1651 E 103rd St
 				
 			</p>
 			<p class="type">Supermarket</p>
@@ -723,7 +723,7 @@ var updateLink;
 
 			<h2>Food 4 Less</h2>
 			<p class="address">
-				
+				5420 W Sunset Blvd
 				
 			</p>
 			<p class="type">Supermarket</p>
@@ -746,7 +746,7 @@ var updateLink;
 
 			<h2>Food 4 Less</h2>
 			<p class="address">
-				
+				6700 Cherry Ave
 				
 			</p>
 			<p class="type">Supermarket</p>
@@ -769,7 +769,7 @@ var updateLink;
 
 			<h2>Food 4 Less</h2>
 			<p class="address">
-				
+				1821 N Hacienda Blvd
 				
 			</p>
 			<p class="type">Supermarket</p>
@@ -901,10 +901,21 @@ var updateLink;
 	</section>
 </script>
 
+<script src="/assets/js/helpers.js"></script>
+<script src="/assets/js/location-list-toggle-view.js"></script>
+
 <!-- Jim’s Google Maps API key -->
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4"></script>
 
 <script src="https://api.mapbox.com/mapbox-gl-js/v0.33.1/mapbox-gl.js"></script>
+
+<script>
+	if (!mapboxgl.supported()) {
+		if (console && console.log) console.log('MapboxGL doesn’t appear to be supported in this web browser. Showing the list instead…');
+		window.oasis.showList();
+		window.oasis.hideToggleButtons();
+	}
+</script>
 
 <script>
 // FOLA’s Mapbox API key
@@ -1016,9 +1027,22 @@ var listOffset = 260;
 <script src="/api/locations.js"></script>
 
 
-<script src="/assets/js/helpers.js"></script>
+<script>
+(function() {
+
+	var foodSourcesList = document.querySelector('ul.location-list');
+	if (foodSourcesList) foodSourcesList.classList.add('sorting');
+
+	// If sorting is taking a long time, show the default list again.
+	setTimeout(function() {
+		var foodSourcesList = document.querySelector('ul.location-list');
+		if (foodSourcesList) foodSourcesList.classList.remove('sorting');
+	}, 5000);
+
+})();
+</script>
+
 <script src="/assets/js/geolocate.js"></script>
-<script src="/assets/js/location-list-toggle-view.js"></script>
 <script src="/assets/js/location-list-sort.js"></script>
 <script src="/assets/js/location-list-item.js"></script>
 <script src="/assets/js/location-list-map.js"></script>
@@ -1027,10 +1051,9 @@ var listOffset = 260;
 
 	window.oasis.createMap();
 
-	var foodSourcesList = document.querySelector('ul.location-list');
-	if (foodSourcesList) foodSourcesList.classList.add('sorting');
 	window.oasis.findUserLocation(function(userLocation) {
 		var list = window.oasis.sortByClosest(userLocation.latitude, userLocation.longitude);
+		var foodSourcesList = document.querySelector('ul.location-list');
 		if (foodSourcesList) foodSourcesList.classList.remove('sorting');
 		if (document.getElementById('search-location')) document.getElementById('search-location').textContent = userLocation.label;
 		window.oasis.addMarkers(list, userLocation.geolocated, userLocation.latitude, userLocation.longitude);

@@ -308,7 +308,7 @@ var updateLink;
 	
 
 	
-	<div class="map-container" id="map" ></div>
+	<div class="map-container" id="map"></div>
 
 	<div class="location-summary-container" id="map-location-summary" ></div>
 	
@@ -332,7 +332,7 @@ var updateLink;
 
 			<h2>Lynwood All People's First Assembly</h2>
 			<p class="address">
-				
+				4330 Martin Luther King Jr. Boulevard
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -355,7 +355,7 @@ var updateLink;
 
 			<h2>Lynwood United Methodist Church</h2>
 			<p class="address">
-				
+				4207 Carlin Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -378,7 +378,7 @@ var updateLink;
 
 			<h2>Malibu Farmers Market</h2>
 			<p class="address">
-				
+				23555 Civic Center Way
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -401,7 +401,7 @@ var updateLink;
 
 			<h2>Manhattan Beach Farmers Market</h2>
 			<p class="address">
-				
+				326 13th St
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -424,7 +424,7 @@ var updateLink;
 
 			<h2>Mansfield Fountain Community Garden</h2>
 			<p class="address">
-				
+				1259 N Mansfield Avenue
 				
 			</p>
 			<p class="type">Community Garden</p>
@@ -447,7 +447,7 @@ var updateLink;
 
 			<h2>Manzanita Street Community Garden</h2>
 			<p class="address">
-				
+				1101 Manzanita Street
 				
 			</p>
 			<p class="type">Community Garden</p>
@@ -470,7 +470,7 @@ var updateLink;
 
 			<h2>Mar Vista Community Garden</h2>
 			<p class="address">
-				
+				5075 S Slauson Avenue
 				
 			</p>
 			<p class="type">Community Garden</p>
@@ -493,7 +493,7 @@ var updateLink;
 
 			<h2>Mar Vista Farmers Market</h2>
 			<p class="address">
-				
+				3826 Grand View Blvd
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -516,7 +516,7 @@ var updateLink;
 
 			<h2>Maranatha S.D.A. Community Center</h2>
 			<p class="address">
-				
+				3569 W. Manchester Blvd.
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -539,7 +539,7 @@ var updateLink;
 
 			<h2>Meet Each Need with Dignity</h2>
 			<p class="address">
-				
+				10641 San Fernando Road
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -562,7 +562,7 @@ var updateLink;
 
 			<h2>Messiah Organic Community Garden</h2>
 			<p class="address">
-				
+				7300 West Manchester Avenue
 				
 			</p>
 			<p class="type">Community Garden</p>
@@ -585,7 +585,7 @@ var updateLink;
 
 			<h2>Metropolitan Community Churchof L.A.-Hope Net</h2>
 			<p class="address">
-				
+				4607 Prospect Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -608,7 +608,7 @@ var updateLink;
 
 			<h2>Mexican-American Opportunity Foundation</h2>
 			<p class="address">
-				
+				401 N. Garfield Ave
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -631,7 +631,7 @@ var updateLink;
 
 			<h2>Milagro Allegro Community Garden</h2>
 			<p class="address">
-				
+				115 S Avenue 56
 				
 			</p>
 			<p class="type">Community Garden</p>
@@ -654,7 +654,7 @@ var updateLink;
 
 			<h2>Miracle Mile Farmers Market</h2>
 			<p class="address">
-				
+				5700 Wilshire Blvd
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -677,7 +677,7 @@ var updateLink;
 
 			<h2>Mision Cristana Monte de Sion</h2>
 			<p class="address">
-				
+				6315 Eastern Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -700,7 +700,7 @@ var updateLink;
 
 			<h2>Missionaries of Charity</h2>
 			<p class="address">
-				
+				10950 California Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -723,7 +723,7 @@ var updateLink;
 
 			<h2>Monrovia Farmers Market - Friday</h2>
 			<p class="address">
-				
+				200 Block of Myrtle Ave @ Olive
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -746,7 +746,7 @@ var updateLink;
 
 			<h2>Montebello Watch</h2>
 			<p class="address">
-				
+				1033 South Maple Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -769,7 +769,7 @@ var updateLink;
 
 			<h2>Monterey Park Farmers Market</h2>
 			<p class="address">
-				
+				318 S. Ramona Ave
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -882,10 +882,21 @@ var updateLink;
 	</section>
 </script>
 
+<script src="/assets/js/helpers.js"></script>
+<script src="/assets/js/location-list-toggle-view.js"></script>
+
 <!-- Jim’s Google Maps API key -->
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4"></script>
 
 <script src="https://api.mapbox.com/mapbox-gl-js/v0.33.1/mapbox-gl.js"></script>
+
+<script>
+	if (!mapboxgl.supported()) {
+		if (console && console.log) console.log('MapboxGL doesn’t appear to be supported in this web browser. Showing the list instead…');
+		window.oasis.showList();
+		window.oasis.hideToggleButtons();
+	}
+</script>
 
 <script>
 // FOLA’s Mapbox API key
@@ -997,9 +1008,22 @@ var listOffset = 500;
 <script src="/api/locations.js"></script>
 
 
-<script src="/assets/js/helpers.js"></script>
+<script>
+(function() {
+
+	var foodSourcesList = document.querySelector('ul.location-list');
+	if (foodSourcesList) foodSourcesList.classList.add('sorting');
+
+	// If sorting is taking a long time, show the default list again.
+	setTimeout(function() {
+		var foodSourcesList = document.querySelector('ul.location-list');
+		if (foodSourcesList) foodSourcesList.classList.remove('sorting');
+	}, 5000);
+
+})();
+</script>
+
 <script src="/assets/js/geolocate.js"></script>
-<script src="/assets/js/location-list-toggle-view.js"></script>
 <script src="/assets/js/location-list-sort.js"></script>
 <script src="/assets/js/location-list-item.js"></script>
 <script src="/assets/js/location-list-map.js"></script>
@@ -1008,10 +1032,9 @@ var listOffset = 500;
 
 	window.oasis.createMap();
 
-	var foodSourcesList = document.querySelector('ul.location-list');
-	if (foodSourcesList) foodSourcesList.classList.add('sorting');
 	window.oasis.findUserLocation(function(userLocation) {
 		var list = window.oasis.sortByClosest(userLocation.latitude, userLocation.longitude);
+		var foodSourcesList = document.querySelector('ul.location-list');
 		if (foodSourcesList) foodSourcesList.classList.remove('sorting');
 		if (document.getElementById('search-location')) document.getElementById('search-location').textContent = userLocation.label;
 		window.oasis.addMarkers(list, userLocation.geolocated, userLocation.latitude, userLocation.longitude);

@@ -308,7 +308,7 @@ var updateLink;
 	
 
 	
-	<div class="map-container" id="map" ></div>
+	<div class="map-container" id="map"></div>
 
 	<div class="location-summary-container" id="map-location-summary" ></div>
 	
@@ -332,7 +332,7 @@ var updateLink;
 
 			<h2>Aldi</h2>
 			<p class="address">
-				
+				1400 N Azusa Ave
 				
 			</p>
 			<p class="type">Supermarket</p>
@@ -355,7 +355,7 @@ var updateLink;
 
 			<h2>Aldi</h2>
 			<p class="address">
-				
+				8530 Firestone Blvd
 				
 			</p>
 			<p class="type">Supermarket</p>
@@ -378,7 +378,7 @@ var updateLink;
 
 			<h2>Aldi</h2>
 			<p class="address">
-				
+				11530 South St
 				
 			</p>
 			<p class="type">Supermarket</p>
@@ -401,7 +401,7 @@ var updateLink;
 
 			<h2>Alhambra Certified Farmers Market</h2>
 			<p class="address">
-				
+				100 S. 2nd Street
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -424,7 +424,7 @@ var updateLink;
 
 			<h2>All Peoples Christian Center</h2>
 			<p class="address">
-				
+				822 E. 20th Street
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -447,7 +447,7 @@ var updateLink;
 
 			<h2>All Saints Conference</h2>
 			<p class="address">
-				
+				3431 Portola Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -470,7 +470,7 @@ var updateLink;
 
 			<h2>All Saints Episcopal Church Highland Park</h2>
 			<p class="address">
-				
+				5619 Monte Vista Street
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -493,7 +493,7 @@ var updateLink;
 
 			<h2>Altadena Farmers Market</h2>
 			<p class="address">
-				
+				600 W. Palm Street
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -516,7 +516,7 @@ var updateLink;
 
 			<h2>Altadena S.D.A. Church</h2>
 			<p class="address">
-				
+				2609 N. Lincoln Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -539,7 +539,7 @@ var updateLink;
 
 			<h2>Ananda Marga of L.A., Inc.</h2>
 			<p class="address">
-				
+				1245 S. Norton Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -562,7 +562,7 @@ var updateLink;
 
 			<h2>Antelope Valley Winery Farmers Market</h2>
 			<p class="address">
-				
+				42041 20th St. West
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -585,7 +585,7 @@ var updateLink;
 
 			<h2>Arleta Community Garden</h2>
 			<p class="address">
-				
+				8800 Canterbury Avenue
 				
 			</p>
 			<p class="type">Community Garden</p>
@@ -608,7 +608,7 @@ var updateLink;
 
 			<h2>Arts District Farmers Market</h2>
 			<p class="address">
-				
+				740 E 3rd St
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -631,7 +631,7 @@ var updateLink;
 
 			<h2>Ascension's Food Pantry</h2>
 			<p class="address">
-				
+				517 W. 112th Street
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -654,7 +654,10 @@ var updateLink;
 
 			<h2>Atwater Village Farmers Market</h2>
 			<p class="address">
+				Wells Fargo Parking Lot
 				
+					<br />
+					3250 Glendale Blvd
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -677,7 +680,7 @@ var updateLink;
 
 			<h2>Baldwin La Brea Farmers Market</h2>
 			<p class="address">
-				
+				3601 S. La Brea Ave.
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -700,7 +703,7 @@ var updateLink;
 
 			<h2>Baldwin Park Bilingual S.D.A.</h2>
 			<p class="address">
-				
+				13965 East Ramona Parkway
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -723,7 +726,10 @@ var updateLink;
 
 			<h2>Baldwin Park Farmers Market</h2>
 			<p class="address">
+				Baldwin Park - Cesar Chavez & Ramond
 				
+					<br />
+					1011 Baldwin Park Blvd
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -746,7 +752,7 @@ var updateLink;
 
 			<h2>Bank Of America Plaza Farmers Market</h2>
 			<p class="address">
-				
+				333 S Hope St
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -769,7 +775,7 @@ var updateLink;
 
 			<h2>Bellflower Farmers Market</h2>
 			<p class="address">
-				
+				16614 Clark Ave at Oak Street
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -901,10 +907,21 @@ var updateLink;
 	</section>
 </script>
 
+<script src="/assets/js/helpers.js"></script>
+<script src="/assets/js/location-list-toggle-view.js"></script>
+
 <!-- Jim’s Google Maps API key -->
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4"></script>
 
 <script src="https://api.mapbox.com/mapbox-gl-js/v0.33.1/mapbox-gl.js"></script>
+
+<script>
+	if (!mapboxgl.supported()) {
+		if (console && console.log) console.log('MapboxGL doesn’t appear to be supported in this web browser. Showing the list instead…');
+		window.oasis.showList();
+		window.oasis.hideToggleButtons();
+	}
+</script>
 
 <script>
 // FOLA’s Mapbox API key
@@ -1016,9 +1033,22 @@ var listOffset = 80;
 <script src="/api/locations.js"></script>
 
 
-<script src="/assets/js/helpers.js"></script>
+<script>
+(function() {
+
+	var foodSourcesList = document.querySelector('ul.location-list');
+	if (foodSourcesList) foodSourcesList.classList.add('sorting');
+
+	// If sorting is taking a long time, show the default list again.
+	setTimeout(function() {
+		var foodSourcesList = document.querySelector('ul.location-list');
+		if (foodSourcesList) foodSourcesList.classList.remove('sorting');
+	}, 5000);
+
+})();
+</script>
+
 <script src="/assets/js/geolocate.js"></script>
-<script src="/assets/js/location-list-toggle-view.js"></script>
 <script src="/assets/js/location-list-sort.js"></script>
 <script src="/assets/js/location-list-item.js"></script>
 <script src="/assets/js/location-list-map.js"></script>
@@ -1027,10 +1057,9 @@ var listOffset = 80;
 
 	window.oasis.createMap();
 
-	var foodSourcesList = document.querySelector('ul.location-list');
-	if (foodSourcesList) foodSourcesList.classList.add('sorting');
 	window.oasis.findUserLocation(function(userLocation) {
 		var list = window.oasis.sortByClosest(userLocation.latitude, userLocation.longitude);
+		var foodSourcesList = document.querySelector('ul.location-list');
 		if (foodSourcesList) foodSourcesList.classList.remove('sorting');
 		if (document.getElementById('search-location')) document.getElementById('search-location').textContent = userLocation.label;
 		window.oasis.addMarkers(list, userLocation.geolocated, userLocation.latitude, userLocation.longitude);

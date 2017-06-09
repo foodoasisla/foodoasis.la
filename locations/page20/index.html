@@ -308,7 +308,7 @@ var updateLink;
 	
 
 	
-	<div class="map-container" id="map" ></div>
+	<div class="map-container" id="map"></div>
 
 	<div class="location-summary-container" id="map-location-summary" ></div>
 	
@@ -332,7 +332,7 @@ var updateLink;
 
 			<h2>Harbor Christian Center</h2>
 			<p class="address">
-				
+				1602 N. Wilmington Blvd
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -355,7 +355,7 @@ var updateLink;
 
 			<h2>Hawaiian Gardens Food Bank</h2>
 			<p class="address">
-				
+				21411 Norwalk Blvd.
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -378,7 +378,7 @@ var updateLink;
 
 			<h2>Heavenly Vision Church of God in Christ</h2>
 			<p class="address">
-				
+				841 W. 85th Street
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -401,7 +401,7 @@ var updateLink;
 
 			<h2>Helping Hands, Caring Hearts Ministry</h2>
 			<p class="address">
-				
+				1750 W. Holt Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -424,7 +424,7 @@ var updateLink;
 
 			<h2>Helping In Services, Inc.</h2>
 			<p class="address">
-				
+				1535 Gundry Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -447,7 +447,7 @@ var updateLink;
 
 			<h2>Hermosa Beach Farmers Market</h2>
 			<p class="address">
-				
+				Valley Dr. between 8th St. & 10th St.
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -470,7 +470,7 @@ var updateLink;
 
 			<h2>His Helping Hands</h2>
 			<p class="address">
-				
+				25501 Oak Street
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -493,7 +493,7 @@ var updateLink;
 
 			<h2>Historic Downtown Farmers' Market (CFM)</h2>
 			<p class="address">
-				
+				205 West 5th Street
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -516,7 +516,7 @@ var updateLink;
 
 			<h2>Hollywood Community Housing</h2>
 			<p class="address">
-				
+				5020 W. Santa Monica Boulevard
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -539,7 +539,7 @@ var updateLink;
 
 			<h2>Hollywood Farmers Market</h2>
 			<p class="address">
-				
+				1500 N Ivar Ave
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -562,7 +562,7 @@ var updateLink;
 
 			<h2>Hollywood Lutheran Church</h2>
 			<p class="address">
-				
+				1733 N. New Hampshire Ave.
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -585,7 +585,7 @@ var updateLink;
 
 			<h2>Hollywood West Tenant Action Committee</h2>
 			<p class="address">
-				
+				5823 Willoughby Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -608,7 +608,7 @@ var updateLink;
 
 			<h2>Holy Cross Center</h2>
 			<p class="address">
-				
+				104 W. 47th Place
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -631,7 +631,7 @@ var updateLink;
 
 			<h2>Holy Family Giving Bank</h2>
 			<p class="address">
-				
+				1524 Fremont Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -654,7 +654,7 @@ var updateLink;
 
 			<h2>Holy Nativity Community Garden</h2>
 			<p class="address">
-				
+				6700 W 83rd Street
 				
 			</p>
 			<p class="type">Community Garden</p>
@@ -677,7 +677,7 @@ var updateLink;
 
 			<h2>Holy Trinity Church of God in Christ</h2>
 			<p class="address">
-				
+				9706 S. Broadway Boulevard
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -700,7 +700,7 @@ var updateLink;
 
 			<h2>Hope Chapel Foursquare Church</h2>
 			<p class="address">
-				
+				2420 Pacific Coast Highway
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -723,7 +723,7 @@ var updateLink;
 
 			<h2>Hope Chapel Lancaster</h2>
 			<p class="address">
-				
+				6015 W Avenue J8
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -746,7 +746,7 @@ var updateLink;
 
 			<h2>Hope International Bible Fellowship</h2>
 			<p class="address">
-				
+				4903 Fountain Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -769,7 +769,7 @@ var updateLink;
 
 			<h2>Houses of Light Church Corporation</h2>
 			<p class="address">
-				
+				19359 Londelius Street
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -901,10 +901,21 @@ var updateLink;
 	</section>
 </script>
 
+<script src="/assets/js/helpers.js"></script>
+<script src="/assets/js/location-list-toggle-view.js"></script>
+
 <!-- Jim’s Google Maps API key -->
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4"></script>
 
 <script src="https://api.mapbox.com/mapbox-gl-js/v0.33.1/mapbox-gl.js"></script>
+
+<script>
+	if (!mapboxgl.supported()) {
+		if (console && console.log) console.log('MapboxGL doesn’t appear to be supported in this web browser. Showing the list instead…');
+		window.oasis.showList();
+		window.oasis.hideToggleButtons();
+	}
+</script>
 
 <script>
 // FOLA’s Mapbox API key
@@ -1016,9 +1027,22 @@ var listOffset = 380;
 <script src="/api/locations.js"></script>
 
 
-<script src="/assets/js/helpers.js"></script>
+<script>
+(function() {
+
+	var foodSourcesList = document.querySelector('ul.location-list');
+	if (foodSourcesList) foodSourcesList.classList.add('sorting');
+
+	// If sorting is taking a long time, show the default list again.
+	setTimeout(function() {
+		var foodSourcesList = document.querySelector('ul.location-list');
+		if (foodSourcesList) foodSourcesList.classList.remove('sorting');
+	}, 5000);
+
+})();
+</script>
+
 <script src="/assets/js/geolocate.js"></script>
-<script src="/assets/js/location-list-toggle-view.js"></script>
 <script src="/assets/js/location-list-sort.js"></script>
 <script src="/assets/js/location-list-item.js"></script>
 <script src="/assets/js/location-list-map.js"></script>
@@ -1027,10 +1051,9 @@ var listOffset = 380;
 
 	window.oasis.createMap();
 
-	var foodSourcesList = document.querySelector('ul.location-list');
-	if (foodSourcesList) foodSourcesList.classList.add('sorting');
 	window.oasis.findUserLocation(function(userLocation) {
 		var list = window.oasis.sortByClosest(userLocation.latitude, userLocation.longitude);
+		var foodSourcesList = document.querySelector('ul.location-list');
 		if (foodSourcesList) foodSourcesList.classList.remove('sorting');
 		if (document.getElementById('search-location')) document.getElementById('search-location').textContent = userLocation.label;
 		window.oasis.addMarkers(list, userLocation.geolocated, userLocation.latitude, userLocation.longitude);

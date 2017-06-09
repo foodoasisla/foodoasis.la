@@ -308,7 +308,7 @@ var updateLink;
 	
 
 	
-	<div class="map-container" id="map" ></div>
+	<div class="map-container" id="map"></div>
 
 	<div class="location-summary-container" id="map-location-summary" ></div>
 	
@@ -333,7 +333,7 @@ var updateLink;
 
 			<h2>Palmdale Foursquare Church</h2>
 			<p class="address">
-				
+				38325 10th Street East
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -356,7 +356,7 @@ var updateLink;
 
 			<h2>Palmdale S.D.A. Church</h2>
 			<p class="address">
-				
+				1758 East Avenue R
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -379,7 +379,7 @@ var updateLink;
 
 			<h2>Paramount Care Foundation</h2>
 			<p class="address">
-				
+				8303 Alondra Boulevard
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -402,7 +402,7 @@ var updateLink;
 
 			<h2>Peace Lutheran Church</h2>
 			<p class="address">
-				
+				11690 Fenton Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -425,7 +425,7 @@ var updateLink;
 
 			<h2>Pentecostal Church of God</h2>
 			<p class="address">
-				
+				2829 1/4 Fletcher Drive
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -448,7 +448,7 @@ var updateLink;
 
 			<h2>People for Community Improvement</h2>
 			<p class="address">
-				
+				13008 South Figueroa
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -471,7 +471,7 @@ var updateLink;
 
 			<h2>Pico Rivera Iglesia Crece</h2>
 			<p class="address">
-				
+				14832 Valley Blvd.
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -494,7 +494,7 @@ var updateLink;
 
 			<h2>Pilgrim's Hope Baptist Church</h2>
 			<p class="address">
-				
+				7016 S. Compton Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -517,7 +517,7 @@ var updateLink;
 
 			<h2>Pilipino Worker Center of Southern California</h2>
 			<p class="address">
-				
+				153 Glendale Boulevard
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -540,7 +540,7 @@ var updateLink;
 
 			<h2>Presentation of Mary Catholic</h2>
 			<p class="address">
-				
+				6406 Parmelee Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -563,7 +563,7 @@ var updateLink;
 
 			<h2>Prince of Peace Coalition</h2>
 			<p class="address">
-				
+				5700 Rudnick Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -586,7 +586,7 @@ var updateLink;
 
 			<h2>Prince of Peace/Family Rescue</h2>
 			<p class="address">
-				
+				22103 Van Owen Street
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -609,7 +609,7 @@ var updateLink;
 
 			<h2>Principe de Paz</h2>
 			<p class="address">
-				
+				6706 Vinevale Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -632,7 +632,7 @@ var updateLink;
 
 			<h2>Project 2911, A Community Development Corporation</h2>
 			<p class="address">
-				
+				418 N. Second Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -655,7 +655,7 @@ var updateLink;
 
 			<h2>RCCG Victory House of California</h2>
 			<p class="address">
-				
+				6640 Van Nuys Blvd.
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -678,7 +678,7 @@ var updateLink;
 
 			<h2>Redeemer Lutheran Outreach</h2>
 			<p class="address">
-				
+				20025 Chase Street
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -701,7 +701,7 @@ var updateLink;
 
 			<h2>Redeemer Missionary Baptist Church</h2>
 			<p class="address">
-				
+				1631 W. Adams Boulevard
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -724,7 +724,7 @@ var updateLink;
 
 			<h2>Rehoboth Courage Church</h2>
 			<p class="address">
-				
+				425 E. Compton Boulevard
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -747,7 +747,7 @@ var updateLink;
 
 			<h2>Resting Place Church</h2>
 			<p class="address">
-				
+				10803 Cantara St.
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -770,7 +770,7 @@ var updateLink;
 
 			<h2>Rock Solid Christian Assembly</h2>
 			<p class="address">
-				
+				867 W. 10th Street
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -902,10 +902,21 @@ var updateLink;
 	</section>
 </script>
 
+<script src="/assets/js/helpers.js"></script>
+<script src="/assets/js/location-list-toggle-view.js"></script>
+
 <!-- Jim’s Google Maps API key -->
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4"></script>
 
 <script src="https://api.mapbox.com/mapbox-gl-js/v0.33.1/mapbox-gl.js"></script>
+
+<script>
+	if (!mapboxgl.supported()) {
+		if (console && console.log) console.log('MapboxGL doesn’t appear to be supported in this web browser. Showing the list instead…');
+		window.oasis.showList();
+		window.oasis.hideToggleButtons();
+	}
+</script>
 
 <script>
 // FOLA’s Mapbox API key
@@ -1017,9 +1028,22 @@ var listOffset = 220;
 <script src="/api/food-pantry.js"></script>
 
 
-<script src="/assets/js/helpers.js"></script>
+<script>
+(function() {
+
+	var foodSourcesList = document.querySelector('ul.location-list');
+	if (foodSourcesList) foodSourcesList.classList.add('sorting');
+
+	// If sorting is taking a long time, show the default list again.
+	setTimeout(function() {
+		var foodSourcesList = document.querySelector('ul.location-list');
+		if (foodSourcesList) foodSourcesList.classList.remove('sorting');
+	}, 5000);
+
+})();
+</script>
+
 <script src="/assets/js/geolocate.js"></script>
-<script src="/assets/js/location-list-toggle-view.js"></script>
 <script src="/assets/js/location-list-sort.js"></script>
 <script src="/assets/js/location-list-item.js"></script>
 <script src="/assets/js/location-list-map.js"></script>
@@ -1028,10 +1052,9 @@ var listOffset = 220;
 
 	window.oasis.createMap();
 
-	var foodSourcesList = document.querySelector('ul.location-list');
-	if (foodSourcesList) foodSourcesList.classList.add('sorting');
 	window.oasis.findUserLocation(function(userLocation) {
 		var list = window.oasis.sortByClosest(userLocation.latitude, userLocation.longitude);
+		var foodSourcesList = document.querySelector('ul.location-list');
 		if (foodSourcesList) foodSourcesList.classList.remove('sorting');
 		if (document.getElementById('search-location')) document.getElementById('search-location').textContent = userLocation.label;
 		window.oasis.addMarkers(list, userLocation.geolocated, userLocation.latitude, userLocation.longitude);

@@ -308,7 +308,7 @@ var updateLink;
 	
 
 	
-	<div class="map-container" id="map" ></div>
+	<div class="map-container" id="map"></div>
 
 	<div class="location-summary-container" id="map-location-summary" ></div>
 	
@@ -333,7 +333,7 @@ var updateLink;
 
 			<h2>Arleta Community Garden</h2>
 			<p class="address">
-				
+				8800 Canterbury Avenue
 				
 			</p>
 			<p class="type">Community Garden</p>
@@ -356,7 +356,7 @@ var updateLink;
 
 			<h2>Chino Community Garden & Park</h2>
 			<p class="address">
-				
+				5976 Riverside Drive
 				
 			</p>
 			<p class="type">Community Garden</p>
@@ -379,7 +379,7 @@ var updateLink;
 
 			<h2>Crenshaw Community Garden</h2>
 			<p class="address">
-				
+				1423 S Crenshaw Blvd
 				
 			</p>
 			<p class="type">Community Garden</p>
@@ -402,7 +402,7 @@ var updateLink;
 
 			<h2>Eagle Rockdale Community Garden & Art Park</h2>
 			<p class="address">
-				
+				1003 Rockdale Avenue
 				
 			</p>
 			<p class="type">Community Garden</p>
@@ -425,7 +425,7 @@ var updateLink;
 
 			<h2>Eastwind Community Garden</h2>
 			<p class="address">
-				
+				110 Eastwind Street
 				
 			</p>
 			<p class="type">Community Garden</p>
@@ -448,7 +448,7 @@ var updateLink;
 
 			<h2>El Sereno Community Garden</h2>
 			<p class="address">
-				
+				5466 Huntington Drive
 				
 			</p>
 			<p class="type">Community Garden</p>
@@ -471,7 +471,7 @@ var updateLink;
 
 			<h2>Elysian Valley Community Garden</h2>
 			<p class="address">
-				
+				1816 W Blake Avenue
 				
 			</p>
 			<p class="type">Community Garden</p>
@@ -494,7 +494,7 @@ var updateLink;
 
 			<h2>Emerson Avenue Community Garden</h2>
 			<p class="address">
-				
+				6550 W 80th Street
 				
 			</p>
 			<p class="type">Community Garden</p>
@@ -517,7 +517,7 @@ var updateLink;
 
 			<h2>Enrique Noguera Educational Garden</h2>
 			<p class="address">
-				
+				6614 Fountain Avenue
 				
 			</p>
 			<p class="type">Community Garden</p>
@@ -540,7 +540,7 @@ var updateLink;
 
 			<h2>Epworth Community Garden</h2>
 			<p class="address">
-				
+				1419 W 65th Place
 				
 			</p>
 			<p class="type">Community Garden</p>
@@ -563,7 +563,7 @@ var updateLink;
 
 			<h2>Erika J. Glazer Community Garden</h2>
 			<p class="address">
-				
+				2632 Raymond Avenue
 				
 			</p>
 			<p class="type">Community Garden</p>
@@ -586,7 +586,7 @@ var updateLink;
 
 			<h2>Feed & Be Fed</h2>
 			<p class="address">
-				
+				429 West 6th Street
 				
 			</p>
 			<p class="type">Community Garden</p>
@@ -609,7 +609,7 @@ var updateLink;
 
 			<h2>Fountain Community Gardens</h2>
 			<p class="address">
-				
+				5620 Fountain Avenue
 				
 			</p>
 			<p class="type">Community Garden</p>
@@ -632,7 +632,7 @@ var updateLink;
 
 			<h2>Fremont Wellness Center & Community Garden</h2>
 			<p class="address">
-				
+				7821 S Avalon Blvd
 				
 			</p>
 			<p class="type">Community Garden</p>
@@ -655,7 +655,7 @@ var updateLink;
 
 			<h2>Glassell Park Community Garden</h2>
 			<p class="address">
-				
+				3304 Drew Street
 				
 			</p>
 			<p class="type">Community Garden</p>
@@ -678,7 +678,7 @@ var updateLink;
 
 			<h2>Good Earth Community Garden</h2>
 			<p class="address">
-				
+				5990 Boden St
 				
 			</p>
 			<p class="type">Community Garden</p>
@@ -701,7 +701,7 @@ var updateLink;
 
 			<h2>Granada Hills Salad Bowl Garden Club</h2>
 			<p class="address">
-				
+				16003 Rinaldi Street
 				
 			</p>
 			<p class="type">Community Garden</p>
@@ -724,7 +724,7 @@ var updateLink;
 
 			<h2>Greater Watts Community Garden</h2>
 			<p class="address">
-				
+				660 E 118th Place
 				
 			</p>
 			<p class="type">Community Garden</p>
@@ -747,7 +747,7 @@ var updateLink;
 
 			<h2>Holy Nativity Community Garden</h2>
 			<p class="address">
-				
+				6700 W 83rd Street
 				
 			</p>
 			<p class="type">Community Garden</p>
@@ -770,7 +770,7 @@ var updateLink;
 
 			<h2>Howard Finn Community Garden</h2>
 			<p class="address">
-				
+				7747 Foothill Blvd
 				
 			</p>
 			<p class="type">Community Garden</p>
@@ -902,10 +902,21 @@ var updateLink;
 	</section>
 </script>
 
+<script src="/assets/js/helpers.js"></script>
+<script src="/assets/js/location-list-toggle-view.js"></script>
+
 <!-- Jim’s Google Maps API key -->
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4"></script>
 
 <script src="https://api.mapbox.com/mapbox-gl-js/v0.33.1/mapbox-gl.js"></script>
+
+<script>
+	if (!mapboxgl.supported()) {
+		if (console && console.log) console.log('MapboxGL doesn’t appear to be supported in this web browser. Showing the list instead…');
+		window.oasis.showList();
+		window.oasis.hideToggleButtons();
+	}
+</script>
 
 <script>
 // FOLA’s Mapbox API key
@@ -1017,9 +1028,22 @@ var listOffset = 0;
 <script src="/api/community-garden.js"></script>
 
 
-<script src="/assets/js/helpers.js"></script>
+<script>
+(function() {
+
+	var foodSourcesList = document.querySelector('ul.location-list');
+	if (foodSourcesList) foodSourcesList.classList.add('sorting');
+
+	// If sorting is taking a long time, show the default list again.
+	setTimeout(function() {
+		var foodSourcesList = document.querySelector('ul.location-list');
+		if (foodSourcesList) foodSourcesList.classList.remove('sorting');
+	}, 5000);
+
+})();
+</script>
+
 <script src="/assets/js/geolocate.js"></script>
-<script src="/assets/js/location-list-toggle-view.js"></script>
 <script src="/assets/js/location-list-sort.js"></script>
 <script src="/assets/js/location-list-item.js"></script>
 <script src="/assets/js/location-list-map.js"></script>
@@ -1028,10 +1052,9 @@ var listOffset = 0;
 
 	window.oasis.createMap();
 
-	var foodSourcesList = document.querySelector('ul.location-list');
-	if (foodSourcesList) foodSourcesList.classList.add('sorting');
 	window.oasis.findUserLocation(function(userLocation) {
 		var list = window.oasis.sortByClosest(userLocation.latitude, userLocation.longitude);
+		var foodSourcesList = document.querySelector('ul.location-list');
 		if (foodSourcesList) foodSourcesList.classList.remove('sorting');
 		if (document.getElementById('search-location')) document.getElementById('search-location').textContent = userLocation.label;
 		window.oasis.addMarkers(list, userLocation.geolocated, userLocation.latitude, userLocation.longitude);

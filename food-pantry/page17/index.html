@@ -308,7 +308,7 @@ var updateLink;
 	
 
 	
-	<div class="map-container" id="map" ></div>
+	<div class="map-container" id="map"></div>
 
 	<div class="location-summary-container" id="map-location-summary" ></div>
 	
@@ -333,7 +333,7 @@ var updateLink;
 
 			<h2>Twin Lakes Community Church</h2>
 			<p class="address">
-				
+				17213 Lake Los Angeles Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -356,7 +356,7 @@ var updateLink;
 
 			<h2>United African Church</h2>
 			<p class="address">
-				
+				1745 W. 55th Street
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -379,7 +379,7 @@ var updateLink;
 
 			<h2>United Gospel Outreach</h2>
 			<p class="address">
-				
+				7223 S. Main Street
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -402,7 +402,7 @@ var updateLink;
 
 			<h2>University S.D.A. Church</h2>
 			<p class="address">
-				
+				1135 Martin Luther Kin Jr. Boulevard
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -425,7 +425,7 @@ var updateLink;
 
 			<h2>Vallejo Drive S.D.A. Church</h2>
 			<p class="address">
-				
+				311-B Vallejo Drive
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -448,7 +448,7 @@ var updateLink;
 
 			<h2>Valley Crossroads S.D.A. Church</h2>
 			<p class="address">
-				
+				11350 Glenoaks Blvd.
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -471,7 +471,7 @@ var updateLink;
 
 			<h2>Vermont Avenue Baptist Church</h2>
 			<p class="address">
-				
+				23325 S. Vermont Ave.
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -494,7 +494,7 @@ var updateLink;
 
 			<h2>Victory Baptist Church</h2>
 			<p class="address">
-				
+				4802 South McKinley Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -517,7 +517,7 @@ var updateLink;
 
 			<h2>Village Covenant</h2>
 			<p class="address">
-				
+				5607 N. Barranca Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -540,7 +540,7 @@ var updateLink;
 
 			<h2>Vision of Hope Outreach Ministry</h2>
 			<p class="address">
-				
+				5951 S. San Pedro
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -563,7 +563,7 @@ var updateLink;
 
 			<h2>Visions Community Outreach</h2>
 			<p class="address">
-				
+				2300 S. Griffith Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -586,7 +586,7 @@ var updateLink;
 
 			<h2>Wesley United Methodist Church</h2>
 			<p class="address">
-				
+				112 West 52nd Street
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -609,7 +609,7 @@ var updateLink;
 
 			<h2>West Adams Church of Christ</h2>
 			<p class="address">
-				
+				4959 W. Adams Boulevard
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -632,7 +632,7 @@ var updateLink;
 
 			<h2>West Angeles Community Corporation</h2>
 			<p class="address">
-				
+				3045 South Crenshaw Boulevard
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -655,7 +655,7 @@ var updateLink;
 
 			<h2>White Memorial S.D.A. Church</h2>
 			<p class="address">
-				
+				401 N. State Street
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -678,7 +678,7 @@ var updateLink;
 
 			<h2>Willowbrook Project Area Commission</h2>
 			<p class="address">
-				
+				11901 S. Willowbrook Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -701,7 +701,7 @@ var updateLink;
 
 			<h2>Wilshire Boulevard Temple Hope-Net</h2>
 			<p class="address">
-				
+				3663 Wilshire Boulevard
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -724,7 +724,7 @@ var updateLink;
 
 			<h2>Wilshire Presbyterian Church-Hope Net</h2>
 			<p class="address">
-				
+				309 S. Oxford Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -747,7 +747,7 @@ var updateLink;
 
 			<h2>WSFB- Ocean Park Community Ctr</h2>
 			<p class="address">
-				
+				503 Olympic Boulevard
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -770,7 +770,7 @@ var updateLink;
 
 			<h2>WSFB-St. Anne's Social Service</h2>
 			<p class="address">
-				
+				2013 Colorado Avenue
 				
 			</p>
 			<p class="type">Food Pantry</p>
@@ -902,10 +902,21 @@ var updateLink;
 	</section>
 </script>
 
+<script src="/assets/js/helpers.js"></script>
+<script src="/assets/js/location-list-toggle-view.js"></script>
+
 <!-- Jim’s Google Maps API key -->
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4"></script>
 
 <script src="https://api.mapbox.com/mapbox-gl-js/v0.33.1/mapbox-gl.js"></script>
+
+<script>
+	if (!mapboxgl.supported()) {
+		if (console && console.log) console.log('MapboxGL doesn’t appear to be supported in this web browser. Showing the list instead…');
+		window.oasis.showList();
+		window.oasis.hideToggleButtons();
+	}
+</script>
 
 <script>
 // FOLA’s Mapbox API key
@@ -1017,9 +1028,22 @@ var listOffset = 320;
 <script src="/api/food-pantry.js"></script>
 
 
-<script src="/assets/js/helpers.js"></script>
+<script>
+(function() {
+
+	var foodSourcesList = document.querySelector('ul.location-list');
+	if (foodSourcesList) foodSourcesList.classList.add('sorting');
+
+	// If sorting is taking a long time, show the default list again.
+	setTimeout(function() {
+		var foodSourcesList = document.querySelector('ul.location-list');
+		if (foodSourcesList) foodSourcesList.classList.remove('sorting');
+	}, 5000);
+
+})();
+</script>
+
 <script src="/assets/js/geolocate.js"></script>
-<script src="/assets/js/location-list-toggle-view.js"></script>
 <script src="/assets/js/location-list-sort.js"></script>
 <script src="/assets/js/location-list-item.js"></script>
 <script src="/assets/js/location-list-map.js"></script>
@@ -1028,10 +1052,9 @@ var listOffset = 320;
 
 	window.oasis.createMap();
 
-	var foodSourcesList = document.querySelector('ul.location-list');
-	if (foodSourcesList) foodSourcesList.classList.add('sorting');
 	window.oasis.findUserLocation(function(userLocation) {
 		var list = window.oasis.sortByClosest(userLocation.latitude, userLocation.longitude);
+		var foodSourcesList = document.querySelector('ul.location-list');
 		if (foodSourcesList) foodSourcesList.classList.remove('sorting');
 		if (document.getElementById('search-location')) document.getElementById('search-location').textContent = userLocation.label;
 		window.oasis.addMarkers(list, userLocation.geolocated, userLocation.latitude, userLocation.longitude);

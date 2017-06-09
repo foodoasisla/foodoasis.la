@@ -308,7 +308,7 @@ var updateLink;
 	
 
 	
-	<div class="map-container" id="map" ></div>
+	<div class="map-container" id="map"></div>
 
 	<div class="location-summary-container" id="map-location-summary" ></div>
 	
@@ -333,7 +333,7 @@ var updateLink;
 
 			<h2>Topanga Canyon CFM</h2>
 			<p class="address">
-				
+				1440 North Topanga Canyon Blvd.
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -356,7 +356,7 @@ var updateLink;
 
 			<h2>Torrance Providence Farmers Market</h2>
 			<p class="address">
-				
+				4101 Torranc Blvd. @ Hawthorne Blvd
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -379,7 +379,7 @@ var updateLink;
 
 			<h2>Torrance Farmers Market -Tuesday and saturday- 2200 Crenshaw Blvd Torrance,Ca.90501</h2>
 			<p class="address">
-				
+				2200 Crenshaw Blvd
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -402,7 +402,10 @@ var updateLink;
 
 			<h2>Uptown Whittier Farmers Market</h2>
 			<p class="address">
+				Bright Ave & Philadelphia St
 				
+					<br />
+					13018 Philadelphia St.
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -425,7 +428,7 @@ var updateLink;
 
 			<h2>USC Hospitality Farmers Market</h2>
 			<p class="address">
-				
+				3445 S. Figueroa Street
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -448,7 +451,7 @@ var updateLink;
 
 			<h2>Valencia Farmers Market</h2>
 			<p class="address">
-				
+				24201 Valencia Blvd
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -471,7 +474,7 @@ var updateLink;
 
 			<h2>Venice Farmers Market</h2>
 			<p class="address">
-				
+				N Venice Blvd & Venice Way
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -494,7 +497,7 @@ var updateLink;
 
 			<h2>Watts Healthy Farmers Market</h2>
 			<p class="address">
-				
+				1335 East 103rd Street
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -517,7 +520,7 @@ var updateLink;
 
 			<h2>Wellington Square Farmers Market</h2>
 			<p class="address">
-				
+				4394 W Washington Blvd.
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -540,7 +543,7 @@ var updateLink;
 
 			<h2>West Covina Farmers Market</h2>
 			<p class="address">
-				
+				195 S. Glendora Ave.
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -563,7 +566,7 @@ var updateLink;
 
 			<h2>West Hollywood Farmers Market</h2>
 			<p class="address">
-				
+				1200 N Vista St
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -586,7 +589,7 @@ var updateLink;
 
 			<h2>West Los Angeles Farmers Market</h2>
 			<p class="address">
-				
+				1645 Corinth Avenue at Santa Monica Blvd
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -609,7 +612,7 @@ var updateLink;
 
 			<h2>Westchester Farmers Market</h2>
 			<p class="address">
-				
+				7000 W Manchester Ave
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -632,7 +635,7 @@ var updateLink;
 
 			<h2>Westwood Village Farmers Market</h2>
 			<p class="address">
-				
+				1083 Braxton Avenue
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -655,7 +658,7 @@ var updateLink;
 
 			<h2>Whittier Host Lions Farmers Market</h2>
 			<p class="address">
-				
+				9401 S Painter Ave
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -678,7 +681,7 @@ var updateLink;
 
 			<h2>Wilmington Farmers Market</h2>
 			<p class="address">
-				
+				Avalon and L St.
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -701,7 +704,7 @@ var updateLink;
 
 			<h2>Woodland Hills Farmers Market</h2>
 			<p class="address">
-				
+				23504 Calabasas Rd
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -724,7 +727,7 @@ var updateLink;
 
 			<h2>Woodman Avenue Farmers Market</h2>
 			<p class="address">
-				
+				14006 Riverside Dr
 				
 			</p>
 			<p class="type">Farmers Market</p>
@@ -856,10 +859,21 @@ var updateLink;
 	</section>
 </script>
 
+<script src="/assets/js/helpers.js"></script>
+<script src="/assets/js/location-list-toggle-view.js"></script>
+
 <!-- Jim’s Google Maps API key -->
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4"></script>
 
 <script src="https://api.mapbox.com/mapbox-gl-js/v0.33.1/mapbox-gl.js"></script>
+
+<script>
+	if (!mapboxgl.supported()) {
+		if (console && console.log) console.log('MapboxGL doesn’t appear to be supported in this web browser. Showing the list instead…');
+		window.oasis.showList();
+		window.oasis.hideToggleButtons();
+	}
+</script>
 
 <script>
 // FOLA’s Mapbox API key
@@ -971,9 +985,22 @@ var listOffset = 100;
 <script src="/api/farmers-market.js"></script>
 
 
-<script src="/assets/js/helpers.js"></script>
+<script>
+(function() {
+
+	var foodSourcesList = document.querySelector('ul.location-list');
+	if (foodSourcesList) foodSourcesList.classList.add('sorting');
+
+	// If sorting is taking a long time, show the default list again.
+	setTimeout(function() {
+		var foodSourcesList = document.querySelector('ul.location-list');
+		if (foodSourcesList) foodSourcesList.classList.remove('sorting');
+	}, 5000);
+
+})();
+</script>
+
 <script src="/assets/js/geolocate.js"></script>
-<script src="/assets/js/location-list-toggle-view.js"></script>
 <script src="/assets/js/location-list-sort.js"></script>
 <script src="/assets/js/location-list-item.js"></script>
 <script src="/assets/js/location-list-map.js"></script>
@@ -982,10 +1009,9 @@ var listOffset = 100;
 
 	window.oasis.createMap();
 
-	var foodSourcesList = document.querySelector('ul.location-list');
-	if (foodSourcesList) foodSourcesList.classList.add('sorting');
 	window.oasis.findUserLocation(function(userLocation) {
 		var list = window.oasis.sortByClosest(userLocation.latitude, userLocation.longitude);
+		var foodSourcesList = document.querySelector('ul.location-list');
 		if (foodSourcesList) foodSourcesList.classList.remove('sorting');
 		if (document.getElementById('search-location')) document.getElementById('search-location').textContent = userLocation.label;
 		window.oasis.addMarkers(list, userLocation.geolocated, userLocation.latitude, userLocation.longitude);

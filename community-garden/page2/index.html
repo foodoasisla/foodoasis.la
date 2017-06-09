@@ -308,7 +308,7 @@ var updateLink;
 	
 
 	
-	<div class="map-container" id="map" ></div>
+	<div class="map-container" id="map"></div>
 
 	<div class="location-summary-container" id="map-location-summary" ></div>
 	
@@ -333,7 +333,7 @@ var updateLink;
 
 			<h2>Huerta del Valle Garden</h2>
 			<p class="address">
-				
+				831 East Belmont Street
 				
 			</p>
 			<p class="type">Community Garden</p>
@@ -356,7 +356,7 @@ var updateLink;
 
 			<h2>Jardin Del Rio</h2>
 			<p class="address">
-				
+				2363 N Riverdale Avenue
 				
 			</p>
 			<p class="type">Community Garden</p>
@@ -379,7 +379,7 @@ var updateLink;
 
 			<h2>John S. Gibson Senior Garden</h2>
 			<p class="address">
-				
+				1500 S Harbor Blvd
 				
 			</p>
 			<p class="type">Community Garden</p>
@@ -402,7 +402,7 @@ var updateLink;
 
 			<h2>Mansfield Fountain Community Garden</h2>
 			<p class="address">
-				
+				1259 N Mansfield Avenue
 				
 			</p>
 			<p class="type">Community Garden</p>
@@ -425,7 +425,7 @@ var updateLink;
 
 			<h2>Manzanita Street Community Garden</h2>
 			<p class="address">
-				
+				1101 Manzanita Street
 				
 			</p>
 			<p class="type">Community Garden</p>
@@ -448,7 +448,7 @@ var updateLink;
 
 			<h2>Mar Vista Community Garden</h2>
 			<p class="address">
-				
+				5075 S Slauson Avenue
 				
 			</p>
 			<p class="type">Community Garden</p>
@@ -471,7 +471,7 @@ var updateLink;
 
 			<h2>Messiah Organic Community Garden</h2>
 			<p class="address">
-				
+				7300 West Manchester Avenue
 				
 			</p>
 			<p class="type">Community Garden</p>
@@ -494,7 +494,7 @@ var updateLink;
 
 			<h2>Milagro Allegro Community Garden</h2>
 			<p class="address">
-				
+				115 S Avenue 56
 				
 			</p>
 			<p class="type">Community Garden</p>
@@ -517,7 +517,7 @@ var updateLink;
 
 			<h2>Moothart Collingnon/Francis Avenue Community Garden</h2>
 			<p class="address">
-				
+				2909 Francis Avenue
 				
 			</p>
 			<p class="type">Community Garden</p>
@@ -540,7 +540,7 @@ var updateLink;
 
 			<h2>Norman Harriton Community Garden</h2>
 			<p class="address">
-				
+				2037 N Sanborn Avenue
 				
 			</p>
 			<p class="type">Community Garden</p>
@@ -563,7 +563,7 @@ var updateLink;
 
 			<h2>Ocean View Farms</h2>
 			<p class="address">
-				
+				3300 S Centinela Avenue
 				
 			</p>
 			<p class="type">Community Garden</p>
@@ -586,7 +586,7 @@ var updateLink;
 
 			<h2>Orcutt Ranch Horticultural Center Rancho Sombra del Roble</h2>
 			<p class="address">
-				
+				23600 Roscoe Blvd
 				
 			</p>
 			<p class="type">Community Garden</p>
@@ -609,7 +609,7 @@ var updateLink;
 
 			<h2>Pomona Hope Center Street Garden</h2>
 			<p class="address">
-				
+				192 East Center Street
 				
 			</p>
 			<p class="type">Community Garden</p>
@@ -632,7 +632,7 @@ var updateLink;
 
 			<h2>Pomona South Hills Gardens</h2>
 			<p class="address">
-				
+				1170 Fremont Street
 				
 			</p>
 			<p class="type">Community Garden</p>
@@ -655,7 +655,7 @@ var updateLink;
 
 			<h2>Rancho San Pedro Community Garden</h2>
 			<p class="address">
-				
+				275 W 1st Street
 				
 			</p>
 			<p class="type">Community Garden</p>
@@ -678,7 +678,7 @@ var updateLink;
 
 			<h2>Rosewood Gardens</h2>
 			<p class="address">
-				
+				4160 Rosewood Avenue
 				
 			</p>
 			<p class="type">Community Garden</p>
@@ -701,7 +701,7 @@ var updateLink;
 
 			<h2>Saint Paul’s Episcopal Church</h2>
 			<p class="address">
-				
+				242 East Alvarado Street
 				
 			</p>
 			<p class="type">Community Garden</p>
@@ -724,7 +724,7 @@ var updateLink;
 
 			<h2>Salesian Boys & Girls Club Community Garden</h2>
 			<p class="address">
-				
+				2228 E 4th Street
 				
 			</p>
 			<p class="type">Community Garden</p>
@@ -747,7 +747,7 @@ var updateLink;
 
 			<h2>San Pedro Gardens</h2>
 			<p class="address">
-				
+				1400 N Gaffey Street
 				
 			</p>
 			<p class="type">Community Garden</p>
@@ -770,7 +770,7 @@ var updateLink;
 
 			<h2>Sarvodaya Farms</h2>
 			<p class="address">
-				
+				1196 South San Antonio Avenue
 				
 			</p>
 			<p class="type">Community Garden</p>
@@ -883,10 +883,21 @@ var updateLink;
 	</section>
 </script>
 
+<script src="/assets/js/helpers.js"></script>
+<script src="/assets/js/location-list-toggle-view.js"></script>
+
 <!-- Jim’s Google Maps API key -->
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4"></script>
 
 <script src="https://api.mapbox.com/mapbox-gl-js/v0.33.1/mapbox-gl.js"></script>
+
+<script>
+	if (!mapboxgl.supported()) {
+		if (console && console.log) console.log('MapboxGL doesn’t appear to be supported in this web browser. Showing the list instead…');
+		window.oasis.showList();
+		window.oasis.hideToggleButtons();
+	}
+</script>
 
 <script>
 // FOLA’s Mapbox API key
@@ -998,9 +1009,22 @@ var listOffset = 20;
 <script src="/api/community-garden.js"></script>
 
 
-<script src="/assets/js/helpers.js"></script>
+<script>
+(function() {
+
+	var foodSourcesList = document.querySelector('ul.location-list');
+	if (foodSourcesList) foodSourcesList.classList.add('sorting');
+
+	// If sorting is taking a long time, show the default list again.
+	setTimeout(function() {
+		var foodSourcesList = document.querySelector('ul.location-list');
+		if (foodSourcesList) foodSourcesList.classList.remove('sorting');
+	}, 5000);
+
+})();
+</script>
+
 <script src="/assets/js/geolocate.js"></script>
-<script src="/assets/js/location-list-toggle-view.js"></script>
 <script src="/assets/js/location-list-sort.js"></script>
 <script src="/assets/js/location-list-item.js"></script>
 <script src="/assets/js/location-list-map.js"></script>
@@ -1009,10 +1033,9 @@ var listOffset = 20;
 
 	window.oasis.createMap();
 
-	var foodSourcesList = document.querySelector('ul.location-list');
-	if (foodSourcesList) foodSourcesList.classList.add('sorting');
 	window.oasis.findUserLocation(function(userLocation) {
 		var list = window.oasis.sortByClosest(userLocation.latitude, userLocation.longitude);
+		var foodSourcesList = document.querySelector('ul.location-list');
 		if (foodSourcesList) foodSourcesList.classList.remove('sorting');
 		if (document.getElementById('search-location')) document.getElementById('search-location').textContent = userLocation.label;
 		window.oasis.addMarkers(list, userLocation.geolocated, userLocation.latitude, userLocation.longitude);

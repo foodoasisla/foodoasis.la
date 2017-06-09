@@ -308,7 +308,7 @@ var updateLink;
 	
 
 	
-	<div class="map-container" id="map" ></div>
+	<div class="map-container" id="map"></div>
 
 	<div class="location-summary-container" id="map-location-summary" ></div>
 	
@@ -333,7 +333,7 @@ var updateLink;
 
 			<h2>Jons Marketplace</h2>
 			<p class="address">
-				
+				12122 Magnolia Blvd
 				
 			</p>
 			<p class="type">Supermarket</p>
@@ -356,7 +356,7 @@ var updateLink;
 
 			<h2>Jons Marketplace</h2>
 			<p class="address">
-				
+				1717 W Glenoaks Blvd
 				
 			</p>
 			<p class="type">Supermarket</p>
@@ -379,7 +379,7 @@ var updateLink;
 
 			<h2>Jons Marketplace</h2>
 			<p class="address">
-				
+				20151 Roscoe Blvd
 				
 			</p>
 			<p class="type">Supermarket</p>
@@ -402,7 +402,7 @@ var updateLink;
 
 			<h2>Jons Marketplace 24</h2>
 			<p class="address">
-				
+				18135 Sherman Way
 				
 			</p>
 			<p class="type">Supermarket</p>
@@ -425,7 +425,7 @@ var updateLink;
 
 			<h2>Jons Marketplace</h2>
 			<p class="address">
-				
+				3334 W 8th St
 				
 			</p>
 			<p class="type">Supermarket</p>
@@ -448,7 +448,7 @@ var updateLink;
 
 			<h2>Jons Marketplace</h2>
 			<p class="address">
-				
+				5315 Santa Monica Blvd
 				
 			</p>
 			<p class="type">Supermarket</p>
@@ -471,7 +471,7 @@ var updateLink;
 
 			<h2>Jons Marketplace</h2>
 			<p class="address">
-				
+				600 E Colorado St
 				
 			</p>
 			<p class="type">Supermarket</p>
@@ -494,7 +494,7 @@ var updateLink;
 
 			<h2>Jons Marketplace</h2>
 			<p class="address">
-				
+				6655 Van Nuys Blvd
 				
 			</p>
 			<p class="type">Supermarket</p>
@@ -517,7 +517,7 @@ var updateLink;
 
 			<h2>Lassens Natural Foods</h2>
 			<p class="address">
-				
+				2080 Hillhurst Ave
 				
 			</p>
 			<p class="type">Supermarket</p>
@@ -540,7 +540,7 @@ var updateLink;
 
 			<h2>Lassen's Natural Foods</h2>
 			<p class="address">
-				
+				2150 E Thousand Oaks Blvd
 				
 			</p>
 			<p class="type">Supermarket</p>
@@ -563,7 +563,7 @@ var updateLink;
 
 			<h2>Lassens Natural Foods & Vitamins</h2>
 			<p class="address">
-				
+				1631 W Sunset Blvd
 				
 			</p>
 			<p class="type">Supermarket</p>
@@ -586,7 +586,7 @@ var updateLink;
 
 			<h2>Lassens Natural Foods & Vitamins</h2>
 			<p class="address">
-				
+				2857 E Thousand Oaks Blvd
 				
 			</p>
 			<p class="type">Supermarket</p>
@@ -609,7 +609,7 @@ var updateLink;
 
 			<h2>Northgate Supermarket</h2>
 			<p class="address">
-				
+				2120 Pacific Ave
 				
 			</p>
 			<p class="type">Supermarket</p>
@@ -632,7 +632,7 @@ var updateLink;
 
 			<h2>Northgate Gonzalez Markets</h2>
 			<p class="address">
-				
+				2323 W Olympic Blvd
 				
 			</p>
 			<p class="type">Supermarket</p>
@@ -655,7 +655,7 @@ var updateLink;
 
 			<h2>Northgate Gonzalez Markets</h2>
 			<p class="address">
-				
+				425 S Soto St
 				
 			</p>
 			<p class="type">Supermarket</p>
@@ -678,7 +678,7 @@ var updateLink;
 
 			<h2>Northgate Gonzalez Markets</h2>
 			<p class="address">
-				
+				4700 Inglewood Blvd
 				
 			</p>
 			<p class="type">Supermarket</p>
@@ -701,7 +701,7 @@ var updateLink;
 
 			<h2>Northgate Gonzalez Markets</h2>
 			<p class="address">
-				
+				944 E Slauson Ave
 				
 			</p>
 			<p class="type">Supermarket</p>
@@ -724,7 +724,7 @@ var updateLink;
 
 			<h2>Northgate Market</h2>
 			<p class="address">
-				
+				11660 Firestone Blvd
 				
 			</p>
 			<p class="type">Supermarket</p>
@@ -747,7 +747,7 @@ var updateLink;
 
 			<h2>Northgate Market</h2>
 			<p class="address">
-				
+				1320 W Francisquito Ave
 				
 			</p>
 			<p class="type">Supermarket</p>
@@ -770,7 +770,7 @@ var updateLink;
 
 			<h2>Northgate Market</h2>
 			<p class="address">
-				
+				16259 Paramount Blvd
 				
 			</p>
 			<p class="type">Supermarket</p>
@@ -902,10 +902,21 @@ var updateLink;
 	</section>
 </script>
 
+<script src="/assets/js/helpers.js"></script>
+<script src="/assets/js/location-list-toggle-view.js"></script>
+
 <!-- Jim’s Google Maps API key -->
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBP5KxqO9v1sLhXlkrG3vDiDdOJvYLJ0H4"></script>
 
 <script src="https://api.mapbox.com/mapbox-gl-js/v0.33.1/mapbox-gl.js"></script>
+
+<script>
+	if (!mapboxgl.supported()) {
+		if (console && console.log) console.log('MapboxGL doesn’t appear to be supported in this web browser. Showing the list instead…');
+		window.oasis.showList();
+		window.oasis.hideToggleButtons();
+	}
+</script>
 
 <script>
 // FOLA’s Mapbox API key
@@ -1017,9 +1028,22 @@ var listOffset = 200;
 <script src="/api/supermarket.js"></script>
 
 
-<script src="/assets/js/helpers.js"></script>
+<script>
+(function() {
+
+	var foodSourcesList = document.querySelector('ul.location-list');
+	if (foodSourcesList) foodSourcesList.classList.add('sorting');
+
+	// If sorting is taking a long time, show the default list again.
+	setTimeout(function() {
+		var foodSourcesList = document.querySelector('ul.location-list');
+		if (foodSourcesList) foodSourcesList.classList.remove('sorting');
+	}, 5000);
+
+})();
+</script>
+
 <script src="/assets/js/geolocate.js"></script>
-<script src="/assets/js/location-list-toggle-view.js"></script>
 <script src="/assets/js/location-list-sort.js"></script>
 <script src="/assets/js/location-list-item.js"></script>
 <script src="/assets/js/location-list-map.js"></script>
@@ -1028,10 +1052,9 @@ var listOffset = 200;
 
 	window.oasis.createMap();
 
-	var foodSourcesList = document.querySelector('ul.location-list');
-	if (foodSourcesList) foodSourcesList.classList.add('sorting');
 	window.oasis.findUserLocation(function(userLocation) {
 		var list = window.oasis.sortByClosest(userLocation.latitude, userLocation.longitude);
+		var foodSourcesList = document.querySelector('ul.location-list');
 		if (foodSourcesList) foodSourcesList.classList.remove('sorting');
 		if (document.getElementById('search-location')) document.getElementById('search-location').textContent = userLocation.label;
 		window.oasis.addMarkers(list, userLocation.geolocated, userLocation.latitude, userLocation.longitude);
