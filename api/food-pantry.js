@@ -8,6 +8,7 @@ var locations = [
 	longitude : "-118.256703",
 	name      : "All Peoples Christian Center",
 	address_1 : "822 E. 20th Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -46,6 +47,7 @@ var locations = [
 	longitude : "-118.1729264",
 	name      : "All Saints Conference",
 	address_1 : "3431 Portola Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri2nd",
@@ -84,6 +86,7 @@ var locations = [
 	longitude : "-118.1953492",
 	name      : "All Saints Episcopal Church Highland Park",
 	address_1 : "5619 Monte Vista Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat4th",
@@ -122,6 +125,7 @@ var locations = [
 	longitude : "-118.1593398",
 	name      : "Altadena S.D.A. Church",
 	address_1 : "2609 N. Lincoln Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue2nd",
@@ -160,6 +164,7 @@ var locations = [
 	longitude : "-118.3238487",
 	name      : "Ananda Marga of L.A., Inc.",
 	address_1 : "1245 S. Norton Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu",
@@ -198,6 +203,7 @@ var locations = [
 	longitude : "-118.282984",
 	name      : "Ascension's Food Pantry",
 	address_1 : "517 W. 112th Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "SatLast",
@@ -236,6 +242,7 @@ var locations = [
 	longitude : "-117.969546",
 	name      : "Baldwin Park Bilingual S.D.A.",
 	address_1 : "13965 East Ramona Parkway",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -274,6 +281,7 @@ var locations = [
 	longitude : "-118.2624581",
 	name      : "Belvue Presbyterian Church",
 	address_1 : "675 E. 118th Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu3rd",
@@ -312,6 +320,7 @@ var locations = [
 	longitude : "-118.3310595",
 	name      : "Berean S.D.A. Church",
 	address_1 : "4211 W. Adams Boulevard",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu3rd",
@@ -350,6 +359,7 @@ var locations = [
 	longitude : "-118.309331",
 	name      : "Bethel AME Church- Richard Allen Center",
 	address_1 : "7919 S.  Western Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -388,6 +398,7 @@ var locations = [
 	longitude : "-117.7531627",
 	name      : "Bethel S.D.A. Church",
 	address_1 : "1921 N. Garey Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun1st",
@@ -426,6 +437,7 @@ var locations = [
 	longitude : "-118.256075",
 	name      : "Bethel Unspeakable Joy Christian Church",
 	address_1 : "8724 S. Central Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat2nd",
@@ -464,6 +476,7 @@ var locations = [
 	longitude : "-118.3308714",
 	name      : "Bethesda Temple Church",
 	address_1 : "4915 Crenshaw Boulevard",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat4th",
@@ -502,6 +515,7 @@ var locations = [
 	longitude : "-118.3351039",
 	name      : "Blessed Sacrament Food Pantry-Hope Net",
 	address_1 : "6657 Sunset Blvd.",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -540,6 +554,7 @@ var locations = [
 	longitude : "-118.278724",
 	name      : "Blood of Jesus Prayer and Deliverance Ministry",
 	address_1 : "11001 S. Broadway",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -578,6 +593,7 @@ var locations = [
 	longitude : "-118.0929072",
 	name      : "Bread of Life Community Outreach",
 	address_1 : "628 South Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed2nd",
@@ -616,6 +632,7 @@ var locations = [
 	longitude : "-118.3536215",
 	name      : "Breath of Life S.D.A. Church",
 	address_1 : "425 S. La Brea",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu1st",
@@ -654,6 +671,7 @@ var locations = [
 	longitude : "-118.3260622",
 	name      : "Burbank Temporary Aid Center",
 	address_1 : "1304 W. Burbank Blvd.",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -692,6 +710,7 @@ var locations = [
 	longitude : "-118.3520296",
 	name      : "Calvary Presbyterian Church",
 	address_1 : "13560 Hawthorne Boulevard",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat1st",
@@ -730,6 +749,7 @@ var locations = [
 	longitude : "-118.1916668",
 	name      : "Cathloic Charities of Los Angeles, Inc.",
 	address_1 : "123 East 14th Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -768,6 +788,7 @@ var locations = [
 	longitude : "-118.2201373",
 	name      : "Catholic Charities- Brownson House",
 	address_1 : "1307 Warren Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -806,6 +827,7 @@ var locations = [
 	longitude : "-118.2934993",
 	name      : "Catholic Charities of L.A.",
 	address_1 : "4665 Willow Brook Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -844,6 +866,7 @@ var locations = [
 	longitude : "-118.0777582",
 	name      : "Catholic Charities of Los Angeles, Inc.",
 	address_1 : "5014 Passons Blvd",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -882,6 +905,7 @@ var locations = [
 	longitude : "-118.031897",
 	name      : "Catholic Charities- Region 2",
 	address_1 : "4171 Tyler Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -920,6 +944,7 @@ var locations = [
 	longitude : "-118.046881",
 	name      : "Catholic Rainbow Outreach",
 	address_1 : "11419 Carmenita Road",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -958,6 +983,7 @@ var locations = [
 	longitude : "-118.2785568",
 	name      : "CCC Ebenezery Parish",
 	address_1 : "8803-8807 S. Broadway Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -996,6 +1022,7 @@ var locations = [
 	longitude : "-118.182682",
 	name      : "Central Filipino S.D.A. Church",
 	address_1 : "777 Colorado Boulevard",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue3rd",
@@ -1034,6 +1061,7 @@ var locations = [
 	longitude : "-118.0795603",
 	name      : "Centro Cristiano Las Buenas Nuevas",
 	address_1 : "11910 Alondra Blvd.",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat3rd",
@@ -1072,6 +1100,7 @@ var locations = [
 	longitude : "-118.1204073",
 	name      : "Centro Cristiano Manantial de vida",
 	address_1 : "10035 Washington Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -1110,6 +1139,7 @@ var locations = [
 	longitude : "-118.4635834",
 	name      : "Centro de Vida International Church Movement",
 	address_1 : "9251 Burnet Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -1148,6 +1178,7 @@ var locations = [
 	longitude : "-118.2243445",
 	name      : "Centro Palabra de Fe",
 	address_1 : "107 W. Artesia Boulevard",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat2nd",
@@ -1186,6 +1217,7 @@ var locations = [
 	longitude : "-118.3568641",
 	name      : "Chapel of Peace Lutheran Church",
 	address_1 : "1009 N. Market Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat3rd",
@@ -1224,6 +1256,7 @@ var locations = [
 	longitude : "-118.3094234",
 	name      : "Charismatic Ecumencial Ministries International",
 	address_1 : "4357 West 3rd Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun1st",
@@ -1262,6 +1295,7 @@ var locations = [
 	longitude : "-118.3243668",
 	name      : "Children of the Shepherd",
 	address_1 : "1076 N. El Centro Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat3rd",
@@ -1300,6 +1334,7 @@ var locations = [
 	longitude : "-118.2986107",
 	name      : "Childrens Hospital Los Angeles",
 	address_1 : "5000 Sunset Blvd. 7th Floor",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -1338,6 +1373,7 @@ var locations = [
 	longitude : "-118.266495",
 	name      : "Chinese Community Service Center",
 	address_1 : "1725 Beverly Blvd",
+	address_2 : "Ste 1-B",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun",
@@ -1376,6 +1412,7 @@ var locations = [
 	longitude : "-118.357212",
 	name      : "Christ Centered Ministries Church",
 	address_1 : "742 N. La Brea Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat3rd",
@@ -1414,6 +1451,7 @@ var locations = [
 	longitude : "-118.2912726",
 	name      : "Christ Gospel Prayer Center",
 	address_1 : "4228 S. Vermont Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -1452,6 +1490,7 @@ var locations = [
 	longitude : "-118.3297116",
 	name      : "Christ the Good Shepherd Episcopal",
 	address_1 : "3303 W. Vernon Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri4th",
@@ -1490,6 +1529,7 @@ var locations = [
 	longitude : "-118.3661612",
 	name      : "Christian Association for Social Services",
 	address_1 : "5814 Venice Blvd.",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri1st",
@@ -1528,6 +1568,7 @@ var locations = [
 	longitude : "-117.9652924",
 	name      : "Church of God",
 	address_1 : "4161 Baldwin Park Blvd",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun",
@@ -1566,6 +1607,7 @@ var locations = [
 	longitude : "-118.21285",
 	name      : "Church of the Epiphany",
 	address_1 : "2808 Altura Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri2nd",
@@ -1604,6 +1646,7 @@ var locations = [
 	longitude : "-118.0823275",
 	name      : "Church of the Nazarene-Rosemead",
 	address_1 : "2703 Walnut Grove Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat3rd",
@@ -1642,6 +1685,7 @@ var locations = [
 	longitude : "-117.9766557",
 	name      : "Church of the Redeemer",
 	address_1 : "3739 North Monterey Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -1680,6 +1724,7 @@ var locations = [
 	longitude : "-118.451357",
 	name      : "Church of the Valley",
 	address_1 : "6565 Vester blvd",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -1718,6 +1763,7 @@ var locations = [
 	longitude : "-118.1559376",
 	name      : "City of Commerce Community Center",
 	address_1 : "2555 Commerce Way",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu3rd",
@@ -1756,6 +1802,7 @@ var locations = [
 	longitude : "-118.1891261",
 	name      : "City of Maywood",
 	address_1 : "4319 E. Slauson Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu4th",
@@ -1794,6 +1841,7 @@ var locations = [
 	longitude : "-118.0789232",
 	name      : "City of Norwark/Department of Social Services",
 	address_1 : "11929 Alondra Boulevard",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -1832,6 +1880,7 @@ var locations = [
 	longitude : "-118.253889",
 	name      : "City of Truth Ministries",
 	address_1 : "1139 E. Dominguez Street, Suite D",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun2nd",
@@ -1870,6 +1919,7 @@ var locations = [
 	longitude : "-118.3566268",
 	name      : "Coast Christian Fellowship",
 	address_1 : "4000 Pacific Coast Highway",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -1908,6 +1958,7 @@ var locations = [
 	longitude : "-118.5788499",
 	name      : "Congregational Church of Chatsworth",
 	address_1 : "20440 Lassen Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -1946,6 +1997,7 @@ var locations = [
 	longitude : "-118.4067452",
 	name      : "Cornerstone Christian Ministry",
 	address_1 : "11449 Sproule Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu",
@@ -1984,6 +2036,7 @@ var locations = [
 	longitude : "-118.1127636",
 	name      : "Cory's Kitchen-Calvary Chapel Pico Rivera",
 	address_1 : "8110 Paramount Boulevard",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu2nd",
@@ -2022,6 +2075,7 @@ var locations = [
 	longitude : "-118.1796924",
 	name      : "Cory's Kitchen-El Sereno",
 	address_1 : "4810 Huntington Drive South",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -2060,6 +2114,7 @@ var locations = [
 	longitude : "-117.8575384",
 	name      : "Cory's Kitchen-Faith Center Ministries",
 	address_1 : "20470 # A Yellowbrick Road",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -2098,6 +2153,7 @@ var locations = [
 	longitude : "-117.9590196",
 	name      : "Corys Kitchen-Iglesia Torre De Alabanza",
 	address_1 : "822 Bradbourne Ave.",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun1st",
@@ -2136,6 +2192,7 @@ var locations = [
 	longitude : "-117.9893116",
 	name      : "Corys Kitchen-New Beginnings",
 	address_1 : "13020 Francisquito Avenue, Suite 10",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -2174,6 +2231,7 @@ var locations = [
 	longitude : "-117.9746909",
 	name      : "Cory's Kitchen",
 	address_1 : "1418 Arrow Highway",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tues",
@@ -2212,6 +2270,7 @@ var locations = [
 	longitude : "-118.2568599",
 	name      : "Cover the Homeless Ministry",
 	address_1 : "4425 S. Central Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu4th",
@@ -2250,6 +2309,7 @@ var locations = [
 	longitude : "-118.3274219",
 	name      : "Crenshaw Baptist Church",
 	address_1 : "18749 Crenshaw Boulevard",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed2nd",
@@ -2288,6 +2348,7 @@ var locations = [
 	longitude : "-118.3408663",
 	name      : "Crenshaw United Methodist Church",
 	address_1 : "3740 Don Felipe Drive",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat3rd",
@@ -2326,6 +2387,7 @@ var locations = [
 	longitude : "-118.2816342",
 	name      : "Crusaders for Christ Baptist Church",
 	address_1 : "3200 W. Temple Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -2364,6 +2426,7 @@ var locations = [
 	longitude : "-117.7371539",
 	name      : "CUSH Foundation",
 	address_1 : "2343 N. San Antonio Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu2nd",
@@ -2402,6 +2465,7 @@ var locations = [
 	longitude : "-118.2836487",
 	name      : "Dae Hueng Presbyterian Church",
 	address_1 : "15411 S. Figueroa Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat3rd",
@@ -2440,6 +2504,7 @@ var locations = [
 	longitude : "-118.2920482",
 	name      : "Do Right Christian Church",
 	address_1 : "9815 S. Vermont Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat1st",
@@ -2478,6 +2543,7 @@ var locations = [
 	longitude : "-118.1590196",
 	name      : "Door of Hope Community Center",
 	address_1 : "1414 South Atlantic Blvd.",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tues",
@@ -2516,6 +2582,7 @@ var locations = [
 	longitude : "-117.952611",
 	name      : "Dos Testamentos En El Desierto",
 	address_1 : "9845 E Palmdale Boulevard",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -2554,6 +2621,7 @@ var locations = [
 	longitude : "-118.1493743",
 	name      : "East L.A. Bilingual S.D.A. Church",
 	address_1 : "700 Hoefner Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed1st",
@@ -2592,6 +2660,7 @@ var locations = [
 	longitude : "-118.199474",
 	name      : "East LA Community Corporation",
 	address_1 : "611 S. Lorena Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri3rd",
@@ -2630,6 +2699,7 @@ var locations = [
 	longitude : "-118.0960249",
 	name      : "East Palmdale Foursquare",
 	address_1 : "1817 E. Avenue Q., A-6",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "SatLast",
@@ -2668,6 +2738,7 @@ var locations = [
 	longitude : "-117.980451",
 	name      : "East San Gabriel Valley Coalition For the Homeless",
 	address_1 : "1345 Turnbull Canyon Blvd.",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -2706,6 +2777,7 @@ var locations = [
 	longitude : "-118.1500876",
 	name      : "Eastmont Community Center",
 	address_1 : "701 Hoefner Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -2744,6 +2816,7 @@ var locations = [
 	longitude : "-118.1376064",
 	name      : "Eastmont S.D.A. Spanish Church",
 	address_1 : "1021 Westside Drive",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -2782,6 +2855,7 @@ var locations = [
 	longitude : "-118.2624834",
 	name      : "Echo Park United Methodist",
 	address_1 : "1226 N. Alvarado Boulevard",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -2820,6 +2894,7 @@ var locations = [
 	longitude : "-118.1413359",
 	name      : "Ecumenical Council of Pasadena Area Congregations",
 	address_1 : "444 East Washington Boulevard",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tues",
@@ -2858,6 +2933,7 @@ var locations = [
 	longitude : "-118.2068055",
 	name      : "Ed & Frankie Benson Evangelistic Ministries",
 	address_1 : "4232 West Ave. L",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue3rd",
@@ -2896,6 +2972,7 @@ var locations = [
 	longitude : "-118.0288381",
 	name      : "El Monte/South Emergency",
 	address_1 : "10900 Mulhall Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -2934,6 +3011,7 @@ var locations = [
 	longitude : "-118.4173919",
 	name      : "Eliza Shanks Homes, Inc.",
 	address_1 : "13055 Weidner Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri4th",
@@ -2972,6 +3050,7 @@ var locations = [
 	longitude : "-118.196609",
 	name      : "Esmirna Pentecostal Church",
 	address_1 : "5414 N. Figueroa Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -3010,6 +3089,7 @@ var locations = [
 	longitude : "-118.2648597",
 	name      : "Estelle Van Meter Multipurpose",
 	address_1 : "7600 S. Avalon Boulevard",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed1st",
@@ -3048,6 +3128,7 @@ var locations = [
 	longitude : "-118.2082908",
 	name      : "Estrada Courts Community Center",
 	address_1 : "3232 Hunter Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed2nd",
@@ -3086,6 +3167,7 @@ var locations = [
 	longitude : "-117.9991561",
 	name      : "Evergreen Baptist Church of San Gabriel Valley",
 	address_1 : "323 Workman Mill Road",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri1st",
@@ -3124,6 +3206,7 @@ var locations = [
 	longitude : "-118.0395279",
 	name      : "Family Church Whittier",
 	address_1 : "8434 S. Greenleaf Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun",
@@ -3162,6 +3245,7 @@ var locations = [
 	longitude : "-118.2999294",
 	name      : "Family Mennonite Church",
 	address_1 : "6520 S. Normandie Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun2nd",
@@ -3200,6 +3284,7 @@ var locations = [
 	longitude : "-118.3134514",
 	name      : "Fifty Fourth Street S.D.A. Church",
 	address_1 : "1973 West 54th Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue2nd",
@@ -3238,6 +3323,7 @@ var locations = [
 	longitude : "-118.2822084",
 	name      : "Figueroa Church of Christ",
 	address_1 : "455 W. 57th Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -3276,6 +3362,7 @@ var locations = [
 	longitude : "-118.1853545",
 	name      : "Filipino Baptist Fellowship of Long Beach",
 	address_1 : "2155 Atlantic Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat3rd",
@@ -3314,6 +3401,7 @@ var locations = [
 	longitude : "-118.2644293",
 	name      : "Filipino Christian Church",
 	address_1 : "301 N. Union Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -3352,6 +3440,7 @@ var locations = [
 	longitude : "-118.3061942",
 	name      : "First African Methodist Episcopal Church",
 	address_1 : "2270 S. Harvard Boulevard",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat4th",
@@ -3390,6 +3479,7 @@ var locations = [
 	longitude : "-118.2886022",
 	name      : "First Baptist Church-Hope Net",
 	address_1 : "760 S. Westmoreland Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -3428,6 +3518,7 @@ var locations = [
 	longitude : "-118.1491785",
 	name      : "First Church of the Nazarene-Altadena",
 	address_1 : "9 W. Mendocino Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu1st",
@@ -3466,6 +3557,7 @@ var locations = [
 	longitude : "-118.0739988",
 	name      : "First Church of the Nazarene-Pasadena",
 	address_1 : "3700 E. Sierra Madre Boulevard",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -3504,6 +3596,7 @@ var locations = [
 	longitude : "-118.3665755",
 	name      : "First Lutheran Church of Inglewood",
 	address_1 : "600 West Queen Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu2nd",
@@ -3542,6 +3635,7 @@ var locations = [
 	longitude : "-117.953277",
 	name      : "First Missionary Baptist Church",
 	address_1 : "37721 N. 100th Street East",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed2nd",
@@ -3580,6 +3674,7 @@ var locations = [
 	longitude : "-118.3040285",
 	name      : "First New Christian Fellowship",
 	address_1 : "1555 W. 108th Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu",
@@ -3618,6 +3713,7 @@ var locations = [
 	longitude : "-118.3372555",
 	name      : "First Presbyterian Church",
 	address_1 : "1809 West Boulevard.",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun3rd",
@@ -3656,6 +3752,7 @@ var locations = [
 	longitude : "-118.3132449",
 	name      : "First Southern Baptist Church of Hollywood",
 	address_1 : "1528 N. Wilton Place",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat1st",
@@ -3694,6 +3791,7 @@ var locations = [
 	longitude : "-118.2904201",
 	name      : "First Unitarian Church-Hope Net",
 	address_1 : "2936 W. 8th Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -3732,6 +3830,7 @@ var locations = [
 	longitude : "-118.2662632",
 	name      : "First United Methodist Church of La Puente",
 	address_1 : "15701 E. Hill Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "SunLast",
@@ -3770,6 +3869,7 @@ var locations = [
 	longitude : "-118.30389",
 	name      : "Food Net-Asian Service Center",
 	address_1 : "14112 S. Kingsley Drive",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -3808,6 +3908,7 @@ var locations = [
 	longitude : "-118.1643033",
 	name      : "Food Net-Centro Maravilla",
 	address_1 : "4716 E. Cesar Chavez Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -3846,6 +3947,7 @@ var locations = [
 	longitude : "-118.1792254",
 	name      : "Food Net- East Los Angeles Center",
 	address_1 : "133 N. Sunol Drive",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -3884,6 +3986,7 @@ var locations = [
 	longitude : "-118.1927524",
 	name      : "Food Net-East Rancho Dominguez",
 	address_1 : "4513 E. Compton Boulevard",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri2nd",
@@ -3922,6 +4025,7 @@ var locations = [
 	longitude : "-118.2480784",
 	name      : "Food Net-Florence Firestone Center",
 	address_1 : "7807 S. Compton Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue2nd",
@@ -3960,6 +4064,7 @@ var locations = [
 	longitude : "-118.0676089",
 	name      : "Food Net-Los Nietos Service Center",
 	address_1 : "11640 W. Slauson Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu",
@@ -3998,6 +4103,7 @@ var locations = [
 	longitude : "-118.0455444",
 	name      : "Food Net-San Gabriel Valley Center",
 	address_1 : "1441 Santa Anita Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -4036,6 +4142,7 @@ var locations = [
 	longitude : "-118.2938035",
 	name      : "Food Net-San Pedro Service Center",
 	address_1 : "769 W. Third Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue2nd",
@@ -4074,6 +4181,7 @@ var locations = [
 	longitude : "-118.5278635",
 	name      : "Food Net-Santa Clarita Service Center",
 	address_1 : "24271 Main Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -4112,6 +4220,7 @@ var locations = [
 	longitude : "-118.2722211",
 	name      : "Food Net-Willowbrook Senior Center",
 	address_1 : "12915 Jarvis Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed2nd",
@@ -4150,6 +4259,7 @@ var locations = [
 	longitude : "-118.0081715",
 	name      : "Foothill Unity Center",
 	address_1 : "415 W. Chestnut Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -4188,6 +4298,7 @@ var locations = [
 	longitude : "-118.2419919",
 	name      : "Fred Jordan Mission",
 	address_1 : "445  Towne Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -4226,6 +4337,7 @@ var locations = [
 	longitude : "-118.1404603",
 	name      : "Fuller Theological Seminary",
 	address_1 : "135 North Oakland Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -4264,6 +4376,7 @@ var locations = [
 	longitude : "-118.3048366",
 	name      : "Gardena S.D.A. Church",
 	address_1 : "16113 S. Denker Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat1st",
@@ -4302,6 +4415,7 @@ var locations = [
 	longitude : "-118.3018567",
 	name      : "Gardena Valley Assembly of God",
 	address_1 : "1473 W. 182nd Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun",
@@ -4340,6 +4454,7 @@ var locations = [
 	longitude : "-118.2520609",
 	name      : "Glendale Filipino S.D.A. Church",
 	address_1 : "310 E. Chestnut Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed2nd",
@@ -4378,6 +4493,7 @@ var locations = [
 	longitude : "-118.2896203",
 	name      : "Good News Central Church",
 	address_1 : "3500 West 1st Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -4416,6 +4532,7 @@ var locations = [
 	longitude : "-118.319388",
 	name      : "Good News Missionary Baptist Church",
 	address_1 : "2400 W. Vernon Ave",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu2nd",
@@ -4454,6 +4571,7 @@ var locations = [
 	longitude : "-118.2423524",
 	name      : "Good News Prayer Center",
 	address_1 : "1722 East Firestone Boulevard",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat3rd",
@@ -4492,6 +4610,7 @@ var locations = [
 	longitude : "-118.2655739",
 	name      : "Gospel Mission Baptist Church",
 	address_1 : "7301 S. Avalon Boulevard",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed4th",
@@ -4530,6 +4649,7 @@ var locations = [
 	longitude : "-117.995356",
 	name      : "Grace Evangelical Free Church of La Mirada",
 	address_1 : "12717 Santa Gertrudes Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -4568,6 +4688,7 @@ var locations = [
 	longitude : "-118.1999599",
 	name      : "Grace Presbyterian Church",
 	address_1 : "1500 N. Ave 53",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri2nd",
@@ -4606,6 +4727,7 @@ var locations = [
 	longitude : "-118.137309",
 	name      : "Grace Resource Center, Inc.",
 	address_1 : "45134 N. Sierra Hwy.",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -4644,6 +4766,7 @@ var locations = [
 	longitude : "-118.3384028",
 	name      : "Greater Emmanuel M.B.C.",
 	address_1 : "3727 West 111th Place",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat1st",
@@ -4682,6 +4805,7 @@ var locations = [
 	longitude : "-118.2767182",
 	name      : "Greater New Morning Star Baptist Church",
 	address_1 : "210 W. Florence Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -4720,6 +4844,7 @@ var locations = [
 	longitude : "-118.2655116",
 	name      : "Greater New Unity Baptist Church",
 	address_1 : "9719 S. Avalon Boulevard",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat3rd",
@@ -4758,6 +4883,7 @@ var locations = [
 	longitude : "-118.1794177",
 	name      : "Guadalupe Food Program",
 	address_1 : "4018 East Hammel Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed2nd",
@@ -4796,6 +4922,7 @@ var locations = [
 	longitude : "-118.254577",
 	name      : "H.O.P.E. Helping Other People Excel",
 	address_1 : "11163 S. Central Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -4834,6 +4961,7 @@ var locations = [
 	longitude : "-118.4490873",
 	name      : "Hank Lacayo Youth & Family Center",
 	address_1 : "7915 Van Nuys Boulevard",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu",
@@ -4872,6 +5000,7 @@ var locations = [
 	longitude : "-118.2748789",
 	name      : "Harbor Christian Center",
 	address_1 : "1602 N. Wilmington Blvd",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed1st",
@@ -4910,6 +5039,7 @@ var locations = [
 	longitude : "-118.0723646",
 	name      : "Hawaiian Gardens Food Bank",
 	address_1 : "21411 Norwalk Blvd.",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -4948,6 +5078,7 @@ var locations = [
 	longitude : "-118.288536",
 	name      : "Heavenly Vision Church of God in Christ",
 	address_1 : "841 W. 85th Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri4th",
@@ -4986,6 +5117,7 @@ var locations = [
 	longitude : "-117.7800069",
 	name      : "Helping Hands, Caring Hearts Ministry",
 	address_1 : "1750 W. Holt Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun",
@@ -5024,6 +5156,7 @@ var locations = [
 	longitude : "-118.1744206",
 	name      : "Helping In Services, Inc.",
 	address_1 : "1535 Gundry Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -5062,6 +5195,7 @@ var locations = [
 	longitude : "-118.3176793",
 	name      : "His Helping Hands",
 	address_1 : "25501 Oak Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu2nd",
@@ -5100,6 +5234,7 @@ var locations = [
 	longitude : "-118.2650011",
 	name      : "HOAP Inc.",
 	address_1 : "5014 S. Avalon Boulevard",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu",
@@ -5138,6 +5273,7 @@ var locations = [
 	longitude : "-118.2988528",
 	name      : "Hollywood Community Housing",
 	address_1 : "5020 W. Santa Monica Boulevard",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu",
@@ -5176,6 +5312,7 @@ var locations = [
 	longitude : "-118.2936174",
 	name      : "Hollywood Lutheran Church",
 	address_1 : "1733 N. New Hampshire Ave.",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -5214,6 +5351,7 @@ var locations = [
 	longitude : "-118.3231596",
 	name      : "Hollywood West Tenant Action Committee",
 	address_1 : "5823 Willoughby Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri3rd",
@@ -5252,6 +5390,7 @@ var locations = [
 	longitude : "-118.2742456",
 	name      : "Holy Cross Center",
 	address_1 : "104 W. 47th Place",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -5290,6 +5429,7 @@ var locations = [
 	longitude : "-118.1527363",
 	name      : "Holy Family Giving Bank",
 	address_1 : "1524 Fremont Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -5328,6 +5468,7 @@ var locations = [
 	longitude : "-118.2778577",
 	name      : "Holy Trinity Church of God in Christ",
 	address_1 : "9706 S. Broadway Boulevard",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -5366,6 +5507,7 @@ var locations = [
 	longitude : "-118.3942418",
 	name      : "Hope Chapel Foursquare Church",
 	address_1 : "2420 Pacific Coast Highway",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -5404,6 +5546,7 @@ var locations = [
 	longitude : "-118.2371694",
 	name      : "Hope Chapel Lancaster",
 	address_1 : "6015 W Avenue J8",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -5442,6 +5585,7 @@ var locations = [
 	longitude : "-118.296546",
 	name      : "Hope International Bible Fellowship",
 	address_1 : "4903 Fountain Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat2nd",
@@ -5480,6 +5624,7 @@ var locations = [
 	longitude : "-118.5557989",
 	name      : "Houses of Light Church Corporation",
 	address_1 : "19359 Londelius Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -5518,6 +5663,7 @@ var locations = [
 	longitude : "-118.416965",
 	name      : "Hurting & Hungry",
 	address_1 : "8107 Loyola Boulevard",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -5556,6 +5702,7 @@ var locations = [
 	longitude : "-118.479712",
 	name      : "Iglesia Bautista Renacer",
 	address_1 : "15950 Chatsworth St.",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -5594,6 +5741,7 @@ var locations = [
 	longitude : "-118.2779982",
 	name      : "Iglesia Cristiana El Shaddai USA",
 	address_1 : "5518 S. Broadway",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -5632,6 +5780,7 @@ var locations = [
 	longitude : "-118.1981957",
 	name      : "Iglesia de la Comunidad Presbyterian Church",
 	address_1 : "115 N. Ave 53",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu1st",
@@ -5670,6 +5819,7 @@ var locations = [
 	longitude : "-118.4273834",
 	name      : "Iglesia Evangelica Camino de Santidad",
 	address_1 : "958 N. Maclay Ave",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -5708,6 +5858,7 @@ var locations = [
 	longitude : "-118.3738402",
 	name      : "Iglesia Fuente de Vida Community Center",
 	address_1 : "11134 Saticoy Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun",
@@ -5746,6 +5897,7 @@ var locations = [
 	longitude : "-118.1621792",
 	name      : "Iglesia la Puerta Abierta",
 	address_1 : "5017 E. Olympic Boulevard",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -5784,6 +5936,7 @@ var locations = [
 	longitude : "-118.255771",
 	name      : "Iglesia Macedonia Defenders of the Christian Faith",
 	address_1 : "9228 S. Central Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -5822,6 +5975,7 @@ var locations = [
 	longitude : "-118.202409",
 	name      : "Iglesia Pentecostes Roca de Salvacion",
 	address_1 : "122 South Evergreen Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun",
@@ -5860,6 +6014,7 @@ var locations = [
 	longitude : "-118.220037",
 	name      : "Iglesia Pentecostes Templo Calvario",
 	address_1 : "8824 Long Beach Boulevard",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun",
@@ -5898,6 +6053,7 @@ var locations = [
 	longitude : "-117.9630247",
 	name      : "Iglesia Piedra Angular",
 	address_1 : "2110 W. Francisquito Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu2nd",
@@ -5936,6 +6092,7 @@ var locations = [
 	longitude : "-118.0946044",
 	name      : "Iglesia Un Renuevo",
 	address_1 : "13216 Fairford Ave.",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri3rd",
@@ -5974,6 +6131,7 @@ var locations = [
 	longitude : "-117.7569861",
 	name      : "Imani Economic & Community Development Corporation",
 	address_1 : "510 W. Monterey Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat3rd",
@@ -6012,6 +6170,7 @@ var locations = [
 	longitude : "-118.3074812",
 	name      : "Imani Unidos A.I.D.S. Project",
 	address_1 : "1713 W. 108th Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue2nd",
@@ -6050,6 +6209,7 @@ var locations = [
 	longitude : "-118.2976765",
 	name      : "Immaculate Heart of Mary-Hope Net",
 	address_1 : "4954 Santa Monica Boulevard",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -6088,6 +6248,7 @@ var locations = [
 	longitude : "-118.294485",
 	name      : "Immanuel Presbyterian Church-Hope Net",
 	address_1 : "3300 Wilshire Blvd",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -6126,6 +6287,7 @@ var locations = [
 	longitude : "-118.2691607",
 	name      : "Imperial Church of Christ",
 	address_1 : "11316 S. San Pedro Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -6164,6 +6326,7 @@ var locations = [
 	longitude : "-118.3598898",
 	name      : "Inglewood Church of Christ",
 	address_1 : "323 S. Eucalyptus Ave.",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri3rd",
@@ -6202,6 +6365,7 @@ var locations = [
 	longitude : "-118.3433323",
 	name      : "Inglewood Southside Christian Church",
 	address_1 : "3947 W. 104th Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat2nd",
@@ -6240,6 +6404,7 @@ var locations = [
 	longitude : "-117.7523806",
 	name      : "Inland Valley Hope Partners",
 	address_1 : "209 W. Pearl Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -6278,6 +6443,7 @@ var locations = [
 	longitude : "-118.0650479",
 	name      : "Interfaith Food Center",
 	address_1 : "11819 Burke Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -6316,6 +6482,7 @@ var locations = [
 	longitude : "-118.2575547",
 	name      : "International Families Association",
 	address_1 : "1741 Gardena Avenue, Suite E",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -6354,6 +6521,7 @@ var locations = [
 	longitude : "-118.291309",
 	name      : "Islamic Center of Southern CA-Hope Net",
 	address_1 : "434 S. Vermont Boulevard",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -6392,6 +6560,7 @@ var locations = [
 	longitude : "-118.2620021",
 	name      : "Jesus Christ the Reedemer Center",
 	address_1 : "755 E. 223rd Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -6430,6 +6599,7 @@ var locations = [
 	longitude : "-118.2966541",
 	name      : "Jesus is the Answer Apostolic Church",
 	address_1 : "25100 S. Normandie Ave, Suite A",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed3rd",
@@ -6468,6 +6638,7 @@ var locations = [
 	longitude : "-118.491725",
 	name      : "JFS/SOVA Community Food & Resource Program Valley",
 	address_1 : "16439 Vanowen Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun",
@@ -6506,6 +6677,7 @@ var locations = [
 	longitude : "-118.491725",
 	name      : "JFS/SOVA Community Food & Resource Program West",
 	address_1 : "8846 W Pico Blvd",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun",
@@ -6544,6 +6716,7 @@ var locations = [
 	longitude : "-118.4252181",
 	name      : "Khalsa Care Foundation",
 	address_1 : "9989 Laurel Canyon Blvd.",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -6582,6 +6755,7 @@ var locations = [
 	longitude : "-118.3075101",
 	name      : "Koreatown Multipurpose Senior",
 	address_1 : "2147 W. Washington Boulevard",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -6620,6 +6794,7 @@ var locations = [
 	longitude : "-117.9088863",
 	name      : "La Puente Spanish S.D.A. Church",
 	address_1 : "18047 Valley Boulevard",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -6658,6 +6833,7 @@ var locations = [
 	longitude : "-118.427859",
 	name      : "La Voz Sylmar S.D.A. Church",
 	address_1 : "13550 Herron Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu",
@@ -6696,6 +6872,7 @@ var locations = [
 	longitude : "-118.314122",
 	name      : "Lady Bug Ministry",
 	address_1 : "14725 Gramercy Place",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "TueLast",
@@ -6734,6 +6911,7 @@ var locations = [
 	longitude : "-118.066341",
 	name      : "Lawrence Ministries",
 	address_1 : "12441 E. Farlow Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat3rd",
@@ -6772,6 +6950,7 @@ var locations = [
 	longitude : "-118.3087286",
 	name      : "Life Deliverance Ministries",
 	address_1 : "9120 S. Western Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -6810,6 +6989,7 @@ var locations = [
 	longitude : "-118.1310706",
 	name      : "Lifeline Community Services & Economic Development",
 	address_1 : "2556 N. Lake Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed2nd",
@@ -6848,6 +7028,7 @@ var locations = [
 	longitude : "-118.1592865",
 	name      : "Lincoln Avenue Baptist Church",
 	address_1 : "1180 North Lincoln Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed3rd",
@@ -6886,6 +7067,7 @@ var locations = [
 	longitude : "-117.902383",
 	name      : "Living Hope Community Partnership",
 	address_1 : "18500 Farjardo Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat1st",
@@ -6924,6 +7106,7 @@ var locations = [
 	longitude : "-117.824428",
 	name      : "Living Springs Foursquare Church",
 	address_1 : "17134 E. Ave O",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed1st",
@@ -6962,6 +7145,7 @@ var locations = [
 	longitude : "-118.3002282",
 	name      : "Living Truth Christian Fellowship",
 	address_1 : "5873 S. Normandie Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue3rd",
@@ -7000,6 +7184,7 @@ var locations = [
 	longitude : "-118.6002723",
 	name      : "Loaves & Fishes-Canoga Park",
 	address_1 : "21600 Hart Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -7038,6 +7223,7 @@ var locations = [
 	longitude : "-118.261043",
 	name      : "Loaves & Fishes-Glendale",
 	address_1 : "4322 San Fernando Road",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -7076,6 +7262,7 @@ var locations = [
 	longitude : "-118.4523896",
 	name      : "Loaves & Fishes-Van Nuys",
 	address_1 : "14640 Keswick",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -7114,6 +7301,7 @@ var locations = [
 	longitude : "-118.215668",
 	name      : "Los Angeles Boys & Girls Club",
 	address_1 : "2635 Pasadena Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu",
@@ -7152,6 +7340,7 @@ var locations = [
 	longitude : "-118.2752257",
 	name      : "Los Angeles Central City S.D.A. Church",
 	address_1 : "650 W. 21st Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue3rd",
@@ -7190,6 +7379,7 @@ var locations = [
 	longitude : "-118.2898538",
 	name      : "Los Angeles First Church of the Nazarene-Hope Net",
 	address_1 : "3401 W. 3rd Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -7228,6 +7418,7 @@ var locations = [
 	longitude : "-118.2826812",
 	name      : "Los Angeles Housing Partnership",
 	address_1 : "2614 W. 7th Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "FriLast",
@@ -7266,6 +7457,7 @@ var locations = [
 	longitude : "-118.3093646",
 	name      : "Love & Faith Christian Center",
 	address_1 : "8505 S. Western Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -7304,6 +7496,7 @@ var locations = [
 	longitude : "-118.1135045",
 	name      : "Loveship Community Outreach",
 	address_1 : "836 E. Avenue I",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat2nd",
@@ -7342,6 +7535,7 @@ var locations = [
 	longitude : "-118.5986508",
 	name      : "Lutheran Social Services of Southern California",
 	address_1 : "21430 Strathern Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -7380,6 +7574,7 @@ var locations = [
 	longitude : "-118.1884331",
 	name      : "Lynwood All People's First Assembly",
 	address_1 : "4330 Martin Luther King Jr. Boulevard",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -7418,6 +7613,7 @@ var locations = [
 	longitude : "-118.1966584",
 	name      : "Lynwood United Methodist Church",
 	address_1 : "4207 Carlin Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -7456,6 +7652,7 @@ var locations = [
 	longitude : "-118.3348393",
 	name      : "Maranatha S.D.A. Community Center",
 	address_1 : "3569 W. Manchester Blvd.",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat2nd",
@@ -7494,6 +7691,7 @@ var locations = [
 	longitude : "-118.4195782",
 	name      : "Meet Each Need with Dignity",
 	address_1 : "10641 San Fernando Road",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -7532,6 +7730,7 @@ var locations = [
 	longitude : "-118.2897866",
 	name      : "Metropolitan Community Churchof L.A.-Hope Net",
 	address_1 : "4607 Prospect Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -7570,6 +7769,7 @@ var locations = [
 	longitude : "-118.1337064",
 	name      : "Mexican-American Opportunity Foundation",
 	address_1 : "401 N. Garfield Ave",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu",
@@ -7608,6 +7808,7 @@ var locations = [
 	longitude : "-118.1637179",
 	name      : "Mision Cristana Monte de Sion",
 	address_1 : "6315 Eastern Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -7646,6 +7847,7 @@ var locations = [
 	longitude : "-118.2080294",
 	name      : "Missionaries of Charity",
 	address_1 : "10950 California Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -7684,6 +7886,7 @@ var locations = [
 	longitude : "-118.124677",
 	name      : "Montebello Watch",
 	address_1 : "1033 South Maple Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -7722,6 +7925,7 @@ var locations = [
 	longitude : "-117.7596455",
 	name      : "Mt. Sinai C.O.G.I.C.",
 	address_1 : "936 W. Ninth Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat3rd",
@@ -7760,6 +7964,7 @@ var locations = [
 	longitude : "-118.334148",
 	name      : "My Friends House",
 	address_1 : "3533 West 58th Place",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -7798,6 +8003,7 @@ var locations = [
 	longitude : "-118.114029",
 	name      : "New Covenant Tabernacle of Antelope Valley",
 	address_1 : "38626 9th Street East",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat2nd",
@@ -7836,6 +8042,7 @@ var locations = [
 	longitude : "-118.215494",
 	name      : "New Jerusalem C.O.G.I.C.",
 	address_1 : "420 S. Sante Fe Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri1st",
@@ -7874,6 +8081,7 @@ var locations = [
 	longitude : "-118.3660822",
 	name      : "New Life Community Church",
 	address_1 : "5009 W. 119th Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun",
@@ -7912,6 +8120,7 @@ var locations = [
 	longitude : "-117.744848",
 	name      : "New Life Pomona",
 	address_1 : "275 East Foothill Boulevard",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "",
@@ -7950,6 +8159,7 @@ var locations = [
 	longitude : "-118.3527848",
 	name      : "New Region For Christ",
 	address_1 : "520 S. La Brea Ave",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -7988,6 +8198,7 @@ var locations = [
 	longitude : "-118.3003684",
 	name      : "Normandie Community Development Food Pantry",
 	address_1 : "3801 South Normandie Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat4th",
@@ -8026,6 +8237,7 @@ var locations = [
 	longitude : "-118.3872632",
 	name      : "North Hollywood Interfaith Food Pantry",
 	address_1 : "4390 Colfax Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -8064,6 +8276,7 @@ var locations = [
 	longitude : "-118.0995643",
 	name      : "Norwalk Church of the Nazarene",
 	address_1 : "15000 Studebaker Road",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -8102,6 +8315,7 @@ var locations = [
 	longitude : "-118.263126",
 	name      : "Nuevo Amanecer",
 	address_1 : "1035 N. Avalon Boulevard",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed1st",
@@ -8140,6 +8354,7 @@ var locations = [
 	longitude : "-118.1901472",
 	name      : "Our Lady of Guadalupe Church",
 	address_1 : "4509 Mercury Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu",
@@ -8178,6 +8393,7 @@ var locations = [
 	longitude : "-118.205021",
 	name      : "Our Lady of Talpa Church",
 	address_1 : "427 S. Evergreen Ave.",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue3rd",
@@ -8216,6 +8432,7 @@ var locations = [
 	longitude : "-118.2185064",
 	name      : "Our Lady of Victory Conference",
 	address_1 : "410 E. Palmer Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri3rd",
@@ -8254,6 +8471,7 @@ var locations = [
 	longitude : "-118.239577",
 	name      : "Our Lady Queen of Angels Catholic Church",
 	address_1 : "535 N. Main Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -8292,6 +8510,7 @@ var locations = [
 	longitude : "-118.0293332",
 	name      : "Our Saviour Center",
 	address_1 : "4368 Santa Anita Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -8330,6 +8549,7 @@ var locations = [
 	longitude : "-118.1114457",
 	name      : "Palmdale Community Foundation-S.A.V.E.S.",
 	address_1 : "1002 East Avenue Q12",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -8368,6 +8588,7 @@ var locations = [
 	longitude : "-118.1120551",
 	name      : "Palmdale Foursquare Church",
 	address_1 : "38325 10th Street East",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue4th",
@@ -8406,6 +8627,7 @@ var locations = [
 	longitude : "-118.0963705",
 	name      : "Palmdale S.D.A. Church",
 	address_1 : "1758 East Avenue R",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed1st",
@@ -8444,6 +8666,7 @@ var locations = [
 	longitude : "-118.154455",
 	name      : "Paramount Care Foundation",
 	address_1 : "8303 Alondra Boulevard",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri1st",
@@ -8482,6 +8705,7 @@ var locations = [
 	longitude : "-118.3916075",
 	name      : "Peace Lutheran Church",
 	address_1 : "11690 Fenton Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat2nd",
@@ -8520,6 +8744,7 @@ var locations = [
 	longitude : "-118.2494937",
 	name      : "Pentecostal Church of God",
 	address_1 : "2829 1/4 Fletcher Drive",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -8558,6 +8783,7 @@ var locations = [
 	longitude : "-118.282263",
 	name      : "People for Community Improvement",
 	address_1 : "13008 South Figueroa",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri2nd",
@@ -8596,6 +8822,7 @@ var locations = [
 	longitude : "-117.970394",
 	name      : "Pico Rivera Iglesia Crece",
 	address_1 : "14832 Valley Blvd.",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -8634,6 +8861,7 @@ var locations = [
 	longitude : "-118.2473905",
 	name      : "Pilgrim's Hope Baptist Church",
 	address_1 : "7016 S. Compton Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed2nd",
@@ -8672,6 +8900,7 @@ var locations = [
 	longitude : "-118.2602462",
 	name      : "Pilipino Worker Center of Southern California",
 	address_1 : "153 Glendale Boulevard",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -8710,6 +8939,7 @@ var locations = [
 	longitude : "-118.249548",
 	name      : "Presentation of Mary Catholic",
 	address_1 : "6406 Parmelee Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat3rd",
@@ -8748,6 +8978,7 @@ var locations = [
 	longitude : "-118.6120677",
 	name      : "Prince of Peace Coalition",
 	address_1 : "5700 Rudnick Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -8786,6 +9017,7 @@ var locations = [
 	longitude : "-118.6085261",
 	name      : "Prince of Peace/Family Rescue",
 	address_1 : "22103 Van Owen Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -8824,6 +9056,7 @@ var locations = [
 	longitude : "-118.1809218",
 	name      : "Principe de Paz",
 	address_1 : "6706 Vinevale Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu2nd",
@@ -8862,6 +9095,7 @@ var locations = [
 	longitude : "-117.8874932",
 	name      : "Project 2911, A Community Development Corporation",
 	address_1 : "418 N. Second Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -8900,6 +9134,7 @@ var locations = [
 	longitude : "-118.4483031",
 	name      : "RCCG Victory House of California",
 	address_1 : "6640 Van Nuys Blvd.",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun",
@@ -8938,6 +9173,7 @@ var locations = [
 	longitude : "-118.5698672",
 	name      : "Redeemer Lutheran Outreach",
 	address_1 : "20025 Chase Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -8976,6 +9212,7 @@ var locations = [
 	longitude : "-118.2983987",
 	name      : "Redeemer Missionary Baptist Church",
 	address_1 : "1631 W. Adams Boulevard",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -9014,6 +9251,7 @@ var locations = [
 	longitude : "-118.2185024",
 	name      : "Rehoboth Courage Church",
 	address_1 : "425 E. Compton Boulevard",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -9052,6 +9290,7 @@ var locations = [
 	longitude : "-118.365132",
 	name      : "Resting Place Church",
 	address_1 : "10803 Cantara St.",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -9090,6 +9329,7 @@ var locations = [
 	longitude : "-118.296113",
 	name      : "Rock Solid Christian Assembly",
 	address_1 : "867 W. 10th Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat2nd",
@@ -9128,6 +9368,7 @@ var locations = [
 	longitude : "-118.1180147",
 	name      : "Rosewood Church",
 	address_1 : "10115 E. Rose Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri3rd",
@@ -9166,6 +9407,7 @@ var locations = [
 	longitude : "-118.2932645",
 	name      : "Rosewood Revitalization Group",
 	address_1 : "4101 Rosewood Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri3rd",
@@ -9204,6 +9446,7 @@ var locations = [
 	longitude : "-118.1055901",
 	name      : "S.A. Friendly Village Mobile Park",
 	address_1 : "1301 east Ave. I",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon4th",
@@ -9242,6 +9485,7 @@ var locations = [
 	longitude : "-118.2231208",
 	name      : "S.A. Mayflower Gardens",
 	address_1 : "6570 West Avenue L-12",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue2nd",
@@ -9280,6 +9524,7 @@ var locations = [
 	longitude : "-118.0702161",
 	name      : "S.A. Mountain View Mobile",
 	address_1 : "3255 E. Ave R",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue2nd",
@@ -9318,6 +9563,7 @@ var locations = [
 	longitude : "-117.905785",
 	name      : "S.A. Pearblossom United Methodist",
 	address_1 : "34143 126th Street East",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon3rd",
@@ -9356,6 +9602,7 @@ var locations = [
 	longitude : "-117.9811848",
 	name      : "S.A. Penney Lynn Wind",
 	address_1 : "8300 Pearblossom Hwy",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon3rd",
@@ -9394,6 +9641,7 @@ var locations = [
 	longitude : "-118.1397892",
 	name      : "S.V.P. All Souls Conference",
 	address_1 : "1500 W. Main Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu3rd",
@@ -9432,6 +9680,7 @@ var locations = [
 	longitude : "-118.2126261",
 	name      : "Sacred Heart Church",
 	address_1 : "2210 Sichel Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu1st",
@@ -9470,6 +9719,7 @@ var locations = [
 	longitude : "-118.3136076",
 	name      : "Saint Mark Food Pantry",
 	address_1 : "8305 S. Gramercy Place",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -9508,6 +9758,7 @@ var locations = [
 	longitude : "-118.1854747",
 	name      : "Salvation Army- East L.A.",
 	address_1 : "140 N. Eastman Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -9546,6 +9797,7 @@ var locations = [
 	longitude : "-118.2646275",
 	name      : "Salvation Army- L.A. Central Corp",
 	address_1 : "906 S. Francisco Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -9584,6 +9836,7 @@ var locations = [
 	longitude : "-118.1362728",
 	name      : "Salvation Army- Lancaster Corp",
 	address_1 : "44517 Sierra Highway",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon4th",
@@ -9622,6 +9875,7 @@ var locations = [
 	longitude : "-118.1297902",
 	name      : "Salvation Army-Pasadena Tabernacle",
 	address_1 : "1000 E.Walnut Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -9660,6 +9914,7 @@ var locations = [
 	longitude : "-117.7434276",
 	name      : "Salvation Army-Pomona",
 	address_1 : "490 E. La Verne Anenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -9698,6 +9953,7 @@ var locations = [
 	longitude : "-118.3925479",
 	name      : "Salvation Army Redondo Beach",
 	address_1 : "125 W. Beryl Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -9736,6 +9992,7 @@ var locations = [
 	longitude : "-118.5341693",
 	name      : "Salvation Army Santa Clarita Valley Corps",
 	address_1 : "22935 Lyons Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -9774,6 +10031,7 @@ var locations = [
 	longitude : "-118.0553469",
 	name      : "Salvation Army- Santa Fe Springs",
 	address_1 : "12000 E. Washington Boulevard",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -9812,6 +10070,7 @@ var locations = [
 	longitude : "-118.2567313",
 	name      : "Salvation Army- South L.A.",
 	address_1 : "7651 South Central Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -9850,6 +10109,7 @@ var locations = [
 	longitude : "-118.2165004",
 	name      : "Salvation Army Southeast Comm. Corp",
 	address_1 : "2965 E. Gage Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu",
@@ -9888,6 +10148,7 @@ var locations = [
 	longitude : "-118.0417514",
 	name      : "Salvation Army- Whittier Corp.",
 	address_1 : "7926 Pickering Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -9926,6 +10187,7 @@ var locations = [
 	longitude : "-118.1074142",
 	name      : "San Gabriel Mission",
 	address_1 : "428 South Mission Drive",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun",
@@ -9964,6 +10226,7 @@ var locations = [
 	longitude : "-117.986823",
 	name      : "San Gabriel Valley Y.W.C.A.",
 	address_1 : "510 N. Vineland Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -10002,6 +10265,7 @@ var locations = [
 	longitude : "-118.2324792",
 	name      : "San Miguel Church",
 	address_1 : "2214 E. 108th Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat3rd",
@@ -10040,6 +10304,7 @@ var locations = [
 	longitude : "-118.2986098",
 	name      : "San Pedro Temple Corps",
 	address_1 : "138 S. Bandini Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -10078,6 +10343,7 @@ var locations = [
 	longitude : "-118.5252054",
 	name      : "Santa Clarita Valley Food Pantry",
 	address_1 : "24133 Railroad Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri3rd",
@@ -10116,6 +10382,7 @@ var locations = [
 	longitude : "-87.9903638",
 	name      : "Servants Arms Community Based Organization",
 	address_1 : "1720 N. Walnut Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -10154,6 +10421,7 @@ var locations = [
 	longitude : "-118.1471819",
 	name      : "Shekinah Worship Center",
 	address_1 : "42640 10th Street West",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "SatLast",
@@ -10192,6 +10460,7 @@ var locations = [
 	longitude : "-117.8509722",
 	name      : "Shepherd's Pantry",
 	address_1 : "657 E. Arrow Highway",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -10230,6 +10499,7 @@ var locations = [
 	longitude : "-118.1327954",
 	name      : "Shield of Faith Christian Center of Pasadena",
 	address_1 : "1127 N. Lake Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu1st",
@@ -10268,6 +10538,7 @@ var locations = [
 	longitude : "-118.229051",
 	name      : "Shields for Families",
 	address_1 : "11705 Deputy Yamamoto Place",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu",
@@ -10306,6 +10577,7 @@ var locations = [
 	longitude : "-118.2702749",
 	name      : "Silverlake Community Church-Hope Net",
 	address_1 : "2930 Hyperion Ave",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -10344,6 +10616,7 @@ var locations = [
 	longitude : "-118.2202826",
 	name      : "Southeast Churches Service Center",
 	address_1 : "2780 E. Gage Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -10382,6 +10655,7 @@ var locations = [
 	longitude : "-117.785848",
 	name      : "Sowing Seeds for Life",
 	address_1 : "1350 Arrow Hwy",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed1st",
@@ -10420,6 +10694,7 @@ var locations = [
 	longitude : "-118.215201",
 	name      : "Spanish American S.D.A. Church",
 	address_1 : "1815 E. Bridge Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -10458,6 +10733,7 @@ var locations = [
 	longitude : "-118.2918201",
 	name      : "St. Agnes Parish",
 	address_1 : "2625 S. Vermont Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -10496,6 +10772,7 @@ var locations = [
 	longitude : "-118.1474523",
 	name      : "St. Andrew Catholic Church",
 	address_1 : "140 Chestnut Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -10534,6 +10811,7 @@ var locations = [
 	longitude : "-118.2591402",
 	name      : "St. Athanasius & St. Paul Church",
 	address_1 : "840 Echo Park Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -10572,6 +10850,7 @@ var locations = [
 	longitude : "-118.3086059",
 	name      : "St. Brigid Catholic Church",
 	address_1 : "5214 S. Western Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri3rd",
@@ -10610,6 +10889,7 @@ var locations = [
 	longitude : "-118.3402114",
 	name      : "St. Catherine Laboure Catholic",
 	address_1 : "3846 Redondo Beach Boulevard",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "SatLast",
@@ -10648,6 +10928,7 @@ var locations = [
 	longitude : "-118.2998211",
 	name      : "St. Cecilia Catholic Church",
 	address_1 : "4230 S. Normandie Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat3rd",
@@ -10686,6 +10967,7 @@ var locations = [
 	longitude : "-118.3663839",
 	name      : "St. Charles Service Center",
 	address_1 : "10825 Moorpark Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -10724,6 +11006,7 @@ var locations = [
 	longitude : "-118.4436663",
 	name      : "St. Ferdinand Church",
 	address_1 : "1109 Coronel Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri2nd",
@@ -10762,6 +11045,7 @@ var locations = [
 	longitude : "-118.2697209",
 	name      : "St. Francis Center",
 	address_1 : "1835 S. Hope Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "",
@@ -10800,6 +11084,7 @@ var locations = [
 	longitude : "-118.1198573",
 	name      : "St. George Church",
 	address_1 : "15721 Cornuta Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu2nd",
@@ -10838,6 +11123,7 @@ var locations = [
 	longitude : "-118.1506637",
 	name      : "St. Gertrudes Conference",
 	address_1 : "7025 Garfield Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri2nd",
@@ -10876,6 +11162,7 @@ var locations = [
 	longitude : "-118.2138075",
 	name      : "St. Helen Church",
 	address_1 : "9314 Madison Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat4th",
@@ -10914,6 +11201,7 @@ var locations = [
 	longitude : "-118.3119697",
 	name      : "St. James Episcopal Church-Hope Net",
 	address_1 : "3903 Wilshire Boulevard",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu",
@@ -10952,6 +11240,7 @@ var locations = [
 	longitude : "-117.838035",
 	name      : "St. John Coptic Orthodox",
 	address_1 : "21329 E. Cienega Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu2nd",
@@ -10990,6 +11279,7 @@ var locations = [
 	longitude : "-117.980451",
 	name      : "St. John Vianney Church",
 	address_1 : "1345 Turnbull Canyon Road",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -11028,6 +11318,7 @@ var locations = [
 	longitude : "-118.2756401",
 	name      : "St. John's Cathedral-Hope Net",
 	address_1 : "514 W. Adams Boulevard",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -11066,6 +11357,7 @@ var locations = [
 	longitude : "-117.7687845",
 	name      : "St. Joseph Conference",
 	address_1 : "1150 W. Holt Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -11104,6 +11396,7 @@ var locations = [
 	longitude : "-118.2459688",
 	name      : "St. Lawrence of Brindisi",
 	address_1 : "10122 Compton Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -11142,6 +11435,7 @@ var locations = [
 	longitude : "-118.0635668",
 	name      : "St. Luke Catholic Community",
 	address_1 : "9451 Broadway",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -11180,6 +11474,7 @@ var locations = [
 	longitude : "-118.3618262",
 	name      : "St. Margaret's Center",
 	address_1 : "10217 Inglewood Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -11218,6 +11513,7 @@ var locations = [
 	longitude : "-118.2481042",
 	name      : "St. Mark Missionary Baptist",
 	address_1 : "5017 Compton Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -11256,6 +11552,7 @@ var locations = [
 	longitude : "-118.513091",
 	name      : "St. Mary & St. Athanasius Coptic Church",
 	address_1 : "17431 Roscoe Blvd.",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun3rd",
@@ -11294,6 +11591,7 @@ var locations = [
 	longitude : "-118.0412114",
 	name      : "St. Mary's Place",
 	address_1 : "7215 Newlin Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -11332,6 +11630,7 @@ var locations = [
 	longitude : "-118.3641598",
 	name      : "St. Paul's Methodist Church",
 	address_1 : "2600 Nelson Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu1st",
@@ -11370,6 +11669,7 @@ var locations = [
 	longitude : "-118.267995",
 	name      : "St. Peter and Paul Poverty Program",
 	address_1 : "943 Lagoon Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -11408,6 +11708,7 @@ var locations = [
 	longitude : "-118.2606782",
 	name      : "St. Philip's Episcopal Church",
 	address_1 : "2800 Stanford Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue2nd",
@@ -11446,6 +11747,7 @@ var locations = [
 	longitude : "-118.1251851",
 	name      : "St. Stephen's Community Outreach Program",
 	address_1 : "122 Ramona Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -11484,6 +11786,7 @@ var locations = [
 	longitude : "-118.4608522",
 	name      : "St. Thomas Center",
 	address_1 : "2727 W.  Pico Boulevard",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat1st",
@@ -11522,6 +11825,7 @@ var locations = [
 	longitude : "-118.2769163",
 	name      : "St. Vincent de Paul Church",
 	address_1 : "621 W. Adams Boulevard",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu",
@@ -11560,6 +11864,7 @@ var locations = [
 	longitude : "-118.2759117",
 	name      : "Star Christian School",
 	address_1 : "2120 Estrella Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat2nd",
@@ -11598,6 +11903,7 @@ var locations = [
 	longitude : "-118.3009158",
 	name      : "Sunland Tujunga T.A.C.",
 	address_1 : "7747 Foothill Boulevard",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -11636,6 +11942,7 @@ var locations = [
 	longitude : "-118.2220425",
 	name      : "Tamarind Avenue S.D.A. Church",
 	address_1 : "417 S. Tamarind Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue4th",
@@ -11674,6 +11981,7 @@ var locations = [
 	longitude : "-118.3094489",
 	name      : "Testimonial Community Love Ctr",
 	address_1 : "5721 S. Western Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu",
@@ -11712,6 +12020,7 @@ var locations = [
 	longitude : "-118.4626862",
 	name      : "The Bible Tabernacle (Venice)",
 	address_1 : "1761 Washington Way",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -11750,6 +12059,7 @@ var locations = [
 	longitude : "-118.4252723",
 	name      : "The Bible Tabernacle",
 	address_1 : "16301 Sierra Highway",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun",
@@ -11788,6 +12098,7 @@ var locations = [
 	longitude : "-118.2975894",
 	name      : "The Great Vision Church",
 	address_1 : "4465 W. Melrose Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat1st",
@@ -11826,6 +12137,7 @@ var locations = [
 	longitude : "-118.12727",
 	name      : "The Lord's Church",
 	address_1 : "9701 Flower Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed2nd",
@@ -11864,6 +12176,7 @@ var locations = [
 	longitude : "-118.3608819",
 	name      : "Tongan Community Service Center",
 	address_1 : "13030 Inglewood Avenue, Suite.104",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue1st",
@@ -11902,6 +12215,7 @@ var locations = [
 	longitude : "-118.1472077",
 	name      : "Total Deliverance Church",
 	address_1 : "45124 10th Street West",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri2nd",
@@ -11940,6 +12254,7 @@ var locations = [
 	longitude : "-118.2493074",
 	name      : "Travelers Rest Missionary B.C.",
 	address_1 : "1417 E. Florence Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -11978,6 +12293,7 @@ var locations = [
 	longitude : "-118.3161",
 	name      : "Trinity Baptist Church L.A.",
 	address_1 : "2040 W. Jefferson Boulevard",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -12016,6 +12332,7 @@ var locations = [
 	longitude : "-118.1297586",
 	name      : "Trinity Evangelical Lutheran Church",
 	address_1 : "997 E. Walnut",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -12054,6 +12371,7 @@ var locations = [
 	longitude : "-118.308972",
 	name      : "Trinity Pantry Ministry",
 	address_1 : "1450 West 7th Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun",
@@ -12092,6 +12410,7 @@ var locations = [
 	longitude : "-117.747657",
 	name      : "Trinity United Methodist Church",
 	address_1 : "676 North Gibbs Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "",
@@ -12130,6 +12449,7 @@ var locations = [
 	longitude : "-118.2772395",
 	name      : "Tujunga United Methodist Church",
 	address_1 : "9901 Tujunga Canyon Boulevard",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -12168,6 +12488,7 @@ var locations = [
 	longitude : "-117.8233091",
 	name      : "Twin Lakes Community Church",
 	address_1 : "17213 Lake Los Angeles Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat2nd",
@@ -12206,6 +12527,7 @@ var locations = [
 	longitude : "-118.3084069",
 	name      : "United African Church",
 	address_1 : "1745 W. 55th Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun1st",
@@ -12244,6 +12566,7 @@ var locations = [
 	longitude : "-118.274222",
 	name      : "United Gospel Outreach",
 	address_1 : "7223 S. Main Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -12282,6 +12605,7 @@ var locations = [
 	longitude : "-118.2955869",
 	name      : "University S.D.A. Church",
 	address_1 : "1135 Martin Luther Kin Jr. Boulevard",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -12320,6 +12644,7 @@ var locations = [
 	longitude : "-118.2285903",
 	name      : "Vallejo Drive S.D.A. Church",
 	address_1 : "311-B Vallejo Drive",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu3rd",
@@ -12358,6 +12683,7 @@ var locations = [
 	longitude : "-118.4148709",
 	name      : "Valley Crossroads S.D.A. Church",
 	address_1 : "11350 Glenoaks Blvd.",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat2nd",
@@ -12396,6 +12722,7 @@ var locations = [
 	longitude : "-118.2910208",
 	name      : "Vermont Avenue Baptist Church",
 	address_1 : "23325 S. Vermont Ave.",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat3rd",
@@ -12434,6 +12761,7 @@ var locations = [
 	longitude : "-118.2603428",
 	name      : "Victory Baptist Church",
 	address_1 : "4802 South McKinley Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -12472,6 +12800,7 @@ var locations = [
 	longitude : "-117.8821589",
 	name      : "Village Covenant",
 	address_1 : "5607 N. Barranca Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -12510,6 +12839,7 @@ var locations = [
 	longitude : "-118.2697413",
 	name      : "Vision of Hope Outreach Ministry",
 	address_1 : "5951 S. San Pedro",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat2nd",
@@ -12548,6 +12878,7 @@ var locations = [
 	longitude : "-118.255854",
 	name      : "Visions Community Outreach",
 	address_1 : "2300 S. Griffith Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat2nd",
@@ -12586,6 +12917,7 @@ var locations = [
 	longitude : "-118.2743249",
 	name      : "Wesley United Methodist Church",
 	address_1 : "112 West 52nd Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu",
@@ -12624,6 +12956,7 @@ var locations = [
 	longitude : "-118.348501",
 	name      : "West Adams Church of Christ",
 	address_1 : "4959 W. Adams Boulevard",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri3rd",
@@ -12662,6 +12995,7 @@ var locations = [
 	longitude : "-118.335492",
 	name      : "West Angeles Community Corporation",
 	address_1 : "3045 South Crenshaw Boulevard",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -12700,6 +13034,7 @@ var locations = [
 	longitude : "-118.2157793",
 	name      : "White Memorial S.D.A. Church",
 	address_1 : "401 N. State Street",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue1st",
@@ -12738,6 +13073,7 @@ var locations = [
 	longitude : "-118.23627",
 	name      : "Willowbrook Project Area Commission",
 	address_1 : "11901 S. Willowbrook Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed3rd",
@@ -12776,6 +13112,7 @@ var locations = [
 	longitude : "-118.3049672",
 	name      : "Wilshire Boulevard Temple Hope-Net",
 	address_1 : "3663 Wilshire Boulevard",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun",
@@ -12814,6 +13151,7 @@ var locations = [
 	longitude : "-118.308458",
 	name      : "Wilshire Presbyterian Church-Hope Net",
 	address_1 : "309 S. Oxford Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -12852,6 +13190,7 @@ var locations = [
 	longitude : "-118.4890914",
 	name      : "WSFB- Ocean Park Community Ctr",
 	address_1 : "503 Olympic Boulevard",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -12890,6 +13229,7 @@ var locations = [
 	longitude : "-118.4766044",
 	name      : "WSFB-St. Anne's Social Service",
 	address_1 : "2013 Colorado Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -12928,6 +13268,7 @@ var locations = [
 	longitude : "-118.4007884",
 	name      : "WSFB- St. Augustine SAVES",
 	address_1 : "3820 Jasmine Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -12966,6 +13307,7 @@ var locations = [
 	longitude : "-118.4191511",
 	name      : "WSFB- St. Gerard's Social Services",
 	address_1 : "4439 Inglewood Boulevard",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -13004,6 +13346,7 @@ var locations = [
 	longitude : "-118.4779718",
 	name      : "WSFB- St. Joseph's Center",
 	address_1 : "204 Hampton Drive",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -13042,6 +13385,7 @@ var locations = [
 	longitude : "-118.2642047",
 	name      : "Young Hwa United Methodist Church",
 	address_1 : "214 S. Loma Drive",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat2nd",
@@ -13080,6 +13424,7 @@ var locations = [
 	longitude : "-118.3280831",
 	name      : "Zion Hill Baptist Church",
 	address_1 : "7860 10th Avenue",
+	address_2 : "",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue1st",
