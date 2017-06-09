@@ -7,6 +7,9 @@
     <loc>https://foodoasis.la/</loc>
   </url>
   <url>
+    <loc>https://foodoasis.la/add/</loc>
+  </url>
+  <url>
     <loc>https://foodoasis.la/organizations/</loc>
   </url>
   <url>
@@ -57,14 +60,732 @@
     <loc>https://foodoasis.la/locations/</loc>
   </url>
   <url>
-    <loc>https://foodoasis.la/farmers-market/</loc>
+    <loc>https://foodoasis.la/community-garden/</loc>
   </url>
   <url>
-    <loc>https://foodoasis.la/community-garden/</loc>
+    <loc>https://foodoasis.la/farmers-market/</loc>
   </url>
   <url>
     <loc>https://foodoasis.la/food-pantry/</loc>
   </url>
+  <url>
+    <loc>https://foodoasis.la/summer-lunch/</loc>
+  </url>
+  <url>
+    <loc>https://foodoasis.la/supermarket/</loc>
+  </url>
+
+
+
+
+  <url>
+    <loc>https://foodoasis.la/locations/chelis-produce/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/locations/daily-organics/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/locations/everytable-baldwin-hills/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/locations/everytable-downtown-la/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/locations/everytable-santa-monica/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/locations/everytable-south-la/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/locations/locol-watts/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/locations/orange-trees-at-los-angeles-state-historic-park/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/locations/suprmarkt-la/</loc>
+  </url>
+
+
+
+
+
+  <url>
+    <loc>https://foodoasis.la/community-garden/arleta/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/community-garden/chino-community-garden-park/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/community-garden/crenshaw/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/community-garden/eagle-rockdale-art-park/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/community-garden/eastwind/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/community-garden/el-sereno/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/community-garden/elysian-valley/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/community-garden/emerson-avenue/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/community-garden/enrique-noguera-educational-garden/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/community-garden/epworth/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/community-garden/erika-j-glazer/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/community-garden/feed-be-fed/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/community-garden/fountains/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/community-garden/fremont-wellness-center-/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/community-garden/glassell-park/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/community-garden/good-earth/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/community-garden/granada-hills-salad-bowl-garden-club/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/community-garden/greater-watts/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/community-garden/holy-nativity/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/community-garden/howard-finn/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/community-garden/huerta-del-valle-garden/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/community-garden/jardin-del-rio/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/community-garden/john-s-gibson-senior-garden/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/community-garden/mansfield-fountain/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/community-garden/manzanita-street/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/community-garden/mar-vista/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/community-garden/messiah-organic/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/community-garden/milagro-allegro/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/community-garden/moothart-collingnon-francis-avenue/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/community-garden/norman-harriton/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/community-garden/ocean-view-farms/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/community-garden/orcutt-ranch-horticultural-center-rancho-sombra-del-roble/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/community-garden/pomona-hope-center-street-garden/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/community-garden/pomona-south-hills-gardens/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/community-garden/rancho-san-pedro/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/community-garden/rosewood-gardens/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/community-garden/saint-paul-s-episcopal-church/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/community-garden/salesian-boys-girls-club/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/community-garden/san-pedro-gardens/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/community-garden/sarvodaya-farms/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/community-garden/sepulveda-garden-center/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/community-garden/solano-canyon/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/community-garden/spring-street/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/community-garden/stanford-avalon/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/community-garden/the-learning-garden/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/community-garden/urban-mission-garden/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/community-garden/vermont-square/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/community-garden/wattles-farm/</loc>
+  </url>
+
+
+
+
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/adams-vermont-st-agnes-church-farmers-market/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/alhambra-certified/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/altadena/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/antelope-valley-winery/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/arts-district/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/atwater-village/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/baldwin-la-brea/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/baldwin-park/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/bank-of-america-plaza/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/bellflower/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/beverly-hills/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/boyle-heights/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/brentwood-village/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/burbank/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/cal-state-university-northridge-csun-cfm/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/calabasas-old-town/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/canoga-park/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/central-ave/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/century-city/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/cerritos/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/childrens-hospital-la-cfm/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/claremont/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/compton-blue-line/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/covina/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/crenshaw-baldwin-hill/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/culver-city/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/diamond-bar/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/downey/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/downtown-los-angeles-fig-at-7th/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/duarte-city-of-hope/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/eagle-rock/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/east-hollywood/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/east-la-farmers-market/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/echo-park/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/el-segundo-plaza/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/encino/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/gardena-hollypark/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/green-acres/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/hermosa-beach/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/historic-downtown-farmers-market-cfm/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/hollywood/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/howard-hughes/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/huntington-park/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/inglewood/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/jack-newes/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/kaiser-baldwin-park/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/kaiser-downey/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/kaiser-medical-center-panorama-city-fm/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/kaiser-medical-center-woodland-hills/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/kaiser-south-bay/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/kaiser-west-la/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/l-a-central-avenue/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/l-a-city-hall-little-tokyo-cfm/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/l-a-larchmont-village/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/l-a-melrose-place/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/l-a-silverlake/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/la-canada-flintridge/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/la-cienega-cfm/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/la-puente-live/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/lancaster-blvd-farmers-market/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/lancaster/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/lawndale/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/lincoln-heights/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/local-harvest/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/long-beach-downtown-cfm/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/long-beach-southeast/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/long-beach-uptown/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/los-feliz-village-cfm/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/malibu/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/manhattan-beach/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/mar-vista/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/miracle-mile/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/monrovia-friday/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/monterey-park/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/montrose-harvest-market/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/motor-avenue/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/newhall/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/northridge-and-family-festival/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/northridge-university/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/old-highland-park/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/old-l-a-/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/palos-verdes/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/paramount/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/pasadena-victory-park/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/pasadena-villa-parke/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/playa-vista/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/pomona-valley-cfm/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/redondo-beach/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/riviera-village/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/rosemead/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/san-pedro/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/santa-clarita/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/santa-fe-springs/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/santa-monica-downtown/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/santa-monica-saturday-virginia-avenue-park/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/santa-monica-sunday-main-street/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/temple-city/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/the-village/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/the-wall-food-flowers-/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/toluca-lake/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/topanga-canyon-cfm/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/torrance-providence/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/torrance-tuesday-and-saturday-2200-crenshaw-blvd-torrance-ca-90501/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/uptown-whittier/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/usc-hospitality/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/valencia/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/venice/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/watts-healthy/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/wellington-square/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/west-covina/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/west-hollywood/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/west-los-angeles/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/westchester/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/westwood-village/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/whittier-host-lions/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/wilmington/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/woodland-hills/</loc>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/farmers-market/woodman-avenue/</loc>
+  </url>
+
 
 
 
@@ -1454,671 +2175,283 @@
 
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/adams-vermont-st-agnes-church-farmers-market/</loc>
+    <loc>https://foodoasis.la/summer-lunch/1st-place-sports-complex/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/alhambra-certified/</loc>
+    <loc>https://foodoasis.la/summer-lunch/all-peoples-christian-center/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/altadena/</loc>
+    <loc>https://foodoasis.la/summer-lunch/avbgc-hammack-activity-center/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/antelope-valley-winery/</loc>
+    <loc>https://foodoasis.la/summer-lunch/avbgc-whitney-mac-center/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/arts-district/</loc>
+    <loc>https://foodoasis.la/summer-lunch/barrio-action-youth-family-center/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/atwater-village/</loc>
+    <loc>https://foodoasis.la/summer-lunch/brierwood/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/baldwin-la-brea/</loc>
+    <loc>https://foodoasis.la/summer-lunch/brownson-house/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/baldwin-park/</loc>
+    <loc>https://foodoasis.la/summer-lunch/canoga-park-library/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/bank-of-america-plaza/</loc>
+    <loc>https://foodoasis.la/summer-lunch/carson-bgc/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/bellflower/</loc>
+    <loc>https://foodoasis.la/summer-lunch/casa-dominguez/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/beverly-hills/</loc>
+    <loc>https://foodoasis.la/summer-lunch/central-city-neighborhood-partners/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/boyle-heights/</loc>
+    <loc>https://foodoasis.la/summer-lunch/central-library/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/brentwood-village/</loc>
+    <loc>https://foodoasis.la/summer-lunch/church-of-the-redeemer/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/burbank/</loc>
+    <loc>https://foodoasis.la/summer-lunch/city-of-bell-veterans-memorial-park/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/cal-state-university-northridge-csun-cfm/</loc>
+    <loc>https://foodoasis.la/summer-lunch/city-of-commerce-bristow-library/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/calabasas-old-town/</loc>
+    <loc>https://foodoasis.la/summer-lunch/city-of-commerce-veterans-park/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/canoga-park/</loc>
+    <loc>https://foodoasis.la/summer-lunch/eastman-elementary-school-healthy-start/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/central-ave/</loc>
+    <loc>https://foodoasis.la/summer-lunch/echo-park-library/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/century-city/</loc>
+    <loc>https://foodoasis.la/summer-lunch/exposition-park-library/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/cerritos/</loc>
+    <loc>https://foodoasis.la/summer-lunch/friendly-village/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/childrens-hospital-la-cfm/</loc>
+    <loc>https://foodoasis.la/summer-lunch/greater-new-unity-b-c-/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/claremont/</loc>
+    <loc>https://foodoasis.la/summer-lunch/hacienda-estates/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/compton-blue-line/</loc>
+    <loc>https://foodoasis.la/summer-lunch/harbor-city-bgc/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/covina/</loc>
+    <loc>https://foodoasis.la/summer-lunch/harbor-gateway-bgc/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/crenshaw-baldwin-hill/</loc>
+    <loc>https://foodoasis.la/summer-lunch/harbor-village/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/culver-city/</loc>
+    <loc>https://foodoasis.la/summer-lunch/hyde-park-library/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/diamond-bar/</loc>
+    <loc>https://foodoasis.la/summer-lunch/kycc-menlo/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/downey/</loc>
+    <loc>https://foodoasis.la/summer-lunch/kycc-rise-kohyang-middle-school/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/downtown-los-angeles-fig-at-7th/</loc>
+    <loc>https://foodoasis.la/summer-lunch/kycc-wilton/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/duarte-city-of-hope/</loc>
+    <loc>https://foodoasis.la/summer-lunch/kyds-los-angeles-christian-school/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/eagle-rock/</loc>
+    <loc>https://foodoasis.la/summer-lunch/kyds-st-catherine-of-siena-school/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/east-hollywood/</loc>
+    <loc>https://foodoasis.la/summer-lunch/la-villa-mariposa/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/east-la-farmers-market/</loc>
+    <loc>https://foodoasis.la/summer-lunch/lincoln-heights-library/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/echo-park/</loc>
+    <loc>https://foodoasis.la/summer-lunch/lutheran-church-of-the-master/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/el-segundo-plaza/</loc>
+    <loc>https://foodoasis.la/summer-lunch/major-league-baseball-urban-youth-academy/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/encino/</loc>
+    <loc>https://foodoasis.la/summer-lunch/mar-vista-gardens/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/gardena-hollypark/</loc>
+    <loc>https://foodoasis.la/summer-lunch/mark-twain-library/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/green-acres/</loc>
+    <loc>https://foodoasis.la/summer-lunch/montague-charter-academy/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/hermosa-beach/</loc>
+    <loc>https://foodoasis.la/summer-lunch/mountain-view-estates/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/historic-downtown-farmers-market-cfm/</loc>
+    <loc>https://foodoasis.la/summer-lunch/north-valley-caring-services/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/hollywood/</loc>
+    <loc>https://foodoasis.la/summer-lunch/northridge-library/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/howard-hughes/</loc>
+    <loc>https://foodoasis.la/summer-lunch/our-saviour-center/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/huntington-park/</loc>
+    <loc>https://foodoasis.la/summer-lunch/pacoima-library/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/inglewood/</loc>
+    <loc>https://foodoasis.la/summer-lunch/panorama-city-library/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/jack-newes/</loc>
+    <loc>https://foodoasis.la/summer-lunch/para-los-ninos-7th/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/kaiser-baldwin-park/</loc>
+    <loc>https://foodoasis.la/summer-lunch/para-los-ninos-gratts-primary-center/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/kaiser-downey/</loc>
+    <loc>https://foodoasis.la/summer-lunch/para-los-ninos-middle-school/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/kaiser-medical-center-panorama-city-fm/</loc>
+    <loc>https://foodoasis.la/summer-lunch/pico-union-library/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/kaiser-medical-center-woodland-hills/</loc>
+    <loc>https://foodoasis.la/summer-lunch/project-access-resource-center/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/kaiser-south-bay/</loc>
+    <loc>https://foodoasis.la/summer-lunch/puente-learning-center/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/kaiser-west-la/</loc>
+    <loc>https://foodoasis.la/summer-lunch/regis-house/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/l-a-central-avenue/</loc>
+    <loc>https://foodoasis.la/summer-lunch/richstone-family-center/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/l-a-city-hall-little-tokyo-cfm/</loc>
+    <loc>https://foodoasis.la/summer-lunch/rio-san-gabriel-downey-family-ymca/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/l-a-larchmont-village/</loc>
+    <loc>https://foodoasis.la/summer-lunch/salvation-army-glendale/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/l-a-melrose-place/</loc>
+    <loc>https://foodoasis.la/summer-lunch/salvation-army-south-la/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/l-a-silverlake/</loc>
+    <loc>https://foodoasis.la/summer-lunch/salvation-army-weingart-youth-center/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/la-canada-flintridge/</loc>
+    <loc>https://foodoasis.la/summer-lunch/san-pedro-library/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/la-cienega-cfm/</loc>
+    <loc>https://foodoasis.la/summer-lunch/santa-monica-jams/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/la-puente-live/</loc>
+    <loc>https://foodoasis.la/summer-lunch/school-on-wheels/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/lancaster-blvd-farmers-market/</loc>
+    <loc>https://foodoasis.la/summer-lunch/sf-valley-bgc/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/lancaster/</loc>
+    <loc>https://foodoasis.la/summer-lunch/st-albert-the-great-school/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/lawndale/</loc>
+    <loc>https://foodoasis.la/summer-lunch/st-thomas-the-apostle-school/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/lincoln-heights/</loc>
+    <loc>https://foodoasis.la/summer-lunch/st-turibius-school/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/local-harvest/</loc>
+    <loc>https://foodoasis.la/summer-lunch/the-salvation-army-compton-corps-community/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/long-beach-downtown-cfm/</loc>
+    <loc>https://foodoasis.la/summer-lunch/twin-palms-family-apartments/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/long-beach-southeast/</loc>
+    <loc>https://foodoasis.la/summer-lunch/vermont-square-library/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/long-beach-uptown/</loc>
+    <loc>https://foodoasis.la/summer-lunch/vernon-library/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/los-feliz-village-cfm/</loc>
+    <loc>https://foodoasis.la/summer-lunch/west-valley-bgc/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/malibu/</loc>
+    <loc>https://foodoasis.la/summer-lunch/whittier-bgc/</loc>
   </url>
 
   <url>
-    <loc>https://foodoasis.la/farmers-market/manhattan-beach/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/farmers-market/mar-vista/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/farmers-market/miracle-mile/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/farmers-market/monrovia-friday/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/farmers-market/monterey-park/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/farmers-market/montrose-harvest-market/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/farmers-market/motor-avenue/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/farmers-market/newhall/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/farmers-market/northridge-and-family-festival/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/farmers-market/northridge-university/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/farmers-market/old-highland-park/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/farmers-market/old-l-a-/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/farmers-market/palos-verdes/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/farmers-market/paramount/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/farmers-market/pasadena-victory-park/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/farmers-market/pasadena-villa-parke/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/farmers-market/playa-vista/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/farmers-market/pomona-valley-cfm/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/farmers-market/redondo-beach/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/farmers-market/riviera-village/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/farmers-market/rosemead/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/farmers-market/san-pedro/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/farmers-market/santa-clarita/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/farmers-market/santa-fe-springs/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/farmers-market/santa-monica-downtown/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/farmers-market/santa-monica-saturday-virginia-avenue-park/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/farmers-market/santa-monica-sunday-main-street/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/farmers-market/temple-city/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/farmers-market/the-village/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/farmers-market/the-wall-food-flowers-/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/farmers-market/toluca-lake/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/farmers-market/topanga-canyon-cfm/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/farmers-market/torrance-providence/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/farmers-market/torrance-tuesday-and-saturday-2200-crenshaw-blvd-torrance-ca-90501/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/farmers-market/uptown-whittier/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/farmers-market/usc-hospitality/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/farmers-market/valencia/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/farmers-market/venice/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/farmers-market/watts-healthy/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/farmers-market/wellington-square/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/farmers-market/west-covina/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/farmers-market/west-hollywood/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/farmers-market/west-los-angeles/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/farmers-market/westchester/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/farmers-market/westwood-village/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/farmers-market/whittier-host-lions/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/farmers-market/wilmington/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/farmers-market/woodland-hills/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/farmers-market/woodman-avenue/</loc>
-  </url>
-
-
-
-
-
-  <url>
-    <loc>https://foodoasis.la/community-garden/arleta/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/community-garden/chino-community-garden-park/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/community-garden/crenshaw/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/community-garden/eagle-rockdale-art-park/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/community-garden/eastwind/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/community-garden/el-sereno/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/community-garden/elysian-valley/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/community-garden/emerson-avenue/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/community-garden/enrique-noguera-educational-garden/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/community-garden/epworth/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/community-garden/erika-j-glazer/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/community-garden/feed-be-fed/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/community-garden/fountains/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/community-garden/fremont-wellness-center-/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/community-garden/glassell-park/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/community-garden/good-earth/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/community-garden/granada-hills-salad-bowl-garden-club/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/community-garden/greater-watts/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/community-garden/holy-nativity/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/community-garden/howard-finn/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/community-garden/huerta-del-valle-garden/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/community-garden/jardin-del-rio/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/community-garden/john-s-gibson-senior-garden/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/community-garden/mansfield-fountain/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/community-garden/manzanita-street/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/community-garden/mar-vista/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/community-garden/messiah-organic/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/community-garden/milagro-allegro/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/community-garden/moothart-collingnon-francis-avenue/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/community-garden/norman-harriton/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/community-garden/ocean-view-farms/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/community-garden/orcutt-ranch-horticultural-center-rancho-sombra-del-roble/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/community-garden/pomona-hope-center-street-garden/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/community-garden/pomona-south-hills-gardens/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/community-garden/rancho-san-pedro/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/community-garden/rosewood-gardens/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/community-garden/saint-paul-s-episcopal-church/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/community-garden/salesian-boys-girls-club/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/community-garden/san-pedro-gardens/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/community-garden/sarvodaya-farms/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/community-garden/sepulveda-garden-center/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/community-garden/solano-canyon/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/community-garden/spring-street/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/community-garden/stanford-avalon/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/community-garden/the-learning-garden/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/community-garden/urban-mission-garden/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/community-garden/vermont-square/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/community-garden/wattles-farm/</loc>
+    <loc>https://foodoasis.la/summer-lunch/ywca-gla-union-pacific-empowerment-center/</loc>
   </url>
 
 
@@ -4887,58 +5220,6 @@
 
   <url>
     <loc>https://foodoasis.la/supermarket/yummy-com-6020-seabluff-dr/</loc>
-  </url>
-
-
-
-
-
-  <url>
-    <loc>https://foodoasis.la/locations/all-peoples-christian-center/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/locations/avbgc-hammack-activity-center/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/locations/avbgc-whitney-mac-center/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/locations/chelis-produce/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/locations/daily-organics/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/locations/everytable-baldwin-hills/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/locations/everytable-downtown-la/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/locations/everytable-santa-monica/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/locations/everytable-south-la/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/locations/locol-watts/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/locations/orange-trees-at-los-angeles-state-historic-park/</loc>
-  </url>
-
-  <url>
-    <loc>https://foodoasis.la/locations/suprmarkt-la/</loc>
   </url>
 
 

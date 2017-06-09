@@ -62,7 +62,7 @@ window.oasis = window.oasis || {};
 				case 'farmers-market':
 					element.className += ' buy';
 					break;
-				case 'free-summer-lunch':
+				case 'summer-lunch':
 				case 'food-pantry':
 				case 'orchard':
 					element.className += ' free';
@@ -93,12 +93,18 @@ window.oasis = window.oasis || {};
 			typeElement.textContent = data.category;
 			var img = element.querySelector('img');
 
-			if (category == 'food-pantry' || category == 'community-garden' || category == 'farmers-market' || category == 'supermarket' || category == 'restaurant' || category == 'orchard' || category == 'pop-up-market') {
-				img.src = "/assets/images/home/" + category + ".svg"; // SHIM: Should we handle this in the CSS instead?
-			} else if (category == 'free-summer-lunch') {
-				img.src = "/assets/images/home/school-lunches.svg";
+			// SHIM: Should we handle this in the CSS instead?
+			if (category == 'food-pantry' ||
+				category == 'summer-lunch' ||
+				category == 'community-garden' ||
+				category == 'farmers-market' ||
+				category == 'supermarket' ||
+				category == 'restaurant' ||
+				category == 'orchard' ||
+				category == 'pop-up-market') {
+				img.src = "/assets/images/home/" + category + ".svg";
 			} else {
-				img.src = "/assets/images/home/supermarket.svg";
+				img.src = "/assets/images/home/restaurant.svg";
 			}
 
 			// Address
@@ -160,26 +166,26 @@ window.oasis = window.oasis || {};
 					dt = document.createElement('dt');
 					dt.innerHTML = data.hours[index].day;
 
-					switch (data.hours[index].day.trim()) {
-						case 'Mon':
+					switch (data.hours[index].day.trim().toLowerCase()) {
+						case 'mon':
 							dt.innerHTML = 'Monday';
 							break;
-						case 'Tue':
+						case 'tue':
 							dt.innerHTML = 'Tuesday';
 							break;
-						case 'Wed':
+						case 'wed':
 							dt.innerHTML = 'Wednesday';
 							break;
-						case 'Thu':
+						case 'thu':
 							dt.innerHTML = 'Thursday';
 							break;
-						case 'Fri':
+						case 'fri':
 							dt.innerHTML = 'Friday';
 							break;
-						case 'Sat':
+						case 'sat':
 							dt.innerHTML = 'Saturday';
 							break;
-						case 'Sun':
+						case 'sun':
 							dt.innerHTML = 'Sunday';
 							break;
 					}

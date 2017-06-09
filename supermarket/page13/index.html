@@ -282,7 +282,11 @@ var updateLink;
 			// SHIM: Translate to a human readable version of the “type”.
 			var formattedTypes = [];
 			for (var index = 0; index < types.length; index++) {
-				formattedTypes.push((types[index] === 'food-pantry') ? 'food pantries' : (types[index] === 'kids-lunch') ? 'kids lunches' : types[index].replace(/\-/g, ' ') + 's');
+				formattedTypes.push(
+					(types[index] === 'food-pantry') ? 'food pantries' : 
+					(types[index] === 'summer-lunch') ? 'summer lunch for kids' :
+					types[index].replace(/\-/g, ' ') + 's'
+				);
 			}
 			searchType.innerText = formattedTypes.join(', ');
 			searchType.style.textTransform = 'capitalize';
@@ -932,25 +936,17 @@ var MAP_BOUNDS = [
 
 // Define the icons
 var MARKER_OPTIONS = {
-	'Farmers Market': {
-		// Specify a class name we can refer to in CSS.
-		className: 'farmers-market-marker',
-		// Set marker width and height
-		iconSize: [30, 46],
-		iconAnchor: [15, 40],
-		popupAnchor: [0, -23]
-	},
-	'Supermarket': {
-		// Specify a class name we can refer to in CSS.
-		className: 'farmers-market-marker',
-		// Set marker width and height
-		iconSize: [30, 46],
-		iconAnchor: [15, 40],
-		popupAnchor: [0, -23]
-	},
 	'Community Garden': {
 		// Specify a class name we can refer to in CSS.
 		className: 'community-garden-marker',
+		// Set marker width and height
+		iconSize: [30, 46],
+		iconAnchor: [15, 40],
+		popupAnchor: [0, -23]
+	},
+	'Farmers Market': {
+		// Specify a class name we can refer to in CSS.
+		className: 'farmers-market-marker',
 		// Set marker width and height
 		iconSize: [30, 46],
 		iconAnchor: [15, 40],
@@ -964,9 +960,9 @@ var MARKER_OPTIONS = {
 		iconAnchor: [15, 40],
 		popupAnchor: [0, -23]
 	},
-	'Restaurant': {
+	'Orchard': {
 		// Specify a class name we can refer to in CSS.
-		className: 'restaurant-marker',
+		className: 'orchard-marker',
 		// Set marker width and height
 		iconSize: [30, 46],
 		iconAnchor: [15, 40],
@@ -980,17 +976,25 @@ var MARKER_OPTIONS = {
 		iconAnchor: [15, 40],
 		popupAnchor: [0, -23]
 	},
-	'Orchard': {
+	'Restaurant': {
 		// Specify a class name we can refer to in CSS.
-		className: 'orchard-marker',
+		className: 'restaurant-marker',
 		// Set marker width and height
 		iconSize: [30, 46],
 		iconAnchor: [15, 40],
 		popupAnchor: [0, -23]
 	},
-	'Free Summer Lunch': {
+	'Summer Lunch': {
 		// Specify a class name we can refer to in CSS.
-		className: 'free-summer-lunch-marker',
+		className: 'summer-lunch-marker',
+		// Set marker width and height
+		iconSize: [30, 46],
+		iconAnchor: [15, 40],
+		popupAnchor: [0, -23]
+	},
+	'Supermarket': {
+		// Specify a class name we can refer to in CSS.
+		className: 'farmers-market-marker',
 		// Set marker width and height
 		iconSize: [30, 46],
 		iconAnchor: [15, 40],
@@ -1057,7 +1061,7 @@ var listOffset = 240;
 		var foodSourcesList = document.querySelector('ul.location-list');
 		if (foodSourcesList) foodSourcesList.classList.remove('sorting');
 		if (document.getElementById('search-location')) document.getElementById('search-location').textContent = userLocation.label;
-		window.oasis.addMarkers(list, userLocation.geolocated, userLocation.latitude, userLocation.longitude);
+		window.oasis.addMarkers(list, userLocation);
 		window.oasis.addListItems(list);
 	});
 

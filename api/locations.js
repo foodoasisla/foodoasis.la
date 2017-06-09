@@ -4,6 +4,7814 @@ var locations = [
 
 
 {
+	latitude  : "34.016602",
+	longitude : "-118.270964",
+	name      : "Cheli’s Produce",
+	address_1 : "170 East 35th Street",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90011",
+	category  : "Pop Up Market",
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/locations/chelis-produce/"
+	
+
+	, content   : "  <p>This grocery truck is located on a residential street, and sells produce.</p> "
+	
+},
+
+{
+	latitude  : "34.032181",
+	longitude : "-118.368756",
+	name      : "Daily Organics",
+	address_1 : "5746 Adams Boulevard",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90016",
+	category  : "Pop Up Market",
+	website   : "https://dailyorganicsla.com",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/locations/daily-organics/"
+	
+
+	, content   : "  <h3 id=\"hours\">Hours</h3> <p>Thursday Friday and Saturday 11 to 6</p> "
+	
+},
+
+{
+	latitude  : "34.0066",
+	longitude : "-118.3691",
+	name      : "Everytable Baldwin Hills",
+	address_1 : "Baldwin Hills Crenshaw Plaza",
+	address_2 : "3650 W MLK Blvd",
+	city      : "Los Angeles",
+	zip       : "90008",
+	category  : "Restaurant",
+	website   : "https://www.everytable.com",
+	phone     : "323-296-0311",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/locations/everytable-baldwin-hills/"
+	
+
+	, content   : "  <h3 id=\"hours\">Hours</h3> <p>10:30am - 9pm Mon - Sat,<br /> 11am - 7pm Sun</p> "
+	
+},
+
+{
+	latitude  : "34.04828",
+	longitude : "-118.258943",
+	name      : "Everytable Downtown LA",
+	address_1 : "The Bloc",
+	address_2 : "700 South Flower Street",
+	city      : "Los Angeles",
+	zip       : "90017",
+	category  : "Restaurant",
+	website   : "https://www.everytable.com",
+	phone     : "213-318-3836",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/locations/everytable-downtown-la/"
+	
+
+	, content   : "  <p>Everytable is located on the lower level of “The Bloc” mall.</p>  <h3 id=\"hours\">Hours</h3> <p>11am - 8pm Mon - Fri</p> "
+	
+},
+
+{
+	latitude  : "34.016794",
+	longitude : "-118.49745",
+	name      : "Everytable Santa Monica",
+	address_1 : "Third Street Promenade",
+	address_2 : "1315 3rd St",
+	city      : "Santa Monica",
+	zip       : "90401",
+	category  : "Restaurant",
+	website   : "https://www.everytable.com",
+	phone     : "424-296-1619",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/locations/everytable-santa-monica/"
+	
+
+	, content   : "  <h3 id=\"hours\">Hours</h3> <p>10:30am - 9pm daily</p> "
+	
+},
+
+{
+	latitude  : "34.035012",
+	longitude : "-118.283582",
+	name      : "Everytable South LA",
+	address_1 : "1101 West 23rd Street",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90007",
+	category  : "Restaurant",
+	website   : "https://www.everytable.com",
+	phone     : "213-973-5095",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/locations/everytable-south-la/"
+	
+
+	, content   : "  <h3 id=\"hours\">Hours</h3> <p>11am - 8pm daily</p> "
+	
+},
+
+{
+	latitude  : "33.943006",
+	longitude : "-118.237758",
+	name      : "Locol, Watts",
+	address_1 : "1950 East 103rd Street",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90002",
+	category  : "Restaurant",
+	website   : "http://www.welocol.com",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/locations/locol-watts/"
+	
+
+	, content   : "  <h3 id=\"hours\">Hours</h3>  <p>Open everyday from 11am–8pm</p> "
+	
+},
+
+{
+	latitude  : "34.067136",
+	longitude : "-118.23263",
+	name      : "Orange trees at Los Angeles State Historic Park",
+	address_1 : "1245 North Spring Street",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90012",
+	category  : "Orchard",
+	website   : "http://lashp.com/2017/05/12/fallen-fruit-a-monument-to-sharing/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/locations/orange-trees-at-los-angeles-state-historic-park/"
+	
+
+	, content   : "  <p>This is a group of orange trees, planted as part of the <a href=\"http://endlessorchard.com\">Endless Orchard</a> project by <a href=\"http://fallenfruit.org\">Fallen Fruit</a>.</p>  <p>From the website…</p>  <blockquote>   <p>“The oranges are for everyone to share.”</p> </blockquote> "
+	
+},
+
+{
+	latitude  : "34.004253",
+	longitude : "-118.330749",
+	name      : "SÜPRMARKT LA",
+	address_1 : "Leimert Park",
+	address_2 : "3333 West 43rd Place",
+	city      : "Los Angeles",
+	zip       : "90008",
+	category  : "Pop Up Market",
+	website   : "http://suprmarkt.la",
+	phone     : "424.261.7877",
+	twitter   : "",
+	instagram : "https://www.instagram.com/supr.mrkt",
+	facebook  : "https://www.facebook.com/suprmarkt",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/locations/suprmarkt-la/"
+	
+
+	, content   : "  <h2 id=\"hours\">Hours</h2>  <dl>   <dt>Sunday</dt>   <dd>2pm – 6pm</dd> </dl>  <p><em>The market’s location and hours may have changed.</em> Please visit <a href=\"http://suprmarkt.la/next-suprmarkt/\">suprmarkt.la/next-suprmarkt</a> to find out where and when to find the market.</p>  <h2 id=\"features\">Features</h2>  <ul>   <li>100% organic food for sale</li>   <li>EBT Accepted</li> </ul> "
+	
+}
+
+
+,
+
+
+
+{
+	latitude  : "34.22961903",
+	longitude : "-118.4245122",
+	name      : "Arleta Community Garden",
+	address_1 : "8800 Canterbury Avenue",
+	address_2 : "",
+	city      : "San Fernando Valley",
+	zip       : "91331",
+	category  : "Community Garden",
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/community-garden/arleta/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.019163",
+	longitude : "-117.674564",
+	name      : "Chino Community Garden & Park",
+	address_1 : "5976 Riverside Drive",
+	address_2 : "",
+	city      : "Chino",
+	zip       : "91710",
+	category  : "Community Garden",
+	website   : "http://www.cityofchino.org/government-services/community-services/healthy-chino/community-garden",
+	phone     : "909-334-3478",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/community-garden/chino-community-garden-park/"
+	
+
+	, content   : "  <h2 id=\"schedule-a-group-tour\">Schedule a Group Tour</h2>  <p>Interested in scheduling a group tour? The Community Garden is accepts a limited number of private tours. For more information or to schedule a tour, please contact the Healthy Chino office at 909-334-3478 or <a href=\"healthychino@cityofchino.org\">healthychino@cityofchino.org</a>.</p> "
+	
+},
+
+{
+	latitude  : "34.04619603",
+	longitude : "-118.3276274",
+	name      : "Crenshaw Community Garden",
+	address_1 : "1423 S Crenshaw Blvd",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90019",
+	category  : "Community Garden",
+	website   : "http://crenshawgarden.blogspot.com/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/community-garden/crenshaw/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.13392644",
+	longitude : "-118.1887884",
+	name      : "Eagle Rockdale Community Garden & Art Park",
+	address_1 : "1003 Rockdale Avenue",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90041",
+	category  : "Community Garden",
+	website   : "https://www.facebook.com/Eagle-Rockdale-Community-Garden-Art-Park-121724107876620/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/community-garden/eagle-rockdale-art-park/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "33.97724579",
+	longitude : "-118.4631657",
+	name      : "Eastwind Community Garden",
+	address_1 : "110 Eastwind Street",
+	address_2 : "",
+	city      : "Marina Del Rey",
+	zip       : "90292",
+	category  : "Community Garden",
+	website   : "http://www.eastwindgarden.com/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/community-garden/eastwind/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.09249662",
+	longitude : "-118.1616233",
+	name      : "El Sereno Community Garden",
+	address_1 : "5466 Huntington Drive",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90032",
+	category  : "Community Garden",
+	website   : "https://communitygarden.org/find-a-garden/gardens/el-sereno-community-garden/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/community-garden/el-sereno/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.09722483",
+	longitude : "-118.2429669",
+	name      : "Elysian Valley Community Garden",
+	address_1 : "1816 W Blake Avenue",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90039",
+	category  : "Community Garden",
+	website   : "http://lagardencouncil.org/elysianvalley/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/community-garden/elysian-valley/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "33.96923397",
+	longitude : "-118.4047634",
+	name      : "Emerson Avenue Community Garden",
+	address_1 : "6550 W 80th Street",
+	address_2 : "",
+	city      : "Westchester",
+	zip       : "90045",
+	category  : "Community Garden",
+	website   : "http://www.eacgc.org/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/community-garden/emerson-avenue/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.09435535",
+	longitude : "-118.3337145",
+	name      : "Enrique Noguera Educational Garden",
+	address_1 : "6614 Fountain Avenue",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90038",
+	category  : "Community Garden",
+	website   : "https://www.facebook.com/pages/Enrique-Noguera-Gardens/213260882100604",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/community-garden/enrique-noguera-educational-garden/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "33.98062804",
+	longitude : "-118.3007416",
+	name      : "Epworth Community Garden",
+	address_1 : "1419 W 65th Place",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90047",
+	category  : "Community Garden",
+	website   : "https://www.facebook.com/pages/Epworth-Community-Garden/246001935564389",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/community-garden/epworth/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.03170032",
+	longitude : "-118.298016",
+	name      : "Erika J. Glazer Community Garden",
+	address_1 : "2632 Raymond Avenue",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90007",
+	category  : "Community Garden",
+	website   : "http://www.lanlt.org/parks-and-gardens.php#erika",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/community-garden/erika-j-glazer/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "33.738497",
+	longitude : "-118.286374",
+	name      : "Feed & Be Fed",
+	address_1 : "429 West 6th Street",
+	address_2 : "",
+	city      : "San Pedro",
+	zip       : "90731",
+	category  : "Community Garden",
+	website   : "http://www.feedandbefed.org",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/community-garden/feed-be-fed/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.09474231",
+	longitude : "-118.3117822",
+	name      : "Fountain Community Gardens",
+	address_1 : "5620 Fountain Avenue",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90028",
+	category  : "Community Garden",
+	website   : "https://www.yelp.com/biz/fountain-community-garden-los-angeles",
+	phone     : "(323) 387-3241",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/community-garden/fountains/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "33.96816788",
+	longitude : "-118.2651973",
+	name      : "Fremont Wellness Center & Community Garden",
+	address_1 : "7821 S Avalon Blvd",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90003",
+	category  : "Community Garden",
+	website   : "http://www.fremontwccg.org/",
+	phone     : "213-572-0188",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/community-garden/fremont-wellness-center-/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.12005434",
+	longitude : "-118.2430059",
+	name      : "Glassell Park Community Garden",
+	address_1 : "3304 Drew Street",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90065",
+	category  : "Community Garden",
+	website   : "http://glassellparknc.org/2015/03/community-garden-blooms-again/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/community-garden/glassell-park/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.03038873",
+	longitude : "-118.3676776",
+	name      : "Good Earth Community Garden",
+	address_1 : "5990 Boden St",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90016",
+	category  : "Community Garden",
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/community-garden/good-earth/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.27917819",
+	longitude : "-118.4808094",
+	name      : "Granada Hills Salad Bowl Garden Club",
+	address_1 : "16003 Rinaldi Street",
+	address_2 : "",
+	city      : "Granada Hills",
+	zip       : "91344",
+	category  : "Community Garden",
+	website   : "",
+	phone     : "818-368-4533",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/community-garden/granada-hills-salad-bowl-garden-club/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "33.92644283",
+	longitude : "-118.2629993",
+	name      : "Greater Watts Community Garden",
+	address_1 : "660 E 118th Place",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90059",
+	category  : "Community Garden",
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/community-garden/greater-watts/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "33.96343338",
+	longitude : "-118.4064699",
+	name      : "Holy Nativity Community Garden",
+	address_1 : "6700 W 83rd Street",
+	address_2 : "",
+	city      : "Westchester",
+	zip       : "90045",
+	category  : "Community Garden",
+	website   : "http://www.holynativityparish.org/the-community-garden-at-holy-nativity/",
+	phone     : "(310) 670-4777",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/community-garden/holy-nativity/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.25813176",
+	longitude : "-118.3016987",
+	name      : "Howard Finn Community Garden",
+	address_1 : "7747 Foothill Blvd",
+	address_2 : "",
+	city      : "Tujunga",
+	zip       : "91042",
+	category  : "Community Garden",
+	website   : "https://www.facebook.com/pg/Finn-Community-Garden-1056595011050119/photos/?tab=album&album_id=1068115096564777",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/community-garden/howard-finn/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.051828",
+	longitude : "-117.63874",
+	name      : "Huerta del Valle Garden",
+	address_1 : "831 East Belmont Street",
+	address_2 : "",
+	city      : "Ontario",
+	zip       : "91761",
+	category  : "Community Garden",
+	website   : "http://www.huertadelvalle.org",
+	phone     : "909-509-2996​​",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/community-garden/huerta-del-valle-garden/"
+	
+
+	, content   : "  <p>We offer tours ​on Monday, Tuesday, Thursday, and Saturday at 12:00 pm.</p>  <p><a href=\"http://www.huertadelvalle.org/toursvolunteer.html\">http://www.huertadelvalle.org/toursvolunteer.html</a></p> "
+	
+},
+
+{
+	latitude  : "34.09173305",
+	longitude : "-118.234039",
+	name      : "Jardin Del Rio",
+	address_1 : "2363 N Riverdale Avenue",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90031",
+	category  : "Community Garden",
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/community-garden/jardin-del-rio/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "33.73094877",
+	longitude : "-118.2799586",
+	name      : "John S. Gibson Senior Garden",
+	address_1 : "1500 S Harbor Blvd",
+	address_2 : "",
+	city      : "San Pedro",
+	zip       : "90731",
+	category  : "Community Garden",
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/community-garden/john-s-gibson-senior-garden/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.09361321",
+	longitude : "-118.3405019",
+	name      : "Mansfield Fountain Community Garden",
+	address_1 : "1259 N Mansfield Avenue",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90038",
+	category  : "Community Garden",
+	website   : "https://www.facebook.com/Mansfield-Fountain-Community-Garden-Hollywood-CA-1062186980476336/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/community-garden/mansfield-fountain/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.09348168",
+	longitude : "-118.280907",
+	name      : "Manzanita Street Community Garden",
+	address_1 : "1101 Manzanita Street",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90029",
+	category  : "Community Garden",
+	website   : "https://www.facebook.com/pages/Manzanita-Street-Organic-Community-Garden/398760433516388",
+	phone     : "(323) 533-3235",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/community-garden/manzanita-street/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "33.9934872",
+	longitude : "-118.4068559",
+	name      : "Mar Vista Community Garden",
+	address_1 : "5075 S Slauson Avenue",
+	address_2 : "",
+	city      : "Culver City",
+	zip       : "90230",
+	category  : "Community Garden",
+	website   : "https://www.oceanviewfarms.net/location.php",
+	phone     : "310-915-1123",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/community-garden/mar-vista/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "33.95969308",
+	longitude : "-118.4225489",
+	name      : "Messiah Organic Community Garden",
+	address_1 : "7300 West Manchester Avenue",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90045",
+	category  : "Community Garden",
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/community-garden/messiah-organic/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.08733119",
+	longitude : "-118.3206354",
+	name      : "Milagro Allegro Community Garden",
+	address_1 : "115 S Avenue 56",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90042",
+	category  : "Community Garden",
+	website   : "https://communitygarden.org/find-a-garden/gardens/milagro-allegro-community-garden/",
+	phone     : "323-256-7122",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/community-garden/milagro-allegro/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.05684772",
+	longitude : "-118.28942",
+	name      : "Moothart Collingnon/Francis Avenue Community Garden",
+	address_1 : "2909 Francis Avenue",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90005",
+	category  : "Community Garden",
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/community-garden/moothart-collingnon-francis-avenue/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.10414197",
+	longitude : "-118.2786531",
+	name      : "Norman Harriton Community Garden",
+	address_1 : "2037 N Sanborn Avenue",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90027",
+	category  : "Community Garden",
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/community-garden/norman-harriton/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.01472864",
+	longitude : "-118.4419305",
+	name      : "Ocean View Farms",
+	address_1 : "3300 S Centinela Avenue",
+	address_2 : "",
+	city      : "Mar Vista",
+	zip       : "90066",
+	category  : "Community Garden",
+	website   : "https://www.oceanviewfarms.net/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/community-garden/ocean-view-farms/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.21913279",
+	longitude : "-118.641199",
+	name      : "Orcutt Ranch Horticultural Center Rancho Sombra del Roble",
+	address_1 : "23600 Roscoe Blvd",
+	address_2 : "",
+	city      : "West Hills",
+	zip       : "91304",
+	category  : "Community Garden",
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/community-garden/orcutt-ranch-horticultural-center-rancho-sombra-del-roble/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.061316",
+	longitude : "-117.748393",
+	name      : "Pomona Hope Center Street Garden",
+	address_1 : "192 East Center Street",
+	address_2 : "",
+	city      : "Pomona",
+	zip       : "91767",
+	category  : "Community Garden",
+	website   : "http://www.pomonahope.org/what-we-do/current-programs/community-garden/",
+	phone     : "909-918-4769",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/community-garden/pomona-hope-center-street-garden/"
+	
+
+	, content   : "  <p>The garden is located on the southwest corner of Center Street and Gibbs Avenue.</p>  <p>For more information visit the <a href=\"http://www.centerstreetgarden.org\">Center Street Community Garden website</a></p>  <p>You can also reach the Garden Coordinator, Barbara Evans, at 909-918-4769.</p> "
+	
+},
+
+{
+	latitude  : "34.042568",
+	longitude : "-117.76359",
+	name      : "Pomona South Hills Gardens",
+	address_1 : "1170 Fremont Street",
+	address_2 : "",
+	city      : "Pomona",
+	zip       : "91766",
+	category  : "Community Garden",
+	website   : "https://www.facebook.com/SHPChurchOnline/",
+	phone     : "909-629-0492",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/community-garden/pomona-south-hills-gardens/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "33.74327698",
+	longitude : "-118.2830172",
+	name      : "Rancho San Pedro Community Garden",
+	address_1 : "275 W 1st Street",
+	address_2 : "",
+	city      : "San Pedro",
+	zip       : "90731",
+	category  : "Community Garden",
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/community-garden/rancho-san-pedro/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.07572059",
+	longitude : "-118.3030171",
+	name      : "Rosewood Gardens",
+	address_1 : "4160 Rosewood Avenue",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90004",
+	category  : "Community Garden",
+	website   : "",
+	phone     : "(323) 821-7748",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/community-garden/rosewood-gardens/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.067391",
+	longitude : "-117.748945",
+	name      : "Saint Paul’s Episcopal Church",
+	address_1 : "242 East Alvarado Street",
+	address_2 : "",
+	city      : "Pomona",
+	zip       : "91767",
+	category  : "Community Garden",
+	website   : "http://www.saintpaulspomona.org/ministries/",
+	phone     : "909-622-2015",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/community-garden/saint-paul-s-episcopal-church/"
+	
+
+	, content   : "  <p><a href=\"http://seedsofhope.ladiocese.org/\">Seeds of Hope</a> is a ministry of the Episcopal Diocese of Los Angeles which works with congregations, communities, and schools, to turn unused land into productive and beautiful gardens and orchards that provide fresh and nutritious foods to areas of need across the county. Join us for our garden work days at St. Paul’s to help us grow this ministry of sustainable food justice! To catch an upcoming work day, stay tuned to our <a href=\"http://www.saintpaulspomona.org/events\">calendar of events</a></p> "
+	
+},
+
+{
+	latitude  : "34.04122508",
+	longitude : "-118.2132207",
+	name      : "Salesian Boys & Girls Club Community Garden",
+	address_1 : "2228 E 4th Street",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90033",
+	category  : "Community Garden",
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/community-garden/salesian-boys-girls-club/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "33.73126012",
+	longitude : "-118.2923468",
+	name      : "San Pedro Gardens",
+	address_1 : "1400 N Gaffey Street",
+	address_2 : "",
+	city      : "San Pedro",
+	zip       : "90731",
+	category  : "Community Garden",
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/community-garden/san-pedro-gardens/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.049172",
+	longitude : "-117.735817",
+	name      : "Sarvodaya Farms",
+	address_1 : "1196 South San Antonio Avenue",
+	address_2 : "",
+	city      : "Pomona",
+	zip       : "91766",
+	category  : "Community Garden",
+	website   : "http://sarvodayafarms.com",
+	phone     : "909 660 3514",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/community-garden/sarvodaya-farms/"
+	
+
+	, content   : "  <p>Sarvodaya Farms is located in the backyard of a residence across from Washington Park.</p>  <h2 id=\"visiting-hours\">Visiting Hours</h2>  <dl>   <dt>Monday</dt>   <dd>9am – 12pm</dd>   <dt>Friday</dt>   <dd>9am – 12pm</dd> </dl>  <p><em>Farming is hard work and we occasionally take a day off. Call ahead if you want to make sure we are around! 909 660 3514</em></p> "
+	
+},
+
+{
+	latitude  : "34.1649565",
+	longitude : "-118.4955004",
+	name      : "Sepulveda Garden Center",
+	address_1 : "16633 Magnolia Boulevard",
+	address_2 : "",
+	city      : "Encino",
+	zip       : "91436",
+	category  : "Community Garden",
+	website   : "http://www.laparks.org/horticulture/sepulveda-garden-center",
+	phone     : "(818) 784-5180",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/community-garden/sepulveda-garden-center/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.07418257",
+	longitude : "-118.2314301",
+	name      : "Solano Canyon Community Garden",
+	address_1 : "545 Solano Avenue",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90012",
+	category  : "Community Garden",
+	website   : "https://www.facebook.com/Solano-Canyon-Community-Garden-133534380050987/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/community-garden/solano-canyon/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.050749",
+	longitude : "-118.246015",
+	name      : "Spring Street Community Garden",
+	address_1 : "220 S Spring Street",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90012",
+	category  : "Community Garden",
+	website   : "https://springstreetcommunitygarden.org",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/community-garden/spring-street/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "33.93417627",
+	longitude : "-118.2637709",
+	name      : "Stanford Avalon Community Garden",
+	address_1 : "658 E 111th Place",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90059",
+	category  : "Community Garden",
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/community-garden/stanford-avalon/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.04290511",
+	longitude : "-118.2822205",
+	name      : "The Learning Garden",
+	address_1 : "1300 Venice Blvd",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90006",
+	category  : "Community Garden",
+	website   : "http://www.thelearninggarden.org/",
+	phone     : "(310) 722-3656",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/community-garden/the-learning-garden/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.051526",
+	longitude : "-117.758303",
+	name      : "Urban Mission Garden",
+	address_1 : "810 South White Avenue",
+	address_2 : "",
+	city      : "Pomona",
+	zip       : "91766",
+	category  : "Community Garden",
+	website   : "http://www.umpomona.org",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/community-garden/urban-mission-garden/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.00009093",
+	longitude : "-118.2915068",
+	name      : "Vermont Square Community Garden",
+	address_1 : "4712 S Vermont Avenue",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90037",
+	category  : "Community Garden",
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/community-garden/vermont-square/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.10199105",
+	longitude : "-118.3550116",
+	name      : "Wattles Farm",
+	address_1 : "1714 N Curson Avenue",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90046",
+	category  : "Community Garden",
+	website   : "http://www.wattlesfarm.com/",
+	phone     : "(323) 663-7441",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/community-garden/wattles-farm/"
+	
+
+	, content   : "   "
+	
+}
+
+
+,
+
+
+
+{
+	latitude  : "34.0326",
+	longitude : "-118.2926",
+	name      : "Adams - Vermont Farmers Market / Saint Agnes Church Farmer's Market",
+	address_1 : "1432 W Adams Blvd",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90007",
+	category  : "Farmers Market",
+	website   : "",
+	phone     : "(213)454-8533",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Wed",
+		open      : "1400",
+		close     : "1900"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/adams-vermont-st-agnes-church-farmers-market/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.0937",
+	longitude : "-118.1288",
+	name      : "Alhambra Certified Farmers Market",
+	address_1 : "100 S. 2nd Street",
+	address_2 : "",
+	city      : "Alhambra",
+	zip       : "91801",
+	category  : "Farmers Market",
+	website   : "http://www.cityofalhambra.org/page/289/certified_farmers_market/",
+	phone     : "(626)570-5081",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Sun",
+		open      : "830",
+		close     : "1300"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/alhambra-certified/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.2004",
+	longitude : "-118.1581",
+	name      : "Altadena Farmers Market",
+	address_1 : "600 W. Palm Street",
+	address_2 : "",
+	city      : "Altadena",
+	zip       : "91001",
+	category  : "Farmers Market",
+	website   : "http://altadenafarmersmarket.com/",
+	phone     : "(310)595-0272",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Wed",
+		open      : "1600",
+		close     : "1900"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/altadena/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.647",
+	longitude : "-118.1662",
+	name      : "Antelope Valley Winery Farmers Market",
+	address_1 : "42041 20th St. West",
+	address_2 : "",
+	city      : "Lancaster",
+	zip       : "93534",
+	category  : "Farmers Market",
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Sat",
+		open      : "900",
+		close     : "1200"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/antelope-valley-winery/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.045502",
+	longitude : "-118.236677",
+	name      : "Arts District Farmers Market",
+	address_1 : "740 E 3rd St",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90013",
+	category  : "Farmers Market",
+	website   : "http://laraba.org/ad-farmers-market/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Sat",
+		open      : "1000",
+		close     : "1600"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/arts-district/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.1182",
+	longitude : "-118.2602",
+	name      : "Atwater Village Farmers Market",
+	address_1 : "Wells Fargo Parking Lot",
+	address_2 : "3250 Glendale Blvd",
+	city      : "Los Angeles",
+	zip       : "90039",
+	category  : "Farmers Market",
+	website   : "",
+	phone     : "(323)463-3171",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Sun",
+		open      : "1000",
+		close     : "1400"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/atwater-village/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.0212",
+	longitude : "-118.3561",
+	name      : "Baldwin La Brea Farmers Market",
+	address_1 : "3601 S. La Brea Ave.",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90016",
+	category  : "Farmers Market",
+	website   : "http://www.localharvest.org/baldwin-la-brea-farmers-market-M66674",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Sat",
+		open      : "900",
+		close     : "1430"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/baldwin-la-brea/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.0856",
+	longitude : "-117.965",
+	name      : "Baldwin Park Farmers Market",
+	address_1 : "Baldwin Park - Cesar Chavez & Ramond",
+	address_2 : "1011 Baldwin Park Blvd",
+	city      : "Baldwin Park",
+	zip       : "91706",
+	category  : "Farmers Market",
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Fri",
+		open      : "830",
+		close     : "1330"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/baldwin-park/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.0533",
+	longitude : "-118.2529",
+	name      : "Bank Of America Plaza Farmers Market",
+	address_1 : "333 S Hope St",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90021",
+	category  : "Farmers Market",
+	website   : "",
+	phone     : "(818)591-8161",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Fri",
+		open      : "1000",
+		close     : "1400"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/bank-of-america-plaza/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "33.8837",
+	longitude : "-118.1339",
+	name      : "Bellflower Farmers Market",
+	address_1 : "16614 Clark Ave at Oak Street",
+	address_2 : "",
+	city      : "Bellflower",
+	zip       : "90706",
+	category  : "Farmers Market",
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Mon",
+		open      : "900",
+		close     : "1300"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/bellflower/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.0743",
+	longitude : "-118.3989",
+	name      : "Beverly Hills Farmers Market",
+	address_1 : "9300 Civic Center Drive",
+	address_2 : "",
+	city      : "Beverly Hills",
+	zip       : "90210",
+	category  : "Farmers Market",
+	website   : "http://www.beverlyhills.org/exploring/farmersmarket/",
+	phone     : "(310)285-6830",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Sun",
+		open      : "900",
+		close     : "1300"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/beverly-hills/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.047096",
+	longitude : "-118.218686",
+	name      : "Boyle Heights Farmers Market",
+	address_1 : "1831 E 1st St",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90033",
+	category  : "Farmers Market",
+	website   : "https://www.facebook.com/Boyle-Heights-Farmers-Market-308825742488228/",
+	phone     : "(323)331-2752",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Fri",
+		open      : "1500",
+		close     : "1900"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/boyle-heights/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.0506",
+	longitude : "-118.4751",
+	name      : "Brentwood Village Farmers Market",
+	address_1 : "741 South Gretna Green Way",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90049",
+	category  : "Farmers Market",
+	website   : "https://www.facebook.com/Brentwoodfm",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Sun",
+		open      : "900",
+		close     : "1430"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/brentwood-village/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.1828",
+	longitude : "-118.308",
+	name      : "Burbank Farmers Market",
+	address_1 : "Corner of Olive & Glenoaks",
+	address_2 : "150 N. Third Street, Community Serv building parking lot",
+	city      : "Burbank",
+	zip       : "91502",
+	category  : "Farmers Market",
+	website   : "https://www.facebook.com/burbankfarmersmarket",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Sat",
+		open      : "800",
+		close     : "1230"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/burbank/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.235933",
+	longitude : "-118.528025",
+	name      : "Cal State University Northridge (CSUN) Farmers Market (CFM)",
+	address_1 : "18111 Nordhoff Street",
+	address_2 : "",
+	city      : "Northridge",
+	zip       : "91325",
+	category  : "Farmers Market",
+	website   : "https://www.yelp.com/biz/california-state-university-northridge-farmers-market-northridge",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Tue",
+		open      : "1000",
+		close     : "1400"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/cal-state-university-northridge-csun-cfm/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.1587",
+	longitude : "-118.636",
+	name      : "Calabasas Old Town Farmers Market",
+	address_1 : "Calabasas & Mulholland Dr.",
+	address_2 : "23504 Calabasas Rd, Calabasas, 91302",
+	city      : "Calabasas",
+	zip       : "91303",
+	category  : "Farmers Market",
+	website   : "https://www.yelp.com/biz/old-town-calabasas-farmers-market-calabasas",
+	phone     : "(818)591-8161",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Sat",
+		open      : "800",
+		close     : "1300"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/calabasas-old-town/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.2025",
+	longitude : "-118.6014",
+	name      : "Canoga Park Farmers Market",
+	address_1 : "On Owensmouth Avenue between Wyandotte Street & Sherman Way",
+	address_2 : "7248 Owensmouth Ave",
+	city      : "Canoga Park",
+	zip       : "91303",
+	category  : "Farmers Market",
+	website   : "https://www.facebook.com/CanogaParkFarmersMarket",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Sat",
+		open      : "900",
+		close     : "1400"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/canoga-park/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.0058",
+	longitude : "-118.256",
+	name      : "Central Ave Farmers Market",
+	address_1 : "courtyard of the Central Avenue Constituent Services Center",
+	address_2 : "4301 Central Ave  at 43rd st",
+	city      : "Los angeles  California",
+	zip       : "90011",
+	category  : "Farmers Market",
+	website   : "http://seela.org/markets-central-avenue/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Thu",
+		open      : "1000",
+		close     : "1500"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/central-ave/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.061",
+	longitude : "-118.4179",
+	name      : "Century City Farmers Market",
+	address_1 : "10100 Santa Monica Blvd.",
+	address_2 : "",
+	city      : "Century City",
+	zip       : "90037",
+	category  : "Farmers Market",
+	website   : "https://www.facebook.com/CenturyCityFM",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Thu",
+		open      : "1000",
+		close     : "1400"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/century-city/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "33.8693",
+	longitude : "-118.0625",
+	name      : "Cerritos Farmers Market",
+	address_1 : "17870 Park plaza Drive",
+	address_2 : "",
+	city      : "Cerritos",
+	zip       : "90703",
+	category  : "Farmers Market",
+	website   : "https://www.facebook.com/CerritosFarmersMarket/",
+	phone     : "(562)597-7920",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Sat",
+		open      : "800",
+		close     : "1200"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/cerritos/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.097567",
+	longitude : "-118.290099",
+	name      : "Children's Hospital LA CFM",
+	address_1 : "4650 Sunset Blvd.",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90027",
+	category  : "Farmers Market",
+	website   : "https://www.facebook.com/chlafarmersmarket/",
+	phone     : "(323)361-8505",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Wed",
+		open      : "1000",
+		close     : "1500"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/childrens-hospital-la-cfm/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.0956",
+	longitude : "-117.7193",
+	name      : "Claremont Farmers Market",
+	address_1 : "N Indian Hill Blvd & W 2Nd St",
+	address_2 : "",
+	city      : "Claremont",
+	zip       : "91711",
+	category  : "Farmers Market",
+	website   : "http://www.claremontforum.org/claremont-farmers-market/",
+	phone     : "(714)345-3087",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Sun",
+		open      : "800",
+		close     : "1300"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/claremont/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "33.8979",
+	longitude : "-118.224",
+	name      : "Compton Blue Line Farmers Market",
+	address_1 : "101 E Palmer Street",
+	address_2 : "",
+	city      : "Compton",
+	zip       : "90220",
+	category  : "Farmers Market",
+	website   : "http://nfmd.org/ca/compton/1010233/",
+	phone     : "(888)353-5554 Ext.9",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Thu",
+		open      : "1100",
+		close     : "1900"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/compton-blue-line/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.0893",
+	longitude : "-117.89",
+	name      : "Covina Farmers Market",
+	address_1 : "Citrus Ave and San Bernandino Rd",
+	address_2 : "Heritage Plaza",
+	city      : "Covina",
+	zip       : "",
+	category  : "Farmers Market",
+	website   : "http://www.covinafarmersmarket.com/",
+	phone     : "(928)854-1105",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Fri",
+		open      : "1700",
+		close     : "2100"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/covina/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.0112",
+	longitude : "-118.3365",
+	name      : "Crenshaw Baldwin Hill Farmers Market",
+	address_1 : "3650 W Martin Luther King Blvd",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90008",
+	category  : "Farmers Market",
+	website   : "http://www.baldwinhillscrenshawplaza.com/farmersmarket",
+	phone     : "(323)290-6636",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Sat",
+		open      : "1000",
+		close     : "1500"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/crenshaw-baldwin-hill/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.0247",
+	longitude : "-118.396",
+	name      : "Culver City Farmers Market",
+	address_1 : "Main & Culver",
+	address_2 : "",
+	city      : "Culver City",
+	zip       : "90232",
+	category  : "Farmers Market",
+	website   : "http://www.culvercity.org/live/get-involved/farmers-market",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Tue",
+		open      : "1400",
+		close     : "1900"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/culver-city/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "36.8199",
+	longitude : "-119.781",
+	name      : "Diamond Bar Farmers Market",
+	address_1 : "Calvary Chapel Church",
+	address_2 : "",
+	city      : "Diamond Bar",
+	zip       : "91765",
+	category  : "Farmers Market",
+	website   : "http://www.local-farmers-markets.com/market/345/diamond-bar/diamond-bar-farmers-market",
+	phone     : "(323)447-6848",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Sat",
+		open      : "800",
+		close     : "1300"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/diamond-bar/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "33.942",
+	longitude : "-118.1342",
+	name      : "Downey Farmers Market",
+	address_1 : "La Reina Ave & 2nd St",
+	address_2 : "",
+	city      : "Downey",
+	zip       : "90242",
+	category  : "Farmers Market",
+	website   : "https://www.facebook.com/DowneyFarmersMarket/",
+	phone     : "(818)591-8161",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Sat",
+		open      : "900",
+		close     : "1300"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/downey/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.0494",
+	longitude : "-118.2599",
+	name      : "Downtown Los Angeles (Fig at 7th) Farmers Market",
+	address_1 : "S Figueroa St & W 7th St",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90017",
+	category  : "Farmers Market",
+	website   : "https://www.facebook.com/FigAt7thFM/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Thu",
+		open      : "1100",
+		close     : "1400"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/downtown-los-angeles-fig-at-7th/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.1397",
+	longitude : "-117.978",
+	name      : "Duarte City of Hope Farmers Market",
+	address_1 : "1500 Duarte Rd",
+	address_2 : "",
+	city      : "DUARTE",
+	zip       : "91010",
+	category  : "Farmers Market",
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Thu",
+		open      : "1000",
+		close     : "1400"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/duarte-city-of-hope/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.1392",
+	longitude : "-118.214",
+	name      : "Eagle Rock Farmers Market",
+	address_1 : "2035 Colorado Blvd.",
+	address_2 : "",
+	city      : "Eagle Rock",
+	zip       : "90041",
+	category  : "Farmers Market",
+	website   : "https://www.facebook.com/EagleRockFarmersMarket/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Fri",
+		open      : "1600",
+		close     : "2000"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/eagle-rock/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.1015",
+	longitude : "-118.308",
+	name      : "East Hollywood Farmers Market",
+	address_1 : "5448 Hollywood Boulevard",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90027",
+	category  : "Farmers Market",
+	website   : "https://www.facebook.com/EHFarmersMkt/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Thu",
+		open      : "1530",
+		close     : "1930"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/east-hollywood/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.0334",
+	longitude : "-118.16",
+	name      : "East LA Farmers' Market",
+	address_1 : "4801 East 3rd Street",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90022",
+	category  : "Farmers Market",
+	website   : "https://www.facebook.com/eastlafarmersmarket/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Sat",
+		open      : "900",
+		close     : "1400"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/east-la-farmers-market/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.0769",
+	longitude : "-118.2586",
+	name      : "Echo Park Farmers Market",
+	address_1 : "Logan St. and Sunset Blvd",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90026",
+	category  : "Farmers Market",
+	website   : "https://www.facebook.com/Echo-Park-Farmers-Market-313522200882/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Fri",
+		open      : "1500",
+		close     : "1930"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/echo-park/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "33.9191",
+	longitude : "-118.416",
+	name      : "El Segundo Plaza Farmers Market",
+	address_1 : "300 Main St.",
+	address_2 : "",
+	city      : "El Segundo",
+	zip       : "90245",
+	category  : "Farmers Market",
+	website   : "https://www.facebook.com/elsegundofarmersmarket/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Thu",
+		open      : "1500",
+		close     : "1900"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/el-segundo-plaza/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.1862",
+	longitude : "-118.5141",
+	name      : "Encino Farmers Market",
+	address_1 : "17400 Victory Blvd in Van Nuys",
+	address_2 : "",
+	city      : "Van Nuys",
+	zip       : "91406",
+	category  : "Farmers Market",
+	website   : "http://www.encinofarmersmarket.org/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Sun",
+		open      : "800",
+		close     : "1300"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/encino/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "33.931",
+	longitude : "-118.318",
+	name      : "Gardena Hollypark Farmers Market",
+	address_1 : "13000 Van Ness",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90047",
+	category  : "Farmers Market",
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Sat",
+		open      : "630",
+		close     : "1200"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/gardena-hollypark/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "33.8099554",
+	longitude : "-118.1376043",
+	name      : "Green Acres",
+	address_1 : "5000 East Spring Street",
+	address_2 : "",
+	city      : "Long Beach",
+	zip       : "90815",
+	category  : "Farmers Market",
+	website   : "https://www.yelp.com/biz/green-acres-farmers-market-long-beach",
+	phone     : "(562)972-8897",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Thu",
+		open      : "1100",
+		close     : "1730"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "Sun",
+		open      : "830",
+		close     : "1430"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/green-acres/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "33.862",
+	longitude : "-118.3952",
+	name      : "Hermosa Beach Farmers Market",
+	address_1 : "Valley Dr. between 8th St. & 10th St.",
+	address_2 : "",
+	city      : "Hermosa Beach",
+	zip       : "90254",
+	category  : "Farmers Market",
+	website   : "https://www.facebook.com/farmermarkHB",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Wed",
+		open      : "1100",
+		close     : "1600"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/hermosa-beach/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.0477107",
+	longitude : "-118.2523156",
+	name      : "Historic Downtown Farmers' Market (CFM)",
+	address_1 : "205 West 5th Street",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90013",
+	category  : "Farmers Market",
+	website   : "https://www.facebook.com/HistoricFarmersMarket/",
+	phone     : "(310)455-0181",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Sun",
+		open      : "900",
+		close     : "1400"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/historic-downtown-farmers-market-cfm/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.0981",
+	longitude : "-118.3287",
+	name      : "Hollywood Farmers Market",
+	address_1 : "1500 N Ivar Ave",
+	address_2 : "",
+	city      : "Hollywood",
+	zip       : "90028",
+	category  : "Farmers Market",
+	website   : "http://www.hollywoodfarmersmarket.net/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Sun",
+		open      : "800",
+		close     : "1300"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/hollywood/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "33.976",
+	longitude : "-118.3867",
+	name      : "Howard Hughes Farmers Market",
+	address_1 : "6080 Center Drive",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90230",
+	category  : "Farmers Market",
+	website   : "https://www.facebook.com/HowardHughesFarmersMarket/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Thu",
+		open      : "1000",
+		close     : "1400"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/howard-hughes/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "33.973",
+	longitude : "-118.2048",
+	name      : "Huntington Park Farmers Market",
+	address_1 : "3401 East Florence Avenue",
+	address_2 : "",
+	city      : "Huntington Park",
+	zip       : "90255",
+	category  : "Farmers Market",
+	website   : "http://www.goodveg.org/hafm/index.php/markets/wednesday-huntington-park",
+	phone     : "(866)466-3834",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Wed",
+		open      : "930",
+		close     : "1330"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/huntington-park/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "33.9617",
+	longitude : "-118.352",
+	name      : "Inglewood Farmers Market",
+	address_1 : "Market Street and Manchester Blvd.",
+	address_2 : "",
+	city      : "Inglewood",
+	zip       : "90302",
+	category  : "Farmers Market",
+	website   : "https://www.facebook.com/inglewoodcertifiedfarmersmarket/",
+	phone     : "(323)952-7363",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Thu1st",
+		open      : "1500",
+		close     : "1900"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "Thu3rd",
+		open      : "1500",
+		close     : "1900"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/inglewood/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "33.9835",
+	longitude : "-117.867",
+	name      : "Jack Newe's Farmers Market",
+	address_1 : "1920 S Brea Canyon Cut Off",
+	address_2 : "",
+	city      : "Walnut",
+	zip       : "",
+	category  : "Farmers Market",
+	website   : "https://www.yelp.com/biz/the-jack-newes-farmers-market-walnut",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Sat",
+		open      : "800",
+		close     : "1400"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/jack-newes/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.0654",
+	longitude : "-117.9859",
+	name      : "Kaiser Baldwin Park Farmers Market",
+	address_1 : "1011 Baldwin Park Blvd",
+	address_2 : "",
+	city      : "Baldwin Park",
+	zip       : "91706",
+	category  : "Farmers Market",
+	website   : "https://thrive.kaiserpermanente.org/care-near-you/southern-california/baldwin-park/shc_calendar_event/farmers-market-6/",
+	phone     : "(626)851-5223",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Fri",
+		open      : "830",
+		close     : "1330"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/kaiser-baldwin-park/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "33.9192",
+	longitude : "-118.1288",
+	name      : "Kaiser Downey",
+	address_1 : "9333 E. Imperial Hwy in Kaiser Medical Center",
+	address_2 : "",
+	city      : "Downey",
+	zip       : "90242",
+	category  : "Farmers Market",
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Thu",
+		open      : "900",
+		close     : "1400"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/kaiser-downey/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.2207",
+	longitude : "-118.4301",
+	name      : "Kaiser Medical Center Panorama City FM",
+	address_1 : "13652 Cantara Street",
+	address_2 : "",
+	city      : "Panorama City",
+	zip       : "91402",
+	category  : "Farmers Market",
+	website   : "https://thrive.kaiserpermanente.org/care-near-you/southern-california/panorama-city/shc_calendar_event/kaiser-permanente-farmers-market/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Wed",
+		open      : "900",
+		close     : "1330"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/kaiser-medical-center-panorama-city-fm/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.1709",
+	longitude : "-118.5897",
+	name      : "Kaiser Medical Center Woodland Hills",
+	address_1 : "5601 De Soto Avenue",
+	address_2 : "",
+	city      : "Woodland Hills",
+	zip       : "91367",
+	category  : "Farmers Market",
+	website   : "https://thrive.kaiserpermanente.org/care-near-you/southern-california/woodland-hills/shc_calendar_event/farmers-market/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Thu",
+		open      : "900",
+		close     : "1500"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/kaiser-medical-center-woodland-hills/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "33.7901",
+	longitude : "-118.2937",
+	name      : "Kaiser South Bay Farmers Market",
+	address_1 : "25825 S. Vermont Avenue",
+	address_2 : "",
+	city      : "Harbor City",
+	zip       : "90710",
+	category  : "Farmers Market",
+	website   : "https://thrive.kaiserpermanente.org/care-near-you/southern-california/south-bay/shc_calendar_event/farmers-market-3/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Wed",
+		open      : "900",
+		close     : "1500"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/kaiser-south-bay/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.0381",
+	longitude : "-118.3759",
+	name      : "Kaiser -West LA Farmers Market",
+	address_1 : "6041 Cadillac Ave",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90034",
+	category  : "Farmers Market",
+	website   : "https://www.facebook.com/kaiserwestlafarmersmarket?fref=ts",
+	phone     : "(424)287-2280",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Wed",
+		open      : "900",
+		close     : "1400"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/kaiser-west-la/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "38.5706",
+	longitude : "-121.448",
+	name      : "L.A. Central Avenue Farmers Market",
+	address_1 : "4301 S. Central Avenue",
+	address_2 : "",
+	city      : "Hollywood",
+	zip       : "90028",
+	category  : "Farmers Market",
+	website   : "https://www.facebook.com/pg/CentralAvenueFarmersMarket/about/?ref=page_internal",
+	phone     : "(323)463-3171",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Thu",
+		open      : "1000",
+		close     : "1500"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/l-a-central-avenue/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.053106",
+	longitude : "-118.241657",
+	name      : "L.A. City Hall (Little Tokyo CFM)",
+	address_1 : "200 North Main Street",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90012",
+	category  : "Farmers Market",
+	website   : "https://www.yelp.com/biz/farmers-market-at-los-angeles-city-hall-los-angeles",
+	phone     : "(323)660-8660",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Thu",
+		open      : "1000",
+		close     : "1400"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/l-a-city-hall-little-tokyo-cfm/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.0834",
+	longitude : "-118.324",
+	name      : "L.A. Larchmont Village Farmers Market",
+	address_1 : "Larchmont Bldg., Lot #694",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90042",
+	category  : "Farmers Market",
+	website   : "https://www.facebook.com/LarchmontVillageFM/",
+	phone     : "(818)591-8161",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Sun",
+		open      : "1000",
+		close     : "1400"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/l-a-larchmont-village/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.0841",
+	longitude : "-118.374",
+	name      : "L.A. Melrose Place Farmers Market",
+	address_1 : "Melrose Place & Croft",
+	address_2 : "8400 Melrose Ave, Los Angeles, CA 90069",
+	city      : "Los Angeles",
+	zip       : "90069",
+	category  : "Farmers Market",
+	website   : "",
+	phone     : "(818)591-8161",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Sun",
+		open      : "1000",
+		close     : "1400"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/l-a-melrose-place/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.0943",
+	longitude : "-118.282",
+	name      : "L.A. Silverlake Farmers Market",
+	address_1 : "3700 Sunset Blvd.",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90026",
+	category  : "Farmers Market",
+	website   : "",
+	phone     : "(213)484-4002",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Tue",
+		open      : "1400",
+		close     : "1930"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "Sat",
+		open      : "800",
+		close     : "1330"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/l-a-silverlake/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.2035",
+	longitude : "-118.198",
+	name      : "La Canada Flintridge Farmers Market",
+	address_1 : "Beulah Dr. & Foothill Ave.",
+	address_2 : "",
+	city      : "La Canada Flintridge",
+	zip       : "91011",
+	category  : "Farmers Market",
+	website   : "http://www.lacanadaflintridge.com/events-page/farmers-market.html",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Sat",
+		open      : "900",
+		close     : "1300"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/la-canada-flintridge/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.044534",
+	longitude : "-118.377428",
+	name      : "La Cienega Farmers Market (CFM)",
+	address_1 : "1831 South La Cienega Blvd.",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90035",
+	category  : "Farmers Market",
+	website   : "http://www.lacienegafarmersmarket.com/",
+	phone     : "(562) 495-1764",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Thu",
+		open      : "1400",
+		close     : "1930"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/la-cienega-cfm/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.0201",
+	longitude : "-117.9523",
+	name      : "La Puente Live Farmers Market",
+	address_1 : "Main Street & First Street",
+	address_2 : "",
+	city      : "La Puente",
+	zip       : "91744",
+	category  : "Farmers Market",
+	website   : "http://www.lapuentelive.com/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Fri",
+		open      : "1800",
+		close     : "2200"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/la-puente-live/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.697542",
+	longitude : "-118.144039",
+	name      : "Lancaster Farmers Market / BLVD Farmers' Market",
+	address_1 : "758 West Lancaster Blvd",
+	address_2 : "",
+	city      : "Lancaster",
+	zip       : "93534",
+	category  : "Farmers Market",
+	website   : "http://www.theblvdlancaster.com/events.html?id=535#.WH7qI7byvdQ",
+	phone     : "(818)591-8161",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Thu",
+		open      : "1500",
+		close     : "1700"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/lancaster-blvd-farmers-market/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.6968",
+	longitude : "-118.1155",
+	name      : "Lancaster Farmers Market",
+	address_1 : "721 Lancaster Blvd.",
+	address_2 : "",
+	city      : "Lancaster",
+	zip       : "93534",
+	category  : "Farmers Market",
+	website   : "http://www.cityoflancasterca.org/about-us/departments-services/parks-recreation-arts/special-events/blvd-farmers-market",
+	phone     : "(661)723-6077",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Thu",
+		open      : "1600",
+		close     : "2100"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/lancaster/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "33.8982",
+	longitude : "-118.354",
+	name      : "Lawndale Farmers Market",
+	address_1 : "14717 Burin Ave.",
+	address_2 : "",
+	city      : "Lawndale",
+	zip       : "90260",
+	category  : "Farmers Market",
+	website   : "http://www.lawndalecity.org/HTML/FarmersMarket.htm",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Wed",
+		open      : "1400",
+		close     : "1900"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/lawndale/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.0729",
+	longitude : "-118.2152",
+	name      : "Lincoln Heights Farmers Market",
+	address_1 : "2334 Daly St.",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90031",
+	category  : "Farmers Market",
+	website   : "https://www.facebook.com/LincolnHeightsCFM/",
+	phone     : "(323)437-0203",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Wed",
+		open      : "1500",
+		close     : "2000"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/lincoln-heights/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "33.7685",
+	longitude : "-118.1329",
+	name      : "Local Harvest Farmers Market",
+	address_1 : "Marine Stadium at Appian Way & Nieto",
+	address_2 : "",
+	city      : "Long Beach",
+	zip       : "90803",
+	category  : "Farmers Market",
+	website   : "http://www.localharvestfarmersmarkets.com/marine-stadium",
+	phone     : "(562)449-9299",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Wed",
+		open      : "1500",
+		close     : "1900"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/local-harvest/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "33.773432",
+	longitude : "-118.169951",
+	name      : "Long Beach Downtown CFM",
+	address_1 : "199 East 5th Street",
+	address_2 : "Inside City Place Shopping Center, on Promenade north between 3rd and 5th. ",
+	city      : "Long Beach",
+	zip       : "90805",
+	category  : "Farmers Market",
+	website   : "https://www.goodveg.org/friday-long-beach-downtown",
+	phone     : "(866)466-3834",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Fri",
+		open      : "1000",
+		close     : "1400"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/long-beach-downtown-cfm/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "33.7576",
+	longitude : "-118.1131",
+	name      : "Long Beach Southeast Farmers Market",
+	address_1 : "2nd St. and N. Marina Dr.",
+	address_2 : "Parking lot of the Alamitos Bay Marina, on E. Marina Dr. one quarter mile south of E. 2nd St., just west of PCH",
+	city      : "Long Beach",
+	zip       : "90803",
+	category  : "Farmers Market",
+	website   : "http://lbfresh.org/eaters/find-local-food/farmers-markets/",
+	phone     : "(562)449-9299",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Sun",
+		open      : "900",
+		close     : "1400"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/long-beach-southeast/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "33.8426",
+	longitude : "-118.1849",
+	name      : "Long Beach Uptown Farmers Market",
+	address_1 : "E 46Th St & Atlantic Ave",
+	address_2 : "",
+	city      : "Long Beach",
+	zip       : "90807",
+	category  : "Farmers Market",
+	website   : "http://lbfresh.org/eaters/find-local-food/farmers-markets/",
+	phone     : "(562)449-9299",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Thu",
+		open      : "1500",
+		close     : "1830"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/long-beach-uptown/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.104458",
+	longitude : "-118.292219",
+	name      : "Los Feliz Village CFM",
+	address_1 : "1825 North Vermont Avenue",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90027",
+	category  : "Farmers Market",
+	website   : "https://www.yelp.com/biz/los-feliz-village-farmers-market-los-angeles",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Sun",
+		open      : "900",
+		close     : "1400"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/los-feliz-village-cfm/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.0347",
+	longitude : "-118.6912",
+	name      : "Malibu Farmers Market",
+	address_1 : "23555 Civic Center Way",
+	address_2 : "",
+	city      : "Malibu",
+	zip       : "90265",
+	category  : "Farmers Market",
+	website   : "https://www.facebook.com/pages/Malibu-Farmers-Market/112872675433982",
+	phone     : "(310)428-4262",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Sun",
+		open      : "1000",
+		close     : "1500"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/malibu/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "33.8867",
+	longitude : "-118.4094",
+	name      : "Manhattan Beach Farmers Market",
+	address_1 : "326 13th St",
+	address_2 : "",
+	city      : "Manhattan Beach",
+	zip       : "90266",
+	category  : "Farmers Market",
+	website   : "http://downtownmanhattanbeach.com/manhattan-beach-farmers-market/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Tue",
+		open      : "1100",
+		close     : "1600"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/manhattan-beach/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.0042",
+	longitude : "-118.4305",
+	name      : "Mar Vista Farmers Market",
+	address_1 : "3826 Grand View Blvd",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90066",
+	category  : "Farmers Market",
+	website   : "http://www.marvistafarmersmarket.org/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Sun",
+		open      : "900",
+		close     : "1400"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/mar-vista/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.0617",
+	longitude : "-118.3535",
+	name      : "Miracle Mile Farmers Market",
+	address_1 : "5700 Wilshire Blvd",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90036",
+	category  : "Farmers Market",
+	website   : "",
+	phone     : "(818)591-8161",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Wed",
+		open      : "1100",
+		close     : "1500"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/miracle-mile/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.1448",
+	longitude : "-118.0009",
+	name      : "Monrovia Farmers Market - Friday",
+	address_1 : "200 Block of Myrtle Ave @ Olive",
+	address_2 : "",
+	city      : "Monrovia",
+	zip       : "91016",
+	category  : "Farmers Market",
+	website   : "http://www.farmersmarketonline.com/fm/MonroviaFarmersMarket.html",
+	phone     : "(626)932-5501",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Fri",
+		open      : "1730",
+		close     : "2100"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/monrovia-friday/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.0591",
+	longitude : "-118.1247",
+	name      : "Monterey Park Farmers Market",
+	address_1 : "318 S. Ramona Ave",
+	address_2 : "",
+	city      : "Monterey Park",
+	zip       : "91754",
+	category  : "Farmers Market",
+	website   : "http://www.montereypark.ca.gov/686/Farmers-Market",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Fri",
+		open      : "1600",
+		close     : "2000"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/monterey-park/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.4222",
+	longitude : "-119.713",
+	name      : "Montrose Harvest Market Farmers Market",
+	address_1 : "Honolulu & Ocean Avenue",
+	address_2 : "",
+	city      : "Santa Barbara",
+	zip       : "93101",
+	category  : "Farmers Market",
+	website   : "",
+	phone     : "(805)637-6635",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Mon",
+		open      : "1000",
+		close     : "1500"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/montrose-harvest-market/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.0292",
+	longitude : "-118.4107",
+	name      : "Motor Avenue Farmers Market",
+	address_1 : "10316 National @ Motor Ave.",
+	address_2 : "Free Parking: 3376 Motor Avenue",
+	city      : "Los Angeles",
+	zip       : "90034",
+	category  : "Farmers Market",
+	website   : "http://www.motoravenuemarket.com/",
+	phone     : "(310)202-9002",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Tue",
+		open      : "1100",
+		close     : "1600"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/motor-avenue/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.3815",
+	longitude : "-118.5293",
+	name      : "Newhall Farmers Market",
+	address_1 : "24500 Main Street",
+	address_2 : "",
+	city      : "Santa Clarita",
+	zip       : "91321",
+	category  : "Farmers Market",
+	website   : "http://oldtownnewhall.com/old-town-newhall-farmers-market/",
+	phone     : "(661)250-3787",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Sat",
+		open      : "830",
+		close     : "1230"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/newhall/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.2392",
+	longitude : "-118.5538",
+	name      : "Northridge Farmers Market And Family Festival",
+	address_1 : "9301 Tampa Ave",
+	address_2 : "",
+	city      : "Northridge",
+	zip       : "91324",
+	category  : "Farmers Market",
+	website   : "",
+	phone     : "(805)643-6458",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Wed",
+		open      : "1700",
+		close     : "2100"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/northridge-and-family-festival/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.236",
+	longitude : "-118.5283",
+	name      : "Northridge University Farmers Market",
+	address_1 : "18111 Nordroff Street",
+	address_2 : "",
+	city      : "Northridge",
+	zip       : "91330",
+	category  : "Farmers Market",
+	website   : "",
+	phone     : "(818)677-1200",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Tue",
+		open      : "1000",
+		close     : "1400"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/northridge-university/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.10988",
+	longitude : "-118.192888",
+	name      : "Old Highland Park Farmers Market",
+	address_1 : "5703 N Figueroa St",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90042",
+	category  : "Farmers Market",
+	website   : "http://oldla.org/farmers-market/",
+	phone     : "(323)255-5030",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Tue",
+		open      : "1500",
+		close     : "1900"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/old-highland-park/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.1106",
+	longitude : "-118.1928",
+	name      : "Old L.A. Farmers Market",
+	address_1 : "North Figueroa & Ave. 58",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90042",
+	category  : "Farmers Market",
+	website   : "",
+	phone     : "(323)449-4100",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Tue",
+		open      : "1500",
+		close     : "2000"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/old-l-a-/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "33.7767",
+	longitude : "-118.3749",
+	name      : "Palos Verdes Farmers Market",
+	address_1 : "27118 Silver Spur Rd",
+	address_2 : "",
+	city      : "Rolling Hills Estates",
+	zip       : "90274",
+	category  : "Farmers Market",
+	website   : "",
+	phone     : "(310)328-8076",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Sun",
+		open      : "800",
+		close     : "1300"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/palos-verdes/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "33.9026",
+	longitude : "-118.1602",
+	name      : "Paramount Farmers Market",
+	address_1 : "15500 Downey Ave",
+	address_2 : "",
+	city      : "Paramount",
+	zip       : "90723",
+	category  : "Farmers Market",
+	website   : "",
+	phone     : "(562)220-2224",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Fri",
+		open      : "930",
+		close     : "1330"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/paramount/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.1604",
+	longitude : "-118.0929",
+	name      : "Pasadena Victory Park Farmers Market",
+	address_1 : "2900 N. Sierra Madre Blvd between Paloma and Washington Avenues",
+	address_2 : "",
+	city      : "Pasadena",
+	zip       : "91107",
+	category  : "Farmers Market",
+	website   : "http://www.pasadenafarmersmarket.org/pasadena_farmers_market_victory_park.html",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Sat",
+		open      : "830",
+		close     : "1230"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/pasadena-victory-park/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.1551",
+	longitude : "-118.1429",
+	name      : "Pasadena Villa Parke Farmers Market",
+	address_1 : "363 E. Villa St.",
+	address_2 : "",
+	city      : "Pasadena",
+	zip       : "91101",
+	category  : "Farmers Market",
+	website   : "http://www.pasadenafarmersmarket.org/pasadena_farmers_market_villa_parke.html",
+	phone     : "(626)449-0179",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Tue",
+		open      : "830",
+		close     : "1230"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/pasadena-villa-parke/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "33.9726",
+	longitude : "-118.4219",
+	name      : "Playa Vista Farmers Market",
+	address_1 : "12775 W. Millennium Drive",
+	address_2 : "",
+	city      : "Playa Vista",
+	zip       : "90094",
+	category  : "Farmers Market",
+	website   : "http://www.farmermark.com/playavista/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Sat",
+		open      : "900",
+		close     : "1400"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/playa-vista/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.064542",
+	longitude : "-117.750371",
+	name      : "Pomona Valley CFM",
+	address_1 : "Corner of Pearl St & Garey Ave",
+	address_2 : "",
+	city      : "Pomona",
+	zip       : "91767",
+	category  : "Farmers Market",
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Sat",
+		open      : "730",
+		close     : "1130"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/pomona-valley-cfm/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "33.8365",
+	longitude : "-118.3895",
+	name      : "Redondo Beach Farmers Market",
+	address_1 : "309 Esplanade",
+	address_2 : "",
+	city      : "Redondo Beach",
+	zip       : "90277",
+	category  : "Farmers Market",
+	website   : "",
+	phone     : "(310)372-1171",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Thu",
+		open      : "800",
+		close     : "1300"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/redondo-beach/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "33.8193",
+	longitude : "-118.3884",
+	name      : "Riviera Village Farmers Market",
+	address_1 : "S Elena St & Avenida del Norte",
+	address_2 : "",
+	city      : "Redondo Beach",
+	zip       : "90277",
+	category  : "Farmers Market",
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Sun",
+		open      : "800",
+		close     : "1300"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/riviera-village/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.0803",
+	longitude : "-118.0763",
+	name      : "Rosemead Farmers Market",
+	address_1 : "8838 Valley Blvd.",
+	address_2 : "",
+	city      : "Rosemead",
+	zip       : "91770",
+	category  : "Farmers Market",
+	website   : "http://www.cityofrosemead.org/index.aspx?recordid=1528&page=13",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Mon",
+		open      : "1600",
+		close     : "2000"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/rosemead/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "33.7388",
+	longitude : "-118.2857",
+	name      : "San Pedro Farmers Market",
+	address_1 : "W 6Th St & S Mesa St",
+	address_2 : "",
+	city      : "San Pedro",
+	zip       : "90731",
+	category  : "Farmers Market",
+	website   : "",
+	phone     : "(310)832-2183",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Fri",
+		open      : "900",
+		close     : "1400"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/san-pedro/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.4042",
+	longitude : "-118.5683",
+	name      : "Santa Clarita Farmers Market",
+	address_1 : "College of the Canyons Valencia Campus",
+	address_2 : "26455 Rockwell Canyon Rd.",
+	city      : "Valencia",
+	zip       : "91355",
+	category  : "Farmers Market",
+	website   : "http://visitsantaclarita.com/dining/farmers-markets/santa-clarita-farmers-market/",
+	phone     : "(805)529-6266",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Sun",
+		open      : "830",
+		close     : "1200"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/santa-clarita/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "33.9456",
+	longitude : "-118.0827",
+	name      : "Santa Fe Springs Farmers Market",
+	address_1 : "11740 Telegraph Road",
+	address_2 : "",
+	city      : "Santa Fe Springs",
+	zip       : "90670",
+	category  : "Farmers Market",
+	website   : "",
+	phone     : "(562)863-4896",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Wed",
+		open      : "1700",
+		close     : "2100"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/santa-fe-springs/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.0162",
+	longitude : "-118.4986",
+	name      : "Santa Monica Downtown Farmers Market",
+	address_1 : "Arizona Ave between 4th St and Ocean",
+	address_2 : "",
+	city      : "Santa Monica",
+	zip       : "90401",
+	category  : "Farmers Market",
+	website   : "http://www.smgov.net/portals/farmersmarket/",
+	phone     : "(310)458-8712",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Sat",
+		open      : "830",
+		close     : "1300"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/santa-monica-downtown/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.0208",
+	longitude : "-118.4677",
+	name      : "Santa Monica Farmers Market - Saturday Virginia Avenue Park",
+	address_1 : "2200 Virginia Avenue",
+	address_2 : "(Pico Blvd. @ Cloverfield Blvd.)",
+	city      : "Santa Monica",
+	zip       : "90405",
+	category  : "Farmers Market",
+	website   : "http://www.smgov.net/portals/farmersmarket/",
+	phone     : "(310)458-8712",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Sat",
+		open      : "800",
+		close     : "1300"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/santa-monica-saturday-virginia-avenue-park/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.0023",
+	longitude : "-118.4833",
+	name      : "Santa Monica Farmers Market - Sunday Main Street",
+	address_1 : "2640 Main Street",
+	address_2 : "(in Heritage Square)",
+	city      : "Santa Monica",
+	zip       : "90405",
+	category  : "Farmers Market",
+	website   : "http://www.smgov.net/portals/farmersmarket/",
+	phone     : "(310)458-8712",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Sun",
+		open      : "830",
+		close     : "1330"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/santa-monica-sunday-main-street/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.1077",
+	longitude : "-118.0579",
+	name      : "Temple City Farmers Market",
+	address_1 : "9701 Las  Tunas Dr",
+	address_2 : "",
+	city      : "Temple City",
+	zip       : "91780",
+	category  : "Farmers Market",
+	website   : "http://www.ci.temple-city.ca.us/287/Farmers-Market",
+	phone     : "(626)422-1419",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Sun",
+		open      : "830",
+		close     : "1300"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/temple-city/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.1841",
+	longitude : "-118.6058",
+	name      : "The Village Farmers Market",
+	address_1 : "6250 Topanga Blvd.",
+	address_2 : "",
+	city      : "Woodland HIlls",
+	zip       : "91367",
+	category  : "Farmers Market",
+	website   : "http://www.ci.temple-city.ca.us/287/Farmers-Market",
+	phone     : "(818)591-8161",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Sun",
+		open      : "900",
+		close     : "1300"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/the-village/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.0408",
+	longitude : "-118.2497",
+	name      : "The WALL Food + Flowers + Farmers Market",
+	address_1 : "755 Wall Street",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90014",
+	category  : "Farmers Market",
+	website   : "http://www.laflowerdistrict.com/farmers-market",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Sat",
+		open      : "900",
+		close     : "1400"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/the-wall-food-flowers-/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.1522",
+	longitude : "-118.3538",
+	name      : "Toluca Lake Farmers Market",
+	address_1 : "Sancola Ave & Riverside Dr",
+	address_2 : "",
+	city      : "Toluca Lake",
+	zip       : "91610",
+	category  : "Farmers Market",
+	website   : "http://dola.com/events/weekly/sun/toluca-lake-farmers-market",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Sun",
+		open      : "1000",
+		close     : "1500"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/toluca-lake/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.112172",
+	longitude : "-118.589828",
+	name      : "Topanga Canyon CFM",
+	address_1 : "1440 North Topanga Canyon Blvd.",
+	address_2 : "",
+	city      : "Topanga",
+	zip       : "90503",
+	category  : "Farmers Market",
+	website   : "http://www.sfma.net/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Fri",
+		open      : "900",
+		close     : "1300"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/topanga-canyon-cfm/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "33.8387",
+	longitude : "-118.3568",
+	name      : "Torrance Providence Farmers Market",
+	address_1 : "4101 Torranc Blvd. @ Hawthorne Blvd",
+	address_2 : "",
+	city      : "Torrance",
+	zip       : "90503",
+	category  : "Farmers Market",
+	website   : "https://www.hlinc.co/little-company-of-mary-torrance",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Fri",
+		open      : "1000",
+		close     : "1500"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/torrance-providence/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "33.8249",
+	longitude : "-118.3284",
+	name      : "Torrance Farmers Market -Tuesday and saturday- 2200 Crenshaw Blvd Torrance,Ca.90501",
+	address_1 : "2200 Crenshaw Blvd",
+	address_2 : "",
+	city      : "Torrance",
+	zip       : "90501",
+	category  : "Farmers Market",
+	website   : "http://www.torranceca.gov/6620.htm",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Tue",
+		open      : "800",
+		close     : "1300"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/torrance-tuesday-and-saturday-2200-crenshaw-blvd-torrance-ca-90501/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "33.9791",
+	longitude : "-118.0362",
+	name      : "Uptown Whittier Farmers Market",
+	address_1 : "Bright Ave & Philadelphia St",
+	address_2 : "13018 Philadelphia St.",
+	city      : "Whittier",
+	zip       : "90602",
+	category  : "Farmers Market",
+	website   : "http://whittieruptown.org/fridaymarket/",
+	phone     : "(562)696-2662",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Fri",
+		open      : "800",
+		close     : "1300"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/uptown-whittier/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.0209",
+	longitude : "-118.2807",
+	name      : "USC Hospitality Farmers Market",
+	address_1 : "3445 S. Figueroa Street",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90007",
+	category  : "Farmers Market",
+	website   : "http://hospitality.usc.edu/",
+	phone     : "(213)821-5707",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Wed",
+		open      : "1100",
+		close     : "1500"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/usc-hospitality/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.4159",
+	longitude : "-118.5582",
+	name      : "Valencia Farmers Market",
+	address_1 : "24201 Valencia Blvd",
+	address_2 : "",
+	city      : "valencia",
+	zip       : "91355",
+	category  : "Farmers Market",
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Thu",
+		open      : "1600",
+		close     : "2000"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/valencia/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "33.9876",
+	longitude : "-118.466",
+	name      : "Venice Farmers Market",
+	address_1 : "N Venice Blvd & Venice Way",
+	address_2 : "",
+	city      : "Venice",
+	zip       : "90291",
+	category  : "Farmers Market",
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Fri",
+		open      : "700",
+		close     : "1100"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/venice/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "33.9435",
+	longitude : "-118.2524",
+	name      : "Watts Healthy Farmers Market",
+	address_1 : "1335 East 103rd Street",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90002",
+	category  : "Farmers Market",
+	website   : "http://seela.org/venue/watts-healthy-farmers-market-2/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Sat",
+		open      : "1000",
+		close     : "1400"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/watts-healthy/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.0398",
+	longitude : "-118.3348",
+	name      : "Wellington Square Farmers Market",
+	address_1 : "4394 W Washington Blvd.",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90016",
+	category  : "Farmers Market",
+	website   : "https://www.wellingtonsquarefarmersmarket.com/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Sun",
+		open      : "900",
+		close     : "1300"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/wellington-square/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.0706",
+	longitude : "-117.9215",
+	name      : "West Covina Farmers Market",
+	address_1 : "195 S. Glendora Ave.",
+	address_2 : "",
+	city      : "West Covina",
+	zip       : "91790",
+	category  : "Farmers Market",
+	website   : "http://westcovinafarmersmarket.org/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Sat",
+		open      : "800",
+		close     : "1300"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/west-covina/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.0926",
+	longitude : "-118.3511",
+	name      : "West Hollywood Farmers Market",
+	address_1 : "1200 N Vista St",
+	address_2 : "",
+	city      : "West Hollywood",
+	zip       : "90046",
+	category  : "Farmers Market",
+	website   : "http://www.weho.org/residents/recreation-services/helen-albert-certified-farmers-market",
+	phone     : "(323)845-6535",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Mon",
+		open      : "900",
+		close     : "1400"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/west-hollywood/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.0457",
+	longitude : "-118.4505",
+	name      : "West Los Angeles Farmers Market",
+	address_1 : "1645 Corinth Avenue at Santa Monica Blvd",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90025",
+	category  : "Farmers Market",
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Sun",
+		open      : "900",
+		close     : "1400"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/west-los-angeles/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "33.9586",
+	longitude : "-118.394",
+	name      : "Westchester Farmers Market",
+	address_1 : "7000 W Manchester Ave",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90045",
+	category  : "Farmers Market",
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Wed",
+		open      : "830",
+		close     : "1300"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/westchester/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.057",
+	longitude : "-118.4494",
+	name      : "Westwood Village Farmers Market",
+	address_1 : "1083 Braxton Avenue",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90024",
+	category  : "Farmers Market",
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Thu",
+		open      : "1200",
+		close     : "1800"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/westwood-village/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "33.9532",
+	longitude : "-118.0443",
+	name      : "Whittier Host Lions Farmers Market",
+	address_1 : "9401 S Painter Ave",
+	address_2 : "",
+	city      : "Whittier",
+	zip       : "90605",
+	category  : "Farmers Market",
+	website   : "http://www.whittierfarmersmarket.org/",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Sat",
+		open      : "900",
+		close     : "1300"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/whittier-host-lions/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "33.7867",
+	longitude : "-118.263",
+	name      : "Wilmington Farmers Market",
+	address_1 : "Avalon and L St.",
+	address_2 : "",
+	city      : "Wilminton",
+	zip       : "90744",
+	category  : "Farmers Market",
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Thu",
+		open      : "900",
+		close     : "1300"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/wilmington/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.157224",
+	longitude : "-118.63876",
+	name      : "Woodland Hills Farmers Market",
+	address_1 : "23504 Calabasas Rd",
+	address_2 : "",
+	city      : "Calabasas",
+	zip       : "91302",
+	category  : "Farmers Market",
+	website   : "",
+	phone     : "(818)591-8161",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Sat",
+		open      : "800",
+		close     : "1300"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/woodland-hills/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.1571",
+	longitude : "-118.4379",
+	name      : "Woodman Avenue Farmers Market",
+	address_1 : "14006 Riverside Dr",
+	address_2 : "",
+	city      : "Sherman Oaks",
+	zip       : "91423",
+	category  : "Farmers Market",
+	website   : "",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "Tue",
+		open      : "1500",
+		close     : "1900"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/farmers-market/woodman-avenue/"
+	
+
+	, content   : "   "
+	
+}
+
+
+,
+
+
+
+{
 	latitude  : "34.0257601",
 	longitude : "-118.256703",
 	name      : "All Peoples Christian Center",
@@ -46,7 +7854,7 @@ var locations = [
 	uri       : "/food-pantry/all-peoples-christian-center/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -101,7 +7909,7 @@ var locations = [
 	uri       : "/food-pantry/all-saints-conference/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -148,7 +7956,7 @@ var locations = [
 	uri       : "/food-pantry/all-saints-episcopal-church-highland-park/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -203,7 +8011,7 @@ var locations = [
 	uri       : "/food-pantry/altadena-s-d-a-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -250,7 +8058,7 @@ var locations = [
 	uri       : "/food-pantry/ananda-marga-of-l-a-inc-/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -297,7 +8105,7 @@ var locations = [
 	uri       : "/food-pantry/ascensions/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -344,7 +8152,7 @@ var locations = [
 	uri       : "/food-pantry/baldwin-park-bilingual-s-d-a-/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -391,7 +8199,7 @@ var locations = [
 	uri       : "/food-pantry/belvue-presbyterian-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -438,7 +8246,7 @@ var locations = [
 	uri       : "/food-pantry/berean-s-d-a-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -485,7 +8293,7 @@ var locations = [
 	uri       : "/food-pantry/bethel-ame-church-richard-allen-center/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -540,7 +8348,7 @@ var locations = [
 	uri       : "/food-pantry/bethel-s-d-a-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -595,7 +8403,7 @@ var locations = [
 	uri       : "/food-pantry/bethel-unspeakable-joy-christian-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -642,7 +8450,7 @@ var locations = [
 	uri       : "/food-pantry/bethesda-temple-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -689,7 +8497,7 @@ var locations = [
 	uri       : "/food-pantry/blessed-sacrament-hope-net/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -736,7 +8544,7 @@ var locations = [
 	uri       : "/food-pantry/blood-of-jesus-prayer-and-deliverance-ministry/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -791,7 +8599,7 @@ var locations = [
 	uri       : "/food-pantry/bread-of-life-community-outreach/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -846,7 +8654,7 @@ var locations = [
 	uri       : "/food-pantry/breath-of-life-s-d-a-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -925,7 +8733,7 @@ var locations = [
 	uri       : "/food-pantry/burbank-temporary-aid-center/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -972,7 +8780,7 @@ var locations = [
 	uri       : "/food-pantry/calvary-presbyterian-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -1027,7 +8835,7 @@ var locations = [
 	uri       : "/food-pantry/cathloic-charities-of-los-angeles-inc-/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -1106,7 +8914,7 @@ var locations = [
 	uri       : "/food-pantry/catholic-charities-brownson-house/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -1185,7 +8993,7 @@ var locations = [
 	uri       : "/food-pantry/catholic-charities-of-l-a-/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -1256,7 +9064,7 @@ var locations = [
 	uri       : "/food-pantry/catholic-charities-of-los-angeles-inc-/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -1335,7 +9143,7 @@ var locations = [
 	uri       : "/food-pantry/catholic-charities-region-2/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -1414,7 +9222,7 @@ var locations = [
 	uri       : "/food-pantry/catholic-rainbow-outreach/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -1461,7 +9269,7 @@ var locations = [
 	uri       : "/food-pantry/ccc-ebenezery-parish/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -1508,7 +9316,7 @@ var locations = [
 	uri       : "/food-pantry/central-filipino-s-d-a-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -1555,7 +9363,7 @@ var locations = [
 	uri       : "/food-pantry/centro-cristiano-las-buenas-nuevas/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -1602,7 +9410,7 @@ var locations = [
 	uri       : "/food-pantry/centro-cristiano-manantial-de-vida/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -1649,7 +9457,7 @@ var locations = [
 	uri       : "/food-pantry/centro-de-vida-international-church-movement/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -1704,7 +9512,7 @@ var locations = [
 	uri       : "/food-pantry/centro-palabra-de-fe/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -1751,7 +9559,7 @@ var locations = [
 	uri       : "/food-pantry/chapel-of-peace-lutheran-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -1814,7 +9622,7 @@ var locations = [
 	uri       : "/food-pantry/charismatic-ecumencial-ministries-international/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -1861,7 +9669,7 @@ var locations = [
 	uri       : "/food-pantry/children-of-the-shepherd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -1908,7 +9716,7 @@ var locations = [
 	uri       : "/food-pantry/childrens-hospital-los-angeles/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -1963,7 +9771,7 @@ var locations = [
 	uri       : "/food-pantry/chinese-community-service-center/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -2010,7 +9818,7 @@ var locations = [
 	uri       : "/food-pantry/christ-centered-ministries-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -2057,7 +9865,7 @@ var locations = [
 	uri       : "/food-pantry/christ-gospel-prayer-center/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -2104,7 +9912,7 @@ var locations = [
 	uri       : "/food-pantry/christ-the-good-shepherd-episcopal/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -2175,7 +9983,7 @@ var locations = [
 	uri       : "/food-pantry/christian-association-for-social-services/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -2230,7 +10038,7 @@ var locations = [
 	uri       : "/food-pantry/church-of-god/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -2285,7 +10093,7 @@ var locations = [
 	uri       : "/food-pantry/church-of-the-epiphany/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -2332,7 +10140,7 @@ var locations = [
 	uri       : "/food-pantry/church-of-the-nazarene-rosemead/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -2419,7 +10227,7 @@ var locations = [
 	uri       : "/food-pantry/church-of-the-redeemer/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -2474,7 +10282,7 @@ var locations = [
 	uri       : "/food-pantry/church-of-the-valley/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -2521,7 +10329,7 @@ var locations = [
 	uri       : "/food-pantry/city-of-commerce-community-center/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -2568,7 +10376,7 @@ var locations = [
 	uri       : "/food-pantry/city-of-maywood/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -2647,7 +10455,7 @@ var locations = [
 	uri       : "/food-pantry/city-of-norwark-department-of-social-services/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -2702,7 +10510,7 @@ var locations = [
 	uri       : "/food-pantry/city-of-truth-ministries/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -2749,7 +10557,7 @@ var locations = [
 	uri       : "/food-pantry/coast-christian-fellowship/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -2796,7 +10604,7 @@ var locations = [
 	uri       : "/food-pantry/congregational-church-of-chatsworth/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -2843,7 +10651,7 @@ var locations = [
 	uri       : "/food-pantry/cornerstone-christian-ministry/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -2898,7 +10706,7 @@ var locations = [
 	uri       : "/food-pantry/corys-kitchen-calvary-chapel-pico-rivera/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -2945,7 +10753,7 @@ var locations = [
 	uri       : "/food-pantry/corys-kitchen-el-sereno/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -2992,7 +10800,7 @@ var locations = [
 	uri       : "/food-pantry/corys-kitchen-faith-center-ministries/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -3047,7 +10855,7 @@ var locations = [
 	uri       : "/food-pantry/corys-kitchen-iglesia-torre-de-alabanza/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -3094,7 +10902,7 @@ var locations = [
 	uri       : "/food-pantry/corys-kitchen-new-beginnings/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -3141,7 +10949,7 @@ var locations = [
 	uri       : "/food-pantry/corys-kitchen/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -3188,7 +10996,7 @@ var locations = [
 	uri       : "/food-pantry/cover-the-homeless-ministry/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -3235,7 +11043,7 @@ var locations = [
 	uri       : "/food-pantry/crenshaw-baptist-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -3282,7 +11090,7 @@ var locations = [
 	uri       : "/food-pantry/crenshaw-united-methodist-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -3329,7 +11137,7 @@ var locations = [
 	uri       : "/food-pantry/crusaders-for-christ-baptist-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -3384,7 +11192,7 @@ var locations = [
 	uri       : "/food-pantry/cush-foundation/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -3431,7 +11239,7 @@ var locations = [
 	uri       : "/food-pantry/dae-hueng-presbyterian-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -3494,7 +11302,7 @@ var locations = [
 	uri       : "/food-pantry/do-right-christian-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -3549,7 +11357,7 @@ var locations = [
 	uri       : "/food-pantry/door-of-hope-community-center/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -3620,7 +11428,7 @@ var locations = [
 	uri       : "/food-pantry/dos-testamentos-en-el-desierto/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -3683,7 +11491,7 @@ var locations = [
 	uri       : "/food-pantry/east-l-a-bilingual-s-d-a-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -3730,7 +11538,7 @@ var locations = [
 	uri       : "/food-pantry/east-la-community-corporation/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -3777,7 +11585,7 @@ var locations = [
 	uri       : "/food-pantry/east-palmdale-foursquare/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -3856,7 +11664,7 @@ var locations = [
 	uri       : "/food-pantry/east-san-gabriel-valley-coalition-for-the-homeless/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -3919,7 +11727,7 @@ var locations = [
 	uri       : "/food-pantry/eastmont-community-center/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -3966,7 +11774,7 @@ var locations = [
 	uri       : "/food-pantry/eastmont-s-d-a-spanish-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -4013,7 +11821,7 @@ var locations = [
 	uri       : "/food-pantry/echo-park-united-methodist/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -4068,7 +11876,7 @@ var locations = [
 	uri       : "/food-pantry/ecumenical-council-of-pasadena-area-congregations/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -4115,7 +11923,7 @@ var locations = [
 	uri       : "/food-pantry/ed-frankie-benson-evangelistic-ministries/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -4194,7 +12002,7 @@ var locations = [
 	uri       : "/food-pantry/el-monte-south-emergency/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -4241,7 +12049,7 @@ var locations = [
 	uri       : "/food-pantry/eliza-shanks-homes-inc-/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -4288,7 +12096,7 @@ var locations = [
 	uri       : "/food-pantry/esmirna-pentecostal-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -4343,7 +12151,7 @@ var locations = [
 	uri       : "/food-pantry/estelle-van-meter-multipurpose/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -4398,7 +12206,7 @@ var locations = [
 	uri       : "/food-pantry/estrada-courts-community-center/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -4453,7 +12261,7 @@ var locations = [
 	uri       : "/food-pantry/evergreen-baptist-church-of-san-gabriel-valley/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -4516,7 +12324,7 @@ var locations = [
 	uri       : "/food-pantry/family-church-whittier/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -4563,7 +12371,7 @@ var locations = [
 	uri       : "/food-pantry/family-mennonite-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -4618,7 +12426,7 @@ var locations = [
 	uri       : "/food-pantry/fifty-fourth-street-s-d-a-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -4665,7 +12473,7 @@ var locations = [
 	uri       : "/food-pantry/figueroa-church-of-christ/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -4712,7 +12520,7 @@ var locations = [
 	uri       : "/food-pantry/filipino-baptist-fellowship-of-long-beach/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -4759,7 +12567,7 @@ var locations = [
 	uri       : "/food-pantry/filipino-christian-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -4806,7 +12614,7 @@ var locations = [
 	uri       : "/food-pantry/first-african-methodist-episcopal-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -4853,7 +12661,7 @@ var locations = [
 	uri       : "/food-pantry/first-baptist-church-hope-net/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -4908,7 +12716,7 @@ var locations = [
 	uri       : "/food-pantry/first-church-of-the-nazarene-altadena/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -4955,7 +12763,7 @@ var locations = [
 	uri       : "/food-pantry/first-church-of-the-nazarene-pasadena/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -5010,7 +12818,7 @@ var locations = [
 	uri       : "/food-pantry/first-lutheran-church-of-inglewood/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -5065,7 +12873,7 @@ var locations = [
 	uri       : "/food-pantry/first-missionary-baptist-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -5112,7 +12920,7 @@ var locations = [
 	uri       : "/food-pantry/first-new-christian-fellowship/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -5167,7 +12975,7 @@ var locations = [
 	uri       : "/food-pantry/first-presbyterian-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -5214,7 +13022,7 @@ var locations = [
 	uri       : "/food-pantry/first-southern-baptist-church-of-hollywood/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -5261,7 +13069,7 @@ var locations = [
 	uri       : "/food-pantry/first-unitarian-church-hope-net/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -5308,7 +13116,7 @@ var locations = [
 	uri       : "/food-pantry/first-united-methodist-church-of-la-puente/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -5387,7 +13195,7 @@ var locations = [
 	uri       : "/food-pantry/food-net-asian-service-center/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -5450,7 +13258,7 @@ var locations = [
 	uri       : "/food-pantry/food-net-centro-maravilla/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -5521,7 +13329,7 @@ var locations = [
 	uri       : "/food-pantry/food-net-east-los-angeles-center/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -5576,7 +13384,7 @@ var locations = [
 	uri       : "/food-pantry/food-net-east-rancho-dominguez/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -5623,7 +13431,7 @@ var locations = [
 	uri       : "/food-pantry/food-net-florence-firestone-center/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -5686,7 +13494,7 @@ var locations = [
 	uri       : "/food-pantry/food-net-los-nietos-service-center/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -5733,7 +13541,7 @@ var locations = [
 	uri       : "/food-pantry/food-net-san-gabriel-valley-center/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -5804,7 +13612,7 @@ var locations = [
 	uri       : "/food-pantry/food-net-san-pedro-service-center/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -5883,7 +13691,7 @@ var locations = [
 	uri       : "/food-pantry/food-net-santa-clarita-service-center/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -5938,7 +13746,7 @@ var locations = [
 	uri       : "/food-pantry/food-net-willowbrook-senior-center/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -6001,7 +13809,7 @@ var locations = [
 	uri       : "/food-pantry/foothill-unity-center/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -6080,7 +13888,7 @@ var locations = [
 	uri       : "/food-pantry/fred-jordan-mission/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -6127,7 +13935,7 @@ var locations = [
 	uri       : "/food-pantry/fuller-theological-seminary/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -6182,7 +13990,7 @@ var locations = [
 	uri       : "/food-pantry/gardena-s-d-a-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -6229,7 +14037,7 @@ var locations = [
 	uri       : "/food-pantry/gardena-valley-assembly-of-god/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -6276,7 +14084,7 @@ var locations = [
 	uri       : "/food-pantry/glendale-filipino-s-d-a-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -6323,7 +14131,7 @@ var locations = [
 	uri       : "/food-pantry/good-news-central-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -6378,7 +14186,7 @@ var locations = [
 	uri       : "/food-pantry/good-news-missionary-baptist-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -6425,7 +14233,7 @@ var locations = [
 	uri       : "/food-pantry/good-news-prayer-center/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -6472,7 +14280,7 @@ var locations = [
 	uri       : "/food-pantry/gospel-mission-baptist-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -6519,7 +14327,7 @@ var locations = [
 	uri       : "/food-pantry/grace-evangelical-free-church-of-la-mirada/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -6574,7 +14382,7 @@ var locations = [
 	uri       : "/food-pantry/grace-presbyterian-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -6661,7 +14469,7 @@ var locations = [
 	uri       : "/food-pantry/grace-resource-center-inc-/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -6708,7 +14516,7 @@ var locations = [
 	uri       : "/food-pantry/greater-emmanuel-m-b-c-/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -6755,7 +14563,7 @@ var locations = [
 	uri       : "/food-pantry/greater-new-morning-star-baptist-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -6802,7 +14610,7 @@ var locations = [
 	uri       : "/food-pantry/greater-new-unity-baptist-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -6857,7 +14665,7 @@ var locations = [
 	uri       : "/food-pantry/guadalupe-food-program/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -6904,7 +14712,7 @@ var locations = [
 	uri       : "/food-pantry/h-o-p-e-helping-other-people-excel/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -6951,7 +14759,7 @@ var locations = [
 	uri       : "/food-pantry/hank-lacayo-youth-family-center/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -7006,7 +14814,7 @@ var locations = [
 	uri       : "/food-pantry/harbor-christian-center/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -7061,7 +14869,7 @@ var locations = [
 	uri       : "/food-pantry/hawaiian-gardens-food-bank/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -7108,7 +14916,7 @@ var locations = [
 	uri       : "/food-pantry/heavenly-vision-church-of-god-in-christ/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -7155,7 +14963,7 @@ var locations = [
 	uri       : "/food-pantry/helping-hands-caring-hearts-ministry/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -7226,7 +15034,7 @@ var locations = [
 	uri       : "/food-pantry/helping-in-services-inc-/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -7281,7 +15089,7 @@ var locations = [
 	uri       : "/food-pantry/his-helping-hands/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -7328,7 +15136,7 @@ var locations = [
 	uri       : "/food-pantry/hoap-inc-/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -7383,7 +15191,7 @@ var locations = [
 	uri       : "/food-pantry/hollywood-community-housing/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -7430,7 +15238,7 @@ var locations = [
 	uri       : "/food-pantry/hollywood-lutheran-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -7477,7 +15285,7 @@ var locations = [
 	uri       : "/food-pantry/hollywood-west-tenant-action-committee/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -7540,7 +15348,7 @@ var locations = [
 	uri       : "/food-pantry/holy-cross-center/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -7587,7 +15395,7 @@ var locations = [
 	uri       : "/food-pantry/holy-family-giving-bank/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -7634,7 +15442,7 @@ var locations = [
 	uri       : "/food-pantry/holy-trinity-church-of-god-in-christ/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -7705,7 +15513,7 @@ var locations = [
 	uri       : "/food-pantry/hope-chapel-foursquare-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -7752,7 +15560,7 @@ var locations = [
 	uri       : "/food-pantry/hope-chapel-lancaster/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -7799,7 +15607,7 @@ var locations = [
 	uri       : "/food-pantry/hope-international-bible-fellowship/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -7846,7 +15654,7 @@ var locations = [
 	uri       : "/food-pantry/houses-of-light-church-corporation/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -7893,7 +15701,7 @@ var locations = [
 	uri       : "/food-pantry/hurting-hungry/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -7940,7 +15748,7 @@ var locations = [
 	uri       : "/food-pantry/iglesia-bautista-renacer/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -7987,7 +15795,7 @@ var locations = [
 	uri       : "/food-pantry/iglesia-cristiana-el-shaddai-usa/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -8042,7 +15850,7 @@ var locations = [
 	uri       : "/food-pantry/iglesia-de-la-comunidad-presbyterian-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -8089,7 +15897,7 @@ var locations = [
 	uri       : "/food-pantry/iglesia-evangelica-camino-de-santidad/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -8152,7 +15960,7 @@ var locations = [
 	uri       : "/food-pantry/iglesia-fuente-de-vida-community-center/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -8199,7 +16007,7 @@ var locations = [
 	uri       : "/food-pantry/iglesia-la-puerta-abierta/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -8246,7 +16054,7 @@ var locations = [
 	uri       : "/food-pantry/iglesia-macedonia-defenders-of-the-christian-faith/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -8301,7 +16109,7 @@ var locations = [
 	uri       : "/food-pantry/iglesia-pentecostes-roca-de-salvacion/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -8356,7 +16164,7 @@ var locations = [
 	uri       : "/food-pantry/iglesia-pentecostes-templo-calvario/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -8403,7 +16211,7 @@ var locations = [
 	uri       : "/food-pantry/iglesia-piedra-angular/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -8450,7 +16258,7 @@ var locations = [
 	uri       : "/food-pantry/iglesia-un-renuevo/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -8497,7 +16305,7 @@ var locations = [
 	uri       : "/food-pantry/imani-economic-community-development-corporation/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -8568,7 +16376,7 @@ var locations = [
 	uri       : "/food-pantry/imani-unidos-a-i-d-s-project/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -8615,7 +16423,7 @@ var locations = [
 	uri       : "/food-pantry/immaculate-heart-of-mary-hope-net/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -8662,7 +16470,7 @@ var locations = [
 	uri       : "/food-pantry/immanuel-presbyterian-church-hope-net/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -8709,7 +16517,7 @@ var locations = [
 	uri       : "/food-pantry/imperial-church-of-christ/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -8756,7 +16564,7 @@ var locations = [
 	uri       : "/food-pantry/inglewood-church-of-christ/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -8803,7 +16611,7 @@ var locations = [
 	uri       : "/food-pantry/inglewood-southside-christian-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -8866,7 +16674,7 @@ var locations = [
 	uri       : "/food-pantry/inland-valley-hope-partners/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -8945,7 +16753,7 @@ var locations = [
 	uri       : "/food-pantry/interfaith-food-center/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -8992,7 +16800,7 @@ var locations = [
 	uri       : "/food-pantry/international-families-association/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -9039,7 +16847,7 @@ var locations = [
 	uri       : "/food-pantry/islamic-center-of-southern-ca-hope-net/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -9086,7 +16894,7 @@ var locations = [
 	uri       : "/food-pantry/jesus-christ-the-reedemer-center/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -9133,7 +16941,7 @@ var locations = [
 	uri       : "/food-pantry/jesus-is-the-answer-apostolic-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -9212,7 +17020,7 @@ var locations = [
 	uri       : "/food-pantry/jfs-sova-community-food-resource-program-valley/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -9291,7 +17099,7 @@ var locations = [
 	uri       : "/food-pantry/jfs-sova-community-food-resource-program-west/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -9338,7 +17146,7 @@ var locations = [
 	uri       : "/food-pantry/khalsa-care-foundation/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -9385,7 +17193,7 @@ var locations = [
 	uri       : "/food-pantry/koreatown-multipurpose-senior/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -9432,7 +17240,7 @@ var locations = [
 	uri       : "/food-pantry/la-puente-spanish-s-d-a-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -9479,7 +17287,7 @@ var locations = [
 	uri       : "/food-pantry/la-voz-sylmar-s-d-a-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -9526,7 +17334,7 @@ var locations = [
 	uri       : "/food-pantry/lady-bug-ministry/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -9573,7 +17381,7 @@ var locations = [
 	uri       : "/food-pantry/lawrence-ministries/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -9620,7 +17428,7 @@ var locations = [
 	uri       : "/food-pantry/life-deliverance-ministries/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -9675,7 +17483,7 @@ var locations = [
 	uri       : "/food-pantry/lifeline-community-services-economic-development/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -9722,7 +17530,7 @@ var locations = [
 	uri       : "/food-pantry/lincoln-avenue-baptist-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -9777,7 +17585,7 @@ var locations = [
 	uri       : "/food-pantry/living-hope-community-partnership/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -9840,7 +17648,7 @@ var locations = [
 	uri       : "/food-pantry/living-springs-foursquare-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -9895,7 +17703,7 @@ var locations = [
 	uri       : "/food-pantry/living-truth-christian-fellowship/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -9958,7 +17766,7 @@ var locations = [
 	uri       : "/food-pantry/loaves-fishes-canoga-park/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -10029,7 +17837,7 @@ var locations = [
 	uri       : "/food-pantry/loaves-fishes-glendale/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -10092,7 +17900,7 @@ var locations = [
 	uri       : "/food-pantry/loaves-fishes-van-nuys/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -10139,7 +17947,7 @@ var locations = [
 	uri       : "/food-pantry/los-angeles-boys-girls-club/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -10186,7 +17994,7 @@ var locations = [
 	uri       : "/food-pantry/los-angeles-central-city-s-d-a-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -10233,7 +18041,7 @@ var locations = [
 	uri       : "/food-pantry/los-angeles-first-church-of-the-nazarene-hope-net/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -10280,7 +18088,7 @@ var locations = [
 	uri       : "/food-pantry/los-angeles-housing-partnership/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -10335,7 +18143,7 @@ var locations = [
 	uri       : "/food-pantry/love-faith-christian-center/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -10382,7 +18190,7 @@ var locations = [
 	uri       : "/food-pantry/loveship-community-outreach/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -10453,7 +18261,7 @@ var locations = [
 	uri       : "/food-pantry/lutheran-social-services-of-southern-california/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -10500,7 +18308,7 @@ var locations = [
 	uri       : "/food-pantry/lynwood-all-peoples-first-assembly/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -10547,7 +18355,7 @@ var locations = [
 	uri       : "/food-pantry/lynwood-united-methodist-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -10602,7 +18410,7 @@ var locations = [
 	uri       : "/food-pantry/maranatha-s-d-a-community-center/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -10673,7 +18481,7 @@ var locations = [
 	uri       : "/food-pantry/meet-each-need-with-dignity/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -10720,7 +18528,7 @@ var locations = [
 	uri       : "/food-pantry/metropolitan-community-churchof-l-a-hope-net/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -10767,7 +18575,7 @@ var locations = [
 	uri       : "/food-pantry/mexican-american-opportunity-foundation/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -10814,7 +18622,7 @@ var locations = [
 	uri       : "/food-pantry/mision-cristana-monte-de-sion/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -10861,7 +18669,7 @@ var locations = [
 	uri       : "/food-pantry/missionaries-of-charity/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -10924,7 +18732,7 @@ var locations = [
 	uri       : "/food-pantry/montebello-watch/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -10971,7 +18779,7 @@ var locations = [
 	uri       : "/food-pantry/mt-sinai-c-o-g-i-c-/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -11018,7 +18826,7 @@ var locations = [
 	uri       : "/food-pantry/my-friends-house/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -11073,7 +18881,7 @@ var locations = [
 	uri       : "/food-pantry/new-covenant-tabernacle-of-antelope-valley/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -11128,7 +18936,7 @@ var locations = [
 	uri       : "/food-pantry/new-jerusalem-c-o-g-i-c-/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -11183,7 +18991,7 @@ var locations = [
 	uri       : "/food-pantry/new-life-community-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -11222,7 +19030,7 @@ var locations = [
 	uri       : "/food-pantry/new-life-pomona/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -11269,7 +19077,7 @@ var locations = [
 	uri       : "/food-pantry/new-region-for-christ/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -11316,7 +19124,7 @@ var locations = [
 	uri       : "/food-pantry/normandie-community-development/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -11371,7 +19179,7 @@ var locations = [
 	uri       : "/food-pantry/north-hollywood-interfaith/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -11418,7 +19226,7 @@ var locations = [
 	uri       : "/food-pantry/norwalk-church-of-the-nazarene/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -11473,7 +19281,7 @@ var locations = [
 	uri       : "/food-pantry/nuevo-amanecer/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -11520,7 +19328,7 @@ var locations = [
 	uri       : "/food-pantry/our-lady-of-guadalupe-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -11567,7 +19375,7 @@ var locations = [
 	uri       : "/food-pantry/our-lady-of-talpa-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -11622,7 +19430,7 @@ var locations = [
 	uri       : "/food-pantry/our-lady-of-victory-conference/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -11669,7 +19477,7 @@ var locations = [
 	uri       : "/food-pantry/our-lady-queen-of-angels-catholic-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -11724,7 +19532,7 @@ var locations = [
 	uri       : "/food-pantry/our-saviour-center/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -11795,7 +19603,7 @@ var locations = [
 	uri       : "/food-pantry/palmdale-community-foundation-s-a-v-e-s-/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -11842,7 +19650,7 @@ var locations = [
 	uri       : "/food-pantry/palmdale-foursquare-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -11897,7 +19705,7 @@ var locations = [
 	uri       : "/food-pantry/palmdale-s-d-a-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -11968,7 +19776,7 @@ var locations = [
 	uri       : "/food-pantry/paramount-care-foundation/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -12023,7 +19831,7 @@ var locations = [
 	uri       : "/food-pantry/peace-lutheran-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -12070,7 +19878,7 @@ var locations = [
 	uri       : "/food-pantry/pentecostal-church-of-god/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -12125,7 +19933,7 @@ var locations = [
 	uri       : "/food-pantry/people-for-community-improvement/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -12172,7 +19980,7 @@ var locations = [
 	uri       : "/food-pantry/pico-rivera-iglesia-crece/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -12219,7 +20027,7 @@ var locations = [
 	uri       : "/food-pantry/pilgrims-hope-baptist-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -12266,7 +20074,7 @@ var locations = [
 	uri       : "/food-pantry/pilipino-worker-center-of-southern-california/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -12313,7 +20121,7 @@ var locations = [
 	uri       : "/food-pantry/presentation-of-mary-catholic/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -12392,7 +20200,7 @@ var locations = [
 	uri       : "/food-pantry/prince-of-peace-coalition/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -12471,7 +20279,7 @@ var locations = [
 	uri       : "/food-pantry/prince-of-peace-family-rescue/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -12526,7 +20334,7 @@ var locations = [
 	uri       : "/food-pantry/principe-de-paz/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -12597,7 +20405,7 @@ var locations = [
 	uri       : "/food-pantry/project-2911-a-community-development-corporation/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -12652,7 +20460,7 @@ var locations = [
 	uri       : "/food-pantry/rccg-victory-house-of-california/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -12715,7 +20523,7 @@ var locations = [
 	uri       : "/food-pantry/redeemer-lutheran-outreach/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -12762,7 +20570,7 @@ var locations = [
 	uri       : "/food-pantry/redeemer-missionary-baptist-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -12809,7 +20617,7 @@ var locations = [
 	uri       : "/food-pantry/rehoboth-courage-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -12856,7 +20664,7 @@ var locations = [
 	uri       : "/food-pantry/resting-place-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -12911,7 +20719,7 @@ var locations = [
 	uri       : "/food-pantry/rock-solid-christian-assembly/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -12958,7 +20766,7 @@ var locations = [
 	uri       : "/food-pantry/rosewood-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -13005,7 +20813,7 @@ var locations = [
 	uri       : "/food-pantry/rosewood-revitalization-group/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -13052,7 +20860,7 @@ var locations = [
 	uri       : "/food-pantry/s-a-friendly-village-mobile-park/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -13099,7 +20907,7 @@ var locations = [
 	uri       : "/food-pantry/s-a-mayflower-gardens/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -13146,7 +20954,7 @@ var locations = [
 	uri       : "/food-pantry/s-a-mountain-view-mobile/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -13193,7 +21001,7 @@ var locations = [
 	uri       : "/food-pantry/s-a-pearblossom-united-methodist/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -13240,7 +21048,7 @@ var locations = [
 	uri       : "/food-pantry/s-a-penney-lynn-wind/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -13287,7 +21095,7 @@ var locations = [
 	uri       : "/food-pantry/s-v-p-all-souls-conference/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -13342,7 +21150,7 @@ var locations = [
 	uri       : "/food-pantry/sacred-heart-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -13397,7 +21205,7 @@ var locations = [
 	uri       : "/food-pantry/saint-mark/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -13476,7 +21284,7 @@ var locations = [
 	uri       : "/food-pantry/salvation-army-east-l-a-/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -13547,7 +21355,7 @@ var locations = [
 	uri       : "/food-pantry/salvation-army-l-a-central-corp/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -13602,7 +21410,7 @@ var locations = [
 	uri       : "/food-pantry/salvation-army-lancaster-corp/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -13681,7 +21489,7 @@ var locations = [
 	uri       : "/food-pantry/salvation-army-pasadena-tabernacle/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -13760,7 +21568,7 @@ var locations = [
 	uri       : "/food-pantry/salvation-army-pomona/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -13839,7 +21647,7 @@ var locations = [
 	uri       : "/food-pantry/salvation-army-redondo-beach/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -13910,7 +21718,7 @@ var locations = [
 	uri       : "/food-pantry/salvation-army-santa-clarita-valley-corps/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -13981,7 +21789,7 @@ var locations = [
 	uri       : "/food-pantry/salvation-army-santa-fe-springs/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -14028,7 +21836,7 @@ var locations = [
 	uri       : "/food-pantry/salvation-army-south-l-a-/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -14075,7 +21883,7 @@ var locations = [
 	uri       : "/food-pantry/salvation-army-southeast-comm-corp/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -14154,7 +21962,7 @@ var locations = [
 	uri       : "/food-pantry/salvation-army-whittier-corp-/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -14201,7 +22009,7 @@ var locations = [
 	uri       : "/food-pantry/san-gabriel-mission/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -14248,7 +22056,7 @@ var locations = [
 	uri       : "/food-pantry/san-gabriel-valley-y-w-c-a-/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -14295,7 +22103,7 @@ var locations = [
 	uri       : "/food-pantry/san-miguel-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -14350,7 +22158,7 @@ var locations = [
 	uri       : "/food-pantry/san-pedro-temple-corps/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -14397,7 +22205,7 @@ var locations = [
 	uri       : "/food-pantry/santa-clarita-valley/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -14452,7 +22260,7 @@ var locations = [
 	uri       : "/food-pantry/servants-arms-community-based-organization/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -14499,7 +22307,7 @@ var locations = [
 	uri       : "/food-pantry/shekinah-worship-center/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -14554,7 +22362,7 @@ var locations = [
 	uri       : "/food-pantry/shepherds-pantry/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -14609,7 +22417,7 @@ var locations = [
 	uri       : "/food-pantry/shield-of-faith-christian-center-of-pasadena/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -14656,7 +22464,7 @@ var locations = [
 	uri       : "/food-pantry/shields-for-families/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -14703,7 +22511,7 @@ var locations = [
 	uri       : "/food-pantry/silverlake-community-church-hope-net/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -14782,7 +22590,7 @@ var locations = [
 	uri       : "/food-pantry/southeast-churches-service-center/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -14837,7 +22645,7 @@ var locations = [
 	uri       : "/food-pantry/sowing-seeds-for-life/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -14884,7 +22692,7 @@ var locations = [
 	uri       : "/food-pantry/spanish-american-s-d-a-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -14955,7 +22763,7 @@ var locations = [
 	uri       : "/food-pantry/st-agnes-parish/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -15002,7 +22810,7 @@ var locations = [
 	uri       : "/food-pantry/st-andrew-catholic-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -15049,7 +22857,7 @@ var locations = [
 	uri       : "/food-pantry/st-athanasius-st-paul-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -15096,7 +22904,7 @@ var locations = [
 	uri       : "/food-pantry/st-brigid-catholic-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -15143,7 +22951,7 @@ var locations = [
 	uri       : "/food-pantry/st-catherine-laboure-catholic/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -15190,7 +22998,7 @@ var locations = [
 	uri       : "/food-pantry/st-cecilia-catholic-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -15261,7 +23069,7 @@ var locations = [
 	uri       : "/food-pantry/st-charles-service-center/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -15316,7 +23124,7 @@ var locations = [
 	uri       : "/food-pantry/st-ferdinand-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -15379,7 +23187,7 @@ var locations = [
 	uri       : "/food-pantry/st-francis-center/"
 	
 
-	, content   : "<p>For 45 years, St. Francis Center has provided hunger relief and human services to homeless and extremely low-income families and individuals in Los Angeles.</p>  <p><strong>All program recipients must first register on Tuesdays between 10am-noon.</strong> Please visit the <a href=\"http://sfcla.org/programs/family-well-being/\">St. Francis Center website</a> for more details.</p> "
+	, content   : "  <p>For 45 years, St. Francis Center has provided hunger relief and human services to homeless and extremely low-income families and individuals in Los Angeles.</p>  <p><strong>All program recipients must first register on Tuesdays between 10am-noon.</strong> Please visit the <a href=\"http://sfcla.org/programs/family-well-being/\">St. Francis Center website</a> for more details.</p> "
 	
 },
 
@@ -15434,7 +23242,7 @@ var locations = [
 	uri       : "/food-pantry/st-george-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -15489,7 +23297,7 @@ var locations = [
 	uri       : "/food-pantry/st-gertrudes-conference/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -15536,7 +23344,7 @@ var locations = [
 	uri       : "/food-pantry/st-helen-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -15583,7 +23391,7 @@ var locations = [
 	uri       : "/food-pantry/st-james-episcopal-church-hope-net/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -15638,7 +23446,7 @@ var locations = [
 	uri       : "/food-pantry/st-john-coptic-orthodox/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -15685,7 +23493,7 @@ var locations = [
 	uri       : "/food-pantry/st-john-vianney-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -15740,7 +23548,7 @@ var locations = [
 	uri       : "/food-pantry/st-johns-cathedral-hope-net/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -15803,7 +23611,7 @@ var locations = [
 	uri       : "/food-pantry/st-joseph-conference/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -15858,7 +23666,7 @@ var locations = [
 	uri       : "/food-pantry/st-lawrence-of-brindisi/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -15905,7 +23713,7 @@ var locations = [
 	uri       : "/food-pantry/st-luke-catholic-community/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -15968,7 +23776,7 @@ var locations = [
 	uri       : "/food-pantry/st-margarets-center/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -16015,7 +23823,7 @@ var locations = [
 	uri       : "/food-pantry/st-mark-missionary-baptist/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -16070,7 +23878,7 @@ var locations = [
 	uri       : "/food-pantry/st-mary-st-athanasius-coptic-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -16141,7 +23949,7 @@ var locations = [
 	uri       : "/food-pantry/st-marys-place/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -16196,7 +24004,7 @@ var locations = [
 	uri       : "/food-pantry/st-pauls-methodist-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -16259,7 +24067,7 @@ var locations = [
 	uri       : "/food-pantry/st-peter-and-paul-poverty-program/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -16314,7 +24122,7 @@ var locations = [
 	uri       : "/food-pantry/st-philips-episcopal-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -16361,7 +24169,7 @@ var locations = [
 	uri       : "/food-pantry/st-stephens-community-outreach-program/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -16424,7 +24232,7 @@ var locations = [
 	uri       : "/food-pantry/st-thomas-center/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -16471,7 +24279,7 @@ var locations = [
 	uri       : "/food-pantry/st-vincent-de-paul-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -16526,7 +24334,7 @@ var locations = [
 	uri       : "/food-pantry/star-christian-school/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -16589,7 +24397,7 @@ var locations = [
 	uri       : "/food-pantry/sunland-tujunga-t-a-c-/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -16636,7 +24444,7 @@ var locations = [
 	uri       : "/food-pantry/tamarind-avenue-s-d-a-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -16683,7 +24491,7 @@ var locations = [
 	uri       : "/food-pantry/testimonial-community-love-ctr/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -16746,7 +24554,7 @@ var locations = [
 	uri       : "/food-pantry/the-bible-tabernacle-venice/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -16841,7 +24649,7 @@ var locations = [
 	uri       : "/food-pantry/the-bible-tabernacle/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -16896,7 +24704,7 @@ var locations = [
 	uri       : "/food-pantry/the-great-vision-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -16951,7 +24759,7 @@ var locations = [
 	uri       : "/food-pantry/the-lords-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -17006,7 +24814,7 @@ var locations = [
 	uri       : "/food-pantry/tongan-community-service-center/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -17061,7 +24869,7 @@ var locations = [
 	uri       : "/food-pantry/total-deliverance-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -17108,7 +24916,7 @@ var locations = [
 	uri       : "/food-pantry/travelers-rest-missionary-b-c-/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -17155,7 +24963,7 @@ var locations = [
 	uri       : "/food-pantry/trinity-baptist-church-l-a-/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -17202,7 +25010,7 @@ var locations = [
 	uri       : "/food-pantry/trinity-evangelical-lutheran-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -17289,7 +25097,7 @@ var locations = [
 	uri       : "/food-pantry/trinity-pantry-ministry/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -17328,7 +25136,7 @@ var locations = [
 	uri       : "/food-pantry/trinity-united-methodist-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -17399,7 +25207,7 @@ var locations = [
 	uri       : "/food-pantry/tujunga-united-methodist-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -17446,7 +25254,7 @@ var locations = [
 	uri       : "/food-pantry/twin-lakes-community-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -17501,7 +25309,7 @@ var locations = [
 	uri       : "/food-pantry/united-african-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -17548,7 +25356,7 @@ var locations = [
 	uri       : "/food-pantry/united-gospel-outreach/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -17595,7 +25403,7 @@ var locations = [
 	uri       : "/food-pantry/university-s-d-a-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -17642,7 +25450,7 @@ var locations = [
 	uri       : "/food-pantry/vallejo-drive-s-d-a-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -17697,7 +25505,7 @@ var locations = [
 	uri       : "/food-pantry/valley-crossroads-s-d-a-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -17744,7 +25552,7 @@ var locations = [
 	uri       : "/food-pantry/vermont-avenue-baptist-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -17791,7 +25599,7 @@ var locations = [
 	uri       : "/food-pantry/victory-baptist-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -17838,7 +25646,7 @@ var locations = [
 	uri       : "/food-pantry/village-covenant/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -17893,7 +25701,7 @@ var locations = [
 	uri       : "/food-pantry/vision-of-hope-outreach-ministry/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -17948,7 +25756,7 @@ var locations = [
 	uri       : "/food-pantry/visions-community-outreach/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -17995,7 +25803,7 @@ var locations = [
 	uri       : "/food-pantry/wesley-united-methodist-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -18050,7 +25858,7 @@ var locations = [
 	uri       : "/food-pantry/west-adams-church-of-christ/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -18113,7 +25921,7 @@ var locations = [
 	uri       : "/food-pantry/west-angeles-community-corporation/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -18168,7 +25976,7 @@ var locations = [
 	uri       : "/food-pantry/white-memorial-s-d-a-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -18223,7 +26031,7 @@ var locations = [
 	uri       : "/food-pantry/willowbrook-project-area-commission/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -18270,7 +26078,7 @@ var locations = [
 	uri       : "/food-pantry/wilshire-boulevard-temple-hope-net/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -18317,7 +26125,7 @@ var locations = [
 	uri       : "/food-pantry/wilshire-presbyterian-church-hope-net/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -18364,7 +26172,7 @@ var locations = [
 	uri       : "/food-pantry/wsfb-ocean-park-community-ctr/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -18411,7 +26219,7 @@ var locations = [
 	uri       : "/food-pantry/wsfb-st-annes-social-service/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -18474,7 +26282,7 @@ var locations = [
 	uri       : "/food-pantry/wsfb-st-augustine-saves/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -18537,7 +26345,7 @@ var locations = [
 	uri       : "/food-pantry/wsfb-st-gerards-social-services/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -18616,7 +26424,7 @@ var locations = [
 	uri       : "/food-pantry/wsfb-st-josephs-center/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -18671,7 +26479,7 @@ var locations = [
 	uri       : "/food-pantry/young-hwa-united-methodist-church/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -18726,7459 +26534,7 @@ var locations = [
 	uri       : "/food-pantry/zion-hill-baptist-church/"
 	
 
-	, content   : " "
-	
-}
-
-
-,
-
-
-
-{
-	latitude  : "34.0326",
-	longitude : "-118.2926",
-	name      : "Adams - Vermont Farmers Market / Saint Agnes Church Farmer's Market",
-	address_1 : "1432 W Adams Blvd",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90007",
-	category  : "Farmers Market",
-	website   : "",
-	phone     : "(213)454-8533",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Wed",
-		open      : "1400",
-		close     : "1900"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/adams-vermont-st-agnes-church-farmers-market/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.0937",
-	longitude : "-118.1288",
-	name      : "Alhambra Certified Farmers Market",
-	address_1 : "100 S. 2nd Street",
-	address_2 : "",
-	city      : "Alhambra",
-	zip       : "91801",
-	category  : "Farmers Market",
-	website   : "http://www.cityofalhambra.org/page/289/certified_farmers_market/",
-	phone     : "(626)570-5081",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Sun",
-		open      : "830",
-		close     : "1300"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/alhambra-certified/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.2004",
-	longitude : "-118.1581",
-	name      : "Altadena Farmers Market",
-	address_1 : "600 W. Palm Street",
-	address_2 : "",
-	city      : "Altadena",
-	zip       : "91001",
-	category  : "Farmers Market",
-	website   : "http://altadenafarmersmarket.com/",
-	phone     : "(310)595-0272",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Wed",
-		open      : "1600",
-		close     : "1900"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/altadena/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.647",
-	longitude : "-118.1662",
-	name      : "Antelope Valley Winery Farmers Market",
-	address_1 : "42041 20th St. West",
-	address_2 : "",
-	city      : "Lancaster",
-	zip       : "93534",
-	category  : "Farmers Market",
-	website   : "",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Sat",
-		open      : "900",
-		close     : "1200"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/antelope-valley-winery/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.045502",
-	longitude : "-118.236677",
-	name      : "Arts District Farmers Market",
-	address_1 : "740 E 3rd St",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90013",
-	category  : "Farmers Market",
-	website   : "http://laraba.org/ad-farmers-market/",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Sat",
-		open      : "1000",
-		close     : "1600"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/arts-district/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.1182",
-	longitude : "-118.2602",
-	name      : "Atwater Village Farmers Market",
-	address_1 : "Wells Fargo Parking Lot",
-	address_2 : "3250 Glendale Blvd",
-	city      : "Los Angeles",
-	zip       : "90039",
-	category  : "Farmers Market",
-	website   : "",
-	phone     : "(323)463-3171",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Sun",
-		open      : "1000",
-		close     : "1400"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/atwater-village/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.0212",
-	longitude : "-118.3561",
-	name      : "Baldwin La Brea Farmers Market",
-	address_1 : "3601 S. La Brea Ave.",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90016",
-	category  : "Farmers Market",
-	website   : "http://www.localharvest.org/baldwin-la-brea-farmers-market-M66674",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Sat",
-		open      : "900",
-		close     : "1430"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/baldwin-la-brea/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.0856",
-	longitude : "-117.965",
-	name      : "Baldwin Park Farmers Market",
-	address_1 : "Baldwin Park - Cesar Chavez & Ramond",
-	address_2 : "1011 Baldwin Park Blvd",
-	city      : "Baldwin Park",
-	zip       : "91706",
-	category  : "Farmers Market",
-	website   : "",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Fri",
-		open      : "830",
-		close     : "1330"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/baldwin-park/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.0533",
-	longitude : "-118.2529",
-	name      : "Bank Of America Plaza Farmers Market",
-	address_1 : "333 S Hope St",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90021",
-	category  : "Farmers Market",
-	website   : "",
-	phone     : "(818)591-8161",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Fri",
-		open      : "1000",
-		close     : "1400"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/bank-of-america-plaza/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "33.8837",
-	longitude : "-118.1339",
-	name      : "Bellflower Farmers Market",
-	address_1 : "16614 Clark Ave at Oak Street",
-	address_2 : "",
-	city      : "Bellflower",
-	zip       : "90706",
-	category  : "Farmers Market",
-	website   : "",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Mon",
-		open      : "900",
-		close     : "1300"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/bellflower/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.0743",
-	longitude : "-118.3989",
-	name      : "Beverly Hills Farmers Market",
-	address_1 : "9300 Civic Center Drive",
-	address_2 : "",
-	city      : "Beverly Hills",
-	zip       : "90210",
-	category  : "Farmers Market",
-	website   : "http://www.beverlyhills.org/exploring/farmersmarket/",
-	phone     : "(310)285-6830",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Sun",
-		open      : "900",
-		close     : "1300"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/beverly-hills/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.047096",
-	longitude : "-118.218686",
-	name      : "Boyle Heights Farmers Market",
-	address_1 : "1831 E 1st St",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90033",
-	category  : "Farmers Market",
-	website   : "https://www.facebook.com/Boyle-Heights-Farmers-Market-308825742488228/",
-	phone     : "(323)331-2752",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Fri",
-		open      : "1500",
-		close     : "1900"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/boyle-heights/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.0506",
-	longitude : "-118.4751",
-	name      : "Brentwood Village Farmers Market",
-	address_1 : "741 South Gretna Green Way",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90049",
-	category  : "Farmers Market",
-	website   : "https://www.facebook.com/Brentwoodfm",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Sun",
-		open      : "900",
-		close     : "1430"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/brentwood-village/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.1828",
-	longitude : "-118.308",
-	name      : "Burbank Farmers Market",
-	address_1 : "Corner of Olive & Glenoaks",
-	address_2 : "150 N. Third Street, Community Serv building parking lot",
-	city      : "Burbank",
-	zip       : "91502",
-	category  : "Farmers Market",
-	website   : "https://www.facebook.com/burbankfarmersmarket",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Sat",
-		open      : "800",
-		close     : "1230"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/burbank/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.235933",
-	longitude : "-118.528025",
-	name      : "Cal State University Northridge (CSUN) Farmers Market (CFM)",
-	address_1 : "18111 Nordhoff Street",
-	address_2 : "",
-	city      : "Northridge",
-	zip       : "91325",
-	category  : "Farmers Market",
-	website   : "https://www.yelp.com/biz/california-state-university-northridge-farmers-market-northridge",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Tue",
-		open      : "1000",
-		close     : "1400"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/cal-state-university-northridge-csun-cfm/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.1587",
-	longitude : "-118.636",
-	name      : "Calabasas Old Town Farmers Market",
-	address_1 : "Calabasas & Mulholland Dr.",
-	address_2 : "23504 Calabasas Rd, Calabasas, 91302",
-	city      : "Calabasas",
-	zip       : "91303",
-	category  : "Farmers Market",
-	website   : "https://www.yelp.com/biz/old-town-calabasas-farmers-market-calabasas",
-	phone     : "(818)591-8161",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Sat",
-		open      : "800",
-		close     : "1300"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/calabasas-old-town/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.2025",
-	longitude : "-118.6014",
-	name      : "Canoga Park Farmers Market",
-	address_1 : "On Owensmouth Avenue between Wyandotte Street & Sherman Way",
-	address_2 : "7248 Owensmouth Ave",
-	city      : "Canoga Park",
-	zip       : "91303",
-	category  : "Farmers Market",
-	website   : "https://www.facebook.com/CanogaParkFarmersMarket",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Sat",
-		open      : "900",
-		close     : "1400"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/canoga-park/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.0058",
-	longitude : "-118.256",
-	name      : "Central Ave Farmers Market",
-	address_1 : "courtyard of the Central Avenue Constituent Services Center",
-	address_2 : "4301 Central Ave  at 43rd st",
-	city      : "Los angeles  California",
-	zip       : "90011",
-	category  : "Farmers Market",
-	website   : "http://seela.org/markets-central-avenue/",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Thu",
-		open      : "1000",
-		close     : "1500"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/central-ave/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.061",
-	longitude : "-118.4179",
-	name      : "Century City Farmers Market",
-	address_1 : "10100 Santa Monica Blvd.",
-	address_2 : "",
-	city      : "Century City",
-	zip       : "90037",
-	category  : "Farmers Market",
-	website   : "https://www.facebook.com/CenturyCityFM",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Thu",
-		open      : "1000",
-		close     : "1400"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/century-city/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "33.8693",
-	longitude : "-118.0625",
-	name      : "Cerritos Farmers Market",
-	address_1 : "17870 Park plaza Drive",
-	address_2 : "",
-	city      : "Cerritos",
-	zip       : "90703",
-	category  : "Farmers Market",
-	website   : "https://www.facebook.com/CerritosFarmersMarket/",
-	phone     : "(562)597-7920",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Sat",
-		open      : "800",
-		close     : "1200"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/cerritos/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.097567",
-	longitude : "-118.290099",
-	name      : "Children's Hospital LA CFM",
-	address_1 : "4650 Sunset Blvd.",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90027",
-	category  : "Farmers Market",
-	website   : "https://www.facebook.com/chlafarmersmarket/",
-	phone     : "(323)361-8505",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Wed",
-		open      : "1000",
-		close     : "1500"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/childrens-hospital-la-cfm/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.0956",
-	longitude : "-117.7193",
-	name      : "Claremont Farmers Market",
-	address_1 : "N Indian Hill Blvd & W 2Nd St",
-	address_2 : "",
-	city      : "Claremont",
-	zip       : "91711",
-	category  : "Farmers Market",
-	website   : "http://www.claremontforum.org/claremont-farmers-market/",
-	phone     : "(714)345-3087",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Sun",
-		open      : "800",
-		close     : "1300"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/claremont/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "33.8979",
-	longitude : "-118.224",
-	name      : "Compton Blue Line Farmers Market",
-	address_1 : "101 E Palmer Street",
-	address_2 : "",
-	city      : "Compton",
-	zip       : "90220",
-	category  : "Farmers Market",
-	website   : "http://nfmd.org/ca/compton/1010233/",
-	phone     : "(888)353-5554 Ext.9",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Thu",
-		open      : "1100",
-		close     : "1900"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/compton-blue-line/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.0893",
-	longitude : "-117.89",
-	name      : "Covina Farmers Market",
-	address_1 : "Citrus Ave and San Bernandino Rd",
-	address_2 : "Heritage Plaza",
-	city      : "Covina",
-	zip       : "",
-	category  : "Farmers Market",
-	website   : "http://www.covinafarmersmarket.com/",
-	phone     : "(928)854-1105",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Fri",
-		open      : "1700",
-		close     : "2100"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/covina/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.0112",
-	longitude : "-118.3365",
-	name      : "Crenshaw Baldwin Hill Farmers Market",
-	address_1 : "3650 W Martin Luther King Blvd",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90008",
-	category  : "Farmers Market",
-	website   : "http://www.baldwinhillscrenshawplaza.com/farmersmarket",
-	phone     : "(323)290-6636",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Sat",
-		open      : "1000",
-		close     : "1500"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/crenshaw-baldwin-hill/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.0247",
-	longitude : "-118.396",
-	name      : "Culver City Farmers Market",
-	address_1 : "Main & Culver",
-	address_2 : "",
-	city      : "Culver City",
-	zip       : "90232",
-	category  : "Farmers Market",
-	website   : "http://www.culvercity.org/live/get-involved/farmers-market",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Tue",
-		open      : "1400",
-		close     : "1900"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/culver-city/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "36.8199",
-	longitude : "-119.781",
-	name      : "Diamond Bar Farmers Market",
-	address_1 : "Calvary Chapel Church",
-	address_2 : "",
-	city      : "Diamond Bar",
-	zip       : "91765",
-	category  : "Farmers Market",
-	website   : "http://www.local-farmers-markets.com/market/345/diamond-bar/diamond-bar-farmers-market",
-	phone     : "(323)447-6848",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Sat",
-		open      : "800",
-		close     : "1300"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/diamond-bar/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "33.942",
-	longitude : "-118.1342",
-	name      : "Downey Farmers Market",
-	address_1 : "La Reina Ave & 2nd St",
-	address_2 : "",
-	city      : "Downey",
-	zip       : "90242",
-	category  : "Farmers Market",
-	website   : "https://www.facebook.com/DowneyFarmersMarket/",
-	phone     : "(818)591-8161",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Sat",
-		open      : "900",
-		close     : "1300"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/downey/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.0494",
-	longitude : "-118.2599",
-	name      : "Downtown Los Angeles (Fig at 7th) Farmers Market",
-	address_1 : "S Figueroa St & W 7th St",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90017",
-	category  : "Farmers Market",
-	website   : "https://www.facebook.com/FigAt7thFM/",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Thu",
-		open      : "1100",
-		close     : "1400"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/downtown-los-angeles-fig-at-7th/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.1397",
-	longitude : "-117.978",
-	name      : "Duarte City of Hope Farmers Market",
-	address_1 : "1500 Duarte Rd",
-	address_2 : "",
-	city      : "DUARTE",
-	zip       : "91010",
-	category  : "Farmers Market",
-	website   : "",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Thu",
-		open      : "1000",
-		close     : "1400"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/duarte-city-of-hope/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.1392",
-	longitude : "-118.214",
-	name      : "Eagle Rock Farmers Market",
-	address_1 : "2035 Colorado Blvd.",
-	address_2 : "",
-	city      : "Eagle Rock",
-	zip       : "90041",
-	category  : "Farmers Market",
-	website   : "https://www.facebook.com/EagleRockFarmersMarket/",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Fri",
-		open      : "1600",
-		close     : "2000"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/eagle-rock/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.1015",
-	longitude : "-118.308",
-	name      : "East Hollywood Farmers Market",
-	address_1 : "5448 Hollywood Boulevard",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90027",
-	category  : "Farmers Market",
-	website   : "https://www.facebook.com/EHFarmersMkt/",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Thu",
-		open      : "1530",
-		close     : "1930"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/east-hollywood/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.0334",
-	longitude : "-118.16",
-	name      : "East LA Farmers' Market",
-	address_1 : "4801 East 3rd Street",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90022",
-	category  : "Farmers Market",
-	website   : "https://www.facebook.com/eastlafarmersmarket/",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Sat",
-		open      : "900",
-		close     : "1400"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/east-la-farmers-market/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.0769",
-	longitude : "-118.2586",
-	name      : "Echo Park Farmers Market",
-	address_1 : "Logan St. and Sunset Blvd",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90026",
-	category  : "Farmers Market",
-	website   : "https://www.facebook.com/Echo-Park-Farmers-Market-313522200882/",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Fri",
-		open      : "1500",
-		close     : "1930"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/echo-park/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "33.9191",
-	longitude : "-118.416",
-	name      : "El Segundo Plaza Farmers Market",
-	address_1 : "300 Main St.",
-	address_2 : "",
-	city      : "El Segundo",
-	zip       : "90245",
-	category  : "Farmers Market",
-	website   : "https://www.facebook.com/elsegundofarmersmarket/",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Thu",
-		open      : "1500",
-		close     : "1900"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/el-segundo-plaza/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.1862",
-	longitude : "-118.5141",
-	name      : "Encino Farmers Market",
-	address_1 : "17400 Victory Blvd in Van Nuys",
-	address_2 : "",
-	city      : "Van Nuys",
-	zip       : "91406",
-	category  : "Farmers Market",
-	website   : "http://www.encinofarmersmarket.org/",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Sun",
-		open      : "800",
-		close     : "1300"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/encino/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "33.931",
-	longitude : "-118.318",
-	name      : "Gardena Hollypark Farmers Market",
-	address_1 : "13000 Van Ness",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90047",
-	category  : "Farmers Market",
-	website   : "",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Sat",
-		open      : "630",
-		close     : "1200"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/gardena-hollypark/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "33.8099554",
-	longitude : "-118.1376043",
-	name      : "Green Acres",
-	address_1 : "5000 East Spring Street",
-	address_2 : "",
-	city      : "Long Beach",
-	zip       : "90815",
-	category  : "Farmers Market",
-	website   : "https://www.yelp.com/biz/green-acres-farmers-market-long-beach",
-	phone     : "(562)972-8897",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Thu",
-		open      : "1100",
-		close     : "1730"
-	}
-	
-	
-
-	
-	,
-	{
-		day       : "Sun",
-		open      : "830",
-		close     : "1430"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/green-acres/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "33.862",
-	longitude : "-118.3952",
-	name      : "Hermosa Beach Farmers Market",
-	address_1 : "Valley Dr. between 8th St. & 10th St.",
-	address_2 : "",
-	city      : "Hermosa Beach",
-	zip       : "90254",
-	category  : "Farmers Market",
-	website   : "https://www.facebook.com/farmermarkHB",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Wed",
-		open      : "1100",
-		close     : "1600"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/hermosa-beach/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.0477107",
-	longitude : "-118.2523156",
-	name      : "Historic Downtown Farmers' Market (CFM)",
-	address_1 : "205 West 5th Street",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90013",
-	category  : "Farmers Market",
-	website   : "https://www.facebook.com/HistoricFarmersMarket/",
-	phone     : "(310)455-0181",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Sun",
-		open      : "900",
-		close     : "1400"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/historic-downtown-farmers-market-cfm/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.0981",
-	longitude : "-118.3287",
-	name      : "Hollywood Farmers Market",
-	address_1 : "1500 N Ivar Ave",
-	address_2 : "",
-	city      : "Hollywood",
-	zip       : "90028",
-	category  : "Farmers Market",
-	website   : "http://www.hollywoodfarmersmarket.net/",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Sun",
-		open      : "800",
-		close     : "1300"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/hollywood/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "33.976",
-	longitude : "-118.3867",
-	name      : "Howard Hughes Farmers Market",
-	address_1 : "6080 Center Drive",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90230",
-	category  : "Farmers Market",
-	website   : "https://www.facebook.com/HowardHughesFarmersMarket/",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Thu",
-		open      : "1000",
-		close     : "1400"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/howard-hughes/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "33.973",
-	longitude : "-118.2048",
-	name      : "Huntington Park Farmers Market",
-	address_1 : "3401 East Florence Avenue",
-	address_2 : "",
-	city      : "Huntington Park",
-	zip       : "90255",
-	category  : "Farmers Market",
-	website   : "http://www.goodveg.org/hafm/index.php/markets/wednesday-huntington-park",
-	phone     : "(866)466-3834",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Wed",
-		open      : "930",
-		close     : "1330"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/huntington-park/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "33.9617",
-	longitude : "-118.352",
-	name      : "Inglewood Farmers Market",
-	address_1 : "Market Street and Manchester Blvd.",
-	address_2 : "",
-	city      : "Inglewood",
-	zip       : "90302",
-	category  : "Farmers Market",
-	website   : "https://www.facebook.com/inglewoodcertifiedfarmersmarket/",
-	phone     : "(323)952-7363",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Thu1st",
-		open      : "1500",
-		close     : "1900"
-	}
-	
-	
-
-	
-	,
-	{
-		day       : "Thu3rd",
-		open      : "1500",
-		close     : "1900"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/inglewood/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "33.9835",
-	longitude : "-117.867",
-	name      : "Jack Newe's Farmers Market",
-	address_1 : "1920 S Brea Canyon Cut Off",
-	address_2 : "",
-	city      : "Walnut",
-	zip       : "",
-	category  : "Farmers Market",
-	website   : "https://www.yelp.com/biz/the-jack-newes-farmers-market-walnut",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Sat",
-		open      : "800",
-		close     : "1400"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/jack-newes/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.0654",
-	longitude : "-117.9859",
-	name      : "Kaiser Baldwin Park Farmers Market",
-	address_1 : "1011 Baldwin Park Blvd",
-	address_2 : "",
-	city      : "Baldwin Park",
-	zip       : "91706",
-	category  : "Farmers Market",
-	website   : "https://thrive.kaiserpermanente.org/care-near-you/southern-california/baldwin-park/shc_calendar_event/farmers-market-6/",
-	phone     : "(626)851-5223",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Fri",
-		open      : "830",
-		close     : "1330"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/kaiser-baldwin-park/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "33.9192",
-	longitude : "-118.1288",
-	name      : "Kaiser Downey",
-	address_1 : "9333 E. Imperial Hwy in Kaiser Medical Center",
-	address_2 : "",
-	city      : "Downey",
-	zip       : "90242",
-	category  : "Farmers Market",
-	website   : "",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Thu",
-		open      : "900",
-		close     : "1400"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/kaiser-downey/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.2207",
-	longitude : "-118.4301",
-	name      : "Kaiser Medical Center Panorama City FM",
-	address_1 : "13652 Cantara Street",
-	address_2 : "",
-	city      : "Panorama City",
-	zip       : "91402",
-	category  : "Farmers Market",
-	website   : "https://thrive.kaiserpermanente.org/care-near-you/southern-california/panorama-city/shc_calendar_event/kaiser-permanente-farmers-market/",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Wed",
-		open      : "900",
-		close     : "1330"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/kaiser-medical-center-panorama-city-fm/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.1709",
-	longitude : "-118.5897",
-	name      : "Kaiser Medical Center Woodland Hills",
-	address_1 : "5601 De Soto Avenue",
-	address_2 : "",
-	city      : "Woodland Hills",
-	zip       : "91367",
-	category  : "Farmers Market",
-	website   : "https://thrive.kaiserpermanente.org/care-near-you/southern-california/woodland-hills/shc_calendar_event/farmers-market/",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Thu",
-		open      : "900",
-		close     : "1500"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/kaiser-medical-center-woodland-hills/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "33.7901",
-	longitude : "-118.2937",
-	name      : "Kaiser South Bay Farmers Market",
-	address_1 : "25825 S. Vermont Avenue",
-	address_2 : "",
-	city      : "Harbor City",
-	zip       : "90710",
-	category  : "Farmers Market",
-	website   : "https://thrive.kaiserpermanente.org/care-near-you/southern-california/south-bay/shc_calendar_event/farmers-market-3/",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Wed",
-		open      : "900",
-		close     : "1500"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/kaiser-south-bay/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.0381",
-	longitude : "-118.3759",
-	name      : "Kaiser -West LA Farmers Market",
-	address_1 : "6041 Cadillac Ave",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90034",
-	category  : "Farmers Market",
-	website   : "https://www.facebook.com/kaiserwestlafarmersmarket?fref=ts",
-	phone     : "(424)287-2280",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Wed",
-		open      : "900",
-		close     : "1400"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/kaiser-west-la/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "38.5706",
-	longitude : "-121.448",
-	name      : "L.A. Central Avenue Farmers Market",
-	address_1 : "4301 S. Central Avenue",
-	address_2 : "",
-	city      : "Hollywood",
-	zip       : "90028",
-	category  : "Farmers Market",
-	website   : "https://www.facebook.com/pg/CentralAvenueFarmersMarket/about/?ref=page_internal",
-	phone     : "(323)463-3171",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Thu",
-		open      : "1000",
-		close     : "1500"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/l-a-central-avenue/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.053106",
-	longitude : "-118.241657",
-	name      : "L.A. City Hall (Little Tokyo CFM)",
-	address_1 : "200 North Main Street",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90012",
-	category  : "Farmers Market",
-	website   : "https://www.yelp.com/biz/farmers-market-at-los-angeles-city-hall-los-angeles",
-	phone     : "(323)660-8660",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Thu",
-		open      : "1000",
-		close     : "1400"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/l-a-city-hall-little-tokyo-cfm/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.0834",
-	longitude : "-118.324",
-	name      : "L.A. Larchmont Village Farmers Market",
-	address_1 : "Larchmont Bldg., Lot #694",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90042",
-	category  : "Farmers Market",
-	website   : "https://www.facebook.com/LarchmontVillageFM/",
-	phone     : "(818)591-8161",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Sun",
-		open      : "1000",
-		close     : "1400"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/l-a-larchmont-village/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.0841",
-	longitude : "-118.374",
-	name      : "L.A. Melrose Place Farmers Market",
-	address_1 : "Melrose Place & Croft",
-	address_2 : "8400 Melrose Ave, Los Angeles, CA 90069",
-	city      : "Los Angeles",
-	zip       : "90069",
-	category  : "Farmers Market",
-	website   : "",
-	phone     : "(818)591-8161",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Sun",
-		open      : "1000",
-		close     : "1400"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/l-a-melrose-place/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.0943",
-	longitude : "-118.282",
-	name      : "L.A. Silverlake Farmers Market",
-	address_1 : "3700 Sunset Blvd.",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90026",
-	category  : "Farmers Market",
-	website   : "",
-	phone     : "(213)484-4002",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Tue",
-		open      : "1400",
-		close     : "1930"
-	}
-	
-	
-
-	
-	,
-	{
-		day       : "Sat",
-		open      : "800",
-		close     : "1330"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/l-a-silverlake/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.2035",
-	longitude : "-118.198",
-	name      : "La Canada Flintridge Farmers Market",
-	address_1 : "Beulah Dr. & Foothill Ave.",
-	address_2 : "",
-	city      : "La Canada Flintridge",
-	zip       : "91011",
-	category  : "Farmers Market",
-	website   : "http://www.lacanadaflintridge.com/events-page/farmers-market.html",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Sat",
-		open      : "900",
-		close     : "1300"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/la-canada-flintridge/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.044534",
-	longitude : "-118.377428",
-	name      : "La Cienega Farmers Market (CFM)",
-	address_1 : "1831 South La Cienega Blvd.",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90035",
-	category  : "Farmers Market",
-	website   : "http://www.lacienegafarmersmarket.com/",
-	phone     : "(562) 495-1764",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Thu",
-		open      : "1400",
-		close     : "1930"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/la-cienega-cfm/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.0201",
-	longitude : "-117.9523",
-	name      : "La Puente Live Farmers Market",
-	address_1 : "Main Street & First Street",
-	address_2 : "",
-	city      : "La Puente",
-	zip       : "91744",
-	category  : "Farmers Market",
-	website   : "http://www.lapuentelive.com/",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Fri",
-		open      : "1800",
-		close     : "2200"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/la-puente-live/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.697542",
-	longitude : "-118.144039",
-	name      : "Lancaster Farmers Market / BLVD Farmers' Market",
-	address_1 : "758 West Lancaster Blvd",
-	address_2 : "",
-	city      : "Lancaster",
-	zip       : "93534",
-	category  : "Farmers Market",
-	website   : "http://www.theblvdlancaster.com/events.html?id=535#.WH7qI7byvdQ",
-	phone     : "(818)591-8161",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Thu",
-		open      : "1500",
-		close     : "1700"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/lancaster-blvd-farmers-market/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.6968",
-	longitude : "-118.1155",
-	name      : "Lancaster Farmers Market",
-	address_1 : "721 Lancaster Blvd.",
-	address_2 : "",
-	city      : "Lancaster",
-	zip       : "93534",
-	category  : "Farmers Market",
-	website   : "http://www.cityoflancasterca.org/about-us/departments-services/parks-recreation-arts/special-events/blvd-farmers-market",
-	phone     : "(661)723-6077",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Thu",
-		open      : "1600",
-		close     : "2100"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/lancaster/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "33.8982",
-	longitude : "-118.354",
-	name      : "Lawndale Farmers Market",
-	address_1 : "14717 Burin Ave.",
-	address_2 : "",
-	city      : "Lawndale",
-	zip       : "90260",
-	category  : "Farmers Market",
-	website   : "http://www.lawndalecity.org/HTML/FarmersMarket.htm",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Wed",
-		open      : "1400",
-		close     : "1900"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/lawndale/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.0729",
-	longitude : "-118.2152",
-	name      : "Lincoln Heights Farmers Market",
-	address_1 : "2334 Daly St.",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90031",
-	category  : "Farmers Market",
-	website   : "https://www.facebook.com/LincolnHeightsCFM/",
-	phone     : "(323)437-0203",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Wed",
-		open      : "1500",
-		close     : "2000"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/lincoln-heights/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "33.7685",
-	longitude : "-118.1329",
-	name      : "Local Harvest Farmers Market",
-	address_1 : "Marine Stadium at Appian Way & Nieto",
-	address_2 : "",
-	city      : "Long Beach",
-	zip       : "90803",
-	category  : "Farmers Market",
-	website   : "http://www.localharvestfarmersmarkets.com/marine-stadium",
-	phone     : "(562)449-9299",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Wed",
-		open      : "1500",
-		close     : "1900"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/local-harvest/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "33.773432",
-	longitude : "-118.169951",
-	name      : "Long Beach Downtown CFM",
-	address_1 : "199 East 5th Street",
-	address_2 : "Inside City Place Shopping Center, on Promenade north between 3rd and 5th. ",
-	city      : "Long Beach",
-	zip       : "90805",
-	category  : "Farmers Market",
-	website   : "https://www.goodveg.org/friday-long-beach-downtown",
-	phone     : "(866)466-3834",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Fri",
-		open      : "1000",
-		close     : "1400"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/long-beach-downtown-cfm/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "33.7576",
-	longitude : "-118.1131",
-	name      : "Long Beach Southeast Farmers Market",
-	address_1 : "2nd St. and N. Marina Dr.",
-	address_2 : "Parking lot of the Alamitos Bay Marina, on E. Marina Dr. one quarter mile south of E. 2nd St., just west of PCH",
-	city      : "Long Beach",
-	zip       : "90803",
-	category  : "Farmers Market",
-	website   : "http://lbfresh.org/eaters/find-local-food/farmers-markets/",
-	phone     : "(562)449-9299",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Sun",
-		open      : "900",
-		close     : "1400"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/long-beach-southeast/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "33.8426",
-	longitude : "-118.1849",
-	name      : "Long Beach Uptown Farmers Market",
-	address_1 : "E 46Th St & Atlantic Ave",
-	address_2 : "",
-	city      : "Long Beach",
-	zip       : "90807",
-	category  : "Farmers Market",
-	website   : "http://lbfresh.org/eaters/find-local-food/farmers-markets/",
-	phone     : "(562)449-9299",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Thu",
-		open      : "1500",
-		close     : "1830"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/long-beach-uptown/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.104458",
-	longitude : "-118.292219",
-	name      : "Los Feliz Village CFM",
-	address_1 : "1825 North Vermont Avenue",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90027",
-	category  : "Farmers Market",
-	website   : "https://www.yelp.com/biz/los-feliz-village-farmers-market-los-angeles",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Sun",
-		open      : "900",
-		close     : "1400"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/los-feliz-village-cfm/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.0347",
-	longitude : "-118.6912",
-	name      : "Malibu Farmers Market",
-	address_1 : "23555 Civic Center Way",
-	address_2 : "",
-	city      : "Malibu",
-	zip       : "90265",
-	category  : "Farmers Market",
-	website   : "https://www.facebook.com/pages/Malibu-Farmers-Market/112872675433982",
-	phone     : "(310)428-4262",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Sun",
-		open      : "1000",
-		close     : "1500"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/malibu/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "33.8867",
-	longitude : "-118.4094",
-	name      : "Manhattan Beach Farmers Market",
-	address_1 : "326 13th St",
-	address_2 : "",
-	city      : "Manhattan Beach",
-	zip       : "90266",
-	category  : "Farmers Market",
-	website   : "http://downtownmanhattanbeach.com/manhattan-beach-farmers-market/",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Tue",
-		open      : "1100",
-		close     : "1600"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/manhattan-beach/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.0042",
-	longitude : "-118.4305",
-	name      : "Mar Vista Farmers Market",
-	address_1 : "3826 Grand View Blvd",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90066",
-	category  : "Farmers Market",
-	website   : "http://www.marvistafarmersmarket.org/",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Sun",
-		open      : "900",
-		close     : "1400"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/mar-vista/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.0617",
-	longitude : "-118.3535",
-	name      : "Miracle Mile Farmers Market",
-	address_1 : "5700 Wilshire Blvd",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90036",
-	category  : "Farmers Market",
-	website   : "",
-	phone     : "(818)591-8161",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Wed",
-		open      : "1100",
-		close     : "1500"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/miracle-mile/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.1448",
-	longitude : "-118.0009",
-	name      : "Monrovia Farmers Market - Friday",
-	address_1 : "200 Block of Myrtle Ave @ Olive",
-	address_2 : "",
-	city      : "Monrovia",
-	zip       : "91016",
-	category  : "Farmers Market",
-	website   : "http://www.farmersmarketonline.com/fm/MonroviaFarmersMarket.html",
-	phone     : "(626)932-5501",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Fri",
-		open      : "1730",
-		close     : "2100"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/monrovia-friday/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.0591",
-	longitude : "-118.1247",
-	name      : "Monterey Park Farmers Market",
-	address_1 : "318 S. Ramona Ave",
-	address_2 : "",
-	city      : "Monterey Park",
-	zip       : "91754",
-	category  : "Farmers Market",
-	website   : "http://www.montereypark.ca.gov/686/Farmers-Market",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Fri",
-		open      : "1600",
-		close     : "2000"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/monterey-park/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.4222",
-	longitude : "-119.713",
-	name      : "Montrose Harvest Market Farmers Market",
-	address_1 : "Honolulu & Ocean Avenue",
-	address_2 : "",
-	city      : "Santa Barbara",
-	zip       : "93101",
-	category  : "Farmers Market",
-	website   : "",
-	phone     : "(805)637-6635",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Mon",
-		open      : "1000",
-		close     : "1500"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/montrose-harvest-market/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.0292",
-	longitude : "-118.4107",
-	name      : "Motor Avenue Farmers Market",
-	address_1 : "10316 National @ Motor Ave.",
-	address_2 : "Free Parking: 3376 Motor Avenue",
-	city      : "Los Angeles",
-	zip       : "90034",
-	category  : "Farmers Market",
-	website   : "http://www.motoravenuemarket.com/",
-	phone     : "(310)202-9002",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Tue",
-		open      : "1100",
-		close     : "1600"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/motor-avenue/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.3815",
-	longitude : "-118.5293",
-	name      : "Newhall Farmers Market",
-	address_1 : "24500 Main Street",
-	address_2 : "",
-	city      : "Santa Clarita",
-	zip       : "91321",
-	category  : "Farmers Market",
-	website   : "http://oldtownnewhall.com/old-town-newhall-farmers-market/",
-	phone     : "(661)250-3787",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Sat",
-		open      : "830",
-		close     : "1230"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/newhall/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.2392",
-	longitude : "-118.5538",
-	name      : "Northridge Farmers Market And Family Festival",
-	address_1 : "9301 Tampa Ave",
-	address_2 : "",
-	city      : "Northridge",
-	zip       : "91324",
-	category  : "Farmers Market",
-	website   : "",
-	phone     : "(805)643-6458",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Wed",
-		open      : "1700",
-		close     : "2100"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/northridge-and-family-festival/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.236",
-	longitude : "-118.5283",
-	name      : "Northridge University Farmers Market",
-	address_1 : "18111 Nordroff Street",
-	address_2 : "",
-	city      : "Northridge",
-	zip       : "91330",
-	category  : "Farmers Market",
-	website   : "",
-	phone     : "(818)677-1200",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Tue",
-		open      : "1000",
-		close     : "1400"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/northridge-university/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.10988",
-	longitude : "-118.192888",
-	name      : "Old Highland Park Farmers Market",
-	address_1 : "5703 N Figueroa St",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90042",
-	category  : "Farmers Market",
-	website   : "http://oldla.org/farmers-market/",
-	phone     : "(323)255-5030",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Tue",
-		open      : "1500",
-		close     : "1900"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/old-highland-park/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.1106",
-	longitude : "-118.1928",
-	name      : "Old L.A. Farmers Market",
-	address_1 : "North Figueroa & Ave. 58",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90042",
-	category  : "Farmers Market",
-	website   : "",
-	phone     : "(323)449-4100",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Tue",
-		open      : "1500",
-		close     : "2000"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/old-l-a-/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "33.7767",
-	longitude : "-118.3749",
-	name      : "Palos Verdes Farmers Market",
-	address_1 : "27118 Silver Spur Rd",
-	address_2 : "",
-	city      : "Rolling Hills Estates",
-	zip       : "90274",
-	category  : "Farmers Market",
-	website   : "",
-	phone     : "(310)328-8076",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Sun",
-		open      : "800",
-		close     : "1300"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/palos-verdes/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "33.9026",
-	longitude : "-118.1602",
-	name      : "Paramount Farmers Market",
-	address_1 : "15500 Downey Ave",
-	address_2 : "",
-	city      : "Paramount",
-	zip       : "90723",
-	category  : "Farmers Market",
-	website   : "",
-	phone     : "(562)220-2224",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Fri",
-		open      : "930",
-		close     : "1330"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/paramount/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.1604",
-	longitude : "-118.0929",
-	name      : "Pasadena Victory Park Farmers Market",
-	address_1 : "2900 N. Sierra Madre Blvd between Paloma and Washington Avenues",
-	address_2 : "",
-	city      : "Pasadena",
-	zip       : "91107",
-	category  : "Farmers Market",
-	website   : "http://www.pasadenafarmersmarket.org/pasadena_farmers_market_victory_park.html",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Sat",
-		open      : "830",
-		close     : "1230"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/pasadena-victory-park/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.1551",
-	longitude : "-118.1429",
-	name      : "Pasadena Villa Parke Farmers Market",
-	address_1 : "363 E. Villa St.",
-	address_2 : "",
-	city      : "Pasadena",
-	zip       : "91101",
-	category  : "Farmers Market",
-	website   : "http://www.pasadenafarmersmarket.org/pasadena_farmers_market_villa_parke.html",
-	phone     : "(626)449-0179",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Tue",
-		open      : "830",
-		close     : "1230"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/pasadena-villa-parke/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "33.9726",
-	longitude : "-118.4219",
-	name      : "Playa Vista Farmers Market",
-	address_1 : "12775 W. Millennium Drive",
-	address_2 : "",
-	city      : "Playa Vista",
-	zip       : "90094",
-	category  : "Farmers Market",
-	website   : "http://www.farmermark.com/playavista/",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Sat",
-		open      : "900",
-		close     : "1400"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/playa-vista/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.064542",
-	longitude : "-117.750371",
-	name      : "Pomona Valley CFM",
-	address_1 : "Corner of Pearl St & Garey Ave",
-	address_2 : "",
-	city      : "Pomona",
-	zip       : "91767",
-	category  : "Farmers Market",
-	website   : "",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Sat",
-		open      : "730",
-		close     : "1130"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/pomona-valley-cfm/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "33.8365",
-	longitude : "-118.3895",
-	name      : "Redondo Beach Farmers Market",
-	address_1 : "309 Esplanade",
-	address_2 : "",
-	city      : "Redondo Beach",
-	zip       : "90277",
-	category  : "Farmers Market",
-	website   : "",
-	phone     : "(310)372-1171",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Thu",
-		open      : "800",
-		close     : "1300"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/redondo-beach/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "33.8193",
-	longitude : "-118.3884",
-	name      : "Riviera Village Farmers Market",
-	address_1 : "S Elena St & Avenida del Norte",
-	address_2 : "",
-	city      : "Redondo Beach",
-	zip       : "90277",
-	category  : "Farmers Market",
-	website   : "",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Sun",
-		open      : "800",
-		close     : "1300"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/riviera-village/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.0803",
-	longitude : "-118.0763",
-	name      : "Rosemead Farmers Market",
-	address_1 : "8838 Valley Blvd.",
-	address_2 : "",
-	city      : "Rosemead",
-	zip       : "91770",
-	category  : "Farmers Market",
-	website   : "http://www.cityofrosemead.org/index.aspx?recordid=1528&page=13",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Mon",
-		open      : "1600",
-		close     : "2000"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/rosemead/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "33.7388",
-	longitude : "-118.2857",
-	name      : "San Pedro Farmers Market",
-	address_1 : "W 6Th St & S Mesa St",
-	address_2 : "",
-	city      : "San Pedro",
-	zip       : "90731",
-	category  : "Farmers Market",
-	website   : "",
-	phone     : "(310)832-2183",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Fri",
-		open      : "900",
-		close     : "1400"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/san-pedro/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.4042",
-	longitude : "-118.5683",
-	name      : "Santa Clarita Farmers Market",
-	address_1 : "College of the Canyons Valencia Campus",
-	address_2 : "26455 Rockwell Canyon Rd.",
-	city      : "Valencia",
-	zip       : "91355",
-	category  : "Farmers Market",
-	website   : "http://visitsantaclarita.com/dining/farmers-markets/santa-clarita-farmers-market/",
-	phone     : "(805)529-6266",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Sun",
-		open      : "830",
-		close     : "1200"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/santa-clarita/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "33.9456",
-	longitude : "-118.0827",
-	name      : "Santa Fe Springs Farmers Market",
-	address_1 : "11740 Telegraph Road",
-	address_2 : "",
-	city      : "Santa Fe Springs",
-	zip       : "90670",
-	category  : "Farmers Market",
-	website   : "",
-	phone     : "(562)863-4896",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Wed",
-		open      : "1700",
-		close     : "2100"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/santa-fe-springs/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.0162",
-	longitude : "-118.4986",
-	name      : "Santa Monica Downtown Farmers Market",
-	address_1 : "Arizona Ave between 4th St and Ocean",
-	address_2 : "",
-	city      : "Santa Monica",
-	zip       : "90401",
-	category  : "Farmers Market",
-	website   : "http://www.smgov.net/portals/farmersmarket/",
-	phone     : "(310)458-8712",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Sat",
-		open      : "830",
-		close     : "1300"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/santa-monica-downtown/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.0208",
-	longitude : "-118.4677",
-	name      : "Santa Monica Farmers Market - Saturday Virginia Avenue Park",
-	address_1 : "2200 Virginia Avenue",
-	address_2 : "(Pico Blvd. @ Cloverfield Blvd.)",
-	city      : "Santa Monica",
-	zip       : "90405",
-	category  : "Farmers Market",
-	website   : "http://www.smgov.net/portals/farmersmarket/",
-	phone     : "(310)458-8712",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Sat",
-		open      : "800",
-		close     : "1300"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/santa-monica-saturday-virginia-avenue-park/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.0023",
-	longitude : "-118.4833",
-	name      : "Santa Monica Farmers Market - Sunday Main Street",
-	address_1 : "2640 Main Street",
-	address_2 : "(in Heritage Square)",
-	city      : "Santa Monica",
-	zip       : "90405",
-	category  : "Farmers Market",
-	website   : "http://www.smgov.net/portals/farmersmarket/",
-	phone     : "(310)458-8712",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Sun",
-		open      : "830",
-		close     : "1330"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/santa-monica-sunday-main-street/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.1077",
-	longitude : "-118.0579",
-	name      : "Temple City Farmers Market",
-	address_1 : "9701 Las  Tunas Dr",
-	address_2 : "",
-	city      : "Temple City",
-	zip       : "91780",
-	category  : "Farmers Market",
-	website   : "http://www.ci.temple-city.ca.us/287/Farmers-Market",
-	phone     : "(626)422-1419",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Sun",
-		open      : "830",
-		close     : "1300"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/temple-city/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.1841",
-	longitude : "-118.6058",
-	name      : "The Village Farmers Market",
-	address_1 : "6250 Topanga Blvd.",
-	address_2 : "",
-	city      : "Woodland HIlls",
-	zip       : "91367",
-	category  : "Farmers Market",
-	website   : "http://www.ci.temple-city.ca.us/287/Farmers-Market",
-	phone     : "(818)591-8161",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Sun",
-		open      : "900",
-		close     : "1300"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/the-village/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.0408",
-	longitude : "-118.2497",
-	name      : "The WALL Food + Flowers + Farmers Market",
-	address_1 : "755 Wall Street",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90014",
-	category  : "Farmers Market",
-	website   : "http://www.laflowerdistrict.com/farmers-market",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Sat",
-		open      : "900",
-		close     : "1400"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/the-wall-food-flowers-/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.1522",
-	longitude : "-118.3538",
-	name      : "Toluca Lake Farmers Market",
-	address_1 : "Sancola Ave & Riverside Dr",
-	address_2 : "",
-	city      : "Toluca Lake",
-	zip       : "91610",
-	category  : "Farmers Market",
-	website   : "http://dola.com/events/weekly/sun/toluca-lake-farmers-market",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Sun",
-		open      : "1000",
-		close     : "1500"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/toluca-lake/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.112172",
-	longitude : "-118.589828",
-	name      : "Topanga Canyon CFM",
-	address_1 : "1440 North Topanga Canyon Blvd.",
-	address_2 : "",
-	city      : "Topanga",
-	zip       : "90503",
-	category  : "Farmers Market",
-	website   : "http://www.sfma.net/",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Fri",
-		open      : "900",
-		close     : "1300"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/topanga-canyon-cfm/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "33.8387",
-	longitude : "-118.3568",
-	name      : "Torrance Providence Farmers Market",
-	address_1 : "4101 Torranc Blvd. @ Hawthorne Blvd",
-	address_2 : "",
-	city      : "Torrance",
-	zip       : "90503",
-	category  : "Farmers Market",
-	website   : "https://www.hlinc.co/little-company-of-mary-torrance",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Fri",
-		open      : "1000",
-		close     : "1500"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/torrance-providence/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "33.8249",
-	longitude : "-118.3284",
-	name      : "Torrance Farmers Market -Tuesday and saturday- 2200 Crenshaw Blvd Torrance,Ca.90501",
-	address_1 : "2200 Crenshaw Blvd",
-	address_2 : "",
-	city      : "Torrance",
-	zip       : "90501",
-	category  : "Farmers Market",
-	website   : "http://www.torranceca.gov/6620.htm",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Tue",
-		open      : "800",
-		close     : "1300"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/torrance-tuesday-and-saturday-2200-crenshaw-blvd-torrance-ca-90501/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "33.9791",
-	longitude : "-118.0362",
-	name      : "Uptown Whittier Farmers Market",
-	address_1 : "Bright Ave & Philadelphia St",
-	address_2 : "13018 Philadelphia St.",
-	city      : "Whittier",
-	zip       : "90602",
-	category  : "Farmers Market",
-	website   : "http://whittieruptown.org/fridaymarket/",
-	phone     : "(562)696-2662",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Fri",
-		open      : "800",
-		close     : "1300"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/uptown-whittier/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.0209",
-	longitude : "-118.2807",
-	name      : "USC Hospitality Farmers Market",
-	address_1 : "3445 S. Figueroa Street",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90007",
-	category  : "Farmers Market",
-	website   : "http://hospitality.usc.edu/",
-	phone     : "(213)821-5707",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Wed",
-		open      : "1100",
-		close     : "1500"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/usc-hospitality/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.4159",
-	longitude : "-118.5582",
-	name      : "Valencia Farmers Market",
-	address_1 : "24201 Valencia Blvd",
-	address_2 : "",
-	city      : "valencia",
-	zip       : "91355",
-	category  : "Farmers Market",
-	website   : "",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Thu",
-		open      : "1600",
-		close     : "2000"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/valencia/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "33.9876",
-	longitude : "-118.466",
-	name      : "Venice Farmers Market",
-	address_1 : "N Venice Blvd & Venice Way",
-	address_2 : "",
-	city      : "Venice",
-	zip       : "90291",
-	category  : "Farmers Market",
-	website   : "",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Fri",
-		open      : "700",
-		close     : "1100"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/venice/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "33.9435",
-	longitude : "-118.2524",
-	name      : "Watts Healthy Farmers Market",
-	address_1 : "1335 East 103rd Street",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90002",
-	category  : "Farmers Market",
-	website   : "http://seela.org/venue/watts-healthy-farmers-market-2/",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Sat",
-		open      : "1000",
-		close     : "1400"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/watts-healthy/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.0398",
-	longitude : "-118.3348",
-	name      : "Wellington Square Farmers Market",
-	address_1 : "4394 W Washington Blvd.",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90016",
-	category  : "Farmers Market",
-	website   : "https://www.wellingtonsquarefarmersmarket.com/",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Sun",
-		open      : "900",
-		close     : "1300"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/wellington-square/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.0706",
-	longitude : "-117.9215",
-	name      : "West Covina Farmers Market",
-	address_1 : "195 S. Glendora Ave.",
-	address_2 : "",
-	city      : "West Covina",
-	zip       : "91790",
-	category  : "Farmers Market",
-	website   : "http://westcovinafarmersmarket.org/",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Sat",
-		open      : "800",
-		close     : "1300"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/west-covina/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.0926",
-	longitude : "-118.3511",
-	name      : "West Hollywood Farmers Market",
-	address_1 : "1200 N Vista St",
-	address_2 : "",
-	city      : "West Hollywood",
-	zip       : "90046",
-	category  : "Farmers Market",
-	website   : "http://www.weho.org/residents/recreation-services/helen-albert-certified-farmers-market",
-	phone     : "(323)845-6535",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Mon",
-		open      : "900",
-		close     : "1400"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/west-hollywood/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.0457",
-	longitude : "-118.4505",
-	name      : "West Los Angeles Farmers Market",
-	address_1 : "1645 Corinth Avenue at Santa Monica Blvd",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90025",
-	category  : "Farmers Market",
-	website   : "",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Sun",
-		open      : "900",
-		close     : "1400"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/west-los-angeles/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "33.9586",
-	longitude : "-118.394",
-	name      : "Westchester Farmers Market",
-	address_1 : "7000 W Manchester Ave",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90045",
-	category  : "Farmers Market",
-	website   : "",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Wed",
-		open      : "830",
-		close     : "1300"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/westchester/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.057",
-	longitude : "-118.4494",
-	name      : "Westwood Village Farmers Market",
-	address_1 : "1083 Braxton Avenue",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90024",
-	category  : "Farmers Market",
-	website   : "",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Thu",
-		open      : "1200",
-		close     : "1800"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/westwood-village/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "33.9532",
-	longitude : "-118.0443",
-	name      : "Whittier Host Lions Farmers Market",
-	address_1 : "9401 S Painter Ave",
-	address_2 : "",
-	city      : "Whittier",
-	zip       : "90605",
-	category  : "Farmers Market",
-	website   : "http://www.whittierfarmersmarket.org/",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Sat",
-		open      : "900",
-		close     : "1300"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/whittier-host-lions/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "33.7867",
-	longitude : "-118.263",
-	name      : "Wilmington Farmers Market",
-	address_1 : "Avalon and L St.",
-	address_2 : "",
-	city      : "Wilminton",
-	zip       : "90744",
-	category  : "Farmers Market",
-	website   : "",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Thu",
-		open      : "900",
-		close     : "1300"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/wilmington/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.157224",
-	longitude : "-118.63876",
-	name      : "Woodland Hills Farmers Market",
-	address_1 : "23504 Calabasas Rd",
-	address_2 : "",
-	city      : "Calabasas",
-	zip       : "91302",
-	category  : "Farmers Market",
-	website   : "",
-	phone     : "(818)591-8161",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Sat",
-		open      : "800",
-		close     : "1300"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/woodland-hills/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.1571",
-	longitude : "-118.4379",
-	name      : "Woodman Avenue Farmers Market",
-	address_1 : "14006 Riverside Dr",
-	address_2 : "",
-	city      : "Sherman Oaks",
-	zip       : "91423",
-	category  : "Farmers Market",
-	website   : "",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-	
-	{
-		day       : "Tue",
-		open      : "1500",
-		close     : "1900"
-	}
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/farmers-market/woodman-avenue/"
-	
-
-	, content   : " "
-	
-}
-
-
-,
-
-
-
-{
-	latitude  : "34.22961903",
-	longitude : "-118.4245122",
-	name      : "Arleta Community Garden",
-	address_1 : "8800 Canterbury Avenue",
-	address_2 : "",
-	city      : "San Fernando Valley",
-	zip       : "91331",
-	category  : "Community Garden",
-	website   : "",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/community-garden/arleta/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.019163",
-	longitude : "-117.674564",
-	name      : "Chino Community Garden & Park",
-	address_1 : "5976 Riverside Drive",
-	address_2 : "",
-	city      : "Chino",
-	zip       : "91710",
-	category  : "Community Garden",
-	website   : "http://www.cityofchino.org/government-services/community-services/healthy-chino/community-garden",
-	phone     : "909-334-3478",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/community-garden/chino-community-garden-park/"
-	
-
-	, content   : "<h2 id=\"schedule-a-group-tour\">Schedule a Group Tour</h2>  <p>Interested in scheduling a group tour? The Community Garden is accepts a limited number of private tours. For more information or to schedule a tour, please contact the Healthy Chino office at 909-334-3478 or <a href=\"healthychino@cityofchino.org\">healthychino@cityofchino.org</a>.</p> "
-	
-},
-
-{
-	latitude  : "34.04619603",
-	longitude : "-118.3276274",
-	name      : "Crenshaw Community Garden",
-	address_1 : "1423 S Crenshaw Blvd",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90019",
-	category  : "Community Garden",
-	website   : "http://crenshawgarden.blogspot.com/",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/community-garden/crenshaw/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.13392644",
-	longitude : "-118.1887884",
-	name      : "Eagle Rockdale Community Garden & Art Park",
-	address_1 : "1003 Rockdale Avenue",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90041",
-	category  : "Community Garden",
-	website   : "https://www.facebook.com/Eagle-Rockdale-Community-Garden-Art-Park-121724107876620/",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/community-garden/eagle-rockdale-art-park/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "33.97724579",
-	longitude : "-118.4631657",
-	name      : "Eastwind Community Garden",
-	address_1 : "110 Eastwind Street",
-	address_2 : "",
-	city      : "Marina Del Rey",
-	zip       : "90292",
-	category  : "Community Garden",
-	website   : "http://www.eastwindgarden.com/",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/community-garden/eastwind/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.09249662",
-	longitude : "-118.1616233",
-	name      : "El Sereno Community Garden",
-	address_1 : "5466 Huntington Drive",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90032",
-	category  : "Community Garden",
-	website   : "https://communitygarden.org/find-a-garden/gardens/el-sereno-community-garden/",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/community-garden/el-sereno/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.09722483",
-	longitude : "-118.2429669",
-	name      : "Elysian Valley Community Garden",
-	address_1 : "1816 W Blake Avenue",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90039",
-	category  : "Community Garden",
-	website   : "http://lagardencouncil.org/elysianvalley/",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/community-garden/elysian-valley/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "33.96923397",
-	longitude : "-118.4047634",
-	name      : "Emerson Avenue Community Garden",
-	address_1 : "6550 W 80th Street",
-	address_2 : "",
-	city      : "Westchester",
-	zip       : "90045",
-	category  : "Community Garden",
-	website   : "http://www.eacgc.org/",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/community-garden/emerson-avenue/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.09435535",
-	longitude : "-118.3337145",
-	name      : "Enrique Noguera Educational Garden",
-	address_1 : "6614 Fountain Avenue",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90038",
-	category  : "Community Garden",
-	website   : "https://www.facebook.com/pages/Enrique-Noguera-Gardens/213260882100604",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/community-garden/enrique-noguera-educational-garden/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "33.98062804",
-	longitude : "-118.3007416",
-	name      : "Epworth Community Garden",
-	address_1 : "1419 W 65th Place",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90047",
-	category  : "Community Garden",
-	website   : "https://www.facebook.com/pages/Epworth-Community-Garden/246001935564389",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/community-garden/epworth/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.03170032",
-	longitude : "-118.298016",
-	name      : "Erika J. Glazer Community Garden",
-	address_1 : "2632 Raymond Avenue",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90007",
-	category  : "Community Garden",
-	website   : "http://www.lanlt.org/parks-and-gardens.php#erika",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/community-garden/erika-j-glazer/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "33.738497",
-	longitude : "-118.286374",
-	name      : "Feed & Be Fed",
-	address_1 : "429 West 6th Street",
-	address_2 : "",
-	city      : "San Pedro",
-	zip       : "90731",
-	category  : "Community Garden",
-	website   : "http://www.feedandbefed.org",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/community-garden/feed-be-fed/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.09474231",
-	longitude : "-118.3117822",
-	name      : "Fountain Community Gardens",
-	address_1 : "5620 Fountain Avenue",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90028",
-	category  : "Community Garden",
-	website   : "https://www.yelp.com/biz/fountain-community-garden-los-angeles",
-	phone     : "(323) 387-3241",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/community-garden/fountains/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "33.96816788",
-	longitude : "-118.2651973",
-	name      : "Fremont Wellness Center & Community Garden",
-	address_1 : "7821 S Avalon Blvd",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90003",
-	category  : "Community Garden",
-	website   : "http://www.fremontwccg.org/",
-	phone     : "213-572-0188",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/community-garden/fremont-wellness-center-/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.12005434",
-	longitude : "-118.2430059",
-	name      : "Glassell Park Community Garden",
-	address_1 : "3304 Drew Street",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90065",
-	category  : "Community Garden",
-	website   : "http://glassellparknc.org/2015/03/community-garden-blooms-again/",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/community-garden/glassell-park/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.03038873",
-	longitude : "-118.3676776",
-	name      : "Good Earth Community Garden",
-	address_1 : "5990 Boden St",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90016",
-	category  : "Community Garden",
-	website   : "",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/community-garden/good-earth/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.27917819",
-	longitude : "-118.4808094",
-	name      : "Granada Hills Salad Bowl Garden Club",
-	address_1 : "16003 Rinaldi Street",
-	address_2 : "",
-	city      : "Granada Hills",
-	zip       : "91344",
-	category  : "Community Garden",
-	website   : "",
-	phone     : "818-368-4533",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/community-garden/granada-hills-salad-bowl-garden-club/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "33.92644283",
-	longitude : "-118.2629993",
-	name      : "Greater Watts Community Garden",
-	address_1 : "660 E 118th Place",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90059",
-	category  : "Community Garden",
-	website   : "",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/community-garden/greater-watts/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "33.96343338",
-	longitude : "-118.4064699",
-	name      : "Holy Nativity Community Garden",
-	address_1 : "6700 W 83rd Street",
-	address_2 : "",
-	city      : "Westchester",
-	zip       : "90045",
-	category  : "Community Garden",
-	website   : "http://www.holynativityparish.org/the-community-garden-at-holy-nativity/",
-	phone     : "(310) 670-4777",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/community-garden/holy-nativity/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.25813176",
-	longitude : "-118.3016987",
-	name      : "Howard Finn Community Garden",
-	address_1 : "7747 Foothill Blvd",
-	address_2 : "",
-	city      : "Tujunga",
-	zip       : "91042",
-	category  : "Community Garden",
-	website   : "https://www.facebook.com/pg/Finn-Community-Garden-1056595011050119/photos/?tab=album&album_id=1068115096564777",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/community-garden/howard-finn/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.051828",
-	longitude : "-117.63874",
-	name      : "Huerta del Valle Garden",
-	address_1 : "831 East Belmont Street",
-	address_2 : "",
-	city      : "Ontario",
-	zip       : "91761",
-	category  : "Community Garden",
-	website   : "http://www.huertadelvalle.org",
-	phone     : "909-509-2996​​",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/community-garden/huerta-del-valle-garden/"
-	
-
-	, content   : "<p>We offer tours ​on Monday, Tuesday, Thursday, and Saturday at 12:00 pm.</p>  <p><a href=\"http://www.huertadelvalle.org/toursvolunteer.html\">http://www.huertadelvalle.org/toursvolunteer.html</a></p> "
-	
-},
-
-{
-	latitude  : "34.09173305",
-	longitude : "-118.234039",
-	name      : "Jardin Del Rio",
-	address_1 : "2363 N Riverdale Avenue",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90031",
-	category  : "Community Garden",
-	website   : "",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/community-garden/jardin-del-rio/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "33.73094877",
-	longitude : "-118.2799586",
-	name      : "John S. Gibson Senior Garden",
-	address_1 : "1500 S Harbor Blvd",
-	address_2 : "",
-	city      : "San Pedro",
-	zip       : "90731",
-	category  : "Community Garden",
-	website   : "",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/community-garden/john-s-gibson-senior-garden/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.09361321",
-	longitude : "-118.3405019",
-	name      : "Mansfield Fountain Community Garden",
-	address_1 : "1259 N Mansfield Avenue",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90038",
-	category  : "Community Garden",
-	website   : "https://www.facebook.com/Mansfield-Fountain-Community-Garden-Hollywood-CA-1062186980476336/",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/community-garden/mansfield-fountain/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.09348168",
-	longitude : "-118.280907",
-	name      : "Manzanita Street Community Garden",
-	address_1 : "1101 Manzanita Street",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90029",
-	category  : "Community Garden",
-	website   : "https://www.facebook.com/pages/Manzanita-Street-Organic-Community-Garden/398760433516388",
-	phone     : "(323) 533-3235",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/community-garden/manzanita-street/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "33.9934872",
-	longitude : "-118.4068559",
-	name      : "Mar Vista Community Garden",
-	address_1 : "5075 S Slauson Avenue",
-	address_2 : "",
-	city      : "Culver City",
-	zip       : "90230",
-	category  : "Community Garden",
-	website   : "https://www.oceanviewfarms.net/location.php",
-	phone     : "310-915-1123",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/community-garden/mar-vista/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "33.95969308",
-	longitude : "-118.4225489",
-	name      : "Messiah Organic Community Garden",
-	address_1 : "7300 West Manchester Avenue",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90045",
-	category  : "Community Garden",
-	website   : "",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/community-garden/messiah-organic/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.08733119",
-	longitude : "-118.3206354",
-	name      : "Milagro Allegro Community Garden",
-	address_1 : "115 S Avenue 56",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90042",
-	category  : "Community Garden",
-	website   : "https://communitygarden.org/find-a-garden/gardens/milagro-allegro-community-garden/",
-	phone     : "323-256-7122",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/community-garden/milagro-allegro/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.05684772",
-	longitude : "-118.28942",
-	name      : "Moothart Collingnon/Francis Avenue Community Garden",
-	address_1 : "2909 Francis Avenue",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90005",
-	category  : "Community Garden",
-	website   : "",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/community-garden/moothart-collingnon-francis-avenue/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.10414197",
-	longitude : "-118.2786531",
-	name      : "Norman Harriton Community Garden",
-	address_1 : "2037 N Sanborn Avenue",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90027",
-	category  : "Community Garden",
-	website   : "",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/community-garden/norman-harriton/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.01472864",
-	longitude : "-118.4419305",
-	name      : "Ocean View Farms",
-	address_1 : "3300 S Centinela Avenue",
-	address_2 : "",
-	city      : "Mar Vista",
-	zip       : "90066",
-	category  : "Community Garden",
-	website   : "https://www.oceanviewfarms.net/",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/community-garden/ocean-view-farms/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.21913279",
-	longitude : "-118.641199",
-	name      : "Orcutt Ranch Horticultural Center Rancho Sombra del Roble",
-	address_1 : "23600 Roscoe Blvd",
-	address_2 : "",
-	city      : "West Hills",
-	zip       : "91304",
-	category  : "Community Garden",
-	website   : "",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/community-garden/orcutt-ranch-horticultural-center-rancho-sombra-del-roble/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.061316",
-	longitude : "-117.748393",
-	name      : "Pomona Hope Center Street Garden",
-	address_1 : "192 East Center Street",
-	address_2 : "",
-	city      : "Pomona",
-	zip       : "91767",
-	category  : "Community Garden",
-	website   : "http://www.pomonahope.org/what-we-do/current-programs/community-garden/",
-	phone     : "909-918-4769",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/community-garden/pomona-hope-center-street-garden/"
-	
-
-	, content   : "<p>The garden is located on the southwest corner of Center Street and Gibbs Avenue.</p>  <p>For more information visit the <a href=\"http://www.centerstreetgarden.org\">Center Street Community Garden website</a></p>  <p>You can also reach the Garden Coordinator, Barbara Evans, at 909-918-4769.</p> "
-	
-},
-
-{
-	latitude  : "34.042568",
-	longitude : "-117.76359",
-	name      : "Pomona South Hills Gardens",
-	address_1 : "1170 Fremont Street",
-	address_2 : "",
-	city      : "Pomona",
-	zip       : "91766",
-	category  : "Community Garden",
-	website   : "https://www.facebook.com/SHPChurchOnline/",
-	phone     : "909-629-0492",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/community-garden/pomona-south-hills-gardens/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "33.74327698",
-	longitude : "-118.2830172",
-	name      : "Rancho San Pedro Community Garden",
-	address_1 : "275 W 1st Street",
-	address_2 : "",
-	city      : "San Pedro",
-	zip       : "90731",
-	category  : "Community Garden",
-	website   : "",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/community-garden/rancho-san-pedro/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.07572059",
-	longitude : "-118.3030171",
-	name      : "Rosewood Gardens",
-	address_1 : "4160 Rosewood Avenue",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90004",
-	category  : "Community Garden",
-	website   : "",
-	phone     : "(323) 821-7748",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/community-garden/rosewood-gardens/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.067391",
-	longitude : "-117.748945",
-	name      : "Saint Paul’s Episcopal Church",
-	address_1 : "242 East Alvarado Street",
-	address_2 : "",
-	city      : "Pomona",
-	zip       : "91767",
-	category  : "Community Garden",
-	website   : "http://www.saintpaulspomona.org/ministries/",
-	phone     : "909-622-2015",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/community-garden/saint-paul-s-episcopal-church/"
-	
-
-	, content   : "<p><a href=\"http://seedsofhope.ladiocese.org/\">Seeds of Hope</a> is a ministry of the Episcopal Diocese of Los Angeles which works with congregations, communities, and schools, to turn unused land into productive and beautiful gardens and orchards that provide fresh and nutritious foods to areas of need across the county. Join us for our garden work days at St. Paul’s to help us grow this ministry of sustainable food justice! To catch an upcoming work day, stay tuned to our <a href=\"http://www.saintpaulspomona.org/events\">calendar of events</a></p> "
-	
-},
-
-{
-	latitude  : "34.04122508",
-	longitude : "-118.2132207",
-	name      : "Salesian Boys & Girls Club Community Garden",
-	address_1 : "2228 E 4th Street",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90033",
-	category  : "Community Garden",
-	website   : "",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/community-garden/salesian-boys-girls-club/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "33.73126012",
-	longitude : "-118.2923468",
-	name      : "San Pedro Gardens",
-	address_1 : "1400 N Gaffey Street",
-	address_2 : "",
-	city      : "San Pedro",
-	zip       : "90731",
-	category  : "Community Garden",
-	website   : "",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/community-garden/san-pedro-gardens/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.049172",
-	longitude : "-117.735817",
-	name      : "Sarvodaya Farms",
-	address_1 : "1196 South San Antonio Avenue",
-	address_2 : "",
-	city      : "Pomona",
-	zip       : "91766",
-	category  : "Community Garden",
-	website   : "http://sarvodayafarms.com",
-	phone     : "909 660 3514",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/community-garden/sarvodaya-farms/"
-	
-
-	, content   : "<p>Sarvodaya Farms is located in the backyard of a residence across from Washington Park.</p>  <h2 id=\"visiting-hours\">Visiting Hours</h2>  <dl>   <dt>Monday</dt>   <dd>9am – 12pm</dd>   <dt>Friday</dt>   <dd>9am – 12pm</dd> </dl>  <p><em>Farming is hard work and we occasionally take a day off. Call ahead if you want to make sure we are around! 909 660 3514</em></p> "
-	
-},
-
-{
-	latitude  : "34.1649565",
-	longitude : "-118.4955004",
-	name      : "Sepulveda Garden Center",
-	address_1 : "16633 Magnolia Boulevard",
-	address_2 : "",
-	city      : "Encino",
-	zip       : "91436",
-	category  : "Community Garden",
-	website   : "http://www.laparks.org/horticulture/sepulveda-garden-center",
-	phone     : "(818) 784-5180",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/community-garden/sepulveda-garden-center/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.07418257",
-	longitude : "-118.2314301",
-	name      : "Solano Canyon Community Garden",
-	address_1 : "545 Solano Avenue",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90012",
-	category  : "Community Garden",
-	website   : "https://www.facebook.com/Solano-Canyon-Community-Garden-133534380050987/",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/community-garden/solano-canyon/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.050749",
-	longitude : "-118.246015",
-	name      : "Spring Street Community Garden",
-	address_1 : "220 S Spring Street",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90012",
-	category  : "Community Garden",
-	website   : "https://springstreetcommunitygarden.org",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/community-garden/spring-street/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "33.93417627",
-	longitude : "-118.2637709",
-	name      : "Stanford Avalon Community Garden",
-	address_1 : "658 E 111th Place",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90059",
-	category  : "Community Garden",
-	website   : "",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/community-garden/stanford-avalon/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.04290511",
-	longitude : "-118.2822205",
-	name      : "The Learning Garden",
-	address_1 : "1300 Venice Blvd",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90006",
-	category  : "Community Garden",
-	website   : "http://www.thelearninggarden.org/",
-	phone     : "(310) 722-3656",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/community-garden/the-learning-garden/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.051526",
-	longitude : "-117.758303",
-	name      : "Urban Mission Garden",
-	address_1 : "810 South White Avenue",
-	address_2 : "",
-	city      : "Pomona",
-	zip       : "91766",
-	category  : "Community Garden",
-	website   : "http://www.umpomona.org",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/community-garden/urban-mission-garden/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.00009093",
-	longitude : "-118.2915068",
-	name      : "Vermont Square Community Garden",
-	address_1 : "4712 S Vermont Avenue",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90037",
-	category  : "Community Garden",
-	website   : "",
-	phone     : "",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/community-garden/vermont-square/"
-	
-
-	, content   : " "
-	
-},
-
-{
-	latitude  : "34.10199105",
-	longitude : "-118.3550116",
-	name      : "Wattles Farm",
-	address_1 : "1714 N Curson Avenue",
-	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90046",
-	category  : "Community Garden",
-	website   : "http://www.wattlesfarm.com/",
-	phone     : "(323) 663-7441",
-	twitter   : "",
-	instagram : "",
-	facebook  : "",
-	hours     : [
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	],
-	uri       : "/community-garden/wattles-farm/"
-	
-
-	, content   : " "
+	, content   : "   "
 	
 }
 
@@ -26278,7 +26634,7 @@ var locations = [
 	uri       : "/supermarket/365-by-whole-foods-market-2520-glendale-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -26373,7 +26729,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-1000-n-azusa-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -26468,7 +26824,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-1000-s-central-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -26563,7 +26919,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-101-e-avenue-e/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -26658,7 +27014,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-101-e-willow-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -26753,7 +27109,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-1010-e-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -26848,7 +27204,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-1023-n-grand-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -26943,7 +27299,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-110-e-carson-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -27038,7 +27394,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-12013-central-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -27133,7 +27489,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-1222-n-avalon-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -27228,7 +27584,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-1235-s-diamond-bar-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -27323,7 +27679,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-12630-hawthorne-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -27418,7 +27774,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-13003-whittier-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -27513,7 +27869,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-133-w-avenue-45/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -27608,7 +27964,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-133-w-route-66/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -27703,7 +28059,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-13401-washington-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -27798,7 +28154,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-14401-inglewood-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -27893,7 +28249,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-1516-s-pacific-coast-hwy/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -27988,7 +28344,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-15200-rosecrans-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -28083,7 +28439,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-15970-los-serranos-country-club-dr/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -28178,7 +28534,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-16201-san-fernando-mission-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -28273,7 +28629,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-1636-w-25th-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -28368,7 +28724,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-17120-colima-rd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -28463,7 +28819,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-1735-w-artesia-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -28558,7 +28914,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-1736-e-avenida-de-los-arboles/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -28653,7 +29009,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-1800-w-whittier-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -28748,7 +29104,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-18555-devonshire-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -28843,7 +29199,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-18730-amar-rd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -28938,7 +29294,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-19307-saticoy-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -29033,7 +29389,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-19725-colima-rd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -29128,7 +29484,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-200-e-sepulveda-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -29223,7 +29579,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-2035-hillhurst-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -29318,7 +29674,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-21035-hawthorne-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -29413,7 +29769,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-2115-artesia-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -29508,7 +29864,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-2130-pacific-coast-hwy/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -29603,7 +29959,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-220-e-bonita-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -29698,7 +30054,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-22840-victory-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -29793,7 +30149,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-23449-lyons-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -29888,7 +30244,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-23850-copperhill-dr/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -29983,7 +30339,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-2400-w-commonwealth-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -30078,7 +30434,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-2469-via-campo/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -30173,7 +30529,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-2500-e-imperial-hwy/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -30268,7 +30624,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-2510-pacific-coast-hwy/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -30363,7 +30719,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-2547-w-rosamond-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -30458,7 +30814,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-2627-lincoln-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -30553,7 +30909,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-2630-e-workman-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -30648,7 +31004,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-26521-agoura-rd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -30743,7 +31099,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-26850-the-old-rd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -30838,7 +31194,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-27631-bouquet-canyon-rd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -30933,7 +31289,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-28090-s-western-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -31028,7 +31384,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-298-e-live-oak-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -31123,7 +31479,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-3180-n-garey-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -31218,7 +31574,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-3255-grand-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -31313,7 +31669,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-3400-e-south-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -31408,7 +31764,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-3443-s-sepulveda-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -31503,7 +31859,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-3828-peck-rd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -31598,7 +31954,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-3830-w-verdugo-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -31693,7 +32049,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-3841-e-sierra-madre-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -31788,7 +32144,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-38727-tierra-subida-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -31883,7 +32239,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-3901-crenshaw-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -31978,7 +32334,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-4155-tweedy-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -32073,7 +32429,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-43543-20th-st-w/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -32168,7 +32524,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-450-long-beach-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -32263,7 +32619,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-5015-del-amo-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -32358,7 +32714,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-5038-w-avenue-n/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -32453,7 +32809,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-5770-lindero-canyon-rd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -32548,7 +32904,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-615-n-pacific-coast-hwy/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -32643,7 +32999,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-6235-e-spring-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -32738,7 +33094,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-6240-foothill-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -32833,7 +33189,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-6255-e-2nd-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -32928,7 +33284,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-644-redondo-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -33023,7 +33379,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-7227-van-nuys-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -33118,7 +33474,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-725-e-huntington-dr/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -33213,7 +33569,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-7676-firestone-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -33308,7 +33664,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-8320-firestone-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -33403,7 +33759,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-855-n-wilcox-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -33498,7 +33854,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-8985-venice-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -33593,7 +33949,7 @@ var locations = [
 	uri       : "/supermarket/albertsons-9022-balboa-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -33688,7 +34044,7 @@ var locations = [
 	uri       : "/supermarket/aldi-11530-south-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -33783,7 +34139,7 @@ var locations = [
 	uri       : "/supermarket/aldi-1400-n-azusa-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -33878,7 +34234,7 @@ var locations = [
 	uri       : "/supermarket/aldi-8530-firestone-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -33973,7 +34329,7 @@ var locations = [
 	uri       : "/supermarket/big-saver-foods-1313-e-artesia-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -34068,7 +34424,7 @@ var locations = [
 	uri       : "/supermarket/big-saver-foods-14310-hawthorne-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -34163,7 +34519,7 @@ var locations = [
 	uri       : "/supermarket/big-saver-foods-1500-w-willow-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -34258,7 +34614,7 @@ var locations = [
 	uri       : "/supermarket/big-saver-foods-16000-woodruff-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -34353,7 +34709,7 @@ var locations = [
 	uri       : "/supermarket/big-saver-foods-2300-e-7th-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -34448,7 +34804,7 @@ var locations = [
 	uri       : "/supermarket/big-saver-foods-2619-n-figueroa-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -34543,7 +34899,7 @@ var locations = [
 	uri       : "/supermarket/big-saver-foods-3000-n-broadway/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -34638,7 +34994,7 @@ var locations = [
 	uri       : "/supermarket/big-saver-foods-4260-charter-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -34733,7 +35089,7 @@ var locations = [
 	uri       : "/supermarket/big-saver-foods-5168-huntington-dr-s/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -34828,7 +35184,7 @@ var locations = [
 	uri       : "/supermarket/big-saver-foods-5829-compton-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -34923,7 +35279,7 @@ var locations = [
 	uri       : "/supermarket/big-saver-foods-7619-garvey-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -35018,7 +35374,7 @@ var locations = [
 	uri       : "/supermarket/big-saver-foods-9406-washington-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -35113,7 +35469,7 @@ var locations = [
 	uri       : "/supermarket/bristol-farms-140-promenade-way/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -35208,7 +35564,7 @@ var locations = [
 	uri       : "/supermarket/bristol-farms-1515-westwood-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -35303,7 +35659,7 @@ var locations = [
 	uri       : "/supermarket/bristol-farms-1570-rosecrans-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -35398,7 +35754,7 @@ var locations = [
 	uri       : "/supermarket/bristol-farms-1700-s-pacific-coast-hwy/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -35493,7 +35849,7 @@ var locations = [
 	uri       : "/supermarket/bristol-farms-3105-wilshire-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -35588,7 +35944,7 @@ var locations = [
 	uri       : "/supermarket/bristol-farms-606-fair-oaks-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -35683,7 +36039,7 @@ var locations = [
 	uri       : "/supermarket/bristol-farms-7880-w-sunset-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -35778,7 +36134,7 @@ var locations = [
 	uri       : "/supermarket/bristol-farms-837-silver-spur-rd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -35873,7 +36229,7 @@ var locations = [
 	uri       : "/supermarket/bristol-farms-8448-lincoln-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -35968,7 +36324,7 @@ var locations = [
 	uri       : "/supermarket/bristol-farms-9039-beverly-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -36063,7 +36419,7 @@ var locations = [
 	uri       : "/supermarket/bristol-farms-915-e-230th-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -36158,7 +36514,7 @@ var locations = [
 	uri       : "/supermarket/el-super-10721-atlantic-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -36253,7 +36609,7 @@ var locations = [
 	uri       : "/supermarket/el-super-1100-w-slauson-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -36348,7 +36704,7 @@ var locations = [
 	uri       : "/supermarket/el-super-120-w-anaheim-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -36443,7 +36799,7 @@ var locations = [
 	uri       : "/supermarket/el-super-1285-n-hacienda-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -36538,7 +36894,7 @@ var locations = [
 	uri       : "/supermarket/el-super-1301-e-gage-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -36633,7 +36989,7 @@ var locations = [
 	uri       : "/supermarket/el-super-14103-ramona-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -36728,7 +37084,7 @@ var locations = [
 	uri       : "/supermarket/el-super-14601-lakewood-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -36823,7 +37179,7 @@ var locations = [
 	uri       : "/supermarket/el-super-14620-parthenia-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -36918,7 +37274,7 @@ var locations = [
 	uri       : "/supermarket/el-super-15202-hawthorne-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -37013,7 +37369,7 @@ var locations = [
 	uri       : "/supermarket/el-super-1575-e-holt-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -37108,7 +37464,7 @@ var locations = [
 	uri       : "/supermarket/el-super-315-san-fernando-mission-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -37203,7 +37559,7 @@ var locations = [
 	uri       : "/supermarket/el-super-3211-firestone-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -37298,7 +37654,7 @@ var locations = [
 	uri       : "/supermarket/el-super-3321-w-century-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -37393,7 +37749,7 @@ var locations = [
 	uri       : "/supermarket/el-super-3405-e-cesar-e-chavez-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -37488,7 +37844,7 @@ var locations = [
 	uri       : "/supermarket/el-super-450-long-beach-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -37583,7 +37939,7 @@ var locations = [
 	uri       : "/supermarket/el-super-5610-york-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -37678,7 +38034,7 @@ var locations = [
 	uri       : "/supermarket/el-super-5646-whittier-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -37773,7 +38129,7 @@ var locations = [
 	uri       : "/supermarket/el-super-5702-firestone-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -37868,7 +38224,7 @@ var locations = [
 	uri       : "/supermarket/el-super-6203-gage-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -37963,7 +38319,7 @@ var locations = [
 	uri       : "/supermarket/el-super-7000-s-alameda-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -38058,7 +38414,7 @@ var locations = [
 	uri       : "/supermarket/el-super-960-w-arrow-hwy/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -38153,7 +38509,7 @@ var locations = [
 	uri       : "/supermarket/el-super-9710-woodman-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -38248,7 +38604,7 @@ var locations = [
 	uri       : "/supermarket/family-market-2426-w-8th-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -38343,7 +38699,7 @@ var locations = [
 	uri       : "/supermarket/family-market-2500-hooper-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -38438,7 +38794,7 @@ var locations = [
 	uri       : "/supermarket/family-market-4267-ascot-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -38533,7 +38889,7 @@ var locations = [
 	uri       : "/supermarket/family-market-4304-floral-dr/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -38628,7 +38984,7 @@ var locations = [
 	uri       : "/supermarket/food-4-less-10901-imperial-hwy/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -38723,7 +39079,7 @@ var locations = [
 	uri       : "/supermarket/food-4-less-1091-s-hoover-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -38818,7 +39174,7 @@ var locations = [
 	uri       : "/supermarket/food-4-less-11245-long-beach-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -38913,7 +39269,7 @@ var locations = [
 	uri       : "/supermarket/food-4-less-11407-s-western-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -39008,7 +39364,7 @@ var locations = [
 	uri       : "/supermarket/food-4-less-11840-wilmington-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -39103,7 +39459,7 @@ var locations = [
 	uri       : "/supermarket/food-4-less-11950-garvey-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -39198,7 +39554,7 @@ var locations = [
 	uri       : "/supermarket/food-4-less-12222-carson-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -39293,7 +39649,7 @@ var locations = [
 	uri       : "/supermarket/food-4-less-12689-glenoaks-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -39388,7 +39744,7 @@ var locations = [
 	uri       : "/supermarket/food-4-less-12765-van-nuys-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -39483,7 +39839,7 @@ var locations = [
 	uri       : "/supermarket/food-4-less-1299-w-artesia-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -39578,7 +39934,7 @@ var locations = [
 	uri       : "/supermarket/food-4-less-1329-n-lake-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -39673,7 +40029,7 @@ var locations = [
 	uri       : "/supermarket/food-4-less-13413-telegraph-rd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -39768,7 +40124,7 @@ var locations = [
 	uri       : "/supermarket/food-4-less-13525-lakewood-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -39863,7 +40219,7 @@ var locations = [
 	uri       : "/supermarket/food-4-less-14500-ocean-gate-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -39958,7 +40314,7 @@ var locations = [
 	uri       : "/supermarket/food-4-less-1600-e-willow-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -40053,7 +40409,7 @@ var locations = [
 	uri       : "/supermarket/food-4-less-16208-parthenia-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -40148,7 +40504,7 @@ var locations = [
 	uri       : "/supermarket/food-4-less-1651-e-103rd-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -40243,7 +40599,7 @@ var locations = [
 	uri       : "/supermarket/food-4-less-16530-sherman-way/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -40338,7 +40694,7 @@ var locations = [
 	uri       : "/supermarket/food-4-less-1700-w-6th-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -40433,7 +40789,7 @@ var locations = [
 	uri       : "/supermarket/food-4-less-1717-s-western-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -40528,7 +40884,7 @@ var locations = [
 	uri       : "/supermarket/food-4-less-1748-w-jefferson-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -40623,7 +40979,7 @@ var locations = [
 	uri       : "/supermarket/food-4-less-1820-w-slauson-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -40718,7 +41074,7 @@ var locations = [
 	uri       : "/supermarket/food-4-less-1821-n-hacienda-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -40813,7 +41169,7 @@ var locations = [
 	uri       : "/supermarket/food-4-less-1900-w-rosecrans-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -40908,7 +41264,7 @@ var locations = [
 	uri       : "/supermarket/food-4-less-19200-soledad-canyon-rd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -41003,7 +41359,7 @@ var locations = [
 	uri       : "/supermarket/food-4-less-20155-saticoy-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -41098,7 +41454,7 @@ var locations = [
 	uri       : "/supermarket/food-4-less-2090-s-garey-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -41193,7 +41549,7 @@ var locations = [
 	uri       : "/supermarket/food-4-less-2185-e-south-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -41288,7 +41644,7 @@ var locations = [
 	uri       : "/supermarket/food-4-less-2341-e-avenue-s/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -41383,7 +41739,7 @@ var locations = [
 	uri       : "/supermarket/food-4-less-2750-e-1st-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -41478,7 +41834,7 @@ var locations = [
 	uri       : "/supermarket/food-4-less-3000-baldwin-park-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -41573,7 +41929,7 @@ var locations = [
 	uri       : "/supermarket/food-4-less-3200-w-century-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -41668,7 +42024,7 @@ var locations = [
 	uri       : "/supermarket/food-4-less-336-w-anaheim-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -41763,7 +42119,7 @@ var locations = [
 	uri       : "/supermarket/food-4-less-3654-e-olympic-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -41858,7 +42214,7 @@ var locations = [
 	uri       : "/supermarket/food-4-less-4400-slauson-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -41953,7 +42309,7 @@ var locations = [
 	uri       : "/supermarket/food-4-less-44455-valley-central-way/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -42048,7 +42404,7 @@ var locations = [
 	uri       : "/supermarket/food-4-less-4910-huntington-dr-s/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -42143,7 +42499,7 @@ var locations = [
 	uri       : "/supermarket/food-4-less-5318-s-main-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -42238,7 +42594,7 @@ var locations = [
 	uri       : "/supermarket/food-4-less-5420-w-sunset-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -42333,7 +42689,7 @@ var locations = [
 	uri       : "/supermarket/food-4-less-615-n-azusa-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -42428,7 +42784,7 @@ var locations = [
 	uri       : "/supermarket/food-4-less-6700-cherry-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -42523,7 +42879,7 @@ var locations = [
 	uri       : "/supermarket/food-4-less-6901-eastern-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -42618,7 +42974,7 @@ var locations = [
 	uri       : "/supermarket/food-4-less-6920-santa-fe-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -42713,7 +43069,7 @@ var locations = [
 	uri       : "/supermarket/food-4-less-7810-norwalk-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -42808,7 +43164,7 @@ var locations = [
 	uri       : "/supermarket/food-4-less-8035-webb-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -42903,7 +43259,7 @@ var locations = [
 	uri       : "/supermarket/food-4-less-851-sepulveda-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -42998,7 +43354,7 @@ var locations = [
 	uri       : "/supermarket/food-4-less-8530-tobias-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -43093,7 +43449,7 @@ var locations = [
 	uri       : "/supermarket/food-4-less-8620-whittier-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -43188,7 +43544,7 @@ var locations = [
 	uri       : "/supermarket/food-4-less-9635-laurel-canyon-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -43283,7 +43639,7 @@ var locations = [
 	uri       : "/supermarket/gelsons-market-10250-santa-monica-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -43378,7 +43734,7 @@ var locations = [
 	uri       : "/supermarket/gelsons-market-13455-maxella-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -43473,7 +43829,7 @@ var locations = [
 	uri       : "/supermarket/gelsons-market-15424-w-sunset-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -43568,7 +43924,7 @@ var locations = [
 	uri       : "/supermarket/gelsons-market-16450-ventura-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -43663,7 +44019,7 @@ var locations = [
 	uri       : "/supermarket/gelsons-market-1930-century-park-w/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -43758,7 +44114,7 @@ var locations = [
 	uri       : "/supermarket/gelsons-market-22277-mulholland-hwy/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -43853,7 +44209,7 @@ var locations = [
 	uri       : "/supermarket/gelsons-market-2725-hyperion-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -43948,7 +44304,7 @@ var locations = [
 	uri       : "/supermarket/gelsons-market-2734-townsgate-rd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -44043,7 +44399,7 @@ var locations = [
 	uri       : "/supermarket/gelsons-market-4520-van-nuys-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -44138,7 +44494,7 @@ var locations = [
 	uri       : "/supermarket/gelsons-market-4738-laurel-canyon-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -44233,7 +44589,7 @@ var locations = [
 	uri       : "/supermarket/gelsons-market-5500-reseda-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -44328,7 +44684,7 @@ var locations = [
 	uri       : "/supermarket/gelsons-market-5877-franklin-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -44423,7 +44779,7 @@ var locations = [
 	uri       : "/supermarket/gelsons-market-6255-e-2nd-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -44518,7 +44874,7 @@ var locations = [
 	uri       : "/supermarket/gelsons-market-635-foothill-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -44613,7 +44969,7 @@ var locations = [
 	uri       : "/supermarket/gelsons-market-8330-santa-monica-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -44708,7 +45064,7 @@ var locations = [
 	uri       : "/supermarket/island-pacific-11481-south-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -44803,7 +45159,7 @@ var locations = [
 	uri       : "/supermarket/island-pacific-1512-e-amar-rd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -44898,7 +45254,7 @@ var locations = [
 	uri       : "/supermarket/island-pacific-20922-roscoe-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -44993,7 +45349,7 @@ var locations = [
 	uri       : "/supermarket/island-pacific-229-s-vermont-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -45088,7 +45444,7 @@ var locations = [
 	uri       : "/supermarket/island-pacific-627-n-vermont-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -45183,7 +45539,7 @@ var locations = [
 	uri       : "/supermarket/island-pacific-8340-van-nuys-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -45278,7 +45634,7 @@ var locations = [
 	uri       : "/supermarket/jons-marketplace-12122-magnolia-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -45373,7 +45729,7 @@ var locations = [
 	uri       : "/supermarket/jons-marketplace-1717-w-glenoaks-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -45468,7 +45824,7 @@ var locations = [
 	uri       : "/supermarket/jons-marketplace-20151-roscoe-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -45563,7 +45919,7 @@ var locations = [
 	uri       : "/supermarket/jons-marketplace-24-18135-sherman-way/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -45658,7 +46014,7 @@ var locations = [
 	uri       : "/supermarket/jons-marketplace-3334-w-8th-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -45753,7 +46109,7 @@ var locations = [
 	uri       : "/supermarket/jons-marketplace-5315-santa-monica-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -45848,7 +46204,7 @@ var locations = [
 	uri       : "/supermarket/jons-marketplace-600-e-colorado-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -45943,7 +46299,7 @@ var locations = [
 	uri       : "/supermarket/jons-marketplace-6655-van-nuys-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -46038,7 +46394,7 @@ var locations = [
 	uri       : "/supermarket/lassens-natural-foods-2080-hillhurst-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -46133,7 +46489,7 @@ var locations = [
 	uri       : "/supermarket/lassens-natural-foods-2150-e-thousand-oaks-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -46228,7 +46584,7 @@ var locations = [
 	uri       : "/supermarket/lassens-natural-foods-vitamins-1631-w-sunset-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -46323,7 +46679,7 @@ var locations = [
 	uri       : "/supermarket/lassens-natural-foods-vitamins-2857-e-thousand-oaks-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -46418,7 +46774,7 @@ var locations = [
 	uri       : "/supermarket/northgate-2120-pacific-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -46513,7 +46869,7 @@ var locations = [
 	uri       : "/supermarket/northgate-gonzalez-markets-2323-w-olympic-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -46608,7 +46964,7 @@ var locations = [
 	uri       : "/supermarket/northgate-gonzalez-markets-425-s-soto-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -46703,7 +47059,7 @@ var locations = [
 	uri       : "/supermarket/northgate-gonzalez-markets-4700-inglewood-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -46798,7 +47154,7 @@ var locations = [
 	uri       : "/supermarket/northgate-gonzalez-markets-944-e-slauson-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -46893,7 +47249,7 @@ var locations = [
 	uri       : "/supermarket/northgate-market-11660-firestone-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -46988,7 +47344,7 @@ var locations = [
 	uri       : "/supermarket/northgate-market-1320-w-francisquito-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -47083,7 +47439,7 @@ var locations = [
 	uri       : "/supermarket/northgate-market-16259-paramount-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -47178,7 +47534,7 @@ var locations = [
 	uri       : "/supermarket/northgate-market-2633-santa-ana-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -47273,7 +47629,7 @@ var locations = [
 	uri       : "/supermarket/northgate-market-3828-peck-rd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -47368,7 +47724,7 @@ var locations = [
 	uri       : "/supermarket/northgate-market-6801-atlantic-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -47463,7 +47819,7 @@ var locations = [
 	uri       : "/supermarket/northgate-market-831-n-hacienda-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -47558,7 +47914,7 @@ var locations = [
 	uri       : "/supermarket/northgate-super-market-9101-telegraph-rd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -47653,7 +48009,7 @@ var locations = [
 	uri       : "/supermarket/northgates-1222-n-avalon-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -47748,7 +48104,7 @@ var locations = [
 	uri       : "/supermarket/northgates-311-w-pacific-coast-hwy/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -47843,7 +48199,7 @@ var locations = [
 	uri       : "/supermarket/numero-uno-market-1831-w-3rd-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -47938,7 +48294,7 @@ var locations = [
 	uri       : "/supermarket/pavilions-11030-jefferson-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -48033,7 +48389,7 @@ var locations = [
 	uri       : "/supermarket/pavilions-1110-w-alameda-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -48128,7 +48484,7 @@ var locations = [
 	uri       : "/supermarket/pavilions-1135-lindero-canyon-rd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -48223,7 +48579,7 @@ var locations = [
 	uri       : "/supermarket/pavilions-1213-fair-oaks-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -48318,7 +48674,7 @@ var locations = [
 	uri       : "/supermarket/pavilions-130-w-foothill-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -48413,7 +48769,7 @@ var locations = [
 	uri       : "/supermarket/pavilions-14845-ventura-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -48508,7 +48864,7 @@ var locations = [
 	uri       : "/supermarket/pavilions-29211-heathercliff-rd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -48603,7 +48959,7 @@ var locations = [
 	uri       : "/supermarket/pavilions-4365-glencoe-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -48698,7 +49054,7 @@ var locations = [
 	uri       : "/supermarket/pavilions-5500-woodruff-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -48793,7 +49149,7 @@ var locations = [
 	uri       : "/supermarket/pavilions-5949-e-spring-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -48888,7 +49244,7 @@ var locations = [
 	uri       : "/supermarket/pavilions-6534-platt-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -48983,7 +49339,7 @@ var locations = [
 	uri       : "/supermarket/pavilions-7-peninsula-ctr/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -49078,7 +49434,7 @@ var locations = [
 	uri       : "/supermarket/pavilions-727-vine-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -49173,7 +49529,7 @@ var locations = [
 	uri       : "/supermarket/pavilions-745-w-naomi-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -49268,7 +49624,7 @@ var locations = [
 	uri       : "/supermarket/pavilions-820-montana-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -49363,7 +49719,7 @@ var locations = [
 	uri       : "/supermarket/pavilions-845-e-california-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -49458,7 +49814,7 @@ var locations = [
 	uri       : "/supermarket/pavilions-8969-santa-monica-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -49553,7 +49909,7 @@ var locations = [
 	uri       : "/supermarket/pavilions-9467-w-olympic-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -49648,7 +50004,7 @@ var locations = [
 	uri       : "/supermarket/payless-foods-12301-norwalk-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -49743,7 +50099,7 @@ var locations = [
 	uri       : "/supermarket/payless-foods-23501-avalon-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -49838,7 +50194,7 @@ var locations = [
 	uri       : "/supermarket/payless-foods-757-s-workman-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -49933,7 +50289,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-10309-w-olympic-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -50028,7 +50384,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-10455-sunland-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -50123,7 +50479,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-1050-n-western-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -50218,7 +50574,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-10772-jefferson-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -50313,7 +50669,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-10861-le-conte-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -50408,7 +50764,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-10900-magnolia-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -50503,7 +50859,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-10901-ventura-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -50598,7 +50954,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-1100-n-san-fernando-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -50693,7 +51049,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-1100-pacific-coast-hwy/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -50788,7 +51144,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-1101-w-huntington-dr/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -50883,7 +51239,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-11361-national-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -50978,7 +51334,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-11727-w-olympic-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -51073,7 +51429,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-11825-whittier-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -51168,7 +51524,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-11873-hawthorne-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -51263,7 +51619,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-11922-s-vermont-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -51358,7 +51714,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-1200-n-central-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -51453,7 +51809,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-12057-wilshire-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -51548,7 +51904,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-1233-n-la-brea-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -51643,7 +51999,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-12842-ventura-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -51738,7 +52094,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-12921-magnolia-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -51833,7 +52189,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-13321-south-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -51928,7 +52284,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-14049-ventura-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -52023,7 +52379,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-1413-hawthorne-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -52118,7 +52474,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-1416-e-colorado-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -52213,7 +52569,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-14440-burbank-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -52308,7 +52664,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-14919-whittier-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -52403,7 +52759,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-15120-w-sunset-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -52498,7 +52854,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-160-n-lake-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -52593,7 +52949,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-16123-bellflower-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -52688,7 +53044,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-16325-ventura-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -52783,7 +53139,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-1644-cloverfield-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -52878,7 +53234,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-16940-devonshire-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -52973,7 +53329,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-17250-saticoy-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -53068,7 +53424,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-1730-w-manchester-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -53163,7 +53519,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-1745-garfield-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -53258,7 +53614,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-17500-crenshaw-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -53353,7 +53709,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-1770-w-carson-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -53448,7 +53804,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-17840-ventura-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -53543,7 +53899,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-18010-chatsworth-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -53638,7 +53994,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-18318-vanowen-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -53733,7 +54089,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-1930-n-lakewood-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -53828,7 +54184,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-19340-soledad-canyon-rd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -53923,7 +54279,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-19781-rinaldi-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -54018,7 +54374,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-20060-ventura-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -54113,7 +54469,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-20137-pioneer-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -54208,7 +54564,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-211-e-foothill-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -54303,7 +54659,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-211-n-glendale-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -54398,7 +54754,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-21431-devonshire-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -54493,7 +54849,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-21909-ventura-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -54588,7 +54944,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-2201-w-redondo-beach-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -54683,7 +55039,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-2230-s-atlantic-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -54778,7 +55134,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-22333-sherman-way/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -54873,7 +55229,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-2250-e-carson-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -54968,7 +55324,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-2270-lake-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -55063,7 +55419,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-22915-victory-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -55158,7 +55514,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-23841-malibu-rd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -55253,7 +55609,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-24975-pico-canyon-rd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -55348,7 +55704,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-25-e-alameda-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -55443,7 +55799,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-25930-mcbean-pkwy/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -55538,7 +55894,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-260-s-la-brea-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -55633,7 +55989,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-2600-s-vermont-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -55728,7 +56084,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-2600-w-victory-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -55823,7 +56179,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-2675-foothill-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -55918,7 +56274,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-2700-n-sepulveda-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -56013,7 +56369,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-27760-mcbean-pkwy/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -56108,7 +56464,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-2909-rolling-hills-rd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -56203,7 +56559,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-2930-e-4th-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -56298,7 +56654,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-29675-the-old-rd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -56393,7 +56749,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-30019-hawthorne-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -56488,7 +56844,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-305-w-imperial-hwy/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -56583,7 +56939,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-320-w-colorado-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -56678,7 +57034,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-330-n-atlantic-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -56773,7 +57129,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-3300-w-slauson-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -56868,7 +57224,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-3380-n-los-coyotes-diagonal/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -56963,7 +57319,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-3410-w-3rd-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -57058,7 +57414,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-3455-sepulveda-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -57153,7 +57509,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-3601-e-foothill-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -57248,7 +57604,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-3827-culver-ctr/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -57343,7 +57699,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-3963-e-thousand-oaks-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -57438,7 +57794,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-4033-ball-rd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -57533,7 +57889,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-4311-lincoln-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -57628,7 +57984,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-4700-admiralty-way/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -57723,7 +58079,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-4754-commons-way/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -57818,7 +58174,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-4760-w-pico-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -57913,7 +58269,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-500-n-sepulveda-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -58008,7 +58364,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-5035-pacific-coast-hwy/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -58103,7 +58459,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-5080-rodeo-rd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -58198,7 +58554,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-521-foothill-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -58293,7 +58649,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-5245-w-centinela-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -58388,7 +58744,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-5429-hollywood-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -58483,7 +58839,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-5601-wilshire-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -58578,7 +58934,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-5727-kanan-rd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -58673,7 +59029,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-5951-del-amo-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -58768,7 +59124,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-6290-e-pacific-coast-hwy/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -58863,7 +59219,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-645-w-9th-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -58958,7 +59314,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-650-e-carson-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -59053,7 +59409,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-655-s-grand-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -59148,7 +59504,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-6657-laurel-canyon-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -59243,7 +59599,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-670-s-western-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -59338,7 +59694,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-7221-woodman-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -59433,7 +59789,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-7257-w-sunset-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -59528,7 +59884,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-8325-laurel-canyon-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -59623,7 +59979,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-8626-firestone-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -59718,7 +60074,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-8701-lincoln-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -59813,7 +60169,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-8824-s-sepulveda-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -59908,7 +60264,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-9040-beverly-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -60003,7 +60359,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-910-lincoln-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -60098,7 +60454,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-9200-lakewood-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -60193,7 +60549,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-9320-slauson-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -60288,7 +60644,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-9470-las-tunas-dr/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -60383,7 +60739,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-950-n-la-brea-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -60478,7 +60834,7 @@ var locations = [
 	uri       : "/supermarket/ralphs-9616-w-pico-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -60573,7 +60929,7 @@ var locations = [
 	uri       : "/supermarket/smart-and-final-1855-w-glenoaks-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -60668,7 +61024,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-10340-mason-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -60763,7 +61119,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-1041-n-fuller-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -60858,7 +61214,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-10893-san-fernando-rd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -60953,7 +61309,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-10935-firestone-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -61048,7 +61404,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-11110-ramona-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -61143,7 +61499,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-11221-w-pico-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -61238,7 +61594,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-1125-e-el-segundo-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -61333,7 +61689,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-11460-washington-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -61428,7 +61784,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-1216-compton-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -61523,7 +61879,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-12164-central-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -61618,7 +61974,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-12210-santa-monica-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -61713,7 +62069,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-1320-atlantic-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -61808,7 +62164,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-1516-s-pacific-coast-hwy/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -61903,7 +62259,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-15214-whittier-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -61998,7 +62354,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-1550-w-redondo-beach-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -62093,7 +62449,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-1575-centinela-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -62188,7 +62544,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-160-w-willow-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -62283,7 +62639,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-16847-ventura-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -62378,7 +62734,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-1755-ximeno-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -62473,7 +62829,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-18204-gale-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -62568,7 +62924,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-1835-s-la-cienega-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -62663,7 +63019,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-2019-pasadena-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -62758,7 +63114,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-20410-s-susana-rd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -62853,7 +63209,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-21600-s-vermont-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -62948,7 +63304,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-2308-e-4th-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -63043,7 +63399,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-23640b-lyons-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -63138,7 +63494,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-266-e-huntington-dr/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -63233,7 +63589,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-266-e-palmdale-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -63328,7 +63684,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-2720-beverly-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -63423,7 +63779,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-2775-pacific-coast-hwy/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -63518,7 +63874,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-28207-newhall-ranch-rd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -63613,7 +63969,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-2929-crenshaw-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -63708,7 +64064,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-2949-w-pico-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -63803,7 +64159,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-3123-baldwin-park-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -63898,7 +64254,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-3299-e-colorado-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -63993,7 +64349,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-332-s-pacific-coast-hwy/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -64088,7 +64444,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-3607-s-vermont-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -64183,7 +64539,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-3708-w-burbank-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -64278,7 +64634,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-401-n-fair/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -64373,7 +64729,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-5500-sheila-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -64468,7 +64824,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-5555-wilshire-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -64563,7 +64919,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-5700-e-olympic-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -64658,7 +65014,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-5925-carson-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -64753,7 +65109,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-600-citadel-dr/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -64848,7 +65204,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-6060-n-figueroa-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -64943,7 +65299,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-6555-foothill-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -65038,7 +65394,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-725-e-main-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -65133,7 +65489,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-7815-van-nuys-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -65228,7 +65584,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-8137-s-vermont-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -65323,7 +65679,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-extra-1005-w-arrow-hwy/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -65418,7 +65774,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-extra-10100-crenshaw-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -65513,7 +65869,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-extra-10113-venice-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -65608,7 +65964,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-extra-10833-long-beach-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -65703,7 +66059,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-extra-114-n-azusa-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -65798,7 +66154,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-extra-13003-whittier-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -65893,7 +66249,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-extra-15055-mulberry-dr/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -65988,7 +66344,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-extra-15205-hawthorne-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -66083,7 +66439,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-extra-15427-amar-rd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -66178,7 +66534,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-extra-15930-bellflower-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -66273,7 +66629,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-extra-16210-devonshire-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -66368,7 +66724,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-extra-1855-w-glenoaks-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -66463,7 +66819,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-extra-18555-devonshire-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -66558,7 +66914,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-extra-1941-w-imperial-hwy/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -66653,7 +67009,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-extra-2040-glenoaks-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -66748,7 +67104,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-extra-210-n-verdugo-rd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -66843,7 +67199,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-extra-22631-ventura-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -66938,7 +67294,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-extra-2511-daly-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -67033,7 +67389,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-extra-28500-s-western-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -67128,7 +67484,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-extra-39212-10th-st-w/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -67223,7 +67579,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-extra-4237-woodruff-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -67318,7 +67674,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-extra-4550-w-pico-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -67413,7 +67769,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-extra-5029-florence-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -67508,7 +67864,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-extra-604-lincoln-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -67603,7 +67959,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-extra-644-redondo-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -67698,7 +68054,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-extra-6601-laurel-canyon-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -67793,7 +68149,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-extra-7224-mason-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -67888,7 +68244,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-extra-845-s-figueroa-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -67983,7 +68339,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-extra-855-n-wilcox-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -68078,7 +68434,7 @@ var locations = [
 	uri       : "/supermarket/smart-final-extra-939-n-western-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -68173,7 +68529,7 @@ var locations = [
 	uri       : "/supermarket/sprouts-farmers-market-1011-n-san-fernando-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -68268,7 +68624,7 @@ var locations = [
 	uri       : "/supermarket/sprouts-farmers-market-1012-s-westlake-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -68363,7 +68719,7 @@ var locations = [
 	uri       : "/supermarket/sprouts-farmers-market-4230-pacific-coast-hwy/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -68458,7 +68814,7 @@ var locations = [
 	uri       : "/supermarket/sprouts-farmers-market-4253-woodruff-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -68553,7 +68909,7 @@ var locations = [
 	uri       : "/supermarket/sprouts-farmers-market-735-e-birch-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -68648,7 +69004,7 @@ var locations = [
 	uri       : "/supermarket/stater-bros-markets-10051-valley-view-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -68743,7 +69099,7 @@ var locations = [
 	uri       : "/supermarket/stater-bros-markets-1023-n-grand-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -68838,7 +69194,7 @@ var locations = [
 	uri       : "/supermarket/stater-bros-markets-1025-e-amar-rd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -68933,7 +69289,7 @@ var locations = [
 	uri       : "/supermarket/stater-bros-markets-1045-n-garey-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -69028,7 +69384,7 @@ var locations = [
 	uri       : "/supermarket/stater-bros-markets-1055-w-foothill-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -69123,7 +69479,7 @@ var locations = [
 	uri       : "/supermarket/stater-bros-markets-11300-firestone-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -69218,7 +69574,7 @@ var locations = [
 	uri       : "/supermarket/stater-bros-markets-1145-e-alosta-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -69313,7 +69669,7 @@ var locations = [
 	uri       : "/supermarket/stater-bros-markets-11750-whittier-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -69408,7 +69764,7 @@ var locations = [
 	uri       : "/supermarket/stater-bros-markets-11815-artesia-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -69503,7 +69859,7 @@ var locations = [
 	uri       : "/supermarket/stater-bros-markets-12523-alondra-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -69598,7 +69954,7 @@ var locations = [
 	uri       : "/supermarket/stater-bros-markets-12800-la-mirada-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -69693,7 +70049,7 @@ var locations = [
 	uri       : "/supermarket/stater-bros-markets-14212-mulberry-dr/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -69788,7 +70144,7 @@ var locations = [
 	uri       : "/supermarket/stater-bros-markets-1425-w-arrow-hwy/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -69883,7 +70239,7 @@ var locations = [
 	uri       : "/supermarket/stater-bros-markets-14250-chino-hills-pkwy/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -69978,7 +70334,7 @@ var locations = [
 	uri       : "/supermarket/stater-bros-markets-17220-lakewood-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -70073,7 +70429,7 @@ var locations = [
 	uri       : "/supermarket/stater-bros-markets-1830-e-route-66/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -70168,7 +70524,7 @@ var locations = [
 	uri       : "/supermarket/stater-bros-markets-1850-e-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -70263,7 +70619,7 @@ var locations = [
 	uri       : "/supermarket/stater-bros-markets-19756-colima-rd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -70358,7 +70714,7 @@ var locations = [
 	uri       : "/supermarket/stater-bros-markets-20677-amar-rd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -70453,7 +70809,7 @@ var locations = [
 	uri       : "/supermarket/stater-bros-markets-2090-foothill-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -70548,7 +70904,7 @@ var locations = [
 	uri       : "/supermarket/stater-bros-markets-2535-e-avenue-s/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -70643,7 +70999,7 @@ var locations = [
 	uri       : "/supermarket/stater-bros-markets-26900-sierra-hwy/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -70738,7 +71094,7 @@ var locations = [
 	uri       : "/supermarket/stater-bros-markets-2845-w-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -70833,7 +71189,7 @@ var locations = [
 	uri       : "/supermarket/stater-bros-markets-37218-47th-st-e/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -70928,7 +71284,7 @@ var locations = [
 	uri       : "/supermarket/stater-bros-markets-375-n-azusa-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -71023,7 +71379,7 @@ var locations = [
 	uri       : "/supermarket/stater-bros-markets-4721-riverside-dr/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -71118,7 +71474,7 @@ var locations = [
 	uri       : "/supermarket/stater-bros-markets-6501-e-spring-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -71213,7 +71569,7 @@ var locations = [
 	uri       : "/supermarket/stater-bros-markets-6989-schaefer-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -71308,7 +71664,7 @@ var locations = [
 	uri       : "/supermarket/stater-bros-markets-7814-firestone-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -71403,7 +71759,7 @@ var locations = [
 	uri       : "/supermarket/stater-bros-markets-851-n-harbor-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -71498,7 +71854,7 @@ var locations = [
 	uri       : "/supermarket/stater-bros-markets-8640-alondra-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -71593,7 +71949,7 @@ var locations = [
 	uri       : "/supermarket/super-a-foods-13120-downey-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -71688,7 +72044,7 @@ var locations = [
 	uri       : "/supermarket/super-a-foods-2245-yosemite-dr/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -71783,7 +72139,7 @@ var locations = [
 	uri       : "/supermarket/super-a-foods-2924-w-beverly-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -71878,7 +72234,7 @@ var locations = [
 	uri       : "/supermarket/super-a-foods-2925-division-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -71973,7 +72329,7 @@ var locations = [
 	uri       : "/supermarket/super-a-foods-300-w-main-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -72068,7 +72424,7 @@ var locations = [
 	uri       : "/supermarket/super-a-foods-4848-w-190th-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -72163,7 +72519,7 @@ var locations = [
 	uri       : "/supermarket/super-a-foods-5250-york-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -72258,7 +72614,7 @@ var locations = [
 	uri       : "/supermarket/super-a-foods-5595-rosemead-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -72353,7 +72709,7 @@ var locations = [
 	uri       : "/supermarket/super-a-foods-6380-florence-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -72448,7 +72804,7 @@ var locations = [
 	uri       : "/supermarket/super-a-foods-7200-dominion-cir/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -72543,7 +72899,7 @@ var locations = [
 	uri       : "/supermarket/super-a-foods-8116-california-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -72638,7 +72994,7 @@ var locations = [
 	uri       : "/supermarket/super-a-foods-935-w-duarte-rd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -72733,7 +73089,7 @@ var locations = [
 	uri       : "/supermarket/super-king-market-19500-plummer-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -72828,7 +73184,7 @@ var locations = [
 	uri       : "/supermarket/super-king-market-2260-lincoln-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -72923,7 +73279,7 @@ var locations = [
 	uri       : "/supermarket/super-king-market-2716-n-san-fernando-rd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -73018,7 +73374,7 @@ var locations = [
 	uri       : "/supermarket/super-king-market-436-auto-center-dr/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -73113,7 +73469,7 @@ var locations = [
 	uri       : "/supermarket/super-king-market-632-e-foothill-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -73208,7 +73564,7 @@ var locations = [
 	uri       : "/supermarket/super-king-market-7227-van-nuys-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -73303,7 +73659,7 @@ var locations = [
 	uri       : "/supermarket/superior-grocers-1010-e-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -73398,7 +73754,7 @@ var locations = [
 	uri       : "/supermarket/superior-grocers-10683-valley-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -73493,7 +73849,7 @@ var locations = [
 	uri       : "/supermarket/superior-grocers-11202-crenshaw-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -73588,7 +73944,7 @@ var locations = [
 	uri       : "/supermarket/superior-grocers-12375-central-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -73683,7 +74039,7 @@ var locations = [
 	uri       : "/supermarket/superior-grocers-133-w-avenue-45/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -73778,7 +74134,7 @@ var locations = [
 	uri       : "/supermarket/superior-grocers-14433-ramona-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -73873,7 +74229,7 @@ var locations = [
 	uri       : "/supermarket/superior-grocers-151-s-hacienda-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -73968,7 +74324,7 @@ var locations = [
 	uri       : "/supermarket/superior-grocers-16100-lakewood-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -74063,7 +74419,7 @@ var locations = [
 	uri       : "/supermarket/superior-grocers-3180-n-garey-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -74158,7 +74514,7 @@ var locations = [
 	uri       : "/supermarket/superior-grocers-3480-s-la-brea-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -74253,7 +74609,7 @@ var locations = [
 	uri       : "/supermarket/superior-grocers-38360-20th-st-e/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -74348,7 +74704,7 @@ var locations = [
 	uri       : "/supermarket/superior-grocers-4308-slauson-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -74443,7 +74799,7 @@ var locations = [
 	uri       : "/supermarket/superior-grocers-5450-cherry-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -74538,7 +74894,7 @@ var locations = [
 	uri       : "/supermarket/superior-grocers-5824-s-vermont-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -74633,7 +74989,7 @@ var locations = [
 	uri       : "/supermarket/superior-grocers-6140-lankershim-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -74728,7 +75084,7 @@ var locations = [
 	uri       : "/supermarket/superior-grocers-9801-laurel-canyon-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -74823,7 +75179,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-1000-glendon-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -74918,7 +75274,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-10130-riverside-dr/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -75013,7 +75369,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-103-e-glenoaks-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -75108,7 +75464,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-10330-mason-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -75203,7 +75559,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-10850-national-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -75298,7 +75654,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-1100-pacific-coast-hwy/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -75393,7 +75749,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-11114-balboa-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -75488,7 +75844,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-11755-w-olympic-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -75583,7 +75939,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-11976-ventura-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -75678,7 +76034,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-12861-towne-center-dr/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -75773,7 +76129,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-13911-peyton-dr/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -75868,7 +76224,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-14119-riverside-dr/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -75963,7 +76319,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-15025-whittier-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -76058,7 +76414,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-1566-colorado-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -76153,7 +76509,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-1600-vine-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -76248,7 +76604,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-175-s-fairfax-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -76343,7 +76699,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-1761-s-elena-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -76438,7 +76794,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-17640-burbank-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -76533,7 +76889,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-1800-rosecrans-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -76628,7 +76984,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-1821-manhattan-beach-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -76723,7 +77079,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-19720-hawthorne-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -76818,7 +77174,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-21055-ventura-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -76913,7 +77269,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-214-e-alameda-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -77008,7 +77364,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-2222-n-bellflower-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -77103,7 +77459,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-2462-honolulu-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -77198,7 +77554,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-2500-e-imperial-hwy/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -77293,7 +77649,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-2545-pacific-coast-hwy/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -77388,7 +77744,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-263-s-la-brea-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -77483,7 +77839,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-26517-bouquet-canyon-rd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -77578,7 +77934,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-2738-hyperion-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -77673,7 +78029,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-28901-s-western-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -77768,7 +78124,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-28941-canwood-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -77863,7 +78219,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-31176-hawthorne-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -77958,7 +78314,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-3212-pico-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -78053,7 +78409,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-345-s-lake-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -78148,7 +78504,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-3456-s-sepulveda-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -78243,7 +78599,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-3835-e-thousand-oaks-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -78338,7 +78694,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-39507-10th-st-w/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -78433,7 +78789,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-4210-long-beach-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -78528,7 +78884,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-467-n-rosemead-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -78623,7 +78979,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-475-foothill-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -78718,7 +79074,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-475-w-foothill-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -78813,7 +79169,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-604-w-huntington-dr/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -78908,7 +79264,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-610-s-arroyo-pkwy/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -79003,7 +79359,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-613-mission-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -79098,7 +79454,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-6150-w-slauson-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -79193,7 +79549,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-6451-e-pacific-coast-hwy/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -79288,7 +79644,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-6751-fallbrook-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -79383,7 +79739,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-7260-rosemead-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -79478,7 +79834,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-8000-w-sunset-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -79573,7 +79929,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-8500-burton-way/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -79668,7 +80024,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-856-w-arrow-hwy/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -79763,7 +80119,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-8611-santa-monica-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -79858,7 +80214,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-8645-s-sepulveda-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -79953,7 +80309,7 @@ var locations = [
 	uri       : "/supermarket/trader-joes-9290-culver-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -80048,7 +80404,7 @@ var locations = [
 	uri       : "/supermarket/urban-radish-661-imperial-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -80143,7 +80499,7 @@ var locations = [
 	uri       : "/supermarket/vallarta-10859-oxnard-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -80238,7 +80594,7 @@ var locations = [
 	uri       : "/supermarket/vallarta-10950-sherman-way/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -80333,7 +80689,7 @@ var locations = [
 	uri       : "/supermarket/vallarta-1111-w-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -80428,7 +80784,7 @@ var locations = [
 	uri       : "/supermarket/vallarta-13051-victory-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -80523,7 +80879,7 @@ var locations = [
 	uri       : "/supermarket/vallarta-13715-vanowen-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -80618,7 +80974,7 @@ var locations = [
 	uri       : "/supermarket/vallarta-13820-foothill-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -80713,7 +81069,7 @@ var locations = [
 	uri       : "/supermarket/vallarta-13940-ramona-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -80808,7 +81164,7 @@ var locations = [
 	uri       : "/supermarket/vallarta-1801-w-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -80903,7 +81259,7 @@ var locations = [
 	uri       : "/supermarket/vallarta-1803-e-palmdale-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -80998,7 +81354,7 @@ var locations = [
 	uri       : "/supermarket/vallarta-18571-soledad-canyon-rd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -81093,7 +81449,7 @@ var locations = [
 	uri       : "/supermarket/vallarta-19725-vanowen-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -81188,7 +81544,7 @@ var locations = [
 	uri       : "/supermarket/vallarta-21208-sherman-way/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -81283,7 +81639,7 @@ var locations = [
 	uri       : "/supermarket/vallarta-21555-roscoe-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -81378,7 +81734,7 @@ var locations = [
 	uri       : "/supermarket/vallarta-23449-lyons-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -81473,7 +81829,7 @@ var locations = [
 	uri       : "/supermarket/vallarta-2550-e-25th-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -81568,7 +81924,7 @@ var locations = [
 	uri       : "/supermarket/vallarta-3425-whittier-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -81663,7 +82019,7 @@ var locations = [
 	uri       : "/supermarket/vallarta-8453-reseda-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -81758,7 +82114,7 @@ var locations = [
 	uri       : "/supermarket/vallarta-8510-painter-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -81853,7 +82209,7 @@ var locations = [
 	uri       : "/supermarket/vallarta-9011-woodman-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -81948,7 +82304,7 @@ var locations = [
 	uri       : "/supermarket/vallartas-10147-san-fernando-rd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -82043,7 +82399,7 @@ var locations = [
 	uri       : "/supermarket/vallartas-10175-san-fernando-rd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -82138,7 +82494,7 @@ var locations = [
 	uri       : "/supermarket/vallartas-12881-bradley-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -82233,7 +82589,7 @@ var locations = [
 	uri       : "/supermarket/vallartas-38118-47th-st-e/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -82328,7 +82684,7 @@ var locations = [
 	uri       : "/supermarket/vallartas-757-s-workman-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -82423,7 +82779,7 @@ var locations = [
 	uri       : "/supermarket/vallartas-815-e-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -82518,7 +82874,7 @@ var locations = [
 	uri       : "/supermarket/vallartas-9011-woodman-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -82613,7 +82969,7 @@ var locations = [
 	uri       : "/supermarket/vallartas-9134-van-nuys-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -82708,7 +83064,7 @@ var locations = [
 	uri       : "/supermarket/vons-10321-sepulveda-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -82803,7 +83159,7 @@ var locations = [
 	uri       : "/supermarket/vons-1129-fair-oaks-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -82898,7 +83254,7 @@ var locations = [
 	uri       : "/supermarket/vons-1160-via-verde/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -82993,7 +83349,7 @@ var locations = [
 	uri       : "/supermarket/vons-1212-beryl-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -83088,7 +83444,7 @@ var locations = [
 	uri       : "/supermarket/vons-1221-s-gaffey-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -83183,7 +83539,7 @@ var locations = [
 	uri       : "/supermarket/vons-123-metropole-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -83278,7 +83634,7 @@ var locations = [
 	uri       : "/supermarket/vons-1260-w-redondo-beach-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -83373,7 +83729,7 @@ var locations = [
 	uri       : "/supermarket/vons-1311-wilshire-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -83468,7 +83824,7 @@ var locations = [
 	uri       : "/supermarket/vons-1342-n-alvarado-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -83563,7 +83919,7 @@ var locations = [
 	uri       : "/supermarket/vons-13730-foothill-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -83658,7 +84014,7 @@ var locations = [
 	uri       : "/supermarket/vons-1390-n-allen-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -83753,7 +84109,7 @@ var locations = [
 	uri       : "/supermarket/vons-1430-s-fairfax-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -83848,7 +84204,7 @@ var locations = [
 	uri       : "/supermarket/vons-1440-w-25th-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -83943,7 +84299,7 @@ var locations = [
 	uri       : "/supermarket/vons-155-w-california-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -84038,7 +84394,7 @@ var locations = [
 	uri       : "/supermarket/vons-15740-la-forge-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -84133,7 +84489,7 @@ var locations = [
 	uri       : "/supermarket/vons-1600-foothill-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -84228,7 +84584,7 @@ var locations = [
 	uri       : "/supermarket/vons-16550-soledad-canyon-rd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -84323,7 +84679,7 @@ var locations = [
 	uri       : "/supermarket/vons-16830-san-fernando-mission-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -84418,7 +84774,7 @@ var locations = [
 	uri       : "/supermarket/vons-17380-w-sunset-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -84513,7 +84869,7 @@ var locations = [
 	uri       : "/supermarket/vons-1820-ximeno-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -84608,7 +84964,7 @@ var locations = [
 	uri       : "/supermarket/vons-18439-ventura-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -84703,7 +85059,7 @@ var locations = [
 	uri       : "/supermarket/vons-19333-victory-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -84798,7 +85154,7 @@ var locations = [
 	uri       : "/supermarket/vons-2039-verdugo-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -84893,7 +85249,7 @@ var locations = [
 	uri       : "/supermarket/vons-20440-devonshire-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -84988,7 +85344,7 @@ var locations = [
 	uri       : "/supermarket/vons-2048-de-los-avda/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -85083,7 +85439,7 @@ var locations = [
 	uri       : "/supermarket/vons-2101-w-imperial-hwy/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -85178,7 +85534,7 @@ var locations = [
 	uri       : "/supermarket/vons-2122-s-hacienda-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -85273,7 +85629,7 @@ var locations = [
 	uri       : "/supermarket/vons-2355-e-colorado-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -85368,7 +85724,7 @@ var locations = [
 	uri       : "/supermarket/vons-24160-lyons-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -85463,7 +85819,7 @@ var locations = [
 	uri       : "/supermarket/vons-24325-crenshaw-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -85558,7 +85914,7 @@ var locations = [
 	uri       : "/supermarket/vons-245-palos-verdes-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -85653,7 +86009,7 @@ var locations = [
 	uri       : "/supermarket/vons-25850-the-old-rd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -85748,7 +86104,7 @@ var locations = [
 	uri       : "/supermarket/vons-26518-bouquet-canyon-rd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -85843,7 +86199,7 @@ var locations = [
 	uri       : "/supermarket/vons-2725-agoura-rd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -85938,7 +86294,7 @@ var locations = [
 	uri       : "/supermarket/vons-301-n-pass-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -86033,7 +86389,7 @@ var locations = [
 	uri       : "/supermarket/vons-3027-rancho-vista-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -86128,7 +86484,7 @@ var locations = [
 	uri       : "/supermarket/vons-311-w-los-feliz-rd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -86223,7 +86579,7 @@ var locations = [
 	uri       : "/supermarket/vons-3118-s-sepulveda-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -86318,7 +86674,7 @@ var locations = [
 	uri       : "/supermarket/vons-3233-foothill-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -86413,7 +86769,7 @@ var locations = [
 	uri       : "/supermarket/vons-3461-w-3rd-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -86508,7 +86864,7 @@ var locations = [
 	uri       : "/supermarket/vons-350-n-lemon-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -86603,7 +86959,7 @@ var locations = [
 	uri       : "/supermarket/vons-3900-e-ocean-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -86698,7 +87054,7 @@ var locations = [
 	uri       : "/supermarket/vons-4001-inglewood-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -86793,7 +87149,7 @@ var locations = [
 	uri       : "/supermarket/vons-4030-s-centinela-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -86888,7 +87244,7 @@ var locations = [
 	uri       : "/supermarket/vons-4033-laurel-canyon-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -86983,7 +87339,7 @@ var locations = [
 	uri       : "/supermarket/vons-4033-w-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -87078,7 +87434,7 @@ var locations = [
 	uri       : "/supermarket/vons-410-manhattan-beach-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -87173,7 +87529,7 @@ var locations = [
 	uri       : "/supermarket/vons-4226-woodruff-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -87268,7 +87624,7 @@ var locations = [
 	uri       : "/supermarket/vons-431-e-arrow-hwy/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -87363,7 +87719,7 @@ var locations = [
 	uri       : "/supermarket/vons-435-foothill-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -87458,7 +87814,7 @@ var locations = [
 	uri       : "/supermarket/vons-4520-w-sunset-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -87553,7 +87909,7 @@ var locations = [
 	uri       : "/supermarket/vons-4550-atlantic-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -87648,7 +88004,7 @@ var locations = [
 	uri       : "/supermarket/vons-4705-torrance-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -87743,7 +88099,7 @@ var locations = [
 	uri       : "/supermarket/vons-500-e-manchester-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -87838,7 +88194,7 @@ var locations = [
 	uri       : "/supermarket/vons-550-e-baseline-rd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -87933,7 +88289,7 @@ var locations = [
 	uri       : "/supermarket/vons-561-n-glendale-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -88028,7 +88384,7 @@ var locations = [
 	uri       : "/supermarket/vons-5671-kanan-rd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -88123,7 +88479,7 @@ var locations = [
 	uri       : "/supermarket/vons-600-e-broadway/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -88218,7 +88574,7 @@ var locations = [
 	uri       : "/supermarket/vons-655-n-fair-oaks-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -88313,7 +88669,7 @@ var locations = [
 	uri       : "/supermarket/vons-6571-w-80th-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -88408,7 +88764,7 @@ var locations = [
 	uri       : "/supermarket/vons-710-brdway/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -88503,7 +88859,7 @@ var locations = [
 	uri       : "/supermarket/vons-715-pier-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -88598,7 +88954,7 @@ var locations = [
 	uri       : "/supermarket/vons-7311-n-figueroa-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -88693,7 +89049,7 @@ var locations = [
 	uri       : "/supermarket/vons-777-s-glendora-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -88788,7 +89144,7 @@ var locations = [
 	uri       : "/supermarket/vons-7789-foothill-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -88883,7 +89239,7 @@ var locations = [
 	uri       : "/supermarket/vons-780-n-brea-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -88978,7 +89334,7 @@ var locations = [
 	uri       : "/supermarket/vons-804-w-beverly-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -89073,7 +89429,7 @@ var locations = [
 	uri       : "/supermarket/vons-8201-topanga-canyon-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -89168,7 +89524,7 @@ var locations = [
 	uri       : "/supermarket/vons-9119-reseda-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -89263,7 +89619,7 @@ var locations = [
 	uri       : "/supermarket/vons-932-e-badillo-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -89358,7 +89714,7 @@ var locations = [
 	uri       : "/supermarket/vons-9860-national-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -89453,7 +89809,7 @@ var locations = [
 	uri       : "/supermarket/vons-food-and-pharmacy-2310-e-colorado-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -89548,7 +89904,7 @@ var locations = [
 	uri       : "/supermarket/whole-foods-1050-gayley-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -89643,7 +89999,7 @@ var locations = [
 	uri       : "/supermarket/whole-foods-11666-national-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -89738,7 +90094,7 @@ var locations = [
 	uri       : "/supermarket/whole-foods-11737-san-vicente-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -89833,7 +90189,7 @@ var locations = [
 	uri       : "/supermarket/whole-foods-12746-w-jefferson-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -89928,7 +90284,7 @@ var locations = [
 	uri       : "/supermarket/whole-foods-1425-montana-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -90023,7 +90379,7 @@ var locations = [
 	uri       : "/supermarket/whole-foods-19340-rinaldi-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -90118,7 +90474,7 @@ var locations = [
 	uri       : "/supermarket/whole-foods-21347-ventura-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -90213,7 +90569,7 @@ var locations = [
 	uri       : "/supermarket/whole-foods-2201-wilshire-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -90308,7 +90664,7 @@ var locations = [
 	uri       : "/supermarket/whole-foods-225-lincoln-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -90403,7 +90759,7 @@ var locations = [
 	uri       : "/supermarket/whole-foods-239-n-crescent-dr/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -90498,7 +90854,7 @@ var locations = [
 	uri       : "/supermarket/whole-foods-24130-valencia-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -90593,7 +90949,7 @@ var locations = [
 	uri       : "/supermarket/whole-foods-2655-pacific-coast-hwy/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -90688,7 +91044,7 @@ var locations = [
 	uri       : "/supermarket/whole-foods-331-n-glendale-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -90783,7 +91139,7 @@ var locations = [
 	uri       : "/supermarket/whole-foods-3751-e-foothill-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -90878,7 +91234,7 @@ var locations = [
 	uri       : "/supermarket/whole-foods-405-n-pacific-coast-hwy/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -90973,7 +91329,7 @@ var locations = [
 	uri       : "/supermarket/whole-foods-4520-sepulveda-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -91068,7 +91424,7 @@ var locations = [
 	uri       : "/supermarket/whole-foods-465-s-arroyo-pkwy/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -91163,7 +91519,7 @@ var locations = [
 	uri       : "/supermarket/whole-foods-500-wilshire-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -91258,7 +91614,7 @@ var locations = [
 	uri       : "/supermarket/whole-foods-6350-w-3rd-st/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -91353,7 +91709,7 @@ var locations = [
 	uri       : "/supermarket/whole-foods-6550-e-pacific-coast-hwy/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -91448,7 +91804,7 @@ var locations = [
 	uri       : "/supermarket/whole-foods-760-s-sepulveda-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -91543,7 +91899,7 @@ var locations = [
 	uri       : "/supermarket/whole-foods-788-s-grand-ave/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -91638,7 +91994,7 @@ var locations = [
 	uri       : "/supermarket/yummy-com-3607-w-sunset-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -91733,7 +92089,7 @@ var locations = [
 	uri       : "/supermarket/yummy-com-5520-san-vicente-blvd/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -91828,7 +92184,7 @@ var locations = [
 	uri       : "/supermarket/yummy-com-6020-seabluff-dr/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 }
 
@@ -91838,16 +92194,16 @@ var locations = [
 
 
 {
-	latitude  : "34.025762",
-	longitude : "-118.256665",
-	name      : "All Peoples Christian Center",
-	address_1 : "822 E. 20th Street",
+	latitude  : "34.240555",
+	longitude : "-118.569637",
+	name      : "1st Place Sports Complex",
+	address_1 : "9400 Penfield St",
 	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90011",
-	category  : "Free Summer Lunch",
-	website   : "",
-	phone     : "(213) 747-6357 ext 33",
+	city      : "Chatsworth",
+	zip       : "91311",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Vaughn Mims / 818.280.6410",
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
@@ -91855,13 +92211,53 @@ var locations = [
 	
 
 	
-
+	
+	{
+		day       : "MON",
+		open      : "1230",
+		close     : "1330"
+	}
+	
 	
 
 	
-
+	,
+	{
+		day       : "TUE",
+		open      : "1230",
+		close     : "1330"
+	}
+	
 	
 
+	
+	,
+	{
+		day       : "WED",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1230",
+		close     : "1330"
+	}
+	
 	
 
 	
@@ -91869,10 +92265,89 @@ var locations = [
 	
 
 	],
-	uri       : "/locations/all-peoples-christian-center/"
+	uri       : "/summer-lunch/1st-place-sports-complex/"
 	
 
-	, content   : "<dl>   <dt>Lunch Times</dt>   <dd>June 12 through July 28, 2017</dd>   <dd><em>12:15pm–1:15pm</em></dd>   <dt>Field Trips</dt>   <dd>June 16</dd>   <dd>June 23</dd>   <dd>June 30</dd>   <dd>July 7</dd>   <dd>July 21</dd>   <dd>July 28</dd> </dl> "
+	, content   : "<p>Closed: 7/4/2017</p>   "
+	
+},
+
+{
+	latitude  : "34.025762",
+	longitude : "-118.256665",
+	name      : "All Peoples Christian Center",
+	address_1 : "822 East 20th Street",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90011",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Julia Huerta (service), Deisy Huerta (reports) / 213.747.6357 ext:33",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1215",
+		close     : "1315"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1215",
+		close     : "1315"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1215",
+		close     : "1315"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1215",
+		close     : "1315"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1215",
+		close     : "1315"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/all-peoples-christian-center/"
+	
+
+	, content   : "<p>Field Trip: 6/16,6/23, 6/30, 7/7, 7/14, 7/21, 7/28</p>  <dl>   <dt>Lunch Times</dt>   <dd>June 12 through July 28, 2017</dd>   <dd><em>12:15pm–1:15pm</em></dd>   <dt>Field Trips</dt>   <dd>June 16</dd>   <dd>June 23</dd>   <dd>June 30</dd>   <dd>July 7</dd>   <dd>July 21</dd>   <dd>July 28</dd> </dl> "
 	
 },
 
@@ -91882,11 +92357,11 @@ var locations = [
 	name      : "Boys & Girls Clubs of the Antelope Valley, Hammack Activity Center",
 	address_1 : "815 East Avenue Q-6",
 	address_2 : "",
-	city      : "Pamdale",
+	city      : "Palmdale",
 	zip       : "93550",
-	category  : "Free Summer Lunch",
-	website   : "",
-	phone     : "(213) 747-6357",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Stacey Cantwell, Armando Villalobos, Lakiesha (reports) / 661.267.2582 (office)",
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
@@ -91894,13 +92369,53 @@ var locations = [
 	
 
 	
-
+	
+	{
+		day       : "MON",
+		open      : "1500",
+		close     : "1600"
+	}
+	
 	
 
 	
-
+	,
+	{
+		day       : "TUE",
+		open      : "1500",
+		close     : "1600"
+	}
+	
 	
 
+	
+	,
+	{
+		day       : "WED",
+		open      : "1500",
+		close     : "1600"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1500",
+		close     : "1600"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1500",
+		close     : "1600"
+	}
+	
 	
 
 	
@@ -91908,10 +92423,10 @@ var locations = [
 	
 
 	],
-	uri       : "/locations/avbgc-hammack-activity-center/"
+	uri       : "/summer-lunch/avbgc-hammack-activity-center/"
 	
 
-	, content   : "<dl>   <dt>Open</dt>   <dd>June 5 through August 4, 2017</dd>   <dd><em>3:00pm–4:00pm</em></dd>   <dt>Closed</dt>   <dd>July 3 and July 4, 2017</dd> </dl> "
+	, content   : "<p>Closed: 7/3, 7/4</p>  <dl>   <dt>Open</dt>   <dd>June 5 through August 4, 2017</dd>   <dd><em>3:00pm–4:00pm</em></dd>   <dt>Closed</dt>   <dd>July 3 and July 4, 2017</dd> </dl> "
 	
 },
 
@@ -91923,9 +92438,9 @@ var locations = [
 	address_2 : "",
 	city      : "Lancaster",
 	zip       : "93535",
-	category  : "Free Summer Lunch",
-	website   : "",
-	phone     : "(661) 951-1400",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Jemuel, Marina (reports), Carmen / Office: 661.951.1400 Jemuel: 661.236.8125/661.609.1152 Carmen: 661.917.1077 Center/Paula: (661) 951-1400",
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
@@ -91933,13 +92448,53 @@ var locations = [
 	
 
 	
-
+	
+	{
+		day       : "MON",
+		open      : "1500",
+		close     : "1600"
+	}
+	
 	
 
 	
-
+	,
+	{
+		day       : "TUE",
+		open      : "1500",
+		close     : "1600"
+	}
+	
 	
 
+	
+	,
+	{
+		day       : "WED",
+		open      : "1500",
+		close     : "1600"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1500",
+		close     : "1600"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1500",
+		close     : "1600"
+	}
+	
 	
 
 	
@@ -91947,24 +92502,182 @@ var locations = [
 	
 
 	],
-	uri       : "/locations/avbgc-whitney-mac-center/"
+	uri       : "/summer-lunch/avbgc-whitney-mac-center/"
 	
 
-	, content   : "<dl>   <dt>Open</dt>   <dd>June 9 through August 4, 2017</dd>   <dd><em>3:00pm–4:00pm</em></dd>   <dt>Closed</dt>   <dd>July 3 and July 4, 2017</dd> </dl> "
+	, content   : "<p>Closed: 7/3, 7/4</p>  <dl>   <dt>Open</dt>   <dd>June 9 through August 4, 2017</dd>   <dd><em>3:00pm–4:00pm</em></dd>   <dt>Closed</dt>   <dd>July 3 and July 4, 2017</dd> </dl> "
 	
 },
 
 {
-	latitude  : "34.016602",
-	longitude : "-118.270964",
-	name      : "Cheli’s Produce",
-	address_1 : "170 East 35th Street",
+	latitude  : "34.087099",
+	longitude : "-118.176266",
+	name      : "Barrio Action Youth & Family Center",
+	address_1 : "4927 Huntington Drive North",
+	address_2 : "Ste 200",
+	city      : "Los Angeles",
+	zip       : "90032",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Carlos Martinez/ 323.221.0779 x 309",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/barrio-action-youth-family-center/"
+	
+
+	, content   : "<p>Closed: 7/3/17</p>   "
+	
+},
+
+{
+	latitude  : "34.716938",
+	longitude : "-118.1101",
+	name      : "Brierwood",
+	address_1 : "45800 Challenger Way",
+	address_2 : "",
+	city      : "Lancaster",
+	zip       : "93535",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Sharon Smith, Esmeralda Montez / 661.945.2425",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1310",
+		close     : "1410"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1310",
+		close     : "1410"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1310",
+		close     : "1410"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1310",
+		close     : "1410"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1310",
+		close     : "1410"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/brierwood/"
+	
+
+	, content   : "<p>Closed: 7/4/2017</p>   "
+	
+},
+
+{
+	latitude  : "34.052104",
+	longitude : "-118.220178",
+	name      : "Brownson House",
+	address_1 : "1307 Warren St,",
 	address_2 : "",
 	city      : "Los Angeles",
-	zip       : "90011",
-	category  : "Pop Up Market",
-	website   : "",
-	phone     : "",
+	zip       : "90033",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Roberto Ramirez / 213-251-3512",
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
@@ -91972,11 +92685,43 @@ var locations = [
 	
 
 	
-
+	
+	{
+		day       : "MON",
+		open      : "1200",
+		close     : "1300"
+	}
+	
 	
 
 	
+	,
+	{
+		day       : "TUE",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
 
+	
+	,
+	{
+		day       : "WED",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1200",
+		close     : "1300"
+	}
+	
 	
 
 	
@@ -91986,24 +92731,24 @@ var locations = [
 	
 
 	],
-	uri       : "/locations/chelis-produce/"
+	uri       : "/summer-lunch/brownson-house/"
 	
 
-	, content   : "<p>This grocery truck is located on a residential street, and sells produce.</p> "
+	, content   : "<p>Closed: 7/3, 7/4, 7/7, 7/14, 7/21</p>   "
 	
 },
 
 {
-	latitude  : "34.032181",
-	longitude : "-118.368756",
-	name      : "Daily Organics",
-	address_1 : "5746 Adams Boulevard",
+	latitude  : "34.201107",
+	longitude : "-118.589792",
+	name      : "Canoga Park Library",
+	address_1 : "20939 Sherman Way",
 	address_2 : "",
-	city      : "Los Angeles",
-	zip       : "90016",
-	category  : "Pop Up Market",
-	website   : "https://dailyorganicsla.com",
-	phone     : "",
+	city      : "Canoga Park",
+	zip       : "91303",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Holly Rutan, Patty / 818.346.1197",
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
@@ -92011,13 +92756,53 @@ var locations = [
 	
 
 	
-
+	
+	{
+		day       : "MON",
+		open      : "1230",
+		close     : "1330"
+	}
+	
 	
 
 	
-
+	,
+	{
+		day       : "TUE",
+		open      : "1230",
+		close     : "1330"
+	}
+	
 	
 
+	
+	,
+	{
+		day       : "WED",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1230",
+		close     : "1330"
+	}
+	
 	
 
 	
@@ -92025,24 +92810,24 @@ var locations = [
 	
 
 	],
-	uri       : "/locations/daily-organics/"
+	uri       : "/summer-lunch/canoga-park-library/"
 	
 
-	, content   : "<h3 id=\"hours\">Hours</h3> <p>Thursday Friday and Saturday 11 to 6</p> "
+	, content   : "<p>Closed 7/4/2017</p>   "
 	
 },
 
 {
-	latitude  : "34.0066",
-	longitude : "-118.3691",
-	name      : "Everytable Baldwin Hills",
-	address_1 : "Baldwin Hills Crenshaw Plaza",
-	address_2 : "3650 W MLK Blvd",
-	city      : "Los Angeles",
-	zip       : "90008",
-	category  : "Restaurant",
-	website   : "https://www.everytable.com",
-	phone     : "323-296-0311",
+	latitude  : "33.833456",
+	longitude : "-118.278422",
+	name      : "Carson BGC",
+	address_1 : "21502 Main St.",
+	address_2 : "",
+	city      : "Carson",
+	zip       : "90745",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Lisa Mejia (reports), Maria Valdovinos (Dir) / 310.549.7311",
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
@@ -92050,13 +92835,53 @@ var locations = [
 	
 
 	
-
+	
+	{
+		day       : "MON",
+		open      : "1200",
+		close     : "1300"
+	}
+	
 	
 
 	
-
+	,
+	{
+		day       : "TUE",
+		open      : "1200",
+		close     : "1300"
+	}
+	
 	
 
+	
+	,
+	{
+		day       : "WED",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1200",
+		close     : "1300"
+	}
+	
 	
 
 	
@@ -92064,24 +92889,103 @@ var locations = [
 	
 
 	],
-	uri       : "/locations/everytable-baldwin-hills/"
+	uri       : "/summer-lunch/carson-bgc/"
 	
 
-	, content   : "<h3 id=\"hours\">Hours</h3> <p>10:30am - 9pm Mon - Sat,<br /> 11am - 7pm Sun</p> "
+	, content   : "<p>Closed: 7/4/2017 Field Trip: 6/21, 6/28, 7/12, 7/19, 7/26</p>   "
 	
 },
 
 {
-	latitude  : "34.04828",
-	longitude : "-118.258943",
-	name      : "Everytable Downtown LA",
-	address_1 : "The Bloc",
-	address_2 : "700 South Flower Street",
+	latitude  : "33.890368",
+	longitude : "-118.193011",
+	name      : "Casa Dominguez",
+	address_1 : "15727 Atlantic Ave",
+	address_2 : "",
+	city      : "Compton",
+	zip       : "90221",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Shannon Kay / 310.667.4063",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/casa-dominguez/"
+	
+
+	, content   : "<p>Closed: 7/4/2017</p>   "
+	
+},
+
+{
+	latitude  : "34.054836",
+	longitude : "-118.261844",
+	name      : "Central City Neighborhood Partners",
+	address_1 : "501 S. Bixel Street",
+	address_2 : "",
 	city      : "Los Angeles",
 	zip       : "90017",
-	category  : "Restaurant",
-	website   : "https://www.everytable.com",
-	phone     : "213-318-3836",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Margarita, Noemy, Irma / 213.482.8618",
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
@@ -92089,9 +92993,815 @@ var locations = [
 	
 
 	
+	
+	{
+		day       : "MON",
+		open      : "1200",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1200",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1200",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1200",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1200",
+		close     : "1330"
+	}
+	
+	
 
 	
 
+	
+
+	],
+	uri       : "/summer-lunch/central-city-neighborhood-partners/"
+	
+
+	, content   : "<p>Closed: 7/4</p>   "
+	
+},
+
+{
+	latitude  : "34.05074",
+	longitude : "-118.255134",
+	name      : "Central Library",
+	address_1 : "630 W 5th St",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90071",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Diane Olivo-Posner / 213.228.7481",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/central-library/"
+	
+
+	, content   : "<p>Closed 7/4/2017</p>   "
+	
+},
+
+{
+	latitude  : "33.90236",
+	longitude : "-118.263571",
+	name      : "Church of the Redeemer",
+	address_1 : "900 E. Rosecrans Ave",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90059",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Pastor Kerry Allison, Marian Battle / 310.537.1372 Marian: 310.537.1372",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/church-of-the-redeemer/"
+	
+
+	, content   : "<p>Closed: 7/4/2017</p>   "
+	
+},
+
+{
+	latitude  : "33.97586",
+	longitude : "-118.176823",
+	name      : "City of Bell-Veterans Memorial Park",
+	address_1 : "6500 Wilcox Ave",
+	address_2 : "",
+	city      : "Bell",
+	zip       : "90201",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Gabino C Luna, Leticia Covarrubias / 323.923.2664",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1130",
+		close     : "1230"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1130",
+		close     : "1230"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1130",
+		close     : "1230"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1130",
+		close     : "1230"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1130",
+		close     : "1230"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/city-of-bell-veterans-memorial-park/"
+	
+
+	, content   : "<p>Closed: 7/4/2017 Field trip: 6/29, 7/14, 7/21, 7/27, 8/3</p>   "
+	
+},
+
+{
+	latitude  : "34.013501",
+	longitude : "-118.169819",
+	name      : "City of Commerce-Bristow Library",
+	address_1 : "1466 S. McDonnell Ave",
+	address_2 : "",
+	city      : "Commerce",
+	zip       : "90040",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Luis Martinez, Moyra Garcia, Ted Lujan / 323.265.1787 (outside line) 323.887.4492 x 4492 (inside)",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1100",
+		close     : "1200"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1100",
+		close     : "1200"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1100",
+		close     : "1200"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1100",
+		close     : "1200"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1100",
+		close     : "1200"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/city-of-commerce-bristow-library/"
+	
+
+	, content   : "<p>Closed: 7/4/2017</p>   "
+	
+},
+
+{
+	latitude  : "33.972644",
+	longitude : "-118.126773",
+	name      : "City of Commerce-Veterans Park",
+	address_1 : "6364 Zindell Ave",
+	address_2 : "",
+	city      : "Commerce",
+	zip       : "90040",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Maryanne Griego-Talley, Moyra Garcia / 562.927.1515",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1130",
+		close     : "1230"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1130",
+		close     : "1230"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1130",
+		close     : "1230"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1130",
+		close     : "1230"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1130",
+		close     : "1230"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/city-of-commerce-veterans-park/"
+	
+
+	, content   : "<p>Closed: 7/4/2017</p>   "
+	
+},
+
+{
+	latitude  : "34.017375",
+	longitude : "-118.184588",
+	name      : "Eastman Elementary School/Healthy Start",
+	address_1 : "4112 E. Olympic Blvd",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90023",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Rachel Jurado / 323.269.0456 / 323.253.6934",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1130",
+		close     : "1230"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1130",
+		close     : "1230"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1130",
+		close     : "1230"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1130",
+		close     : "1230"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/eastman-elementary-school-healthy-start/"
+	
+
+	, content   : "<p>Closed: Fridays, 7/4/2017 Field trip: 8/9/2017</p>   "
+	
+},
+
+{
+	latitude  : "34.067115",
+	longitude : "-118.257227",
+	name      : "Echo Park Library",
+	address_1 : "1410 W Temple Street",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90026",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Victoria Sikora / 213.580.3738",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1200",
+		close     : "1250"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1200",
+		close     : "1250"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1200",
+		close     : "1250"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1200",
+		close     : "1250"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1200",
+		close     : "1250"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/echo-park-library/"
+	
+
+	, content   : "<p>Closed 7/4/2017</p>   "
+	
+},
+
+{
+	latitude  : "34.014402",
+	longitude : "-118.308616",
+	name      : "Exposition Park Library",
+	address_1 : "3900 S Western Ave",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90062",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Joann Morgan / 323.290.3149",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1130",
+		close     : "1230"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1130",
+		close     : "1230"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1130",
+		close     : "1230"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1130",
+		close     : "1230"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1130",
+		close     : "1230"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/exposition-park-library/"
+	
+
+	, content   : "<p>Closed 7/4/2017</p>   "
+	
+},
+
+{
+	latitude  : "34.706691",
+	longitude : "-118.105996",
+	name      : "Friendly Village",
+	address_1 : "1301 East Ave I",
+	address_2 : "",
+	city      : "Lancaster",
+	zip       : "93535",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Kristina Wallace (acting mgr) / Christina Payte / 661.946.6267 (o)",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/friendly-village/"
+	
+
+	, content   : "<p>Closed: 7/4/2017</p>   "
+	
+},
+
+{
+	latitude  : "33.9163712",
+	longitude : "-118.2652415",
+	name      : "Greater New Unity B.C.",
+	address_1 : "9719 S Avalon Blvd",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90003",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Randy Allison Sr./ office: 323.757.5094",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1200",
+		close     : "1300"
+	}
+	
 	
 
 	
@@ -92103,24 +93813,24 @@ var locations = [
 	
 
 	],
-	uri       : "/locations/everytable-downtown-la/"
+	uri       : "/summer-lunch/greater-new-unity-b-c-/"
 	
 
-	, content   : "<p>Everytable is located on the lower level of “The Bloc” mall.</p>  <h3 id=\"hours\">Hours</h3> <p>11am - 8pm Mon - Fri</p> "
+	, content   : "   "
 	
 },
 
 {
-	latitude  : "34.016794",
-	longitude : "-118.49745",
-	name      : "Everytable Santa Monica",
-	address_1 : "Third Street Promenade",
-	address_2 : "1315 3rd St",
-	city      : "Santa Monica",
-	zip       : "90401",
-	category  : "Restaurant",
-	website   : "https://www.everytable.com",
-	phone     : "424-296-1619",
+	latitude  : "34.680539",
+	longitude : "-118.088058",
+	name      : "Hacienda Estates",
+	address_1 : "2330 East Ave J8",
+	address_2 : "",
+	city      : "Lancaster",
+	zip       : "93535",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Renate Sauer / 661.945.1597",
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
@@ -92128,13 +93838,53 @@ var locations = [
 	
 
 	
-
+	
+	{
+		day       : "MON",
+		open      : "1230",
+		close     : "1330"
+	}
+	
 	
 
 	
-
+	,
+	{
+		day       : "TUE",
+		open      : "1230",
+		close     : "1330"
+	}
+	
 	
 
+	
+	,
+	{
+		day       : "WED",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1230",
+		close     : "1330"
+	}
+	
 	
 
 	
@@ -92142,24 +93892,577 @@ var locations = [
 	
 
 	],
-	uri       : "/locations/everytable-santa-monica/"
+	uri       : "/summer-lunch/hacienda-estates/"
 	
 
-	, content   : "<h3 id=\"hours\">Hours</h3> <p>10:30am - 9pm daily</p> "
+	, content   : "<p>Closed: 7/4/2017</p>   "
 	
 },
 
 {
-	latitude  : "34.035012",
-	longitude : "-118.283582",
-	name      : "Everytable South LA",
-	address_1 : "1101 West 23rd Street",
+	latitude  : "33.791498",
+	longitude : "-118.307533",
+	name      : "Harbor City BGC",
+	address_1 : "1220 W 256th St",
+	address_2 : "",
+	city      : "Harbor City",
+	zip       : "90710",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Mireyda Estrada(dir), Esther Solis (service) / 310.534.0056",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/harbor-city-bgc/"
+	
+
+	, content   : "<p>Closed: 7/4/2017 Field Trip: Every Thursday (except 1st wk.)</p>   "
+	
+},
+
+{
+	latitude  : "33.881372",
+	longitude : "-118.28937",
+	name      : "Harbor Gateway BGC",
+	address_1 : "802 W Gardena Blvd",
+	address_2 : "",
+	city      : "Gardena",
+	zip       : "90247",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Viridiana Yahuaca (site coordinator), Mireyda Estrada (dir) / 310.523.2173",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/harbor-gateway-bgc/"
+	
+
+	, content   : "<p>Closed: 7/4/2017 Field Trip: 6/23, 6/30, 7/7, 7/14, 7/21, 7/28, 8/4, 8/11</p>   "
+	
+},
+
+{
+	latitude  : "33.792413",
+	longitude : "-118.292523",
+	name      : "Harbor Village",
+	address_1 : "981 Harbor Village Dr",
+	address_2 : "",
+	city      : "Harbor City",
+	zip       : "90710",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Cynthia Lozano, Jessica Sandoval / Office: 310.530.1216",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1330",
+		close     : "1430"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1330",
+		close     : "1430"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1330",
+		close     : "1430"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1330",
+		close     : "1430"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1330",
+		close     : "1430"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/harbor-village/"
+	
+
+	, content   : "<p>Closed: 6/15, 7/4</p>   "
+	
+},
+
+{
+	latitude  : "33.974588",
+	longitude : "-118.318131",
+	name      : "Hyde Park Library",
+	address_1 : "2205 W Florence Ave",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90043",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Shawn Stamm, Anna-Marie / Staff: 323.752.2712",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/hyde-park-library/"
+	
+
+	, content   : "<p>Closed 7/4/2017</p>   "
+	
+},
+
+{
+	latitude  : "34.043002",
+	longitude : "-118.290696",
+	name      : "KYCC- Menlo",
+	address_1 : "1230 S Menlo Ave",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90006",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Ernie Yoshikawa, Danielle Joo / 213.365.7400 Ernie ext: 5132",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1330",
+		close     : "1430"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1330",
+		close     : "1430"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1330",
+		close     : "1430"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1330",
+		close     : "1430"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1330",
+		close     : "1430"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/kycc-menlo/"
+	
+
+	, content   : "<p>Closed: 7/4/2017</p>   "
+	
+},
+
+{
+	latitude  : "34.061256",
+	longitude : "-118.287388",
+	name      : "KYCC-Rise Kohyang Middle School",
+	address_1 : "3020 Wilshire Blvd Ste 250",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90010",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Heather Jun / 424.789.8338",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/kycc-rise-kohyang-middle-school/"
+	
+
+	, content   : "<p>Closed: 7/4/2017 Field Trip: 6/30, 7/14, 7/28</p>   "
+	
+},
+
+{
+	latitude  : "34.060595",
+	longitude : "-118.314354",
+	name      : "KYCC- Wilton",
+	address_1 : "680 S Wilton Place",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90005",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Heather Jun, Ernie Yoshikawa / 213.365.7400 Ernie ext: 5132",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1400",
+		close     : "1500"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1400",
+		close     : "1500"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1400",
+		close     : "1500"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1400",
+		close     : "1500"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1400",
+		close     : "1500"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/kycc-wilton/"
+	
+
+	, content   : "<p>Closed: 7/4, 7/14</p>   "
+	
+},
+
+{
+	latitude  : "34.037885",
+	longitude : "-118.292381",
+	name      : "KYDS- Los Angeles Christian School",
+	address_1 : "1620 W 20th St",
 	address_2 : "",
 	city      : "Los Angeles",
 	zip       : "90007",
-	category  : "Restaurant",
-	website   : "https://www.everytable.com",
-	phone     : "213-973-5095",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Julie Brown, Jasmin Peralta / 818.908.2029 x33",
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
@@ -92167,13 +94470,53 @@ var locations = [
 	
 
 	
-
+	
+	{
+		day       : "MON",
+		open      : "1230",
+		close     : "1330"
+	}
+	
 	
 
 	
-
+	,
+	{
+		day       : "TUE",
+		open      : "1230",
+		close     : "1330"
+	}
+	
 	
 
+	
+	,
+	{
+		day       : "WED",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1230",
+		close     : "1330"
+	}
+	
 	
 
 	
@@ -92181,24 +94524,103 @@ var locations = [
 	
 
 	],
-	uri       : "/locations/everytable-south-la/"
+	uri       : "/summer-lunch/kyds-los-angeles-christian-school/"
 	
 
-	, content   : "<h3 id=\"hours\">Hours</h3> <p>11am - 8pm daily</p> "
+	, content   : "<p>Closed: 7/3, 7/4</p>   "
 	
 },
 
 {
-	latitude  : "33.943006",
-	longitude : "-118.237758",
-	name      : "Locol, Watts",
-	address_1 : "1950 East 103rd Street",
+	latitude  : "34.2012",
+	longitude : "-118.527852",
+	name      : "KYDS- St Catherine of Siena School",
+	address_1 : "18125 Sherman Way",
+	address_2 : "",
+	city      : "Reseda",
+	zip       : "91335",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Principal Tedesco, Julie Brown, Rikki Alvarado, Estrella / 818.343.9880 / Julie: 818.908.2029",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/kyds-st-catherine-of-siena-school/"
+	
+
+	, content   : "<p>Closed: 7/3, 7/4</p>   "
+	
+},
+
+{
+	latitude  : "34.0544",
+	longitude : "-118.2439",
+	name      : "La Villa Mariposa",
+	address_1 : "345 S. Columbia Dr.",
 	address_2 : "",
 	city      : "Los Angeles",
-	zip       : "90002",
-	category  : "Restaurant",
-	website   : "http://www.welocol.com",
-	phone     : "",
+	zip       : "90017",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Arturo De La Torre, Elisa Campos, Irma Lopez / Irma: 213.413.7307 (o) 213.258.0323 (c) 213-484-5247 (Site) Arturo: 213.258.5019",
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
@@ -92206,13 +94628,53 @@ var locations = [
 	
 
 	
-
+	
+	{
+		day       : "MON",
+		open      : "1200",
+		close     : "1300"
+	}
+	
 	
 
 	
-
+	,
+	{
+		day       : "TUE",
+		open      : "1200",
+		close     : "1300"
+	}
+	
 	
 
+	
+	,
+	{
+		day       : "WED",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1200",
+		close     : "1300"
+	}
+	
 	
 
 	
@@ -92220,24 +94682,24 @@ var locations = [
 	
 
 	],
-	uri       : "/locations/locol-watts/"
+	uri       : "/summer-lunch/la-villa-mariposa/"
 	
 
-	, content   : "<h3 id=\"hours\">Hours</h3>  <p>Open everyday from 11am–8pm</p> "
+	, content   : "<p>Closed: 7/4/2017</p>   "
 	
 },
 
 {
-	latitude  : "34.067136",
-	longitude : "-118.23263",
-	name      : "Orange trees at Los Angeles State Historic Park",
-	address_1 : "1245 North Spring Street",
+	latitude  : "34.075733",
+	longitude : "-118.214404",
+	name      : "Lincoln Heights Library",
+	address_1 : "2530 Workman St",
 	address_2 : "",
 	city      : "Los Angeles",
-	zip       : "90012",
-	category  : "Orchard",
-	website   : "http://lashp.com/2017/05/12/fallen-fruit-a-monument-to-sharing/",
-	phone     : "",
+	zip       : "90031",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Shirley Ly / 323.226.1692",
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
@@ -92245,13 +94707,53 @@ var locations = [
 	
 
 	
-
+	
+	{
+		day       : "MON",
+		open      : "1230",
+		close     : "1330"
+	}
+	
 	
 
 	
-
+	,
+	{
+		day       : "TUE",
+		open      : "1230",
+		close     : "1330"
+	}
+	
 	
 
+	
+	,
+	{
+		day       : "WED",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1230",
+		close     : "1330"
+	}
+	
 	
 
 	
@@ -92259,34 +94761,1464 @@ var locations = [
 	
 
 	],
-	uri       : "/locations/orange-trees-at-los-angeles-state-historic-park/"
+	uri       : "/summer-lunch/lincoln-heights-library/"
 	
 
-	, content   : "<p>This is a group of orange trees, planted as part of the <a href=\"http://endlessorchard.com\">Endless Orchard</a> project by <a href=\"http://fallenfruit.org\">Fallen Fruit</a>.</p>  <p>From the website…</p>  <blockquote>   <p>“The oranges are for everyone to share.”</p> </blockquote> "
+	, content   : "<p>Closed 7/4/2017</p>   "
 	
 },
 
 {
-	latitude  : "34.004253",
-	longitude : "-118.330749",
-	name      : "SÜPRMARKT LA",
-	address_1 : "Leimert Park",
-	address_2 : "3333 West 43rd Place",
-	city      : "Los Angeles",
-	zip       : "90008",
-	category  : "Pop Up Market",
-	website   : "http://suprmarkt.la",
-	phone     : "424.261.7877",
+	latitude  : "34.690442",
+	longitude : "-118.116525",
+	name      : "Lutheran Church of the Master",
+	address_1 : "725 East Avenue J",
+	address_2 : "",
+	city      : "Lancaster",
+	zip       : "93535",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Pat Williams/661.942.6782",
 	twitter   : "",
-	instagram : "https://www.instagram.com/supr.mrkt",
-	facebook  : "https://www.facebook.com/suprmarkt",
+	instagram : "",
+	facebook  : "",
 	hours     : [
 	
 
 	
+	
+	{
+		day       : "MON",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
 
 	
 
+	
+
+	],
+	uri       : "/summer-lunch/lutheran-church-of-the-master/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "33.8743625",
+	longitude : "-118.2168391",
+	name      : "Major League Baseball Urban Youth Academy",
+	address_1 : "901 E Artesia Blvd",
+	address_2 : "",
+	city      : "Compton",
+	zip       : "90221",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Yano Alvin, Darrell Miller / 310.763.3479",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "TUE",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "SAT",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/major-league-baseball-urban-youth-academy/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "33.994124",
+	longitude : "-118.4108",
+	name      : "Mar Vista Gardens",
+	address_1 : "4901 Marionwood Dr.",
+	address_2 : "",
+	city      : "Culver City",
+	zip       : "90230",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Jesus Gonzales (Jay) / 714.417.3739",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/mar-vista-gardens/"
+	
+
+	, content   : "<p>Closed 7/4/2017</p>   "
+	
+},
+
+{
+	latitude  : "33.948986",
+	longitude : "-118.282688",
+	name      : "Mark Twain Library",
+	address_1 : "9621 S Figueroa",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90003",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Senele Rios / 323.755.7567",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/mark-twain-library/"
+	
+
+	, content   : "<p>Closed 7/4/2017</p>   "
+	
+},
+
+{
+	latitude  : "34.244516",
+	longitude : "-118.415488",
+	name      : "Montague Charter Academy",
+	address_1 : "13000 Montague Street",
+	address_2 : "",
+	city      : "Arleta",
+	zip       : "91331",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Edith Ballesteros / 818.899.0215, 213.745.1900",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1130",
+		close     : "1230"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1130",
+		close     : "1230"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1130",
+		close     : "1230"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1130",
+		close     : "1230"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1130",
+		close     : "1230"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/montague-charter-academy/"
+	
+
+	, content   : "<p>Closed: 7/3, 7/4</p>   "
+	
+},
+
+{
+	latitude  : "34.575483",
+	longitude : "-118.068273",
+	name      : "Mountain View Estates",
+	address_1 : "3255 E Ave R",
+	address_2 : "",
+	city      : "Palmdale",
+	zip       : "93550",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Jessica Vargas, Jonnine Soto / 661.947.4700",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1100",
+		close     : "1200"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1100",
+		close     : "1200"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1100",
+		close     : "1200"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1100",
+		close     : "1200"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1100",
+		close     : "1200"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/mountain-view-estates/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.231911",
+	longitude : "-118.469087",
+	name      : "North Valley Caring Services",
+	address_1 : "15453 Rayen Street",
+	address_2 : "",
+	city      : "North Hills",
+	zip       : "91343",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Manuel Flores / 818.891.0481 ext 20",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1500",
+		close     : "1600"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1500",
+		close     : "1600"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1500",
+		close     : "1600"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1500",
+		close     : "1600"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/north-valley-caring-services/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.234676",
+	longitude : "-118.533867",
+	name      : "Northridge Library",
+	address_1 : "9051 Darby Avenue",
+	address_2 : "",
+	city      : "Northridge",
+	zip       : "91325",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Leslie Chudnoff, Cindy Holsey / 818.886.6929 Workroom: 818.886.6090 Main: 818.886.3640",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/northridge-library/"
+	
+
+	, content   : "<p>Closed 7/4/2017</p>   "
+	
+},
+
+{
+	latitude  : "34.082471",
+	longitude : "-118.018208",
+	name      : "Our Saviour Center",
+	address_1 : "4316 Peck Rd",
+	address_2 : "",
+	city      : "El Monte",
+	zip       : "91732",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Jose Vega, Marguerite Ponce (reports) / 626.329.0860 x 1203 or x 01",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1300",
+		close     : "1400"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1300",
+		close     : "1400"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1300",
+		close     : "1400"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1300",
+		close     : "1400"
+	}
+	
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/our-saviour-center/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.261035",
+	longitude : "-118.429026",
+	name      : "Pacoima Library",
+	address_1 : "13605 Van Nuys Blvd",
+	address_2 : "",
+	city      : "Pacoima",
+	zip       : "91331",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Laura Contin / 818.899.3188",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/pacoima-library/"
+	
+
+	, content   : "<p>Closed 7/4/2017</p>   "
+	
+},
+
+{
+	latitude  : "34.227817",
+	longitude : "-118.450104",
+	name      : "Panorama City Library",
+	address_1 : "13605 Van Nuys Blvd",
+	address_2 : "",
+	city      : "Panorama City",
+	zip       : "91402",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Teri Markson / 818.895.0682",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/panorama-city-library/"
+	
+
+	, content   : "<p>Closed 7/4/2017</p>   "
+	
+},
+
+{
+	latitude  : "34.03514",
+	longitude : "-118.236922",
+	name      : "Para Los Ninos (7th)",
+	address_1 : "1617 7th Street",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90021",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Cecilia Hernandez (dir), Fernando Delgadillo, Moises (services and report) / 213.239.6605 x 228 or 114 (F)",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1200",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1200",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1200",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1200",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1200",
+		close     : "1330"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/para-los-ninos-7th/"
+	
+
+	, content   : "<p>Cecilia Hernandez (dir), Fernando Delgadillo, Moises (services and report) / 213.239.6605 x 228 or 114 (F)</p>   "
+	
+},
+
+{
+	latitude  : "34.0544",
+	longitude : "-118.2439",
+	name      : "Para Los Ninos (Gratts Primary Center)",
+	address_1 : "474 S. Hartford Ave",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90017",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Karla Lara / 213.481.3200",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1200",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1200",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1200",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1200",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1200",
+		close     : "1330"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/para-los-ninos-gratts-primary-center/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.035973",
+	longitude : "-118.247126",
+	name      : "Para Los Ninos (Middle School)",
+	address_1 : "835 Stanford Ave",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90021",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Moises Carrillo / 213.896.2640",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1200",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1200",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1200",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1200",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1200",
+		close     : "1330"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/para-los-ninos-middle-school/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.0544",
+	longitude : "-118.2439",
+	name      : "Pico Union Library",
+	address_1 : "14345 Roscoe Blvd",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90006",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Kathy Ellison / 213.368.7550 213.368.7545",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/pico-union-library/"
+	
+
+	, content   : "<p>Closed 7/4/2017</p>   "
+	
+},
+
+{
+	latitude  : "33.983706",
+	longitude : "-117.903909",
+	name      : "Project Access Resource Center",
+	address_1 : "2010 S. Batson Ave. #102",
+	address_2 : "",
+	city      : "Rowland Heights",
+	zip       : "91748",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Melissa Flores (Coord), Brenda Morales (Mgr) / 626.839.2184",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1330",
+		close     : "1430"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1330",
+		close     : "1430"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1330",
+		close     : "1430"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1330",
+		close     : "1430"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1330",
+		close     : "1430"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/project-access-resource-center/"
+	
+
+	, content   : "<p>Closed: 6/14, 7/4</p>   "
+	
+},
+
+{
+	latitude  : "34.002842",
+	longitude : "-118.256482",
+	name      : "PUENTE Learning Center",
+	address_1 : "4504 S Central Ave",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90033",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Rodolfo Acosta / 323.780.7546 x 218 323.780.8900",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1130",
+		close     : "1230"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1130",
+		close     : "1230"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1130",
+		close     : "1230"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1130",
+		close     : "1230"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1130",
+		close     : "1230"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/puente-learning-center/"
+	
+
+	, content   : "<p>Closed 7/4/17</p>   "
+	
+},
+
+{
+	latitude  : "34.067374",
+	longitude : "-118.271893",
+	name      : "Regis House",
+	address_1 : "2212 Beverly Ave",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90057",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Sister Teresita Saavedra Maria De Leon / 213.380.8168",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1130",
+		close     : "1230"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1130",
+		close     : "1230"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1130",
+		close     : "1230"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1130",
+		close     : "1230"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1130",
+		close     : "1230"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/regis-house/"
+	
+
+	, content   : "<p>Closed: 7/3/2017 Field Trip: 6/21, 6/28, 7/5, 7/12, 7/19</p>   "
+	
+},
+
+{
+	latitude  : "33.907182",
+	longitude : "-118.341096",
+	name      : "Richstone Family Center",
+	address_1 : "13634 Cordary Ave",
+	address_2 : "",
+	city      : "Hawthorne",
+	zip       : "90250",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Lesley Carrillo / 310.970.1921 x138",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1530",
+		close     : "1630"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1530",
+		close     : "1630"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1530",
+		close     : "1630"
+	}
+	
 	
 
 	
@@ -92298,10 +96230,1432 @@ var locations = [
 	
 
 	],
-	uri       : "/locations/suprmarkt-la/"
+	uri       : "/summer-lunch/richstone-family-center/"
 	
 
-	, content   : "<h2 id=\"hours\">Hours</h2>  <dl>   <dt>Sunday</dt>   <dd>2pm – 6pm</dd> </dl>  <p><em>The market’s location and hours may have changed.</em> Please visit <a href=\"http://suprmarkt.la/next-suprmarkt/\">suprmarkt.la/next-suprmarkt</a> to find out where and when to find the market.</p>  <h2 id=\"features\">Features</h2>  <ul>   <li>100% organic food for sale</li>   <li>EBT Accepted</li> </ul> "
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "33.936324",
+	longitude : "-118.112364",
+	name      : "Rio San Gabriel (Downey Family YMCA)",
+	address_1 : "9338 Gotham St",
+	address_2 : "",
+	city      : "Downey",
+	zip       : "90241",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Reyna Villalobos, Maricela Ramos / 562.644.3999",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/rio-san-gabriel-downey-family-ymca/"
+	
+
+	, content   : "<p>Closed: 7/4/2017</p>   "
+	
+},
+
+{
+	latitude  : "34.136344",
+	longitude : "-118.258782",
+	name      : "Salvation Army-Glendale",
+	address_1 : "320 W. Windsor Rd",
+	address_2 : "",
+	city      : "Glendale",
+	zip       : "91204",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Rick White / 818.246.5586",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/salvation-army-glendale/"
+	
+
+	, content   : "   "
+	
+},
+
+{
+	latitude  : "33.969836",
+	longitude : "-118.256757",
+	name      : "Salvation Army South LA",
+	address_1 : "7651 S. Central Ave",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90001",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Andre Patterson, Lizette Jones (dir), Dora Lopez (reports) / 323.586.0288 x104, x 103 (Lizette) Lizette: 323.586.0797",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1200",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1200",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1200",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1200",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1200",
+		close     : "1330"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/salvation-army-south-la/"
+	
+
+	, content   : "<p>Closed: 6/26-7/4</p>   "
+	
+},
+
+{
+	latitude  : "34.041461",
+	longitude : "-118.220134",
+	name      : "Salvation Army Weingart Youth Center",
+	address_1 : "501 S Boyle Ave",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90028",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Carlos Gonzalez / 323.337.1655",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1500",
+		close     : "1600"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1500",
+		close     : "1600"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1500",
+		close     : "1600"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1500",
+		close     : "1600"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1500",
+		close     : "1600"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/salvation-army-weingart-youth-center/"
+	
+
+	, content   : "<p>Closed: 7/8/2017 Field Trip: 7/8/2017</p>   "
+	
+},
+
+{
+	latitude  : "34.050765",
+	longitude : "-118.280059",
+	name      : "San Pedro Library",
+	address_1 : "1030 S Alvarado Street",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90731",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "David Ellis / 310.548.7780",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/san-pedro-library/"
+	
+
+	, content   : "<p>Closed 7/4/2017</p>   "
+	
+},
+
+{
+	latitude  : "34.012448",
+	longitude : "-118.469628",
+	name      : "Santa Monica- JAMS",
+	address_1 : "2441 16th Street",
+	address_2 : "",
+	city      : "Santa Monica",
+	zip       : "90405",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Erika Mitchell (dir), Shearlena Duty (reports), Jason Hurd / Office: 310.496.8800 Nadia: 323.365.5150 Jason: 323.683.2481",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/santa-monica-jams/"
+	
+
+	, content   : "<p>Closed: 7/4/2017</p>   "
+	
+},
+
+{
+	latitude  : "34.040728",
+	longitude : "-118.24673",
+	name      : "School on Wheels",
+	address_1 : "600 E 7th St Ste 109",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90021",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Matt Raab (Dir), Jason Wright (service) / Office: 213.896.9200",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1445",
+		close     : "1545"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1445",
+		close     : "1545"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1445",
+		close     : "1545"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1445",
+		close     : "1545"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1445",
+		close     : "1545"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/school-on-wheels/"
+	
+
+	, content   : "<p>Closed: 7/4/2017 Field trip: 6/16, 6/23, 6/30, 7/7, 7/14, 7/21, 7/28, 8/4</p>   "
+	
+},
+
+{
+	latitude  : "34.274891",
+	longitude : "-118.412957",
+	name      : "SF Valley BGC",
+	address_1 : "11251 Glenoaks Blvd",
+	address_2 : "",
+	city      : "Pacoima",
+	zip       : "91331",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Ian Smith / 818.896.5261 x110",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/sf-valley-bgc/"
+	
+
+	, content   : "<p>Closed 7/4/2017</p>   "
+	
+},
+
+{
+	latitude  : "33.895607",
+	longitude : "-118.215201",
+	name      : "St. Albert the Great School",
+	address_1 : "736 E. Compton Blvd",
+	address_2 : "",
+	city      : "Compton",
+	zip       : "90220",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "28 Tina Johnson / 310.515.3891",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1100",
+		close     : "1200"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1100",
+		close     : "1200"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1100",
+		close     : "1200"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1100",
+		close     : "1200"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1100",
+		close     : "1200"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/st-albert-the-great-school/"
+	
+
+	, content   : "<p>Field Trips: 7/7,7/14,7/21,7/28</p>   "
+	
+},
+
+{
+	latitude  : "34.046444",
+	longitude : "-118.298835",
+	name      : "St. Thomas the Apostle School",
+	address_1 : "St. Thomas the Apostle School",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90006",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Gustavo Beltran, Josefina Colin office:323.737.4730",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1215",
+		close     : "1315"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1215",
+		close     : "1315"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1215",
+		close     : "1315"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1215",
+		close     : "1315"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1215",
+		close     : "1315"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/st-thomas-the-apostle-school/"
+	
+
+	, content   : "<p>Closed: 6/29-7/4</p>   "
+	
+},
+
+{
+	latitude  : "34.026196",
+	longitude : "-118.250417",
+	name      : "St. Turibius School",
+	address_1 : "1524 Essex Street",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "93550",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Ann Olmos, Juana Gomez / 213.749.8894",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/st-turibius-school/"
+	
+
+	, content   : "<p>Closed: 7/4, 7/5</p>   "
+	
+},
+
+{
+	latitude  : "34.102063",
+	longitude : "-118.319438",
+	name      : "The Salvation Army Compton Corps Community",
+	address_1 : "5941 Hollywood Blvd",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90221",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Steven Wimberly Jr./310.639.0362",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/the-salvation-army-compton-corps-community/"
+	
+
+	, content   : "<p>Closed: 7/3, 7/4</p>   "
+	
+},
+
+{
+	latitude  : "34.584057",
+	longitude : "-118.108859",
+	name      : "Twin Palms Family Apartments",
+	address_1 : "1105 East Avenue Q4",
+	address_2 : "",
+	city      : "Palmdale",
+	zip       : "93550",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Adrian Braxton / 661.538.9995",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1200",
+		close     : "1300"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/twin-palms-family-apartments/"
+	
+
+	, content   : "<p>Closed: 7/4/2017</p>   "
+	
+},
+
+{
+	latitude  : "33.735365",
+	longitude : "-118.292349",
+	name      : "Vermont Square Library",
+	address_1 : "931 S Gaffey",
+	address_2 : "",
+	city      : "San Pedro",
+	zip       : "90037",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Martha Sherod / Staff:323.290.7406 / Main: 323.290.7405",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/vermont-square-library/"
+	
+
+	, content   : "<p>Closed 7/4/2017</p>   "
+	
+},
+
+{
+	latitude  : "33.99961",
+	longitude : "-118.295884",
+	name      : "Vernon Library",
+	address_1 : "1201 W 48th Street",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90011",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Ana Campos, Corinda Humphrey / 323.234.9107",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/vernon-library/"
+	
+
+	, content   : "<p>Closed 7/4/2017</p>   "
+	
+},
+
+{
+	latitude  : "34.202317",
+	longitude : "-118.600627",
+	name      : "West Valley BGC",
+	address_1 : "7245 Remmet Ave",
+	address_2 : "",
+	city      : "Canoga Park",
+	zip       : "91303",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Ruben Rodriguez(dir), Tim Blaylock (CEO) / office: 818.610.1054",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1200",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1200",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1200",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1200",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1200",
+		close     : "1330"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/west-valley-bgc/"
+	
+
+	, content   : "<p>Closed: 7/4/2017</p>   "
+	
+},
+
+{
+	latitude  : "33.964211",
+	longitude : "-118.038604",
+	name      : "Whittier BGC",
+	address_1 : "7905 S. Greenleaf Ave",
+	address_2 : "",
+	city      : "Whittier",
+	zip       : "90602",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "(CEO) / office: 818.610.1054",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1200",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1200",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1200",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1200",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1200",
+		close     : "1330"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/whittier-bgc/"
+	
+
+	, content   : "<p>Closed: 7/4/2017</p>   "
+	
+},
+
+{
+	latitude  : "34.016769",
+	longitude : "-118.179274",
+	name      : "YWCA-GLA Union Pacific Empowerment Center",
+	address_1 : "4315 Union Pacific Ave",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90023",
+	category  : "Summer Lunch",
+	website   : "https://www.lafoodbank.org/sfsp/",
+	phone     : "Rhianna Morales / 323.415.6057",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	hours     : [
+	
+
+	
+	
+	{
+		day       : "MON",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "TUE",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "WED",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "THU",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+	,
+	{
+		day       : "FRI",
+		open      : "1230",
+		close     : "1330"
+	}
+	
+	
+
+	
+
+	
+
+	],
+	uri       : "/summer-lunch/ywca-gla-union-pacific-empowerment-center/"
+	
+
+	, content   : "<p>Closed: 7/4, 7/7</p>   "
 	
 }
 

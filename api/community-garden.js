@@ -38,7 +38,7 @@ var locations = [
 	uri       : "/community-garden/arleta/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -77,7 +77,7 @@ var locations = [
 	uri       : "/community-garden/chino-community-garden-park/"
 	
 
-	, content   : "<h2 id=\"schedule-a-group-tour\">Schedule a Group Tour</h2>  <p>Interested in scheduling a group tour? The Community Garden is accepts a limited number of private tours. For more information or to schedule a tour, please contact the Healthy Chino office at 909-334-3478 or <a href=\"healthychino@cityofchino.org\">healthychino@cityofchino.org</a>.</p> "
+	, content   : "  <h2 id=\"schedule-a-group-tour\">Schedule a Group Tour</h2>  <p>Interested in scheduling a group tour? The Community Garden is accepts a limited number of private tours. For more information or to schedule a tour, please contact the Healthy Chino office at 909-334-3478 or <a href=\"healthychino@cityofchino.org\">healthychino@cityofchino.org</a>.</p> "
 	
 },
 
@@ -116,7 +116,7 @@ var locations = [
 	uri       : "/community-garden/crenshaw/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -155,7 +155,7 @@ var locations = [
 	uri       : "/community-garden/eagle-rockdale-art-park/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -194,7 +194,7 @@ var locations = [
 	uri       : "/community-garden/eastwind/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -233,7 +233,7 @@ var locations = [
 	uri       : "/community-garden/el-sereno/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -272,7 +272,7 @@ var locations = [
 	uri       : "/community-garden/elysian-valley/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -311,7 +311,7 @@ var locations = [
 	uri       : "/community-garden/emerson-avenue/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -350,7 +350,7 @@ var locations = [
 	uri       : "/community-garden/enrique-noguera-educational-garden/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -389,7 +389,7 @@ var locations = [
 	uri       : "/community-garden/epworth/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -428,7 +428,7 @@ var locations = [
 	uri       : "/community-garden/erika-j-glazer/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -467,7 +467,7 @@ var locations = [
 	uri       : "/community-garden/feed-be-fed/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -506,7 +506,7 @@ var locations = [
 	uri       : "/community-garden/fountains/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -545,7 +545,7 @@ var locations = [
 	uri       : "/community-garden/fremont-wellness-center-/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -584,7 +584,7 @@ var locations = [
 	uri       : "/community-garden/glassell-park/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -623,7 +623,7 @@ var locations = [
 	uri       : "/community-garden/good-earth/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -662,7 +662,7 @@ var locations = [
 	uri       : "/community-garden/granada-hills-salad-bowl-garden-club/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -701,7 +701,7 @@ var locations = [
 	uri       : "/community-garden/greater-watts/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -740,7 +740,7 @@ var locations = [
 	uri       : "/community-garden/holy-nativity/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -779,7 +779,7 @@ var locations = [
 	uri       : "/community-garden/howard-finn/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -818,7 +818,7 @@ var locations = [
 	uri       : "/community-garden/huerta-del-valle-garden/"
 	
 
-	, content   : "<p>We offer tours ​on Monday, Tuesday, Thursday, and Saturday at 12:00 pm.</p>  <p><a href=\"http://www.huertadelvalle.org/toursvolunteer.html\">http://www.huertadelvalle.org/toursvolunteer.html</a></p> "
+	, content   : "  <p>We offer tours ​on Monday, Tuesday, Thursday, and Saturday at 12:00 pm.</p>  <p><a href=\"http://www.huertadelvalle.org/toursvolunteer.html\">http://www.huertadelvalle.org/toursvolunteer.html</a></p> "
 	
 },
 
@@ -857,7 +857,7 @@ var locations = [
 	uri       : "/community-garden/jardin-del-rio/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -896,7 +896,7 @@ var locations = [
 	uri       : "/community-garden/john-s-gibson-senior-garden/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -935,7 +935,7 @@ var locations = [
 	uri       : "/community-garden/mansfield-fountain/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -974,7 +974,7 @@ var locations = [
 	uri       : "/community-garden/manzanita-street/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -1013,7 +1013,7 @@ var locations = [
 	uri       : "/community-garden/mar-vista/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -1052,7 +1052,7 @@ var locations = [
 	uri       : "/community-garden/messiah-organic/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -1091,7 +1091,7 @@ var locations = [
 	uri       : "/community-garden/milagro-allegro/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -1130,7 +1130,7 @@ var locations = [
 	uri       : "/community-garden/moothart-collingnon-francis-avenue/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -1169,7 +1169,7 @@ var locations = [
 	uri       : "/community-garden/norman-harriton/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -1208,7 +1208,7 @@ var locations = [
 	uri       : "/community-garden/ocean-view-farms/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -1247,7 +1247,7 @@ var locations = [
 	uri       : "/community-garden/orcutt-ranch-horticultural-center-rancho-sombra-del-roble/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -1286,7 +1286,7 @@ var locations = [
 	uri       : "/community-garden/pomona-hope-center-street-garden/"
 	
 
-	, content   : "<p>The garden is located on the southwest corner of Center Street and Gibbs Avenue.</p>  <p>For more information visit the <a href=\"http://www.centerstreetgarden.org\">Center Street Community Garden website</a></p>  <p>You can also reach the Garden Coordinator, Barbara Evans, at 909-918-4769.</p> "
+	, content   : "  <p>The garden is located on the southwest corner of Center Street and Gibbs Avenue.</p>  <p>For more information visit the <a href=\"http://www.centerstreetgarden.org\">Center Street Community Garden website</a></p>  <p>You can also reach the Garden Coordinator, Barbara Evans, at 909-918-4769.</p> "
 	
 },
 
@@ -1325,7 +1325,7 @@ var locations = [
 	uri       : "/community-garden/pomona-south-hills-gardens/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -1364,7 +1364,7 @@ var locations = [
 	uri       : "/community-garden/rancho-san-pedro/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -1403,7 +1403,7 @@ var locations = [
 	uri       : "/community-garden/rosewood-gardens/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -1442,7 +1442,7 @@ var locations = [
 	uri       : "/community-garden/saint-paul-s-episcopal-church/"
 	
 
-	, content   : "<p><a href=\"http://seedsofhope.ladiocese.org/\">Seeds of Hope</a> is a ministry of the Episcopal Diocese of Los Angeles which works with congregations, communities, and schools, to turn unused land into productive and beautiful gardens and orchards that provide fresh and nutritious foods to areas of need across the county. Join us for our garden work days at St. Paul’s to help us grow this ministry of sustainable food justice! To catch an upcoming work day, stay tuned to our <a href=\"http://www.saintpaulspomona.org/events\">calendar of events</a></p> "
+	, content   : "  <p><a href=\"http://seedsofhope.ladiocese.org/\">Seeds of Hope</a> is a ministry of the Episcopal Diocese of Los Angeles which works with congregations, communities, and schools, to turn unused land into productive and beautiful gardens and orchards that provide fresh and nutritious foods to areas of need across the county. Join us for our garden work days at St. Paul’s to help us grow this ministry of sustainable food justice! To catch an upcoming work day, stay tuned to our <a href=\"http://www.saintpaulspomona.org/events\">calendar of events</a></p> "
 	
 },
 
@@ -1481,7 +1481,7 @@ var locations = [
 	uri       : "/community-garden/salesian-boys-girls-club/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -1520,7 +1520,7 @@ var locations = [
 	uri       : "/community-garden/san-pedro-gardens/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -1559,7 +1559,7 @@ var locations = [
 	uri       : "/community-garden/sarvodaya-farms/"
 	
 
-	, content   : "<p>Sarvodaya Farms is located in the backyard of a residence across from Washington Park.</p>  <h2 id=\"visiting-hours\">Visiting Hours</h2>  <dl>   <dt>Monday</dt>   <dd>9am – 12pm</dd>   <dt>Friday</dt>   <dd>9am – 12pm</dd> </dl>  <p><em>Farming is hard work and we occasionally take a day off. Call ahead if you want to make sure we are around! 909 660 3514</em></p> "
+	, content   : "  <p>Sarvodaya Farms is located in the backyard of a residence across from Washington Park.</p>  <h2 id=\"visiting-hours\">Visiting Hours</h2>  <dl>   <dt>Monday</dt>   <dd>9am – 12pm</dd>   <dt>Friday</dt>   <dd>9am – 12pm</dd> </dl>  <p><em>Farming is hard work and we occasionally take a day off. Call ahead if you want to make sure we are around! 909 660 3514</em></p> "
 	
 },
 
@@ -1598,7 +1598,7 @@ var locations = [
 	uri       : "/community-garden/sepulveda-garden-center/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -1637,7 +1637,7 @@ var locations = [
 	uri       : "/community-garden/solano-canyon/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -1676,7 +1676,7 @@ var locations = [
 	uri       : "/community-garden/spring-street/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -1715,7 +1715,7 @@ var locations = [
 	uri       : "/community-garden/stanford-avalon/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -1754,7 +1754,7 @@ var locations = [
 	uri       : "/community-garden/the-learning-garden/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -1793,7 +1793,7 @@ var locations = [
 	uri       : "/community-garden/urban-mission-garden/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -1832,7 +1832,7 @@ var locations = [
 	uri       : "/community-garden/vermont-square/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 },
 
@@ -1871,7 +1871,7 @@ var locations = [
 	uri       : "/community-garden/wattles-farm/"
 	
 
-	, content   : " "
+	, content   : "   "
 	
 }
 
