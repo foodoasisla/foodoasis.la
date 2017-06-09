@@ -9,6 +9,8 @@ var locations = [
 	name      : "All Peoples Christian Center",
 	address_1 : "822 E. 20th Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90011",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -48,6 +50,8 @@ var locations = [
 	name      : "All Saints Conference",
 	address_1 : "3431 Portola Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90032",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri2nd",
@@ -87,6 +91,8 @@ var locations = [
 	name      : "All Saints Episcopal Church Highland Park",
 	address_1 : "5619 Monte Vista Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90042",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat4th",
@@ -126,6 +132,8 @@ var locations = [
 	name      : "Altadena S.D.A. Church",
 	address_1 : "2609 N. Lincoln Avenue",
 	address_2 : "",
+	city      : "Altadena",
+	zip       : "91001",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue2nd",
@@ -165,6 +173,8 @@ var locations = [
 	name      : "Ananda Marga of L.A., Inc.",
 	address_1 : "1245 S. Norton Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90019",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu",
@@ -204,6 +214,8 @@ var locations = [
 	name      : "Ascension's Food Pantry",
 	address_1 : "517 W. 112th Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90044",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "SatLast",
@@ -243,6 +255,8 @@ var locations = [
 	name      : "Baldwin Park Bilingual S.D.A.",
 	address_1 : "13965 East Ramona Parkway",
 	address_2 : "",
+	city      : "Baldwin Park",
+	zip       : "91706",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -282,6 +296,8 @@ var locations = [
 	name      : "Belvue Presbyterian Church",
 	address_1 : "675 E. 118th Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90059",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu3rd",
@@ -321,6 +337,8 @@ var locations = [
 	name      : "Berean S.D.A. Church",
 	address_1 : "4211 W. Adams Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90018",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu3rd",
@@ -360,6 +378,8 @@ var locations = [
 	name      : "Bethel AME Church- Richard Allen Center",
 	address_1 : "7919 S.  Western Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90047",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -399,6 +419,8 @@ var locations = [
 	name      : "Bethel S.D.A. Church",
 	address_1 : "1921 N. Garey Avenue",
 	address_2 : "",
+	city      : "Pomona",
+	zip       : "91767",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun1st",
@@ -438,6 +460,8 @@ var locations = [
 	name      : "Bethel Unspeakable Joy Christian Church",
 	address_1 : "8724 S. Central Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90002",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat2nd",
@@ -477,6 +501,8 @@ var locations = [
 	name      : "Bethesda Temple Church",
 	address_1 : "4915 Crenshaw Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90043",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat4th",
@@ -516,6 +542,8 @@ var locations = [
 	name      : "Blessed Sacrament Food Pantry-Hope Net",
 	address_1 : "6657 Sunset Blvd.",
 	address_2 : "",
+	city      : "Hollywood",
+	zip       : "90028",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -555,6 +583,8 @@ var locations = [
 	name      : "Blood of Jesus Prayer and Deliverance Ministry",
 	address_1 : "11001 S. Broadway",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90061",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -594,6 +624,8 @@ var locations = [
 	name      : "Bread of Life Community Outreach",
 	address_1 : "628 South Street",
 	address_2 : "",
+	city      : "Long Beach",
+	zip       : "90805",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed2nd",
@@ -633,6 +665,8 @@ var locations = [
 	name      : "Breath of Life S.D.A. Church",
 	address_1 : "425 S. La Brea",
 	address_2 : "",
+	city      : "Inglewood",
+	zip       : "90301",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu1st",
@@ -672,6 +706,8 @@ var locations = [
 	name      : "Burbank Temporary Aid Center",
 	address_1 : "1304 W. Burbank Blvd.",
 	address_2 : "",
+	city      : "Burbank",
+	zip       : "91506",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -711,6 +747,8 @@ var locations = [
 	name      : "Calvary Presbyterian Church",
 	address_1 : "13560 Hawthorne Boulevard",
 	address_2 : "",
+	city      : "Hawthorne",
+	zip       : "90250",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat1st",
@@ -750,6 +788,8 @@ var locations = [
 	name      : "Cathloic Charities of Los Angeles, Inc.",
 	address_1 : "123 East 14th Street",
 	address_2 : "",
+	city      : "Long Beach",
+	zip       : "90813",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -789,6 +829,8 @@ var locations = [
 	name      : "Catholic Charities- Brownson House",
 	address_1 : "1307 Warren Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90033",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -828,6 +870,8 @@ var locations = [
 	name      : "Catholic Charities of L.A.",
 	address_1 : "4665 Willow Brook Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90029",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -867,6 +911,8 @@ var locations = [
 	name      : "Catholic Charities of Los Angeles, Inc.",
 	address_1 : "5014 Passons Blvd",
 	address_2 : "",
+	city      : "Pico Rivera",
+	zip       : "90660",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -906,6 +952,8 @@ var locations = [
 	name      : "Catholic Charities- Region 2",
 	address_1 : "4171 Tyler Avenue",
 	address_2 : "",
+	city      : "El Monte",
+	zip       : "91731",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -945,6 +993,8 @@ var locations = [
 	name      : "Catholic Rainbow Outreach",
 	address_1 : "11419 Carmenita Road",
 	address_2 : "",
+	city      : "Whittier",
+	zip       : "90605",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -984,6 +1034,8 @@ var locations = [
 	name      : "CCC Ebenezery Parish",
 	address_1 : "8803-8807 S. Broadway Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90003",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -1023,6 +1075,8 @@ var locations = [
 	name      : "Central Filipino S.D.A. Church",
 	address_1 : "777 Colorado Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90041",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue3rd",
@@ -1062,6 +1116,8 @@ var locations = [
 	name      : "Centro Cristiano Las Buenas Nuevas",
 	address_1 : "11910 Alondra Blvd.",
 	address_2 : "",
+	city      : "Norwalk",
+	zip       : "90650",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat3rd",
@@ -1101,6 +1157,8 @@ var locations = [
 	name      : "Centro Cristiano Manantial de vida",
 	address_1 : "10035 Washington Street",
 	address_2 : "",
+	city      : "Bellflower",
+	zip       : "90706",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -1140,6 +1198,8 @@ var locations = [
 	name      : "Centro de Vida International Church Movement",
 	address_1 : "9251 Burnet Avenue",
 	address_2 : "",
+	city      : "North Hills",
+	zip       : "91343",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -1179,6 +1239,8 @@ var locations = [
 	name      : "Centro Palabra de Fe",
 	address_1 : "107 W. Artesia Boulevard",
 	address_2 : "",
+	city      : "Compton",
+	zip       : "90220",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat2nd",
@@ -1218,6 +1280,8 @@ var locations = [
 	name      : "Chapel of Peace Lutheran Church",
 	address_1 : "1009 N. Market Street",
 	address_2 : "",
+	city      : "Inglewood",
+	zip       : "90302",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat3rd",
@@ -1257,6 +1321,8 @@ var locations = [
 	name      : "Charismatic Ecumencial Ministries International",
 	address_1 : "4357 West 3rd Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90020",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun1st",
@@ -1296,6 +1362,8 @@ var locations = [
 	name      : "Children of the Shepherd",
 	address_1 : "1076 N. El Centro Avenue",
 	address_2 : "",
+	city      : "Hollywood",
+	zip       : "90038",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat3rd",
@@ -1335,6 +1403,8 @@ var locations = [
 	name      : "Childrens Hospital Los Angeles",
 	address_1 : "5000 Sunset Blvd. 7th Floor",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90027",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -1374,6 +1444,8 @@ var locations = [
 	name      : "Chinese Community Service Center",
 	address_1 : "1725 Beverly Blvd",
 	address_2 : "Ste 1-B",
+	city      : "Los Angeles",
+	zip       : "90026",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun",
@@ -1413,6 +1485,8 @@ var locations = [
 	name      : "Christ Centered Ministries Church",
 	address_1 : "742 N. La Brea Avenue",
 	address_2 : "",
+	city      : "Inglewood",
+	zip       : "90302",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat3rd",
@@ -1452,6 +1526,8 @@ var locations = [
 	name      : "Christ Gospel Prayer Center",
 	address_1 : "4228 S. Vermont Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90037",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -1491,6 +1567,8 @@ var locations = [
 	name      : "Christ the Good Shepherd Episcopal",
 	address_1 : "3303 W. Vernon Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90008",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri4th",
@@ -1530,6 +1608,8 @@ var locations = [
 	name      : "Christian Association for Social Services",
 	address_1 : "5814 Venice Blvd.",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90019",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri1st",
@@ -1569,6 +1649,8 @@ var locations = [
 	name      : "Church of God",
 	address_1 : "4161 Baldwin Park Blvd",
 	address_2 : "",
+	city      : "Baldwin Park",
+	zip       : "91706",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun",
@@ -1608,6 +1690,8 @@ var locations = [
 	name      : "Church of the Epiphany",
 	address_1 : "2808 Altura Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90031",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri2nd",
@@ -1647,6 +1731,8 @@ var locations = [
 	name      : "Church of the Nazarene-Rosemead",
 	address_1 : "2703 Walnut Grove Avenue",
 	address_2 : "",
+	city      : "Rosemead",
+	zip       : "91770",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat3rd",
@@ -1686,6 +1772,8 @@ var locations = [
 	name      : "Church of the Redeemer",
 	address_1 : "3739 North Monterey Avenue",
 	address_2 : "",
+	city      : "Baldwin Park",
+	zip       : "91706",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -1725,6 +1813,8 @@ var locations = [
 	name      : "Church of the Valley",
 	address_1 : "6565 Vester blvd",
 	address_2 : "",
+	city      : "Van Nuys",
+	zip       : "91411",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -1764,6 +1854,8 @@ var locations = [
 	name      : "City of Commerce Community Center",
 	address_1 : "2555 Commerce Way",
 	address_2 : "",
+	city      : "Commerce",
+	zip       : "90040",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu3rd",
@@ -1803,6 +1895,8 @@ var locations = [
 	name      : "City of Maywood",
 	address_1 : "4319 E. Slauson Avenue",
 	address_2 : "",
+	city      : "Maywood",
+	zip       : "90270",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu4th",
@@ -1842,6 +1936,8 @@ var locations = [
 	name      : "City of Norwark/Department of Social Services",
 	address_1 : "11929 Alondra Boulevard",
 	address_2 : "",
+	city      : "Norwalk",
+	zip       : "90650",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -1881,6 +1977,8 @@ var locations = [
 	name      : "City of Truth Ministries",
 	address_1 : "1139 E. Dominguez Street, Suite D",
 	address_2 : "",
+	city      : "Carson",
+	zip       : "90746",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun2nd",
@@ -1920,6 +2018,8 @@ var locations = [
 	name      : "Coast Christian Fellowship",
 	address_1 : "4000 Pacific Coast Highway",
 	address_2 : "",
+	city      : "Torrance",
+	zip       : "90505",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -1959,6 +2059,8 @@ var locations = [
 	name      : "Congregational Church of Chatsworth",
 	address_1 : "20440 Lassen Street",
 	address_2 : "",
+	city      : "Chatsworth",
+	zip       : "91311",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -1998,6 +2100,8 @@ var locations = [
 	name      : "Cornerstone Christian Ministry",
 	address_1 : "11449 Sproule Avenue",
 	address_2 : "",
+	city      : "Pacoima",
+	zip       : "91331",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu",
@@ -2037,6 +2141,8 @@ var locations = [
 	name      : "Cory's Kitchen-Calvary Chapel Pico Rivera",
 	address_1 : "8110 Paramount Boulevard",
 	address_2 : "",
+	city      : "Pico Rivera",
+	zip       : "90660",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu2nd",
@@ -2076,6 +2182,8 @@ var locations = [
 	name      : "Cory's Kitchen-El Sereno",
 	address_1 : "4810 Huntington Drive South",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90032",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -2115,6 +2223,8 @@ var locations = [
 	name      : "Cory's Kitchen-Faith Center Ministries",
 	address_1 : "20470 # A Yellowbrick Road",
 	address_2 : "",
+	city      : "Walnut",
+	zip       : "91789",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -2154,6 +2264,8 @@ var locations = [
 	name      : "Corys Kitchen-Iglesia Torre De Alabanza",
 	address_1 : "822 Bradbourne Ave.",
 	address_2 : "",
+	city      : "Duarte",
+	zip       : "91010",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun1st",
@@ -2193,6 +2305,8 @@ var locations = [
 	name      : "Corys Kitchen-New Beginnings",
 	address_1 : "13020 Francisquito Avenue, Suite 10",
 	address_2 : "",
+	city      : "Baldwin Park",
+	zip       : "91706",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -2232,6 +2346,8 @@ var locations = [
 	name      : "Cory's Kitchen",
 	address_1 : "1418 Arrow Highway",
 	address_2 : "",
+	city      : "Irwindale",
+	zip       : "91706",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tues",
@@ -2271,6 +2387,8 @@ var locations = [
 	name      : "Cover the Homeless Ministry",
 	address_1 : "4425 S. Central Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90011",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu4th",
@@ -2310,6 +2428,8 @@ var locations = [
 	name      : "Crenshaw Baptist Church",
 	address_1 : "18749 Crenshaw Boulevard",
 	address_2 : "",
+	city      : "Torrance",
+	zip       : "90504",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed2nd",
@@ -2349,6 +2469,8 @@ var locations = [
 	name      : "Crenshaw United Methodist Church",
 	address_1 : "3740 Don Felipe Drive",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90008",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat3rd",
@@ -2388,6 +2510,8 @@ var locations = [
 	name      : "Crusaders for Christ Baptist Church",
 	address_1 : "3200 W. Temple Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90026",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -2427,6 +2551,8 @@ var locations = [
 	name      : "CUSH Foundation",
 	address_1 : "2343 N. San Antonio Avenue",
 	address_2 : "",
+	city      : "Pomona",
+	zip       : "91767",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu2nd",
@@ -2466,6 +2592,8 @@ var locations = [
 	name      : "Dae Hueng Presbyterian Church",
 	address_1 : "15411 S. Figueroa Street",
 	address_2 : "",
+	city      : "Gardena",
+	zip       : "90248",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat3rd",
@@ -2505,6 +2633,8 @@ var locations = [
 	name      : "Do Right Christian Church",
 	address_1 : "9815 S. Vermont Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90044",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat1st",
@@ -2544,6 +2674,8 @@ var locations = [
 	name      : "Door of Hope Community Center",
 	address_1 : "1414 South Atlantic Blvd.",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90022",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tues",
@@ -2583,6 +2715,8 @@ var locations = [
 	name      : "Dos Testamentos En El Desierto",
 	address_1 : "9845 E Palmdale Boulevard",
 	address_2 : "",
+	city      : "Palmdale",
+	zip       : "93591",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -2622,6 +2756,8 @@ var locations = [
 	name      : "East L.A. Bilingual S.D.A. Church",
 	address_1 : "700 Hoefner Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90022",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed1st",
@@ -2661,6 +2797,8 @@ var locations = [
 	name      : "East LA Community Corporation",
 	address_1 : "611 S. Lorena Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90033",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri3rd",
@@ -2700,6 +2838,8 @@ var locations = [
 	name      : "East Palmdale Foursquare",
 	address_1 : "1817 E. Avenue Q., A-6",
 	address_2 : "",
+	city      : "Palmdale",
+	zip       : "93550",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "SatLast",
@@ -2739,6 +2879,8 @@ var locations = [
 	name      : "East San Gabriel Valley Coalition For the Homeless",
 	address_1 : "1345 Turnbull Canyon Blvd.",
 	address_2 : "",
+	city      : "Hacienda Heights",
+	zip       : "91745",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -2778,6 +2920,8 @@ var locations = [
 	name      : "Eastmont Community Center",
 	address_1 : "701 Hoefner Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90022",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -2817,6 +2961,8 @@ var locations = [
 	name      : "Eastmont S.D.A. Spanish Church",
 	address_1 : "1021 Westside Drive",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90022",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -2856,6 +3002,8 @@ var locations = [
 	name      : "Echo Park United Methodist",
 	address_1 : "1226 N. Alvarado Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90026",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -2895,6 +3043,8 @@ var locations = [
 	name      : "Ecumenical Council of Pasadena Area Congregations",
 	address_1 : "444 East Washington Boulevard",
 	address_2 : "",
+	city      : "Pasadena",
+	zip       : "91104",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tues",
@@ -2934,6 +3084,8 @@ var locations = [
 	name      : "Ed & Frankie Benson Evangelistic Ministries",
 	address_1 : "4232 West Ave. L",
 	address_2 : "",
+	city      : "Quartz Hill",
+	zip       : "93536",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue3rd",
@@ -2973,6 +3125,8 @@ var locations = [
 	name      : "El Monte/South Emergency",
 	address_1 : "10900 Mulhall Street",
 	address_2 : "",
+	city      : "South El Monte",
+	zip       : "91731",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -3012,6 +3166,8 @@ var locations = [
 	name      : "Eliza Shanks Homes, Inc.",
 	address_1 : "13055 Weidner Street",
 	address_2 : "",
+	city      : "Pacoima",
+	zip       : "91331",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri4th",
@@ -3051,6 +3207,8 @@ var locations = [
 	name      : "Esmirna Pentecostal Church",
 	address_1 : "5414 N. Figueroa Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90042",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -3090,6 +3248,8 @@ var locations = [
 	name      : "Estelle Van Meter Multipurpose",
 	address_1 : "7600 S. Avalon Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90003",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed1st",
@@ -3129,6 +3289,8 @@ var locations = [
 	name      : "Estrada Courts Community Center",
 	address_1 : "3232 Hunter Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90023",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed2nd",
@@ -3168,6 +3330,8 @@ var locations = [
 	name      : "Evergreen Baptist Church of San Gabriel Valley",
 	address_1 : "323 Workman Mill Road",
 	address_2 : "",
+	city      : "La Puente",
+	zip       : "91746",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri1st",
@@ -3207,6 +3371,8 @@ var locations = [
 	name      : "Family Church Whittier",
 	address_1 : "8434 S. Greenleaf Avenue",
 	address_2 : "",
+	city      : "Whittier",
+	zip       : "90602",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun",
@@ -3246,6 +3412,8 @@ var locations = [
 	name      : "Family Mennonite Church",
 	address_1 : "6520 S. Normandie Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90044",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun2nd",
@@ -3285,6 +3453,8 @@ var locations = [
 	name      : "Fifty Fourth Street S.D.A. Church",
 	address_1 : "1973 West 54th Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90062",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue2nd",
@@ -3324,6 +3494,8 @@ var locations = [
 	name      : "Figueroa Church of Christ",
 	address_1 : "455 W. 57th Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90037",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -3363,6 +3535,8 @@ var locations = [
 	name      : "Filipino Baptist Fellowship of Long Beach",
 	address_1 : "2155 Atlantic Avenue",
 	address_2 : "",
+	city      : "Long Beach",
+	zip       : "90806",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat3rd",
@@ -3402,6 +3576,8 @@ var locations = [
 	name      : "Filipino Christian Church",
 	address_1 : "301 N. Union Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90026",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -3441,6 +3617,8 @@ var locations = [
 	name      : "First African Methodist Episcopal Church",
 	address_1 : "2270 S. Harvard Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90018",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat4th",
@@ -3480,6 +3658,8 @@ var locations = [
 	name      : "First Baptist Church-Hope Net",
 	address_1 : "760 S. Westmoreland Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90005",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -3519,6 +3699,8 @@ var locations = [
 	name      : "First Church of the Nazarene-Altadena",
 	address_1 : "9 W. Mendocino Street",
 	address_2 : "",
+	city      : "Altadena",
+	zip       : "91001",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu1st",
@@ -3558,6 +3740,8 @@ var locations = [
 	name      : "First Church of the Nazarene-Pasadena",
 	address_1 : "3700 E. Sierra Madre Boulevard",
 	address_2 : "",
+	city      : "Pasadena",
+	zip       : "91107",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -3597,6 +3781,8 @@ var locations = [
 	name      : "First Lutheran Church of Inglewood",
 	address_1 : "600 West Queen Street",
 	address_2 : "",
+	city      : "Inglewood",
+	zip       : "90301",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu2nd",
@@ -3636,6 +3822,8 @@ var locations = [
 	name      : "First Missionary Baptist Church",
 	address_1 : "37721 N. 100th Street East",
 	address_2 : "",
+	city      : "Sun Villiage",
+	zip       : "93543",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed2nd",
@@ -3675,6 +3863,8 @@ var locations = [
 	name      : "First New Christian Fellowship",
 	address_1 : "1555 W. 108th Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90047",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu",
@@ -3714,6 +3904,8 @@ var locations = [
 	name      : "First Presbyterian Church",
 	address_1 : "1809 West Boulevard.",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90019",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun3rd",
@@ -3753,6 +3945,8 @@ var locations = [
 	name      : "First Southern Baptist Church of Hollywood",
 	address_1 : "1528 N. Wilton Place",
 	address_2 : "",
+	city      : "Hollywood",
+	zip       : "90028",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat1st",
@@ -3792,6 +3986,8 @@ var locations = [
 	name      : "First Unitarian Church-Hope Net",
 	address_1 : "2936 W. 8th Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90005",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -3831,6 +4027,8 @@ var locations = [
 	name      : "First United Methodist Church of La Puente",
 	address_1 : "15701 E. Hill Street",
 	address_2 : "",
+	city      : "La Puente",
+	zip       : "91744",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "SunLast",
@@ -3870,6 +4068,8 @@ var locations = [
 	name      : "Food Net-Asian Service Center",
 	address_1 : "14112 S. Kingsley Drive",
 	address_2 : "",
+	city      : "Gardena",
+	zip       : "90249",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -3909,6 +4109,8 @@ var locations = [
 	name      : "Food Net-Centro Maravilla",
 	address_1 : "4716 E. Cesar Chavez Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90022",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -3948,6 +4150,8 @@ var locations = [
 	name      : "Food Net- East Los Angeles Center",
 	address_1 : "133 N. Sunol Drive",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90063",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -3987,6 +4191,8 @@ var locations = [
 	name      : "Food Net-East Rancho Dominguez",
 	address_1 : "4513 E. Compton Boulevard",
 	address_2 : "",
+	city      : "Compton",
+	zip       : "90221",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri2nd",
@@ -4026,6 +4232,8 @@ var locations = [
 	name      : "Food Net-Florence Firestone Center",
 	address_1 : "7807 S. Compton Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90001",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue2nd",
@@ -4065,6 +4273,8 @@ var locations = [
 	name      : "Food Net-Los Nietos Service Center",
 	address_1 : "11640 W. Slauson Avenue",
 	address_2 : "",
+	city      : "Whittier",
+	zip       : "90606",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu",
@@ -4104,6 +4314,8 @@ var locations = [
 	name      : "Food Net-San Gabriel Valley Center",
 	address_1 : "1441 Santa Anita Avenue",
 	address_2 : "",
+	city      : "South El Monte",
+	zip       : "91733",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -4143,6 +4355,8 @@ var locations = [
 	name      : "Food Net-San Pedro Service Center",
 	address_1 : "769 W. Third Street",
 	address_2 : "",
+	city      : "San Pedro",
+	zip       : "90731",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue2nd",
@@ -4182,6 +4396,8 @@ var locations = [
 	name      : "Food Net-Santa Clarita Service Center",
 	address_1 : "24271 Main Street",
 	address_2 : "",
+	city      : "Newhall",
+	zip       : "91321",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -4221,6 +4437,8 @@ var locations = [
 	name      : "Food Net-Willowbrook Senior Center",
 	address_1 : "12915 Jarvis Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90061",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed2nd",
@@ -4260,6 +4478,8 @@ var locations = [
 	name      : "Foothill Unity Center",
 	address_1 : "415 W. Chestnut Avenue",
 	address_2 : "",
+	city      : "Monrovia",
+	zip       : "91016",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -4299,6 +4519,8 @@ var locations = [
 	name      : "Fred Jordan Mission",
 	address_1 : "445  Towne Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90013",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -4338,6 +4560,8 @@ var locations = [
 	name      : "Fuller Theological Seminary",
 	address_1 : "135 North Oakland Avenue",
 	address_2 : "",
+	city      : "Pasadena",
+	zip       : "91101",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -4377,6 +4601,8 @@ var locations = [
 	name      : "Gardena S.D.A. Church",
 	address_1 : "16113 S. Denker Avenue",
 	address_2 : "",
+	city      : "Gardena",
+	zip       : "90247",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat1st",
@@ -4416,6 +4642,8 @@ var locations = [
 	name      : "Gardena Valley Assembly of God",
 	address_1 : "1473 W. 182nd Street",
 	address_2 : "",
+	city      : "Gardena",
+	zip       : "90248",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun",
@@ -4455,6 +4683,8 @@ var locations = [
 	name      : "Glendale Filipino S.D.A. Church",
 	address_1 : "310 E. Chestnut Street",
 	address_2 : "",
+	city      : "Glendale",
+	zip       : "91205",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed2nd",
@@ -4494,6 +4724,8 @@ var locations = [
 	name      : "Good News Central Church",
 	address_1 : "3500 West 1st Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90004",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -4533,6 +4765,8 @@ var locations = [
 	name      : "Good News Missionary Baptist Church",
 	address_1 : "2400 W. Vernon Ave",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90008",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu2nd",
@@ -4572,6 +4806,8 @@ var locations = [
 	name      : "Good News Prayer Center",
 	address_1 : "1722 East Firestone Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90001",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat3rd",
@@ -4611,6 +4847,8 @@ var locations = [
 	name      : "Gospel Mission Baptist Church",
 	address_1 : "7301 S. Avalon Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90003",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed4th",
@@ -4650,6 +4888,8 @@ var locations = [
 	name      : "Grace Evangelical Free Church of La Mirada",
 	address_1 : "12717 Santa Gertrudes Avenue",
 	address_2 : "",
+	city      : "La Mirada",
+	zip       : "90638",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -4689,6 +4929,8 @@ var locations = [
 	name      : "Grace Presbyterian Church",
 	address_1 : "1500 N. Ave 53",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90042",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri2nd",
@@ -4728,6 +4970,8 @@ var locations = [
 	name      : "Grace Resource Center, Inc.",
 	address_1 : "45134 N. Sierra Hwy.",
 	address_2 : "",
+	city      : "Lancaster",
+	zip       : "93534",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -4767,6 +5011,8 @@ var locations = [
 	name      : "Greater Emmanuel M.B.C.",
 	address_1 : "3727 West 111th Place",
 	address_2 : "",
+	city      : "Inglewood",
+	zip       : "90303",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat1st",
@@ -4806,6 +5052,8 @@ var locations = [
 	name      : "Greater New Morning Star Baptist Church",
 	address_1 : "210 W. Florence Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90003",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -4845,6 +5093,8 @@ var locations = [
 	name      : "Greater New Unity Baptist Church",
 	address_1 : "9719 S. Avalon Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90003",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat3rd",
@@ -4884,6 +5134,8 @@ var locations = [
 	name      : "Guadalupe Food Program",
 	address_1 : "4018 East Hammel Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90063",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed2nd",
@@ -4923,6 +5175,8 @@ var locations = [
 	name      : "H.O.P.E. Helping Other People Excel",
 	address_1 : "11163 S. Central Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90059",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -4962,6 +5216,8 @@ var locations = [
 	name      : "Hank Lacayo Youth & Family Center",
 	address_1 : "7915 Van Nuys Boulevard",
 	address_2 : "",
+	city      : "Panorama City",
+	zip       : "91402",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu",
@@ -5001,6 +5257,8 @@ var locations = [
 	name      : "Harbor Christian Center",
 	address_1 : "1602 N. Wilmington Blvd",
 	address_2 : "",
+	city      : "Wilmington",
+	zip       : "90744",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed1st",
@@ -5040,6 +5298,8 @@ var locations = [
 	name      : "Hawaiian Gardens Food Bank",
 	address_1 : "21411 Norwalk Blvd.",
 	address_2 : "",
+	city      : "Hawaiian Gardens",
+	zip       : "90716",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -5079,6 +5339,8 @@ var locations = [
 	name      : "Heavenly Vision Church of God in Christ",
 	address_1 : "841 W. 85th Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90044",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri4th",
@@ -5118,6 +5380,8 @@ var locations = [
 	name      : "Helping Hands, Caring Hearts Ministry",
 	address_1 : "1750 W. Holt Avenue",
 	address_2 : "",
+	city      : "Pomona",
+	zip       : "91768",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun",
@@ -5157,6 +5421,8 @@ var locations = [
 	name      : "Helping In Services, Inc.",
 	address_1 : "1535 Gundry Avenue",
 	address_2 : "",
+	city      : "Long Beach",
+	zip       : "90813",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -5196,6 +5462,8 @@ var locations = [
 	name      : "His Helping Hands",
 	address_1 : "25501 Oak Street",
 	address_2 : "",
+	city      : "Lomita",
+	zip       : "90717",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu2nd",
@@ -5235,6 +5503,8 @@ var locations = [
 	name      : "HOAP Inc.",
 	address_1 : "5014 S. Avalon Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90011",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu",
@@ -5274,6 +5544,8 @@ var locations = [
 	name      : "Hollywood Community Housing",
 	address_1 : "5020 W. Santa Monica Boulevard",
 	address_2 : "",
+	city      : "Hollywood",
+	zip       : "90029",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu",
@@ -5313,6 +5585,8 @@ var locations = [
 	name      : "Hollywood Lutheran Church",
 	address_1 : "1733 N. New Hampshire Ave.",
 	address_2 : "",
+	city      : "Hollywood",
+	zip       : "90027",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -5352,6 +5626,8 @@ var locations = [
 	name      : "Hollywood West Tenant Action Committee",
 	address_1 : "5823 Willoughby Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90038",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri3rd",
@@ -5391,6 +5667,8 @@ var locations = [
 	name      : "Holy Cross Center",
 	address_1 : "104 W. 47th Place",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90037",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -5430,6 +5708,8 @@ var locations = [
 	name      : "Holy Family Giving Bank",
 	address_1 : "1524 Fremont Avenue",
 	address_2 : "",
+	city      : "South Pasadena",
+	zip       : "91030",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -5469,6 +5749,8 @@ var locations = [
 	name      : "Holy Trinity Church of God in Christ",
 	address_1 : "9706 S. Broadway Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90003",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -5508,6 +5790,8 @@ var locations = [
 	name      : "Hope Chapel Foursquare Church",
 	address_1 : "2420 Pacific Coast Highway",
 	address_2 : "",
+	city      : "Hermosa Beach",
+	zip       : "90254",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -5547,6 +5831,8 @@ var locations = [
 	name      : "Hope Chapel Lancaster",
 	address_1 : "6015 W Avenue J8",
 	address_2 : "",
+	city      : "Quartz Hill",
+	zip       : "93536",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -5586,6 +5872,8 @@ var locations = [
 	name      : "Hope International Bible Fellowship",
 	address_1 : "4903 Fountain Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90029",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat2nd",
@@ -5625,6 +5913,8 @@ var locations = [
 	name      : "Houses of Light Church Corporation",
 	address_1 : "19359 Londelius Street",
 	address_2 : "",
+	city      : "Northridge",
+	zip       : "91324",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -5664,6 +5954,8 @@ var locations = [
 	name      : "Hurting & Hungry",
 	address_1 : "8107 Loyola Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90045",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -5703,6 +5995,8 @@ var locations = [
 	name      : "Iglesia Bautista Renacer",
 	address_1 : "15950 Chatsworth St.",
 	address_2 : "",
+	city      : "Granada Hills",
+	zip       : "91344",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -5742,6 +6036,8 @@ var locations = [
 	name      : "Iglesia Cristiana El Shaddai USA",
 	address_1 : "5518 S. Broadway",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90037",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -5781,6 +6077,8 @@ var locations = [
 	name      : "Iglesia de la Comunidad Presbyterian Church",
 	address_1 : "115 N. Ave 53",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90042",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu1st",
@@ -5820,6 +6118,8 @@ var locations = [
 	name      : "Iglesia Evangelica Camino de Santidad",
 	address_1 : "958 N. Maclay Ave",
 	address_2 : "",
+	city      : "San Fernando",
+	zip       : "91340",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -5859,6 +6159,8 @@ var locations = [
 	name      : "Iglesia Fuente de Vida Community Center",
 	address_1 : "11134 Saticoy Street",
 	address_2 : "",
+	city      : "Sun Valley",
+	zip       : "91352",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun",
@@ -5898,6 +6200,8 @@ var locations = [
 	name      : "Iglesia la Puerta Abierta",
 	address_1 : "5017 E. Olympic Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90022",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -5937,6 +6241,8 @@ var locations = [
 	name      : "Iglesia Macedonia Defenders of the Christian Faith",
 	address_1 : "9228 S. Central Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90002",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -5976,6 +6282,8 @@ var locations = [
 	name      : "Iglesia Pentecostes Roca de Salvacion",
 	address_1 : "122 South Evergreen Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90033",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun",
@@ -6015,6 +6323,8 @@ var locations = [
 	name      : "Iglesia Pentecostes Templo Calvario",
 	address_1 : "8824 Long Beach Boulevard",
 	address_2 : "",
+	city      : "South Gate",
+	zip       : "90280",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun",
@@ -6054,6 +6364,8 @@ var locations = [
 	name      : "Iglesia Piedra Angular",
 	address_1 : "2110 W. Francisquito Avenue",
 	address_2 : "",
+	city      : "West Covina",
+	zip       : "91790",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu2nd",
@@ -6093,6 +6405,8 @@ var locations = [
 	name      : "Iglesia Un Renuevo",
 	address_1 : "13216 Fairford Ave.",
 	address_2 : "",
+	city      : "Norwalk",
+	zip       : "90650",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri3rd",
@@ -6132,6 +6446,8 @@ var locations = [
 	name      : "Imani Economic & Community Development Corporation",
 	address_1 : "510 W. Monterey Avenue",
 	address_2 : "",
+	city      : "Pomona",
+	zip       : "91768",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat3rd",
@@ -6171,6 +6487,8 @@ var locations = [
 	name      : "Imani Unidos A.I.D.S. Project",
 	address_1 : "1713 W. 108th Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90047",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue2nd",
@@ -6210,6 +6528,8 @@ var locations = [
 	name      : "Immaculate Heart of Mary-Hope Net",
 	address_1 : "4954 Santa Monica Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90029",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -6249,6 +6569,8 @@ var locations = [
 	name      : "Immanuel Presbyterian Church-Hope Net",
 	address_1 : "3300 Wilshire Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90010",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -6288,6 +6610,8 @@ var locations = [
 	name      : "Imperial Church of Christ",
 	address_1 : "11316 S. San Pedro Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90061",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -6327,6 +6651,8 @@ var locations = [
 	name      : "Inglewood Church of Christ",
 	address_1 : "323 S. Eucalyptus Ave.",
 	address_2 : "",
+	city      : "Inglewood",
+	zip       : "90301",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri3rd",
@@ -6366,6 +6692,8 @@ var locations = [
 	name      : "Inglewood Southside Christian Church",
 	address_1 : "3947 W. 104th Street",
 	address_2 : "",
+	city      : "Inglewood",
+	zip       : "90303",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat2nd",
@@ -6405,6 +6733,8 @@ var locations = [
 	name      : "Inland Valley Hope Partners",
 	address_1 : "209 W. Pearl Street",
 	address_2 : "",
+	city      : "Pomona",
+	zip       : "91768",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -6444,6 +6774,8 @@ var locations = [
 	name      : "Interfaith Food Center",
 	address_1 : "11819 Burke Street",
 	address_2 : "",
+	city      : "Sante Fe Springs",
+	zip       : "90670",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -6483,6 +6815,8 @@ var locations = [
 	name      : "International Families Association",
 	address_1 : "1741 Gardena Avenue, Suite E",
 	address_2 : "",
+	city      : "Glendale",
+	zip       : "91204",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -6522,6 +6856,8 @@ var locations = [
 	name      : "Islamic Center of Southern CA-Hope Net",
 	address_1 : "434 S. Vermont Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90020",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -6561,6 +6897,8 @@ var locations = [
 	name      : "Jesus Christ the Reedemer Center",
 	address_1 : "755 E. 223rd Street",
 	address_2 : "",
+	city      : "Carson",
+	zip       : "90745",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -6600,6 +6938,8 @@ var locations = [
 	name      : "Jesus is the Answer Apostolic Church",
 	address_1 : "25100 S. Normandie Ave, Suite A",
 	address_2 : "",
+	city      : "Harbor City",
+	zip       : "90710",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed3rd",
@@ -6639,6 +6979,8 @@ var locations = [
 	name      : "JFS/SOVA Community Food & Resource Program Valley",
 	address_1 : "16439 Vanowen Street",
 	address_2 : "",
+	city      : "Van Nuys",
+	zip       : "91406",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun",
@@ -6678,6 +7020,8 @@ var locations = [
 	name      : "JFS/SOVA Community Food & Resource Program West",
 	address_1 : "8846 W Pico Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "91406",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun",
@@ -6717,6 +7061,8 @@ var locations = [
 	name      : "Khalsa Care Foundation",
 	address_1 : "9989 Laurel Canyon Blvd.",
 	address_2 : "",
+	city      : "Pacoima",
+	zip       : "91331",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -6756,6 +7102,8 @@ var locations = [
 	name      : "Koreatown Multipurpose Senior",
 	address_1 : "2147 W. Washington Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90018",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -6795,6 +7143,8 @@ var locations = [
 	name      : "La Puente Spanish S.D.A. Church",
 	address_1 : "18047 Valley Boulevard",
 	address_2 : "",
+	city      : "La Puente",
+	zip       : "91744",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -6834,6 +7184,8 @@ var locations = [
 	name      : "La Voz Sylmar S.D.A. Church",
 	address_1 : "13550 Herron Street",
 	address_2 : "",
+	city      : "Sylmar",
+	zip       : "91342",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu",
@@ -6873,6 +7225,8 @@ var locations = [
 	name      : "Lady Bug Ministry",
 	address_1 : "14725 Gramercy Place",
 	address_2 : "",
+	city      : "Gardena",
+	zip       : "90247",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "TueLast",
@@ -6912,6 +7266,8 @@ var locations = [
 	name      : "Lawrence Ministries",
 	address_1 : "12441 E. Farlow Street",
 	address_2 : "",
+	city      : "Hawaiian Gardens",
+	zip       : "90716",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat3rd",
@@ -6951,6 +7307,8 @@ var locations = [
 	name      : "Life Deliverance Ministries",
 	address_1 : "9120 S. Western Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90044",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -6990,6 +7348,8 @@ var locations = [
 	name      : "Lifeline Community Services & Economic Development",
 	address_1 : "2556 N. Lake Avenue",
 	address_2 : "",
+	city      : "Altadena",
+	zip       : "91001",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed2nd",
@@ -7029,6 +7389,8 @@ var locations = [
 	name      : "Lincoln Avenue Baptist Church",
 	address_1 : "1180 North Lincoln Avenue",
 	address_2 : "",
+	city      : "Pasadena",
+	zip       : "91103",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed3rd",
@@ -7068,6 +7430,8 @@ var locations = [
 	name      : "Living Hope Community Partnership",
 	address_1 : "18500 Farjardo Street",
 	address_2 : "",
+	city      : "Rowland Heights",
+	zip       : "91748",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat1st",
@@ -7107,6 +7471,8 @@ var locations = [
 	name      : "Living Springs Foursquare Church",
 	address_1 : "17134 E. Ave O",
 	address_2 : "",
+	city      : "Palmdale",
+	zip       : "93591",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed1st",
@@ -7146,6 +7512,8 @@ var locations = [
 	name      : "Living Truth Christian Fellowship",
 	address_1 : "5873 S. Normandie Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90044",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue3rd",
@@ -7185,6 +7553,8 @@ var locations = [
 	name      : "Loaves & Fishes-Canoga Park",
 	address_1 : "21600 Hart Street",
 	address_2 : "",
+	city      : "Canoga Park",
+	zip       : "91303",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -7224,6 +7594,8 @@ var locations = [
 	name      : "Loaves & Fishes-Glendale",
 	address_1 : "4322 San Fernando Road",
 	address_2 : "",
+	city      : "Glendale",
+	zip       : "91204",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -7263,6 +7635,8 @@ var locations = [
 	name      : "Loaves & Fishes-Van Nuys",
 	address_1 : "14640 Keswick",
 	address_2 : "",
+	city      : "Van Nuys",
+	zip       : "91405",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -7302,6 +7676,8 @@ var locations = [
 	name      : "Los Angeles Boys & Girls Club",
 	address_1 : "2635 Pasadena Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90031",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu",
@@ -7341,6 +7717,8 @@ var locations = [
 	name      : "Los Angeles Central City S.D.A. Church",
 	address_1 : "650 W. 21st Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90007",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue3rd",
@@ -7380,6 +7758,8 @@ var locations = [
 	name      : "Los Angeles First Church of the Nazarene-Hope Net",
 	address_1 : "3401 W. 3rd Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90020",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -7419,6 +7799,8 @@ var locations = [
 	name      : "Los Angeles Housing Partnership",
 	address_1 : "2614 W. 7th Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90057",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "FriLast",
@@ -7458,6 +7840,8 @@ var locations = [
 	name      : "Love & Faith Christian Center",
 	address_1 : "8505 S. Western Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90047",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -7497,6 +7881,8 @@ var locations = [
 	name      : "Loveship Community Outreach",
 	address_1 : "836 E. Avenue I",
 	address_2 : "",
+	city      : "Lancaster",
+	zip       : "93535",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat2nd",
@@ -7536,6 +7922,8 @@ var locations = [
 	name      : "Lutheran Social Services of Southern California",
 	address_1 : "21430 Strathern Street",
 	address_2 : "",
+	city      : "Canoga Park",
+	zip       : "91304",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -7575,6 +7963,8 @@ var locations = [
 	name      : "Lynwood All People's First Assembly",
 	address_1 : "4330 Martin Luther King Jr. Boulevard",
 	address_2 : "",
+	city      : "Lynwood",
+	zip       : "90262",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -7614,6 +8004,8 @@ var locations = [
 	name      : "Lynwood United Methodist Church",
 	address_1 : "4207 Carlin Avenue",
 	address_2 : "",
+	city      : "Lynwood",
+	zip       : "90262",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -7653,6 +8045,8 @@ var locations = [
 	name      : "Maranatha S.D.A. Community Center",
 	address_1 : "3569 W. Manchester Blvd.",
 	address_2 : "",
+	city      : "Inglewood",
+	zip       : "90305",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat2nd",
@@ -7692,6 +8086,8 @@ var locations = [
 	name      : "Meet Each Need with Dignity",
 	address_1 : "10641 San Fernando Road",
 	address_2 : "",
+	city      : "Pacoima",
+	zip       : "91331",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -7731,6 +8127,8 @@ var locations = [
 	name      : "Metropolitan Community Churchof L.A.-Hope Net",
 	address_1 : "4607 Prospect Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90027",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -7770,6 +8168,8 @@ var locations = [
 	name      : "Mexican-American Opportunity Foundation",
 	address_1 : "401 N. Garfield Ave",
 	address_2 : "",
+	city      : "Montebello",
+	zip       : "90640",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu",
@@ -7809,6 +8209,8 @@ var locations = [
 	name      : "Mision Cristana Monte de Sion",
 	address_1 : "6315 Eastern Avenue",
 	address_2 : "",
+	city      : "Bell Gardens",
+	zip       : "90201",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -7848,6 +8250,8 @@ var locations = [
 	name      : "Missionaries of Charity",
 	address_1 : "10950 California Avenue",
 	address_2 : "",
+	city      : "Lynwood",
+	zip       : "90262",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -7887,6 +8291,8 @@ var locations = [
 	name      : "Montebello Watch",
 	address_1 : "1033 South Maple Avenue",
 	address_2 : "",
+	city      : "Montebello",
+	zip       : "90640",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -7926,6 +8332,8 @@ var locations = [
 	name      : "Mt. Sinai C.O.G.I.C.",
 	address_1 : "936 W. Ninth Street",
 	address_2 : "",
+	city      : "Pomona",
+	zip       : "91766",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat3rd",
@@ -7965,6 +8373,8 @@ var locations = [
 	name      : "My Friends House",
 	address_1 : "3533 West 58th Place",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90043",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -8004,6 +8414,8 @@ var locations = [
 	name      : "New Covenant Tabernacle of Antelope Valley",
 	address_1 : "38626 9th Street East",
 	address_2 : "",
+	city      : "Palmdale",
+	zip       : "93550",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat2nd",
@@ -8043,6 +8455,8 @@ var locations = [
 	name      : "New Jerusalem C.O.G.I.C.",
 	address_1 : "420 S. Sante Fe Avenue",
 	address_2 : "",
+	city      : "Compton",
+	zip       : "90221",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri1st",
@@ -8082,6 +8496,8 @@ var locations = [
 	name      : "New Life Community Church",
 	address_1 : "5009 W. 119th Street",
 	address_2 : "",
+	city      : "Hawthorne",
+	zip       : "90250",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun",
@@ -8121,6 +8537,8 @@ var locations = [
 	name      : "New Life Pomona",
 	address_1 : "275 East Foothill Boulevard",
 	address_2 : "",
+	city      : "Pomona",
+	zip       : "91767",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "",
@@ -8160,6 +8578,8 @@ var locations = [
 	name      : "New Region For Christ",
 	address_1 : "520 S. La Brea Ave",
 	address_2 : "",
+	city      : "Inglewood",
+	zip       : "90301",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -8199,6 +8619,8 @@ var locations = [
 	name      : "Normandie Community Development Food Pantry",
 	address_1 : "3801 South Normandie Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90037",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat4th",
@@ -8238,6 +8660,8 @@ var locations = [
 	name      : "North Hollywood Interfaith Food Pantry",
 	address_1 : "4390 Colfax Avenue",
 	address_2 : "",
+	city      : "North Hollywood",
+	zip       : "91604",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -8277,6 +8701,8 @@ var locations = [
 	name      : "Norwalk Church of the Nazarene",
 	address_1 : "15000 Studebaker Road",
 	address_2 : "",
+	city      : "Norwalk",
+	zip       : "90650",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -8316,6 +8742,8 @@ var locations = [
 	name      : "Nuevo Amanecer",
 	address_1 : "1035 N. Avalon Boulevard",
 	address_2 : "",
+	city      : "Wilmington",
+	zip       : "90744",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed1st",
@@ -8355,6 +8783,8 @@ var locations = [
 	name      : "Our Lady of Guadalupe Church",
 	address_1 : "4509 Mercury Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90032",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu",
@@ -8394,6 +8824,8 @@ var locations = [
 	name      : "Our Lady of Talpa Church",
 	address_1 : "427 S. Evergreen Ave.",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90033",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue3rd",
@@ -8433,6 +8865,8 @@ var locations = [
 	name      : "Our Lady of Victory Conference",
 	address_1 : "410 E. Palmer Street",
 	address_2 : "",
+	city      : "Compton",
+	zip       : "90221",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri3rd",
@@ -8472,6 +8906,8 @@ var locations = [
 	name      : "Our Lady Queen of Angels Catholic Church",
 	address_1 : "535 N. Main Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90012",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -8511,6 +8947,8 @@ var locations = [
 	name      : "Our Saviour Center",
 	address_1 : "4368 Santa Anita Avenue",
 	address_2 : "",
+	city      : "EL Monte",
+	zip       : "91731",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -8550,6 +8988,8 @@ var locations = [
 	name      : "Palmdale Community Foundation-S.A.V.E.S.",
 	address_1 : "1002 East Avenue Q12",
 	address_2 : "",
+	city      : "Palmdale",
+	zip       : "93550",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -8589,6 +9029,8 @@ var locations = [
 	name      : "Palmdale Foursquare Church",
 	address_1 : "38325 10th Street East",
 	address_2 : "",
+	city      : "Palmdale",
+	zip       : "93550",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue4th",
@@ -8628,6 +9070,8 @@ var locations = [
 	name      : "Palmdale S.D.A. Church",
 	address_1 : "1758 East Avenue R",
 	address_2 : "",
+	city      : "Palmdale",
+	zip       : "93550",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed1st",
@@ -8667,6 +9111,8 @@ var locations = [
 	name      : "Paramount Care Foundation",
 	address_1 : "8303 Alondra Boulevard",
 	address_2 : "",
+	city      : "Paramount",
+	zip       : "90723",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri1st",
@@ -8706,6 +9152,8 @@ var locations = [
 	name      : "Peace Lutheran Church",
 	address_1 : "11690 Fenton Avenue",
 	address_2 : "",
+	city      : "Lake View Terrace",
+	zip       : "91342",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat2nd",
@@ -8745,6 +9193,8 @@ var locations = [
 	name      : "Pentecostal Church of God",
 	address_1 : "2829 1/4 Fletcher Drive",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90039",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -8784,6 +9234,8 @@ var locations = [
 	name      : "People for Community Improvement",
 	address_1 : "13008 South Figueroa",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90061",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri2nd",
@@ -8823,6 +9275,8 @@ var locations = [
 	name      : "Pico Rivera Iglesia Crece",
 	address_1 : "14832 Valley Blvd.",
 	address_2 : "",
+	city      : "La Puente",
+	zip       : "91744",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -8862,6 +9316,8 @@ var locations = [
 	name      : "Pilgrim's Hope Baptist Church",
 	address_1 : "7016 S. Compton Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90001",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed2nd",
@@ -8901,6 +9357,8 @@ var locations = [
 	name      : "Pilipino Worker Center of Southern California",
 	address_1 : "153 Glendale Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90026",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -8940,6 +9398,8 @@ var locations = [
 	name      : "Presentation of Mary Catholic",
 	address_1 : "6406 Parmelee Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90001",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat3rd",
@@ -8979,6 +9439,8 @@ var locations = [
 	name      : "Prince of Peace Coalition",
 	address_1 : "5700 Rudnick Avenue",
 	address_2 : "",
+	city      : "Woodland Hills",
+	zip       : "91367",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -9018,6 +9480,8 @@ var locations = [
 	name      : "Prince of Peace/Family Rescue",
 	address_1 : "22103 Van Owen Street",
 	address_2 : "",
+	city      : "Canoga Park",
+	zip       : "91303",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -9057,6 +9521,8 @@ var locations = [
 	name      : "Principe de Paz",
 	address_1 : "6706 Vinevale Avenue",
 	address_2 : "",
+	city      : "Bell",
+	zip       : "90201",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu2nd",
@@ -9096,6 +9562,8 @@ var locations = [
 	name      : "Project 2911, A Community Development Corporation",
 	address_1 : "418 N. Second Avenue",
 	address_2 : "",
+	city      : "Covina",
+	zip       : "91723",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -9135,6 +9603,8 @@ var locations = [
 	name      : "RCCG Victory House of California",
 	address_1 : "6640 Van Nuys Blvd.",
 	address_2 : "",
+	city      : "Van Nuys",
+	zip       : "91411",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun",
@@ -9174,6 +9644,8 @@ var locations = [
 	name      : "Redeemer Lutheran Outreach",
 	address_1 : "20025 Chase Street",
 	address_2 : "",
+	city      : "Winnetka",
+	zip       : "91306",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -9213,6 +9685,8 @@ var locations = [
 	name      : "Redeemer Missionary Baptist Church",
 	address_1 : "1631 W. Adams Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90007",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -9252,6 +9726,8 @@ var locations = [
 	name      : "Rehoboth Courage Church",
 	address_1 : "425 E. Compton Boulevard",
 	address_2 : "",
+	city      : "Compton",
+	zip       : "90220",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -9291,6 +9767,8 @@ var locations = [
 	name      : "Resting Place Church",
 	address_1 : "10803 Cantara St.",
 	address_2 : "",
+	city      : "Sun Valley",
+	zip       : "91352",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -9330,6 +9808,8 @@ var locations = [
 	name      : "Rock Solid Christian Assembly",
 	address_1 : "867 W. 10th Street",
 	address_2 : "",
+	city      : "San Pedro",
+	zip       : "90731",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat2nd",
@@ -9369,6 +9849,8 @@ var locations = [
 	name      : "Rosewood Church",
 	address_1 : "10115 E. Rose Street",
 	address_2 : "",
+	city      : "Bellflower",
+	zip       : "90706",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri3rd",
@@ -9408,6 +9890,8 @@ var locations = [
 	name      : "Rosewood Revitalization Group",
 	address_1 : "4101 Rosewood Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90004",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri3rd",
@@ -9447,6 +9931,8 @@ var locations = [
 	name      : "S.A. Friendly Village Mobile Park",
 	address_1 : "1301 east Ave. I",
 	address_2 : "",
+	city      : "Lancaster",
+	zip       : "93535",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon4th",
@@ -9486,6 +9972,8 @@ var locations = [
 	name      : "S.A. Mayflower Gardens",
 	address_1 : "6570 West Avenue L-12",
 	address_2 : "",
+	city      : "Quartz Hill",
+	zip       : "93536",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue2nd",
@@ -9525,6 +10013,8 @@ var locations = [
 	name      : "S.A. Mountain View Mobile",
 	address_1 : "3255 E. Ave R",
 	address_2 : "",
+	city      : "Palmdale",
+	zip       : "93550",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue2nd",
@@ -9564,6 +10054,8 @@ var locations = [
 	name      : "S.A. Pearblossom United Methodist",
 	address_1 : "34143 126th Street East",
 	address_2 : "",
+	city      : "Pearblossom",
+	zip       : "93553",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon3rd",
@@ -9603,6 +10095,8 @@ var locations = [
 	name      : "S.A. Penney Lynn Wind",
 	address_1 : "8300 Pearblossom Hwy",
 	address_2 : "",
+	city      : "Littlerock",
+	zip       : "93543",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon3rd",
@@ -9642,6 +10136,8 @@ var locations = [
 	name      : "S.V.P. All Souls Conference",
 	address_1 : "1500 W. Main Street",
 	address_2 : "",
+	city      : "Alhambra",
+	zip       : "91803",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu3rd",
@@ -9681,6 +10177,8 @@ var locations = [
 	name      : "Sacred Heart Church",
 	address_1 : "2210 Sichel Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90031",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu1st",
@@ -9720,6 +10218,8 @@ var locations = [
 	name      : "Saint Mark Food Pantry",
 	address_1 : "8305 S. Gramercy Place",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90047",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -9759,6 +10259,8 @@ var locations = [
 	name      : "Salvation Army- East L.A.",
 	address_1 : "140 N. Eastman Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90063",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -9798,6 +10300,8 @@ var locations = [
 	name      : "Salvation Army- L.A. Central Corp",
 	address_1 : "906 S. Francisco Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90015",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -9837,6 +10341,8 @@ var locations = [
 	name      : "Salvation Army- Lancaster Corp",
 	address_1 : "44517 Sierra Highway",
 	address_2 : "",
+	city      : "Lancaster",
+	zip       : "93534",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon4th",
@@ -9876,6 +10382,8 @@ var locations = [
 	name      : "Salvation Army-Pasadena Tabernacle",
 	address_1 : "1000 E.Walnut Street",
 	address_2 : "",
+	city      : "Pasadena",
+	zip       : "91106",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -9915,6 +10423,8 @@ var locations = [
 	name      : "Salvation Army-Pomona",
 	address_1 : "490 E. La Verne Anenue",
 	address_2 : "",
+	city      : "Pomona",
+	zip       : "91767-2800",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -9954,6 +10464,8 @@ var locations = [
 	name      : "Salvation Army Redondo Beach",
 	address_1 : "125 W. Beryl Street",
 	address_2 : "",
+	city      : "Redondo Beach",
+	zip       : "90277",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -9993,6 +10505,8 @@ var locations = [
 	name      : "Salvation Army Santa Clarita Valley Corps",
 	address_1 : "22935 Lyons Avenue",
 	address_2 : "",
+	city      : "Newhall",
+	zip       : "91321",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -10032,6 +10546,8 @@ var locations = [
 	name      : "Salvation Army- Santa Fe Springs",
 	address_1 : "12000 E. Washington Boulevard",
 	address_2 : "",
+	city      : "Whittier",
+	zip       : "90606",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -10071,6 +10587,8 @@ var locations = [
 	name      : "Salvation Army- South L.A.",
 	address_1 : "7651 South Central Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90001",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -10110,6 +10628,8 @@ var locations = [
 	name      : "Salvation Army Southeast Comm. Corp",
 	address_1 : "2965 E. Gage Avenue",
 	address_2 : "",
+	city      : "Huntington Park",
+	zip       : "90255",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu",
@@ -10149,6 +10669,8 @@ var locations = [
 	name      : "Salvation Army- Whittier Corp.",
 	address_1 : "7926 Pickering Avenue",
 	address_2 : "",
+	city      : "Whittier",
+	zip       : "90602",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -10188,6 +10710,8 @@ var locations = [
 	name      : "San Gabriel Mission",
 	address_1 : "428 South Mission Drive",
 	address_2 : "",
+	city      : "San Gabriel",
+	zip       : "91776",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun",
@@ -10227,6 +10751,8 @@ var locations = [
 	name      : "San Gabriel Valley Y.W.C.A.",
 	address_1 : "510 N. Vineland Avenue",
 	address_2 : "",
+	city      : "La Puente",
+	zip       : "91746",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -10266,6 +10792,8 @@ var locations = [
 	name      : "San Miguel Church",
 	address_1 : "2214 E. 108th Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90059",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat3rd",
@@ -10305,6 +10833,8 @@ var locations = [
 	name      : "San Pedro Temple Corps",
 	address_1 : "138 S. Bandini Street",
 	address_2 : "",
+	city      : "San Pedro",
+	zip       : "90731",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -10344,6 +10874,8 @@ var locations = [
 	name      : "Santa Clarita Valley Food Pantry",
 	address_1 : "24133 Railroad Avenue",
 	address_2 : "",
+	city      : "Newhall",
+	zip       : "91321",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri3rd",
@@ -10383,6 +10915,8 @@ var locations = [
 	name      : "Servants Arms Community Based Organization",
 	address_1 : "1720 N. Walnut Avenue",
 	address_2 : "",
+	city      : "La Puente",
+	zip       : "91744",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -10422,6 +10956,8 @@ var locations = [
 	name      : "Shekinah Worship Center",
 	address_1 : "42640 10th Street West",
 	address_2 : "",
+	city      : "Lancaster",
+	zip       : "93534",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "SatLast",
@@ -10461,6 +10997,8 @@ var locations = [
 	name      : "Shepherd's Pantry",
 	address_1 : "657 E. Arrow Highway",
 	address_2 : "",
+	city      : "Glendora",
+	zip       : "91740",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -10500,6 +11038,8 @@ var locations = [
 	name      : "Shield of Faith Christian Center of Pasadena",
 	address_1 : "1127 N. Lake Avenue",
 	address_2 : "",
+	city      : "Pasadena",
+	zip       : "91104",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu1st",
@@ -10539,6 +11079,8 @@ var locations = [
 	name      : "Shields for Families",
 	address_1 : "11705 Deputy Yamamoto Place",
 	address_2 : "",
+	city      : "Lynwood",
+	zip       : "90262",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu",
@@ -10578,6 +11120,8 @@ var locations = [
 	name      : "Silverlake Community Church-Hope Net",
 	address_1 : "2930 Hyperion Ave",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90027",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -10617,6 +11161,8 @@ var locations = [
 	name      : "Southeast Churches Service Center",
 	address_1 : "2780 E. Gage Avenue",
 	address_2 : "",
+	city      : "Huntington Park",
+	zip       : "90255",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -10656,6 +11202,8 @@ var locations = [
 	name      : "Sowing Seeds for Life",
 	address_1 : "1350 Arrow Hwy",
 	address_2 : "",
+	city      : "La Verne",
+	zip       : "91750",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed1st",
@@ -10695,6 +11243,8 @@ var locations = [
 	name      : "Spanish American S.D.A. Church",
 	address_1 : "1815 E. Bridge Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90033",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -10734,6 +11284,8 @@ var locations = [
 	name      : "St. Agnes Parish",
 	address_1 : "2625 S. Vermont Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90007",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -10773,6 +11325,8 @@ var locations = [
 	name      : "St. Andrew Catholic Church",
 	address_1 : "140 Chestnut Street",
 	address_2 : "",
+	city      : "Pasadena",
+	zip       : "91103",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -10812,6 +11366,8 @@ var locations = [
 	name      : "St. Athanasius & St. Paul Church",
 	address_1 : "840 Echo Park Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90026",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -10851,6 +11407,8 @@ var locations = [
 	name      : "St. Brigid Catholic Church",
 	address_1 : "5214 S. Western Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90062",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri3rd",
@@ -10890,6 +11448,8 @@ var locations = [
 	name      : "St. Catherine Laboure Catholic",
 	address_1 : "3846 Redondo Beach Boulevard",
 	address_2 : "",
+	city      : "Torrance",
+	zip       : "90504",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "SatLast",
@@ -10929,6 +11489,8 @@ var locations = [
 	name      : "St. Cecilia Catholic Church",
 	address_1 : "4230 S. Normandie Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90037",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat3rd",
@@ -10968,6 +11530,8 @@ var locations = [
 	name      : "St. Charles Service Center",
 	address_1 : "10825 Moorpark Street",
 	address_2 : "",
+	city      : "North Hollywood",
+	zip       : "91602",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -11007,6 +11571,8 @@ var locations = [
 	name      : "St. Ferdinand Church",
 	address_1 : "1109 Coronel Street",
 	address_2 : "",
+	city      : "San Fernando",
+	zip       : "91340",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri2nd",
@@ -11046,6 +11612,8 @@ var locations = [
 	name      : "St. Francis Center",
 	address_1 : "1835 S. Hope Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90015",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "",
@@ -11085,6 +11653,8 @@ var locations = [
 	name      : "St. George Church",
 	address_1 : "15721 Cornuta Avenue",
 	address_2 : "",
+	city      : "Bellflower",
+	zip       : "90706",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu2nd",
@@ -11124,6 +11694,8 @@ var locations = [
 	name      : "St. Gertrudes Conference",
 	address_1 : "7025 Garfield Avenue",
 	address_2 : "",
+	city      : "Bell Gardens",
+	zip       : "90201",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri2nd",
@@ -11163,6 +11735,8 @@ var locations = [
 	name      : "St. Helen Church",
 	address_1 : "9314 Madison Avenue",
 	address_2 : "",
+	city      : "South Gate",
+	zip       : "90280",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat4th",
@@ -11202,6 +11776,8 @@ var locations = [
 	name      : "St. James Episcopal Church-Hope Net",
 	address_1 : "3903 Wilshire Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90010",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu",
@@ -11241,6 +11817,8 @@ var locations = [
 	name      : "St. John Coptic Orthodox",
 	address_1 : "21329 E. Cienega Avenue",
 	address_2 : "",
+	city      : "Covina",
+	zip       : "91724",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu2nd",
@@ -11280,6 +11858,8 @@ var locations = [
 	name      : "St. John Vianney Church",
 	address_1 : "1345 Turnbull Canyon Road",
 	address_2 : "",
+	city      : "Hacienda Heights",
+	zip       : "91745",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -11319,6 +11899,8 @@ var locations = [
 	name      : "St. John's Cathedral-Hope Net",
 	address_1 : "514 W. Adams Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90007",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -11358,6 +11940,8 @@ var locations = [
 	name      : "St. Joseph Conference",
 	address_1 : "1150 W. Holt Avenue",
 	address_2 : "",
+	city      : "Pomona",
+	zip       : "91768",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -11397,6 +11981,8 @@ var locations = [
 	name      : "St. Lawrence of Brindisi",
 	address_1 : "10122 Compton Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90002",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -11436,6 +12022,8 @@ var locations = [
 	name      : "St. Luke Catholic Community",
 	address_1 : "9451 Broadway",
 	address_2 : "",
+	city      : "Temple City",
+	zip       : "91780",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -11475,6 +12063,8 @@ var locations = [
 	name      : "St. Margaret's Center",
 	address_1 : "10217 Inglewood Avenue",
 	address_2 : "",
+	city      : "Lennox",
+	zip       : "90304",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -11514,6 +12104,8 @@ var locations = [
 	name      : "St. Mark Missionary Baptist",
 	address_1 : "5017 Compton Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90011",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -11553,6 +12145,8 @@ var locations = [
 	name      : "St. Mary & St. Athanasius Coptic Church",
 	address_1 : "17431 Roscoe Blvd.",
 	address_2 : "",
+	city      : "Northridge",
+	zip       : "91325",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun3rd",
@@ -11592,6 +12186,8 @@ var locations = [
 	name      : "St. Mary's Place",
 	address_1 : "7215 Newlin Avenue",
 	address_2 : "",
+	city      : "Whittier",
+	zip       : "90602",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -11631,6 +12227,8 @@ var locations = [
 	name      : "St. Paul's Methodist Church",
 	address_1 : "2600 Nelson Avenue",
 	address_2 : "",
+	city      : "Redondo Beach",
+	zip       : "90278",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu1st",
@@ -11670,6 +12268,8 @@ var locations = [
 	name      : "St. Peter and Paul Poverty Program",
 	address_1 : "943 Lagoon Avenue",
 	address_2 : "",
+	city      : "Wilmington",
+	zip       : "90744",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -11709,6 +12309,8 @@ var locations = [
 	name      : "St. Philip's Episcopal Church",
 	address_1 : "2800 Stanford Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90011",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue2nd",
@@ -11748,6 +12350,8 @@ var locations = [
 	name      : "St. Stephen's Community Outreach Program",
 	address_1 : "122 Ramona Avenue",
 	address_2 : "",
+	city      : "Monterey Park",
+	zip       : "91754",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -11787,6 +12391,8 @@ var locations = [
 	name      : "St. Thomas Center",
 	address_1 : "2727 W.  Pico Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90006",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat1st",
@@ -11826,6 +12432,8 @@ var locations = [
 	name      : "St. Vincent de Paul Church",
 	address_1 : "621 W. Adams Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90007",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu",
@@ -11865,6 +12473,8 @@ var locations = [
 	name      : "Star Christian School",
 	address_1 : "2120 Estrella Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90007",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat2nd",
@@ -11904,6 +12514,8 @@ var locations = [
 	name      : "Sunland Tujunga T.A.C.",
 	address_1 : "7747 Foothill Boulevard",
 	address_2 : "",
+	city      : "Tujunga",
+	zip       : "91042",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -11943,6 +12555,8 @@ var locations = [
 	name      : "Tamarind Avenue S.D.A. Church",
 	address_1 : "417 S. Tamarind Avenue",
 	address_2 : "",
+	city      : "Compton",
+	zip       : "90220",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue4th",
@@ -11982,6 +12596,8 @@ var locations = [
 	name      : "Testimonial Community Love Ctr",
 	address_1 : "5721 S. Western Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90062",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu",
@@ -12021,6 +12637,8 @@ var locations = [
 	name      : "The Bible Tabernacle (Venice)",
 	address_1 : "1761 Washington Way",
 	address_2 : "",
+	city      : "Venice",
+	zip       : "90291",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -12060,6 +12678,8 @@ var locations = [
 	name      : "The Bible Tabernacle",
 	address_1 : "16301 Sierra Highway",
 	address_2 : "",
+	city      : "Santa Clarita",
+	zip       : "91351",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun",
@@ -12099,6 +12719,8 @@ var locations = [
 	name      : "The Great Vision Church",
 	address_1 : "4465 W. Melrose Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90029",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat1st",
@@ -12138,6 +12760,8 @@ var locations = [
 	name      : "The Lord's Church",
 	address_1 : "9701 Flower Street",
 	address_2 : "",
+	city      : "Bellflower",
+	zip       : "90706",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed2nd",
@@ -12177,6 +12801,8 @@ var locations = [
 	name      : "Tongan Community Service Center",
 	address_1 : "13030 Inglewood Avenue, Suite.104",
 	address_2 : "",
+	city      : "Hawthorne",
+	zip       : "90249",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue1st",
@@ -12216,6 +12842,8 @@ var locations = [
 	name      : "Total Deliverance Church",
 	address_1 : "45124 10th Street West",
 	address_2 : "",
+	city      : "Lancaster",
+	zip       : "93535",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri2nd",
@@ -12255,6 +12883,8 @@ var locations = [
 	name      : "Travelers Rest Missionary B.C.",
 	address_1 : "1417 E. Florence Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90001",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -12294,6 +12924,8 @@ var locations = [
 	name      : "Trinity Baptist Church L.A.",
 	address_1 : "2040 W. Jefferson Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90018",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -12333,6 +12965,8 @@ var locations = [
 	name      : "Trinity Evangelical Lutheran Church",
 	address_1 : "997 E. Walnut",
 	address_2 : "",
+	city      : "Pasadena",
+	zip       : "91106",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -12372,6 +13006,8 @@ var locations = [
 	name      : "Trinity Pantry Ministry",
 	address_1 : "1450 West 7th Street",
 	address_2 : "",
+	city      : "San Pedro",
+	zip       : "90732",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun",
@@ -12411,6 +13047,8 @@ var locations = [
 	name      : "Trinity United Methodist Church",
 	address_1 : "676 North Gibbs Street",
 	address_2 : "",
+	city      : "Pomona",
+	zip       : "91767",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "",
@@ -12450,6 +13088,8 @@ var locations = [
 	name      : "Tujunga United Methodist Church",
 	address_1 : "9901 Tujunga Canyon Boulevard",
 	address_2 : "",
+	city      : "Tujunga",
+	zip       : "91042",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -12489,6 +13129,8 @@ var locations = [
 	name      : "Twin Lakes Community Church",
 	address_1 : "17213 Lake Los Angeles Avenue",
 	address_2 : "",
+	city      : "Lake Los Angeles",
+	zip       : "93591",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat2nd",
@@ -12528,6 +13170,8 @@ var locations = [
 	name      : "United African Church",
 	address_1 : "1745 W. 55th Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90062",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun1st",
@@ -12567,6 +13211,8 @@ var locations = [
 	name      : "United Gospel Outreach",
 	address_1 : "7223 S. Main Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90003",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -12606,6 +13252,8 @@ var locations = [
 	name      : "University S.D.A. Church",
 	address_1 : "1135 Martin Luther Kin Jr. Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90037",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -12645,6 +13293,8 @@ var locations = [
 	name      : "Vallejo Drive S.D.A. Church",
 	address_1 : "311-B Vallejo Drive",
 	address_2 : "",
+	city      : "Glendale",
+	zip       : "91206",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu3rd",
@@ -12684,6 +13334,8 @@ var locations = [
 	name      : "Valley Crossroads S.D.A. Church",
 	address_1 : "11350 Glenoaks Blvd.",
 	address_2 : "",
+	city      : "Pacoima",
+	zip       : "91331",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat2nd",
@@ -12723,6 +13375,8 @@ var locations = [
 	name      : "Vermont Avenue Baptist Church",
 	address_1 : "23325 S. Vermont Ave.",
 	address_2 : "",
+	city      : "Torrance",
+	zip       : "90502",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat3rd",
@@ -12762,6 +13416,8 @@ var locations = [
 	name      : "Victory Baptist Church",
 	address_1 : "4802 South McKinley Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90011",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -12801,6 +13457,8 @@ var locations = [
 	name      : "Village Covenant",
 	address_1 : "5607 N. Barranca Avenue",
 	address_2 : "",
+	city      : "Azusa",
+	zip       : "91702",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -12840,6 +13498,8 @@ var locations = [
 	name      : "Vision of Hope Outreach Ministry",
 	address_1 : "5951 S. San Pedro",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90003",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat2nd",
@@ -12879,6 +13539,8 @@ var locations = [
 	name      : "Visions Community Outreach",
 	address_1 : "2300 S. Griffith Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90011",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat2nd",
@@ -12918,6 +13580,8 @@ var locations = [
 	name      : "Wesley United Methodist Church",
 	address_1 : "112 West 52nd Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90037",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu",
@@ -12957,6 +13621,8 @@ var locations = [
 	name      : "West Adams Church of Christ",
 	address_1 : "4959 W. Adams Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90016",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri3rd",
@@ -12996,6 +13662,8 @@ var locations = [
 	name      : "West Angeles Community Corporation",
 	address_1 : "3045 South Crenshaw Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90016",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -13035,6 +13703,8 @@ var locations = [
 	name      : "White Memorial S.D.A. Church",
 	address_1 : "401 N. State Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90033",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue1st",
@@ -13074,6 +13744,8 @@ var locations = [
 	name      : "Willowbrook Project Area Commission",
 	address_1 : "11901 S. Willowbrook Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90059",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed3rd",
@@ -13113,6 +13785,8 @@ var locations = [
 	name      : "Wilshire Boulevard Temple Hope-Net",
 	address_1 : "3663 Wilshire Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90010",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun",
@@ -13152,6 +13826,8 @@ var locations = [
 	name      : "Wilshire Presbyterian Church-Hope Net",
 	address_1 : "309 S. Oxford Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90020",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -13191,6 +13867,8 @@ var locations = [
 	name      : "WSFB- Ocean Park Community Ctr",
 	address_1 : "503 Olympic Boulevard",
 	address_2 : "",
+	city      : "Santa Monica",
+	zip       : "90401",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -13230,6 +13908,8 @@ var locations = [
 	name      : "WSFB-St. Anne's Social Service",
 	address_1 : "2013 Colorado Avenue",
 	address_2 : "",
+	city      : "Santa Monica",
+	zip       : "90404",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -13269,6 +13949,8 @@ var locations = [
 	name      : "WSFB- St. Augustine SAVES",
 	address_1 : "3820 Jasmine Avenue",
 	address_2 : "",
+	city      : "Culver City",
+	zip       : "90232",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -13308,6 +13990,8 @@ var locations = [
 	name      : "WSFB- St. Gerard's Social Services",
 	address_1 : "4439 Inglewood Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90066",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -13347,6 +14031,8 @@ var locations = [
 	name      : "WSFB- St. Joseph's Center",
 	address_1 : "204 Hampton Drive",
 	address_2 : "",
+	city      : "Venice",
+	zip       : "90291",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -13386,6 +14072,8 @@ var locations = [
 	name      : "Young Hwa United Methodist Church",
 	address_1 : "214 S. Loma Drive",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90026",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat2nd",
@@ -13425,6 +14113,8 @@ var locations = [
 	name      : "Zion Hill Baptist Church",
 	address_1 : "7860 10th Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90043",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue1st",

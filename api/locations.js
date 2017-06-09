@@ -9,6 +9,8 @@ var locations = [
 	name      : "All Peoples Christian Center",
 	address_1 : "822 E. 20th Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90011",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -48,6 +50,8 @@ var locations = [
 	name      : "All Saints Conference",
 	address_1 : "3431 Portola Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90032",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri2nd",
@@ -87,6 +91,8 @@ var locations = [
 	name      : "All Saints Episcopal Church Highland Park",
 	address_1 : "5619 Monte Vista Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90042",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat4th",
@@ -126,6 +132,8 @@ var locations = [
 	name      : "Altadena S.D.A. Church",
 	address_1 : "2609 N. Lincoln Avenue",
 	address_2 : "",
+	city      : "Altadena",
+	zip       : "91001",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue2nd",
@@ -165,6 +173,8 @@ var locations = [
 	name      : "Ananda Marga of L.A., Inc.",
 	address_1 : "1245 S. Norton Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90019",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu",
@@ -204,6 +214,8 @@ var locations = [
 	name      : "Ascension's Food Pantry",
 	address_1 : "517 W. 112th Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90044",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "SatLast",
@@ -243,6 +255,8 @@ var locations = [
 	name      : "Baldwin Park Bilingual S.D.A.",
 	address_1 : "13965 East Ramona Parkway",
 	address_2 : "",
+	city      : "Baldwin Park",
+	zip       : "91706",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -282,6 +296,8 @@ var locations = [
 	name      : "Belvue Presbyterian Church",
 	address_1 : "675 E. 118th Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90059",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu3rd",
@@ -321,6 +337,8 @@ var locations = [
 	name      : "Berean S.D.A. Church",
 	address_1 : "4211 W. Adams Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90018",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu3rd",
@@ -360,6 +378,8 @@ var locations = [
 	name      : "Bethel AME Church- Richard Allen Center",
 	address_1 : "7919 S.  Western Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90047",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -399,6 +419,8 @@ var locations = [
 	name      : "Bethel S.D.A. Church",
 	address_1 : "1921 N. Garey Avenue",
 	address_2 : "",
+	city      : "Pomona",
+	zip       : "91767",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun1st",
@@ -438,6 +460,8 @@ var locations = [
 	name      : "Bethel Unspeakable Joy Christian Church",
 	address_1 : "8724 S. Central Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90002",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat2nd",
@@ -477,6 +501,8 @@ var locations = [
 	name      : "Bethesda Temple Church",
 	address_1 : "4915 Crenshaw Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90043",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat4th",
@@ -516,6 +542,8 @@ var locations = [
 	name      : "Blessed Sacrament Food Pantry-Hope Net",
 	address_1 : "6657 Sunset Blvd.",
 	address_2 : "",
+	city      : "Hollywood",
+	zip       : "90028",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -555,6 +583,8 @@ var locations = [
 	name      : "Blood of Jesus Prayer and Deliverance Ministry",
 	address_1 : "11001 S. Broadway",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90061",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -594,6 +624,8 @@ var locations = [
 	name      : "Bread of Life Community Outreach",
 	address_1 : "628 South Street",
 	address_2 : "",
+	city      : "Long Beach",
+	zip       : "90805",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed2nd",
@@ -633,6 +665,8 @@ var locations = [
 	name      : "Breath of Life S.D.A. Church",
 	address_1 : "425 S. La Brea",
 	address_2 : "",
+	city      : "Inglewood",
+	zip       : "90301",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu1st",
@@ -672,6 +706,8 @@ var locations = [
 	name      : "Burbank Temporary Aid Center",
 	address_1 : "1304 W. Burbank Blvd.",
 	address_2 : "",
+	city      : "Burbank",
+	zip       : "91506",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -711,6 +747,8 @@ var locations = [
 	name      : "Calvary Presbyterian Church",
 	address_1 : "13560 Hawthorne Boulevard",
 	address_2 : "",
+	city      : "Hawthorne",
+	zip       : "90250",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat1st",
@@ -750,6 +788,8 @@ var locations = [
 	name      : "Cathloic Charities of Los Angeles, Inc.",
 	address_1 : "123 East 14th Street",
 	address_2 : "",
+	city      : "Long Beach",
+	zip       : "90813",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -789,6 +829,8 @@ var locations = [
 	name      : "Catholic Charities- Brownson House",
 	address_1 : "1307 Warren Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90033",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -828,6 +870,8 @@ var locations = [
 	name      : "Catholic Charities of L.A.",
 	address_1 : "4665 Willow Brook Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90029",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -867,6 +911,8 @@ var locations = [
 	name      : "Catholic Charities of Los Angeles, Inc.",
 	address_1 : "5014 Passons Blvd",
 	address_2 : "",
+	city      : "Pico Rivera",
+	zip       : "90660",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -906,6 +952,8 @@ var locations = [
 	name      : "Catholic Charities- Region 2",
 	address_1 : "4171 Tyler Avenue",
 	address_2 : "",
+	city      : "El Monte",
+	zip       : "91731",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -945,6 +993,8 @@ var locations = [
 	name      : "Catholic Rainbow Outreach",
 	address_1 : "11419 Carmenita Road",
 	address_2 : "",
+	city      : "Whittier",
+	zip       : "90605",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -984,6 +1034,8 @@ var locations = [
 	name      : "CCC Ebenezery Parish",
 	address_1 : "8803-8807 S. Broadway Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90003",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -1023,6 +1075,8 @@ var locations = [
 	name      : "Central Filipino S.D.A. Church",
 	address_1 : "777 Colorado Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90041",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue3rd",
@@ -1062,6 +1116,8 @@ var locations = [
 	name      : "Centro Cristiano Las Buenas Nuevas",
 	address_1 : "11910 Alondra Blvd.",
 	address_2 : "",
+	city      : "Norwalk",
+	zip       : "90650",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat3rd",
@@ -1101,6 +1157,8 @@ var locations = [
 	name      : "Centro Cristiano Manantial de vida",
 	address_1 : "10035 Washington Street",
 	address_2 : "",
+	city      : "Bellflower",
+	zip       : "90706",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -1140,6 +1198,8 @@ var locations = [
 	name      : "Centro de Vida International Church Movement",
 	address_1 : "9251 Burnet Avenue",
 	address_2 : "",
+	city      : "North Hills",
+	zip       : "91343",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -1179,6 +1239,8 @@ var locations = [
 	name      : "Centro Palabra de Fe",
 	address_1 : "107 W. Artesia Boulevard",
 	address_2 : "",
+	city      : "Compton",
+	zip       : "90220",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat2nd",
@@ -1218,6 +1280,8 @@ var locations = [
 	name      : "Chapel of Peace Lutheran Church",
 	address_1 : "1009 N. Market Street",
 	address_2 : "",
+	city      : "Inglewood",
+	zip       : "90302",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat3rd",
@@ -1257,6 +1321,8 @@ var locations = [
 	name      : "Charismatic Ecumencial Ministries International",
 	address_1 : "4357 West 3rd Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90020",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun1st",
@@ -1296,6 +1362,8 @@ var locations = [
 	name      : "Children of the Shepherd",
 	address_1 : "1076 N. El Centro Avenue",
 	address_2 : "",
+	city      : "Hollywood",
+	zip       : "90038",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat3rd",
@@ -1335,6 +1403,8 @@ var locations = [
 	name      : "Childrens Hospital Los Angeles",
 	address_1 : "5000 Sunset Blvd. 7th Floor",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90027",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -1374,6 +1444,8 @@ var locations = [
 	name      : "Chinese Community Service Center",
 	address_1 : "1725 Beverly Blvd",
 	address_2 : "Ste 1-B",
+	city      : "Los Angeles",
+	zip       : "90026",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun",
@@ -1413,6 +1485,8 @@ var locations = [
 	name      : "Christ Centered Ministries Church",
 	address_1 : "742 N. La Brea Avenue",
 	address_2 : "",
+	city      : "Inglewood",
+	zip       : "90302",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat3rd",
@@ -1452,6 +1526,8 @@ var locations = [
 	name      : "Christ Gospel Prayer Center",
 	address_1 : "4228 S. Vermont Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90037",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -1491,6 +1567,8 @@ var locations = [
 	name      : "Christ the Good Shepherd Episcopal",
 	address_1 : "3303 W. Vernon Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90008",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri4th",
@@ -1530,6 +1608,8 @@ var locations = [
 	name      : "Christian Association for Social Services",
 	address_1 : "5814 Venice Blvd.",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90019",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri1st",
@@ -1569,6 +1649,8 @@ var locations = [
 	name      : "Church of God",
 	address_1 : "4161 Baldwin Park Blvd",
 	address_2 : "",
+	city      : "Baldwin Park",
+	zip       : "91706",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun",
@@ -1608,6 +1690,8 @@ var locations = [
 	name      : "Church of the Epiphany",
 	address_1 : "2808 Altura Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90031",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri2nd",
@@ -1647,6 +1731,8 @@ var locations = [
 	name      : "Church of the Nazarene-Rosemead",
 	address_1 : "2703 Walnut Grove Avenue",
 	address_2 : "",
+	city      : "Rosemead",
+	zip       : "91770",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat3rd",
@@ -1686,6 +1772,8 @@ var locations = [
 	name      : "Church of the Redeemer",
 	address_1 : "3739 North Monterey Avenue",
 	address_2 : "",
+	city      : "Baldwin Park",
+	zip       : "91706",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -1725,6 +1813,8 @@ var locations = [
 	name      : "Church of the Valley",
 	address_1 : "6565 Vester blvd",
 	address_2 : "",
+	city      : "Van Nuys",
+	zip       : "91411",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -1764,6 +1854,8 @@ var locations = [
 	name      : "City of Commerce Community Center",
 	address_1 : "2555 Commerce Way",
 	address_2 : "",
+	city      : "Commerce",
+	zip       : "90040",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu3rd",
@@ -1803,6 +1895,8 @@ var locations = [
 	name      : "City of Maywood",
 	address_1 : "4319 E. Slauson Avenue",
 	address_2 : "",
+	city      : "Maywood",
+	zip       : "90270",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu4th",
@@ -1842,6 +1936,8 @@ var locations = [
 	name      : "City of Norwark/Department of Social Services",
 	address_1 : "11929 Alondra Boulevard",
 	address_2 : "",
+	city      : "Norwalk",
+	zip       : "90650",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -1881,6 +1977,8 @@ var locations = [
 	name      : "City of Truth Ministries",
 	address_1 : "1139 E. Dominguez Street, Suite D",
 	address_2 : "",
+	city      : "Carson",
+	zip       : "90746",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun2nd",
@@ -1920,6 +2018,8 @@ var locations = [
 	name      : "Coast Christian Fellowship",
 	address_1 : "4000 Pacific Coast Highway",
 	address_2 : "",
+	city      : "Torrance",
+	zip       : "90505",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -1959,6 +2059,8 @@ var locations = [
 	name      : "Congregational Church of Chatsworth",
 	address_1 : "20440 Lassen Street",
 	address_2 : "",
+	city      : "Chatsworth",
+	zip       : "91311",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -1998,6 +2100,8 @@ var locations = [
 	name      : "Cornerstone Christian Ministry",
 	address_1 : "11449 Sproule Avenue",
 	address_2 : "",
+	city      : "Pacoima",
+	zip       : "91331",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu",
@@ -2037,6 +2141,8 @@ var locations = [
 	name      : "Cory's Kitchen-Calvary Chapel Pico Rivera",
 	address_1 : "8110 Paramount Boulevard",
 	address_2 : "",
+	city      : "Pico Rivera",
+	zip       : "90660",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu2nd",
@@ -2076,6 +2182,8 @@ var locations = [
 	name      : "Cory's Kitchen-El Sereno",
 	address_1 : "4810 Huntington Drive South",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90032",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -2115,6 +2223,8 @@ var locations = [
 	name      : "Cory's Kitchen-Faith Center Ministries",
 	address_1 : "20470 # A Yellowbrick Road",
 	address_2 : "",
+	city      : "Walnut",
+	zip       : "91789",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -2154,6 +2264,8 @@ var locations = [
 	name      : "Corys Kitchen-Iglesia Torre De Alabanza",
 	address_1 : "822 Bradbourne Ave.",
 	address_2 : "",
+	city      : "Duarte",
+	zip       : "91010",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun1st",
@@ -2193,6 +2305,8 @@ var locations = [
 	name      : "Corys Kitchen-New Beginnings",
 	address_1 : "13020 Francisquito Avenue, Suite 10",
 	address_2 : "",
+	city      : "Baldwin Park",
+	zip       : "91706",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -2232,6 +2346,8 @@ var locations = [
 	name      : "Cory's Kitchen",
 	address_1 : "1418 Arrow Highway",
 	address_2 : "",
+	city      : "Irwindale",
+	zip       : "91706",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tues",
@@ -2271,6 +2387,8 @@ var locations = [
 	name      : "Cover the Homeless Ministry",
 	address_1 : "4425 S. Central Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90011",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu4th",
@@ -2310,6 +2428,8 @@ var locations = [
 	name      : "Crenshaw Baptist Church",
 	address_1 : "18749 Crenshaw Boulevard",
 	address_2 : "",
+	city      : "Torrance",
+	zip       : "90504",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed2nd",
@@ -2349,6 +2469,8 @@ var locations = [
 	name      : "Crenshaw United Methodist Church",
 	address_1 : "3740 Don Felipe Drive",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90008",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat3rd",
@@ -2388,6 +2510,8 @@ var locations = [
 	name      : "Crusaders for Christ Baptist Church",
 	address_1 : "3200 W. Temple Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90026",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -2427,6 +2551,8 @@ var locations = [
 	name      : "CUSH Foundation",
 	address_1 : "2343 N. San Antonio Avenue",
 	address_2 : "",
+	city      : "Pomona",
+	zip       : "91767",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu2nd",
@@ -2466,6 +2592,8 @@ var locations = [
 	name      : "Dae Hueng Presbyterian Church",
 	address_1 : "15411 S. Figueroa Street",
 	address_2 : "",
+	city      : "Gardena",
+	zip       : "90248",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat3rd",
@@ -2505,6 +2633,8 @@ var locations = [
 	name      : "Do Right Christian Church",
 	address_1 : "9815 S. Vermont Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90044",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat1st",
@@ -2544,6 +2674,8 @@ var locations = [
 	name      : "Door of Hope Community Center",
 	address_1 : "1414 South Atlantic Blvd.",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90022",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tues",
@@ -2583,6 +2715,8 @@ var locations = [
 	name      : "Dos Testamentos En El Desierto",
 	address_1 : "9845 E Palmdale Boulevard",
 	address_2 : "",
+	city      : "Palmdale",
+	zip       : "93591",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -2622,6 +2756,8 @@ var locations = [
 	name      : "East L.A. Bilingual S.D.A. Church",
 	address_1 : "700 Hoefner Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90022",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed1st",
@@ -2661,6 +2797,8 @@ var locations = [
 	name      : "East LA Community Corporation",
 	address_1 : "611 S. Lorena Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90033",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri3rd",
@@ -2700,6 +2838,8 @@ var locations = [
 	name      : "East Palmdale Foursquare",
 	address_1 : "1817 E. Avenue Q., A-6",
 	address_2 : "",
+	city      : "Palmdale",
+	zip       : "93550",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "SatLast",
@@ -2739,6 +2879,8 @@ var locations = [
 	name      : "East San Gabriel Valley Coalition For the Homeless",
 	address_1 : "1345 Turnbull Canyon Blvd.",
 	address_2 : "",
+	city      : "Hacienda Heights",
+	zip       : "91745",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -2778,6 +2920,8 @@ var locations = [
 	name      : "Eastmont Community Center",
 	address_1 : "701 Hoefner Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90022",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -2817,6 +2961,8 @@ var locations = [
 	name      : "Eastmont S.D.A. Spanish Church",
 	address_1 : "1021 Westside Drive",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90022",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -2856,6 +3002,8 @@ var locations = [
 	name      : "Echo Park United Methodist",
 	address_1 : "1226 N. Alvarado Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90026",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -2895,6 +3043,8 @@ var locations = [
 	name      : "Ecumenical Council of Pasadena Area Congregations",
 	address_1 : "444 East Washington Boulevard",
 	address_2 : "",
+	city      : "Pasadena",
+	zip       : "91104",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tues",
@@ -2934,6 +3084,8 @@ var locations = [
 	name      : "Ed & Frankie Benson Evangelistic Ministries",
 	address_1 : "4232 West Ave. L",
 	address_2 : "",
+	city      : "Quartz Hill",
+	zip       : "93536",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue3rd",
@@ -2973,6 +3125,8 @@ var locations = [
 	name      : "El Monte/South Emergency",
 	address_1 : "10900 Mulhall Street",
 	address_2 : "",
+	city      : "South El Monte",
+	zip       : "91731",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -3012,6 +3166,8 @@ var locations = [
 	name      : "Eliza Shanks Homes, Inc.",
 	address_1 : "13055 Weidner Street",
 	address_2 : "",
+	city      : "Pacoima",
+	zip       : "91331",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri4th",
@@ -3051,6 +3207,8 @@ var locations = [
 	name      : "Esmirna Pentecostal Church",
 	address_1 : "5414 N. Figueroa Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90042",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -3090,6 +3248,8 @@ var locations = [
 	name      : "Estelle Van Meter Multipurpose",
 	address_1 : "7600 S. Avalon Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90003",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed1st",
@@ -3129,6 +3289,8 @@ var locations = [
 	name      : "Estrada Courts Community Center",
 	address_1 : "3232 Hunter Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90023",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed2nd",
@@ -3168,6 +3330,8 @@ var locations = [
 	name      : "Evergreen Baptist Church of San Gabriel Valley",
 	address_1 : "323 Workman Mill Road",
 	address_2 : "",
+	city      : "La Puente",
+	zip       : "91746",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri1st",
@@ -3207,6 +3371,8 @@ var locations = [
 	name      : "Family Church Whittier",
 	address_1 : "8434 S. Greenleaf Avenue",
 	address_2 : "",
+	city      : "Whittier",
+	zip       : "90602",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun",
@@ -3246,6 +3412,8 @@ var locations = [
 	name      : "Family Mennonite Church",
 	address_1 : "6520 S. Normandie Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90044",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun2nd",
@@ -3285,6 +3453,8 @@ var locations = [
 	name      : "Fifty Fourth Street S.D.A. Church",
 	address_1 : "1973 West 54th Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90062",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue2nd",
@@ -3324,6 +3494,8 @@ var locations = [
 	name      : "Figueroa Church of Christ",
 	address_1 : "455 W. 57th Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90037",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -3363,6 +3535,8 @@ var locations = [
 	name      : "Filipino Baptist Fellowship of Long Beach",
 	address_1 : "2155 Atlantic Avenue",
 	address_2 : "",
+	city      : "Long Beach",
+	zip       : "90806",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat3rd",
@@ -3402,6 +3576,8 @@ var locations = [
 	name      : "Filipino Christian Church",
 	address_1 : "301 N. Union Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90026",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -3441,6 +3617,8 @@ var locations = [
 	name      : "First African Methodist Episcopal Church",
 	address_1 : "2270 S. Harvard Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90018",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat4th",
@@ -3480,6 +3658,8 @@ var locations = [
 	name      : "First Baptist Church-Hope Net",
 	address_1 : "760 S. Westmoreland Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90005",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -3519,6 +3699,8 @@ var locations = [
 	name      : "First Church of the Nazarene-Altadena",
 	address_1 : "9 W. Mendocino Street",
 	address_2 : "",
+	city      : "Altadena",
+	zip       : "91001",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu1st",
@@ -3558,6 +3740,8 @@ var locations = [
 	name      : "First Church of the Nazarene-Pasadena",
 	address_1 : "3700 E. Sierra Madre Boulevard",
 	address_2 : "",
+	city      : "Pasadena",
+	zip       : "91107",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -3597,6 +3781,8 @@ var locations = [
 	name      : "First Lutheran Church of Inglewood",
 	address_1 : "600 West Queen Street",
 	address_2 : "",
+	city      : "Inglewood",
+	zip       : "90301",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu2nd",
@@ -3636,6 +3822,8 @@ var locations = [
 	name      : "First Missionary Baptist Church",
 	address_1 : "37721 N. 100th Street East",
 	address_2 : "",
+	city      : "Sun Villiage",
+	zip       : "93543",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed2nd",
@@ -3675,6 +3863,8 @@ var locations = [
 	name      : "First New Christian Fellowship",
 	address_1 : "1555 W. 108th Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90047",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu",
@@ -3714,6 +3904,8 @@ var locations = [
 	name      : "First Presbyterian Church",
 	address_1 : "1809 West Boulevard.",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90019",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun3rd",
@@ -3753,6 +3945,8 @@ var locations = [
 	name      : "First Southern Baptist Church of Hollywood",
 	address_1 : "1528 N. Wilton Place",
 	address_2 : "",
+	city      : "Hollywood",
+	zip       : "90028",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat1st",
@@ -3792,6 +3986,8 @@ var locations = [
 	name      : "First Unitarian Church-Hope Net",
 	address_1 : "2936 W. 8th Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90005",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -3831,6 +4027,8 @@ var locations = [
 	name      : "First United Methodist Church of La Puente",
 	address_1 : "15701 E. Hill Street",
 	address_2 : "",
+	city      : "La Puente",
+	zip       : "91744",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "SunLast",
@@ -3870,6 +4068,8 @@ var locations = [
 	name      : "Food Net-Asian Service Center",
 	address_1 : "14112 S. Kingsley Drive",
 	address_2 : "",
+	city      : "Gardena",
+	zip       : "90249",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -3909,6 +4109,8 @@ var locations = [
 	name      : "Food Net-Centro Maravilla",
 	address_1 : "4716 E. Cesar Chavez Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90022",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -3948,6 +4150,8 @@ var locations = [
 	name      : "Food Net- East Los Angeles Center",
 	address_1 : "133 N. Sunol Drive",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90063",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -3987,6 +4191,8 @@ var locations = [
 	name      : "Food Net-East Rancho Dominguez",
 	address_1 : "4513 E. Compton Boulevard",
 	address_2 : "",
+	city      : "Compton",
+	zip       : "90221",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri2nd",
@@ -4026,6 +4232,8 @@ var locations = [
 	name      : "Food Net-Florence Firestone Center",
 	address_1 : "7807 S. Compton Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90001",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue2nd",
@@ -4065,6 +4273,8 @@ var locations = [
 	name      : "Food Net-Los Nietos Service Center",
 	address_1 : "11640 W. Slauson Avenue",
 	address_2 : "",
+	city      : "Whittier",
+	zip       : "90606",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu",
@@ -4104,6 +4314,8 @@ var locations = [
 	name      : "Food Net-San Gabriel Valley Center",
 	address_1 : "1441 Santa Anita Avenue",
 	address_2 : "",
+	city      : "South El Monte",
+	zip       : "91733",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -4143,6 +4355,8 @@ var locations = [
 	name      : "Food Net-San Pedro Service Center",
 	address_1 : "769 W. Third Street",
 	address_2 : "",
+	city      : "San Pedro",
+	zip       : "90731",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue2nd",
@@ -4182,6 +4396,8 @@ var locations = [
 	name      : "Food Net-Santa Clarita Service Center",
 	address_1 : "24271 Main Street",
 	address_2 : "",
+	city      : "Newhall",
+	zip       : "91321",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -4221,6 +4437,8 @@ var locations = [
 	name      : "Food Net-Willowbrook Senior Center",
 	address_1 : "12915 Jarvis Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90061",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed2nd",
@@ -4260,6 +4478,8 @@ var locations = [
 	name      : "Foothill Unity Center",
 	address_1 : "415 W. Chestnut Avenue",
 	address_2 : "",
+	city      : "Monrovia",
+	zip       : "91016",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -4299,6 +4519,8 @@ var locations = [
 	name      : "Fred Jordan Mission",
 	address_1 : "445  Towne Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90013",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -4338,6 +4560,8 @@ var locations = [
 	name      : "Fuller Theological Seminary",
 	address_1 : "135 North Oakland Avenue",
 	address_2 : "",
+	city      : "Pasadena",
+	zip       : "91101",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -4377,6 +4601,8 @@ var locations = [
 	name      : "Gardena S.D.A. Church",
 	address_1 : "16113 S. Denker Avenue",
 	address_2 : "",
+	city      : "Gardena",
+	zip       : "90247",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat1st",
@@ -4416,6 +4642,8 @@ var locations = [
 	name      : "Gardena Valley Assembly of God",
 	address_1 : "1473 W. 182nd Street",
 	address_2 : "",
+	city      : "Gardena",
+	zip       : "90248",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun",
@@ -4455,6 +4683,8 @@ var locations = [
 	name      : "Glendale Filipino S.D.A. Church",
 	address_1 : "310 E. Chestnut Street",
 	address_2 : "",
+	city      : "Glendale",
+	zip       : "91205",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed2nd",
@@ -4494,6 +4724,8 @@ var locations = [
 	name      : "Good News Central Church",
 	address_1 : "3500 West 1st Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90004",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -4533,6 +4765,8 @@ var locations = [
 	name      : "Good News Missionary Baptist Church",
 	address_1 : "2400 W. Vernon Ave",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90008",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu2nd",
@@ -4572,6 +4806,8 @@ var locations = [
 	name      : "Good News Prayer Center",
 	address_1 : "1722 East Firestone Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90001",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat3rd",
@@ -4611,6 +4847,8 @@ var locations = [
 	name      : "Gospel Mission Baptist Church",
 	address_1 : "7301 S. Avalon Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90003",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed4th",
@@ -4650,6 +4888,8 @@ var locations = [
 	name      : "Grace Evangelical Free Church of La Mirada",
 	address_1 : "12717 Santa Gertrudes Avenue",
 	address_2 : "",
+	city      : "La Mirada",
+	zip       : "90638",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -4689,6 +4929,8 @@ var locations = [
 	name      : "Grace Presbyterian Church",
 	address_1 : "1500 N. Ave 53",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90042",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri2nd",
@@ -4728,6 +4970,8 @@ var locations = [
 	name      : "Grace Resource Center, Inc.",
 	address_1 : "45134 N. Sierra Hwy.",
 	address_2 : "",
+	city      : "Lancaster",
+	zip       : "93534",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -4767,6 +5011,8 @@ var locations = [
 	name      : "Greater Emmanuel M.B.C.",
 	address_1 : "3727 West 111th Place",
 	address_2 : "",
+	city      : "Inglewood",
+	zip       : "90303",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat1st",
@@ -4806,6 +5052,8 @@ var locations = [
 	name      : "Greater New Morning Star Baptist Church",
 	address_1 : "210 W. Florence Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90003",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -4845,6 +5093,8 @@ var locations = [
 	name      : "Greater New Unity Baptist Church",
 	address_1 : "9719 S. Avalon Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90003",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat3rd",
@@ -4884,6 +5134,8 @@ var locations = [
 	name      : "Guadalupe Food Program",
 	address_1 : "4018 East Hammel Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90063",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed2nd",
@@ -4923,6 +5175,8 @@ var locations = [
 	name      : "H.O.P.E. Helping Other People Excel",
 	address_1 : "11163 S. Central Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90059",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -4962,6 +5216,8 @@ var locations = [
 	name      : "Hank Lacayo Youth & Family Center",
 	address_1 : "7915 Van Nuys Boulevard",
 	address_2 : "",
+	city      : "Panorama City",
+	zip       : "91402",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu",
@@ -5001,6 +5257,8 @@ var locations = [
 	name      : "Harbor Christian Center",
 	address_1 : "1602 N. Wilmington Blvd",
 	address_2 : "",
+	city      : "Wilmington",
+	zip       : "90744",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed1st",
@@ -5040,6 +5298,8 @@ var locations = [
 	name      : "Hawaiian Gardens Food Bank",
 	address_1 : "21411 Norwalk Blvd.",
 	address_2 : "",
+	city      : "Hawaiian Gardens",
+	zip       : "90716",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -5079,6 +5339,8 @@ var locations = [
 	name      : "Heavenly Vision Church of God in Christ",
 	address_1 : "841 W. 85th Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90044",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri4th",
@@ -5118,6 +5380,8 @@ var locations = [
 	name      : "Helping Hands, Caring Hearts Ministry",
 	address_1 : "1750 W. Holt Avenue",
 	address_2 : "",
+	city      : "Pomona",
+	zip       : "91768",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun",
@@ -5157,6 +5421,8 @@ var locations = [
 	name      : "Helping In Services, Inc.",
 	address_1 : "1535 Gundry Avenue",
 	address_2 : "",
+	city      : "Long Beach",
+	zip       : "90813",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -5196,6 +5462,8 @@ var locations = [
 	name      : "His Helping Hands",
 	address_1 : "25501 Oak Street",
 	address_2 : "",
+	city      : "Lomita",
+	zip       : "90717",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu2nd",
@@ -5235,6 +5503,8 @@ var locations = [
 	name      : "HOAP Inc.",
 	address_1 : "5014 S. Avalon Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90011",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu",
@@ -5274,6 +5544,8 @@ var locations = [
 	name      : "Hollywood Community Housing",
 	address_1 : "5020 W. Santa Monica Boulevard",
 	address_2 : "",
+	city      : "Hollywood",
+	zip       : "90029",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu",
@@ -5313,6 +5585,8 @@ var locations = [
 	name      : "Hollywood Lutheran Church",
 	address_1 : "1733 N. New Hampshire Ave.",
 	address_2 : "",
+	city      : "Hollywood",
+	zip       : "90027",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -5352,6 +5626,8 @@ var locations = [
 	name      : "Hollywood West Tenant Action Committee",
 	address_1 : "5823 Willoughby Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90038",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri3rd",
@@ -5391,6 +5667,8 @@ var locations = [
 	name      : "Holy Cross Center",
 	address_1 : "104 W. 47th Place",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90037",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -5430,6 +5708,8 @@ var locations = [
 	name      : "Holy Family Giving Bank",
 	address_1 : "1524 Fremont Avenue",
 	address_2 : "",
+	city      : "South Pasadena",
+	zip       : "91030",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -5469,6 +5749,8 @@ var locations = [
 	name      : "Holy Trinity Church of God in Christ",
 	address_1 : "9706 S. Broadway Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90003",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -5508,6 +5790,8 @@ var locations = [
 	name      : "Hope Chapel Foursquare Church",
 	address_1 : "2420 Pacific Coast Highway",
 	address_2 : "",
+	city      : "Hermosa Beach",
+	zip       : "90254",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -5547,6 +5831,8 @@ var locations = [
 	name      : "Hope Chapel Lancaster",
 	address_1 : "6015 W Avenue J8",
 	address_2 : "",
+	city      : "Quartz Hill",
+	zip       : "93536",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -5586,6 +5872,8 @@ var locations = [
 	name      : "Hope International Bible Fellowship",
 	address_1 : "4903 Fountain Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90029",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat2nd",
@@ -5625,6 +5913,8 @@ var locations = [
 	name      : "Houses of Light Church Corporation",
 	address_1 : "19359 Londelius Street",
 	address_2 : "",
+	city      : "Northridge",
+	zip       : "91324",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -5664,6 +5954,8 @@ var locations = [
 	name      : "Hurting & Hungry",
 	address_1 : "8107 Loyola Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90045",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -5703,6 +5995,8 @@ var locations = [
 	name      : "Iglesia Bautista Renacer",
 	address_1 : "15950 Chatsworth St.",
 	address_2 : "",
+	city      : "Granada Hills",
+	zip       : "91344",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -5742,6 +6036,8 @@ var locations = [
 	name      : "Iglesia Cristiana El Shaddai USA",
 	address_1 : "5518 S. Broadway",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90037",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -5781,6 +6077,8 @@ var locations = [
 	name      : "Iglesia de la Comunidad Presbyterian Church",
 	address_1 : "115 N. Ave 53",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90042",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu1st",
@@ -5820,6 +6118,8 @@ var locations = [
 	name      : "Iglesia Evangelica Camino de Santidad",
 	address_1 : "958 N. Maclay Ave",
 	address_2 : "",
+	city      : "San Fernando",
+	zip       : "91340",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -5859,6 +6159,8 @@ var locations = [
 	name      : "Iglesia Fuente de Vida Community Center",
 	address_1 : "11134 Saticoy Street",
 	address_2 : "",
+	city      : "Sun Valley",
+	zip       : "91352",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun",
@@ -5898,6 +6200,8 @@ var locations = [
 	name      : "Iglesia la Puerta Abierta",
 	address_1 : "5017 E. Olympic Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90022",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -5937,6 +6241,8 @@ var locations = [
 	name      : "Iglesia Macedonia Defenders of the Christian Faith",
 	address_1 : "9228 S. Central Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90002",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -5976,6 +6282,8 @@ var locations = [
 	name      : "Iglesia Pentecostes Roca de Salvacion",
 	address_1 : "122 South Evergreen Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90033",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun",
@@ -6015,6 +6323,8 @@ var locations = [
 	name      : "Iglesia Pentecostes Templo Calvario",
 	address_1 : "8824 Long Beach Boulevard",
 	address_2 : "",
+	city      : "South Gate",
+	zip       : "90280",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun",
@@ -6054,6 +6364,8 @@ var locations = [
 	name      : "Iglesia Piedra Angular",
 	address_1 : "2110 W. Francisquito Avenue",
 	address_2 : "",
+	city      : "West Covina",
+	zip       : "91790",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu2nd",
@@ -6093,6 +6405,8 @@ var locations = [
 	name      : "Iglesia Un Renuevo",
 	address_1 : "13216 Fairford Ave.",
 	address_2 : "",
+	city      : "Norwalk",
+	zip       : "90650",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri3rd",
@@ -6132,6 +6446,8 @@ var locations = [
 	name      : "Imani Economic & Community Development Corporation",
 	address_1 : "510 W. Monterey Avenue",
 	address_2 : "",
+	city      : "Pomona",
+	zip       : "91768",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat3rd",
@@ -6171,6 +6487,8 @@ var locations = [
 	name      : "Imani Unidos A.I.D.S. Project",
 	address_1 : "1713 W. 108th Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90047",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue2nd",
@@ -6210,6 +6528,8 @@ var locations = [
 	name      : "Immaculate Heart of Mary-Hope Net",
 	address_1 : "4954 Santa Monica Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90029",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -6249,6 +6569,8 @@ var locations = [
 	name      : "Immanuel Presbyterian Church-Hope Net",
 	address_1 : "3300 Wilshire Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90010",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -6288,6 +6610,8 @@ var locations = [
 	name      : "Imperial Church of Christ",
 	address_1 : "11316 S. San Pedro Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90061",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -6327,6 +6651,8 @@ var locations = [
 	name      : "Inglewood Church of Christ",
 	address_1 : "323 S. Eucalyptus Ave.",
 	address_2 : "",
+	city      : "Inglewood",
+	zip       : "90301",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri3rd",
@@ -6366,6 +6692,8 @@ var locations = [
 	name      : "Inglewood Southside Christian Church",
 	address_1 : "3947 W. 104th Street",
 	address_2 : "",
+	city      : "Inglewood",
+	zip       : "90303",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat2nd",
@@ -6405,6 +6733,8 @@ var locations = [
 	name      : "Inland Valley Hope Partners",
 	address_1 : "209 W. Pearl Street",
 	address_2 : "",
+	city      : "Pomona",
+	zip       : "91768",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -6444,6 +6774,8 @@ var locations = [
 	name      : "Interfaith Food Center",
 	address_1 : "11819 Burke Street",
 	address_2 : "",
+	city      : "Sante Fe Springs",
+	zip       : "90670",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -6483,6 +6815,8 @@ var locations = [
 	name      : "International Families Association",
 	address_1 : "1741 Gardena Avenue, Suite E",
 	address_2 : "",
+	city      : "Glendale",
+	zip       : "91204",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -6522,6 +6856,8 @@ var locations = [
 	name      : "Islamic Center of Southern CA-Hope Net",
 	address_1 : "434 S. Vermont Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90020",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -6561,6 +6897,8 @@ var locations = [
 	name      : "Jesus Christ the Reedemer Center",
 	address_1 : "755 E. 223rd Street",
 	address_2 : "",
+	city      : "Carson",
+	zip       : "90745",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -6600,6 +6938,8 @@ var locations = [
 	name      : "Jesus is the Answer Apostolic Church",
 	address_1 : "25100 S. Normandie Ave, Suite A",
 	address_2 : "",
+	city      : "Harbor City",
+	zip       : "90710",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed3rd",
@@ -6639,6 +6979,8 @@ var locations = [
 	name      : "JFS/SOVA Community Food & Resource Program Valley",
 	address_1 : "16439 Vanowen Street",
 	address_2 : "",
+	city      : "Van Nuys",
+	zip       : "91406",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun",
@@ -6678,6 +7020,8 @@ var locations = [
 	name      : "JFS/SOVA Community Food & Resource Program West",
 	address_1 : "8846 W Pico Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "91406",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun",
@@ -6717,6 +7061,8 @@ var locations = [
 	name      : "Khalsa Care Foundation",
 	address_1 : "9989 Laurel Canyon Blvd.",
 	address_2 : "",
+	city      : "Pacoima",
+	zip       : "91331",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -6756,6 +7102,8 @@ var locations = [
 	name      : "Koreatown Multipurpose Senior",
 	address_1 : "2147 W. Washington Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90018",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -6795,6 +7143,8 @@ var locations = [
 	name      : "La Puente Spanish S.D.A. Church",
 	address_1 : "18047 Valley Boulevard",
 	address_2 : "",
+	city      : "La Puente",
+	zip       : "91744",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -6834,6 +7184,8 @@ var locations = [
 	name      : "La Voz Sylmar S.D.A. Church",
 	address_1 : "13550 Herron Street",
 	address_2 : "",
+	city      : "Sylmar",
+	zip       : "91342",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu",
@@ -6873,6 +7225,8 @@ var locations = [
 	name      : "Lady Bug Ministry",
 	address_1 : "14725 Gramercy Place",
 	address_2 : "",
+	city      : "Gardena",
+	zip       : "90247",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "TueLast",
@@ -6912,6 +7266,8 @@ var locations = [
 	name      : "Lawrence Ministries",
 	address_1 : "12441 E. Farlow Street",
 	address_2 : "",
+	city      : "Hawaiian Gardens",
+	zip       : "90716",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat3rd",
@@ -6951,6 +7307,8 @@ var locations = [
 	name      : "Life Deliverance Ministries",
 	address_1 : "9120 S. Western Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90044",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -6990,6 +7348,8 @@ var locations = [
 	name      : "Lifeline Community Services & Economic Development",
 	address_1 : "2556 N. Lake Avenue",
 	address_2 : "",
+	city      : "Altadena",
+	zip       : "91001",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed2nd",
@@ -7029,6 +7389,8 @@ var locations = [
 	name      : "Lincoln Avenue Baptist Church",
 	address_1 : "1180 North Lincoln Avenue",
 	address_2 : "",
+	city      : "Pasadena",
+	zip       : "91103",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed3rd",
@@ -7068,6 +7430,8 @@ var locations = [
 	name      : "Living Hope Community Partnership",
 	address_1 : "18500 Farjardo Street",
 	address_2 : "",
+	city      : "Rowland Heights",
+	zip       : "91748",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat1st",
@@ -7107,6 +7471,8 @@ var locations = [
 	name      : "Living Springs Foursquare Church",
 	address_1 : "17134 E. Ave O",
 	address_2 : "",
+	city      : "Palmdale",
+	zip       : "93591",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed1st",
@@ -7146,6 +7512,8 @@ var locations = [
 	name      : "Living Truth Christian Fellowship",
 	address_1 : "5873 S. Normandie Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90044",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue3rd",
@@ -7185,6 +7553,8 @@ var locations = [
 	name      : "Loaves & Fishes-Canoga Park",
 	address_1 : "21600 Hart Street",
 	address_2 : "",
+	city      : "Canoga Park",
+	zip       : "91303",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -7224,6 +7594,8 @@ var locations = [
 	name      : "Loaves & Fishes-Glendale",
 	address_1 : "4322 San Fernando Road",
 	address_2 : "",
+	city      : "Glendale",
+	zip       : "91204",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -7263,6 +7635,8 @@ var locations = [
 	name      : "Loaves & Fishes-Van Nuys",
 	address_1 : "14640 Keswick",
 	address_2 : "",
+	city      : "Van Nuys",
+	zip       : "91405",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -7302,6 +7676,8 @@ var locations = [
 	name      : "Los Angeles Boys & Girls Club",
 	address_1 : "2635 Pasadena Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90031",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu",
@@ -7341,6 +7717,8 @@ var locations = [
 	name      : "Los Angeles Central City S.D.A. Church",
 	address_1 : "650 W. 21st Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90007",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue3rd",
@@ -7380,6 +7758,8 @@ var locations = [
 	name      : "Los Angeles First Church of the Nazarene-Hope Net",
 	address_1 : "3401 W. 3rd Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90020",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -7419,6 +7799,8 @@ var locations = [
 	name      : "Los Angeles Housing Partnership",
 	address_1 : "2614 W. 7th Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90057",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "FriLast",
@@ -7458,6 +7840,8 @@ var locations = [
 	name      : "Love & Faith Christian Center",
 	address_1 : "8505 S. Western Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90047",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -7497,6 +7881,8 @@ var locations = [
 	name      : "Loveship Community Outreach",
 	address_1 : "836 E. Avenue I",
 	address_2 : "",
+	city      : "Lancaster",
+	zip       : "93535",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat2nd",
@@ -7536,6 +7922,8 @@ var locations = [
 	name      : "Lutheran Social Services of Southern California",
 	address_1 : "21430 Strathern Street",
 	address_2 : "",
+	city      : "Canoga Park",
+	zip       : "91304",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -7575,6 +7963,8 @@ var locations = [
 	name      : "Lynwood All People's First Assembly",
 	address_1 : "4330 Martin Luther King Jr. Boulevard",
 	address_2 : "",
+	city      : "Lynwood",
+	zip       : "90262",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -7614,6 +8004,8 @@ var locations = [
 	name      : "Lynwood United Methodist Church",
 	address_1 : "4207 Carlin Avenue",
 	address_2 : "",
+	city      : "Lynwood",
+	zip       : "90262",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -7653,6 +8045,8 @@ var locations = [
 	name      : "Maranatha S.D.A. Community Center",
 	address_1 : "3569 W. Manchester Blvd.",
 	address_2 : "",
+	city      : "Inglewood",
+	zip       : "90305",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat2nd",
@@ -7692,6 +8086,8 @@ var locations = [
 	name      : "Meet Each Need with Dignity",
 	address_1 : "10641 San Fernando Road",
 	address_2 : "",
+	city      : "Pacoima",
+	zip       : "91331",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -7731,6 +8127,8 @@ var locations = [
 	name      : "Metropolitan Community Churchof L.A.-Hope Net",
 	address_1 : "4607 Prospect Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90027",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -7770,6 +8168,8 @@ var locations = [
 	name      : "Mexican-American Opportunity Foundation",
 	address_1 : "401 N. Garfield Ave",
 	address_2 : "",
+	city      : "Montebello",
+	zip       : "90640",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu",
@@ -7809,6 +8209,8 @@ var locations = [
 	name      : "Mision Cristana Monte de Sion",
 	address_1 : "6315 Eastern Avenue",
 	address_2 : "",
+	city      : "Bell Gardens",
+	zip       : "90201",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -7848,6 +8250,8 @@ var locations = [
 	name      : "Missionaries of Charity",
 	address_1 : "10950 California Avenue",
 	address_2 : "",
+	city      : "Lynwood",
+	zip       : "90262",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -7887,6 +8291,8 @@ var locations = [
 	name      : "Montebello Watch",
 	address_1 : "1033 South Maple Avenue",
 	address_2 : "",
+	city      : "Montebello",
+	zip       : "90640",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -7926,6 +8332,8 @@ var locations = [
 	name      : "Mt. Sinai C.O.G.I.C.",
 	address_1 : "936 W. Ninth Street",
 	address_2 : "",
+	city      : "Pomona",
+	zip       : "91766",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat3rd",
@@ -7965,6 +8373,8 @@ var locations = [
 	name      : "My Friends House",
 	address_1 : "3533 West 58th Place",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90043",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -8004,6 +8414,8 @@ var locations = [
 	name      : "New Covenant Tabernacle of Antelope Valley",
 	address_1 : "38626 9th Street East",
 	address_2 : "",
+	city      : "Palmdale",
+	zip       : "93550",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat2nd",
@@ -8043,6 +8455,8 @@ var locations = [
 	name      : "New Jerusalem C.O.G.I.C.",
 	address_1 : "420 S. Sante Fe Avenue",
 	address_2 : "",
+	city      : "Compton",
+	zip       : "90221",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri1st",
@@ -8082,6 +8496,8 @@ var locations = [
 	name      : "New Life Community Church",
 	address_1 : "5009 W. 119th Street",
 	address_2 : "",
+	city      : "Hawthorne",
+	zip       : "90250",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun",
@@ -8121,6 +8537,8 @@ var locations = [
 	name      : "New Life Pomona",
 	address_1 : "275 East Foothill Boulevard",
 	address_2 : "",
+	city      : "Pomona",
+	zip       : "91767",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "",
@@ -8160,6 +8578,8 @@ var locations = [
 	name      : "New Region For Christ",
 	address_1 : "520 S. La Brea Ave",
 	address_2 : "",
+	city      : "Inglewood",
+	zip       : "90301",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -8199,6 +8619,8 @@ var locations = [
 	name      : "Normandie Community Development Food Pantry",
 	address_1 : "3801 South Normandie Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90037",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat4th",
@@ -8238,6 +8660,8 @@ var locations = [
 	name      : "North Hollywood Interfaith Food Pantry",
 	address_1 : "4390 Colfax Avenue",
 	address_2 : "",
+	city      : "North Hollywood",
+	zip       : "91604",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -8277,6 +8701,8 @@ var locations = [
 	name      : "Norwalk Church of the Nazarene",
 	address_1 : "15000 Studebaker Road",
 	address_2 : "",
+	city      : "Norwalk",
+	zip       : "90650",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -8316,6 +8742,8 @@ var locations = [
 	name      : "Nuevo Amanecer",
 	address_1 : "1035 N. Avalon Boulevard",
 	address_2 : "",
+	city      : "Wilmington",
+	zip       : "90744",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed1st",
@@ -8355,6 +8783,8 @@ var locations = [
 	name      : "Our Lady of Guadalupe Church",
 	address_1 : "4509 Mercury Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90032",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu",
@@ -8394,6 +8824,8 @@ var locations = [
 	name      : "Our Lady of Talpa Church",
 	address_1 : "427 S. Evergreen Ave.",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90033",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue3rd",
@@ -8433,6 +8865,8 @@ var locations = [
 	name      : "Our Lady of Victory Conference",
 	address_1 : "410 E. Palmer Street",
 	address_2 : "",
+	city      : "Compton",
+	zip       : "90221",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri3rd",
@@ -8472,6 +8906,8 @@ var locations = [
 	name      : "Our Lady Queen of Angels Catholic Church",
 	address_1 : "535 N. Main Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90012",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -8511,6 +8947,8 @@ var locations = [
 	name      : "Our Saviour Center",
 	address_1 : "4368 Santa Anita Avenue",
 	address_2 : "",
+	city      : "EL Monte",
+	zip       : "91731",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -8550,6 +8988,8 @@ var locations = [
 	name      : "Palmdale Community Foundation-S.A.V.E.S.",
 	address_1 : "1002 East Avenue Q12",
 	address_2 : "",
+	city      : "Palmdale",
+	zip       : "93550",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -8589,6 +9029,8 @@ var locations = [
 	name      : "Palmdale Foursquare Church",
 	address_1 : "38325 10th Street East",
 	address_2 : "",
+	city      : "Palmdale",
+	zip       : "93550",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue4th",
@@ -8628,6 +9070,8 @@ var locations = [
 	name      : "Palmdale S.D.A. Church",
 	address_1 : "1758 East Avenue R",
 	address_2 : "",
+	city      : "Palmdale",
+	zip       : "93550",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed1st",
@@ -8667,6 +9111,8 @@ var locations = [
 	name      : "Paramount Care Foundation",
 	address_1 : "8303 Alondra Boulevard",
 	address_2 : "",
+	city      : "Paramount",
+	zip       : "90723",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri1st",
@@ -8706,6 +9152,8 @@ var locations = [
 	name      : "Peace Lutheran Church",
 	address_1 : "11690 Fenton Avenue",
 	address_2 : "",
+	city      : "Lake View Terrace",
+	zip       : "91342",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat2nd",
@@ -8745,6 +9193,8 @@ var locations = [
 	name      : "Pentecostal Church of God",
 	address_1 : "2829 1/4 Fletcher Drive",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90039",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -8784,6 +9234,8 @@ var locations = [
 	name      : "People for Community Improvement",
 	address_1 : "13008 South Figueroa",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90061",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri2nd",
@@ -8823,6 +9275,8 @@ var locations = [
 	name      : "Pico Rivera Iglesia Crece",
 	address_1 : "14832 Valley Blvd.",
 	address_2 : "",
+	city      : "La Puente",
+	zip       : "91744",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -8862,6 +9316,8 @@ var locations = [
 	name      : "Pilgrim's Hope Baptist Church",
 	address_1 : "7016 S. Compton Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90001",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed2nd",
@@ -8901,6 +9357,8 @@ var locations = [
 	name      : "Pilipino Worker Center of Southern California",
 	address_1 : "153 Glendale Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90026",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -8940,6 +9398,8 @@ var locations = [
 	name      : "Presentation of Mary Catholic",
 	address_1 : "6406 Parmelee Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90001",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat3rd",
@@ -8979,6 +9439,8 @@ var locations = [
 	name      : "Prince of Peace Coalition",
 	address_1 : "5700 Rudnick Avenue",
 	address_2 : "",
+	city      : "Woodland Hills",
+	zip       : "91367",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -9018,6 +9480,8 @@ var locations = [
 	name      : "Prince of Peace/Family Rescue",
 	address_1 : "22103 Van Owen Street",
 	address_2 : "",
+	city      : "Canoga Park",
+	zip       : "91303",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -9057,6 +9521,8 @@ var locations = [
 	name      : "Principe de Paz",
 	address_1 : "6706 Vinevale Avenue",
 	address_2 : "",
+	city      : "Bell",
+	zip       : "90201",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu2nd",
@@ -9096,6 +9562,8 @@ var locations = [
 	name      : "Project 2911, A Community Development Corporation",
 	address_1 : "418 N. Second Avenue",
 	address_2 : "",
+	city      : "Covina",
+	zip       : "91723",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -9135,6 +9603,8 @@ var locations = [
 	name      : "RCCG Victory House of California",
 	address_1 : "6640 Van Nuys Blvd.",
 	address_2 : "",
+	city      : "Van Nuys",
+	zip       : "91411",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun",
@@ -9174,6 +9644,8 @@ var locations = [
 	name      : "Redeemer Lutheran Outreach",
 	address_1 : "20025 Chase Street",
 	address_2 : "",
+	city      : "Winnetka",
+	zip       : "91306",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -9213,6 +9685,8 @@ var locations = [
 	name      : "Redeemer Missionary Baptist Church",
 	address_1 : "1631 W. Adams Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90007",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -9252,6 +9726,8 @@ var locations = [
 	name      : "Rehoboth Courage Church",
 	address_1 : "425 E. Compton Boulevard",
 	address_2 : "",
+	city      : "Compton",
+	zip       : "90220",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -9291,6 +9767,8 @@ var locations = [
 	name      : "Resting Place Church",
 	address_1 : "10803 Cantara St.",
 	address_2 : "",
+	city      : "Sun Valley",
+	zip       : "91352",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -9330,6 +9808,8 @@ var locations = [
 	name      : "Rock Solid Christian Assembly",
 	address_1 : "867 W. 10th Street",
 	address_2 : "",
+	city      : "San Pedro",
+	zip       : "90731",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat2nd",
@@ -9369,6 +9849,8 @@ var locations = [
 	name      : "Rosewood Church",
 	address_1 : "10115 E. Rose Street",
 	address_2 : "",
+	city      : "Bellflower",
+	zip       : "90706",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri3rd",
@@ -9408,6 +9890,8 @@ var locations = [
 	name      : "Rosewood Revitalization Group",
 	address_1 : "4101 Rosewood Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90004",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri3rd",
@@ -9447,6 +9931,8 @@ var locations = [
 	name      : "S.A. Friendly Village Mobile Park",
 	address_1 : "1301 east Ave. I",
 	address_2 : "",
+	city      : "Lancaster",
+	zip       : "93535",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon4th",
@@ -9486,6 +9972,8 @@ var locations = [
 	name      : "S.A. Mayflower Gardens",
 	address_1 : "6570 West Avenue L-12",
 	address_2 : "",
+	city      : "Quartz Hill",
+	zip       : "93536",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue2nd",
@@ -9525,6 +10013,8 @@ var locations = [
 	name      : "S.A. Mountain View Mobile",
 	address_1 : "3255 E. Ave R",
 	address_2 : "",
+	city      : "Palmdale",
+	zip       : "93550",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue2nd",
@@ -9564,6 +10054,8 @@ var locations = [
 	name      : "S.A. Pearblossom United Methodist",
 	address_1 : "34143 126th Street East",
 	address_2 : "",
+	city      : "Pearblossom",
+	zip       : "93553",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon3rd",
@@ -9603,6 +10095,8 @@ var locations = [
 	name      : "S.A. Penney Lynn Wind",
 	address_1 : "8300 Pearblossom Hwy",
 	address_2 : "",
+	city      : "Littlerock",
+	zip       : "93543",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon3rd",
@@ -9642,6 +10136,8 @@ var locations = [
 	name      : "S.V.P. All Souls Conference",
 	address_1 : "1500 W. Main Street",
 	address_2 : "",
+	city      : "Alhambra",
+	zip       : "91803",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu3rd",
@@ -9681,6 +10177,8 @@ var locations = [
 	name      : "Sacred Heart Church",
 	address_1 : "2210 Sichel Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90031",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu1st",
@@ -9720,6 +10218,8 @@ var locations = [
 	name      : "Saint Mark Food Pantry",
 	address_1 : "8305 S. Gramercy Place",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90047",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -9759,6 +10259,8 @@ var locations = [
 	name      : "Salvation Army- East L.A.",
 	address_1 : "140 N. Eastman Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90063",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -9798,6 +10300,8 @@ var locations = [
 	name      : "Salvation Army- L.A. Central Corp",
 	address_1 : "906 S. Francisco Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90015",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -9837,6 +10341,8 @@ var locations = [
 	name      : "Salvation Army- Lancaster Corp",
 	address_1 : "44517 Sierra Highway",
 	address_2 : "",
+	city      : "Lancaster",
+	zip       : "93534",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon4th",
@@ -9876,6 +10382,8 @@ var locations = [
 	name      : "Salvation Army-Pasadena Tabernacle",
 	address_1 : "1000 E.Walnut Street",
 	address_2 : "",
+	city      : "Pasadena",
+	zip       : "91106",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -9915,6 +10423,8 @@ var locations = [
 	name      : "Salvation Army-Pomona",
 	address_1 : "490 E. La Verne Anenue",
 	address_2 : "",
+	city      : "Pomona",
+	zip       : "91767-2800",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -9954,6 +10464,8 @@ var locations = [
 	name      : "Salvation Army Redondo Beach",
 	address_1 : "125 W. Beryl Street",
 	address_2 : "",
+	city      : "Redondo Beach",
+	zip       : "90277",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -9993,6 +10505,8 @@ var locations = [
 	name      : "Salvation Army Santa Clarita Valley Corps",
 	address_1 : "22935 Lyons Avenue",
 	address_2 : "",
+	city      : "Newhall",
+	zip       : "91321",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -10032,6 +10546,8 @@ var locations = [
 	name      : "Salvation Army- Santa Fe Springs",
 	address_1 : "12000 E. Washington Boulevard",
 	address_2 : "",
+	city      : "Whittier",
+	zip       : "90606",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -10071,6 +10587,8 @@ var locations = [
 	name      : "Salvation Army- South L.A.",
 	address_1 : "7651 South Central Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90001",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -10110,6 +10628,8 @@ var locations = [
 	name      : "Salvation Army Southeast Comm. Corp",
 	address_1 : "2965 E. Gage Avenue",
 	address_2 : "",
+	city      : "Huntington Park",
+	zip       : "90255",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu",
@@ -10149,6 +10669,8 @@ var locations = [
 	name      : "Salvation Army- Whittier Corp.",
 	address_1 : "7926 Pickering Avenue",
 	address_2 : "",
+	city      : "Whittier",
+	zip       : "90602",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -10188,6 +10710,8 @@ var locations = [
 	name      : "San Gabriel Mission",
 	address_1 : "428 South Mission Drive",
 	address_2 : "",
+	city      : "San Gabriel",
+	zip       : "91776",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun",
@@ -10227,6 +10751,8 @@ var locations = [
 	name      : "San Gabriel Valley Y.W.C.A.",
 	address_1 : "510 N. Vineland Avenue",
 	address_2 : "",
+	city      : "La Puente",
+	zip       : "91746",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -10266,6 +10792,8 @@ var locations = [
 	name      : "San Miguel Church",
 	address_1 : "2214 E. 108th Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90059",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat3rd",
@@ -10305,6 +10833,8 @@ var locations = [
 	name      : "San Pedro Temple Corps",
 	address_1 : "138 S. Bandini Street",
 	address_2 : "",
+	city      : "San Pedro",
+	zip       : "90731",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -10344,6 +10874,8 @@ var locations = [
 	name      : "Santa Clarita Valley Food Pantry",
 	address_1 : "24133 Railroad Avenue",
 	address_2 : "",
+	city      : "Newhall",
+	zip       : "91321",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri3rd",
@@ -10383,6 +10915,8 @@ var locations = [
 	name      : "Servants Arms Community Based Organization",
 	address_1 : "1720 N. Walnut Avenue",
 	address_2 : "",
+	city      : "La Puente",
+	zip       : "91744",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -10422,6 +10956,8 @@ var locations = [
 	name      : "Shekinah Worship Center",
 	address_1 : "42640 10th Street West",
 	address_2 : "",
+	city      : "Lancaster",
+	zip       : "93534",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "SatLast",
@@ -10461,6 +10997,8 @@ var locations = [
 	name      : "Shepherd's Pantry",
 	address_1 : "657 E. Arrow Highway",
 	address_2 : "",
+	city      : "Glendora",
+	zip       : "91740",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -10500,6 +11038,8 @@ var locations = [
 	name      : "Shield of Faith Christian Center of Pasadena",
 	address_1 : "1127 N. Lake Avenue",
 	address_2 : "",
+	city      : "Pasadena",
+	zip       : "91104",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu1st",
@@ -10539,6 +11079,8 @@ var locations = [
 	name      : "Shields for Families",
 	address_1 : "11705 Deputy Yamamoto Place",
 	address_2 : "",
+	city      : "Lynwood",
+	zip       : "90262",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu",
@@ -10578,6 +11120,8 @@ var locations = [
 	name      : "Silverlake Community Church-Hope Net",
 	address_1 : "2930 Hyperion Ave",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90027",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -10617,6 +11161,8 @@ var locations = [
 	name      : "Southeast Churches Service Center",
 	address_1 : "2780 E. Gage Avenue",
 	address_2 : "",
+	city      : "Huntington Park",
+	zip       : "90255",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -10656,6 +11202,8 @@ var locations = [
 	name      : "Sowing Seeds for Life",
 	address_1 : "1350 Arrow Hwy",
 	address_2 : "",
+	city      : "La Verne",
+	zip       : "91750",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed1st",
@@ -10695,6 +11243,8 @@ var locations = [
 	name      : "Spanish American S.D.A. Church",
 	address_1 : "1815 E. Bridge Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90033",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -10734,6 +11284,8 @@ var locations = [
 	name      : "St. Agnes Parish",
 	address_1 : "2625 S. Vermont Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90007",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -10773,6 +11325,8 @@ var locations = [
 	name      : "St. Andrew Catholic Church",
 	address_1 : "140 Chestnut Street",
 	address_2 : "",
+	city      : "Pasadena",
+	zip       : "91103",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -10812,6 +11366,8 @@ var locations = [
 	name      : "St. Athanasius & St. Paul Church",
 	address_1 : "840 Echo Park Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90026",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -10851,6 +11407,8 @@ var locations = [
 	name      : "St. Brigid Catholic Church",
 	address_1 : "5214 S. Western Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90062",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri3rd",
@@ -10890,6 +11448,8 @@ var locations = [
 	name      : "St. Catherine Laboure Catholic",
 	address_1 : "3846 Redondo Beach Boulevard",
 	address_2 : "",
+	city      : "Torrance",
+	zip       : "90504",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "SatLast",
@@ -10929,6 +11489,8 @@ var locations = [
 	name      : "St. Cecilia Catholic Church",
 	address_1 : "4230 S. Normandie Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90037",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat3rd",
@@ -10968,6 +11530,8 @@ var locations = [
 	name      : "St. Charles Service Center",
 	address_1 : "10825 Moorpark Street",
 	address_2 : "",
+	city      : "North Hollywood",
+	zip       : "91602",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -11007,6 +11571,8 @@ var locations = [
 	name      : "St. Ferdinand Church",
 	address_1 : "1109 Coronel Street",
 	address_2 : "",
+	city      : "San Fernando",
+	zip       : "91340",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri2nd",
@@ -11046,6 +11612,8 @@ var locations = [
 	name      : "St. Francis Center",
 	address_1 : "1835 S. Hope Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90015",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "",
@@ -11085,6 +11653,8 @@ var locations = [
 	name      : "St. George Church",
 	address_1 : "15721 Cornuta Avenue",
 	address_2 : "",
+	city      : "Bellflower",
+	zip       : "90706",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu2nd",
@@ -11124,6 +11694,8 @@ var locations = [
 	name      : "St. Gertrudes Conference",
 	address_1 : "7025 Garfield Avenue",
 	address_2 : "",
+	city      : "Bell Gardens",
+	zip       : "90201",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri2nd",
@@ -11163,6 +11735,8 @@ var locations = [
 	name      : "St. Helen Church",
 	address_1 : "9314 Madison Avenue",
 	address_2 : "",
+	city      : "South Gate",
+	zip       : "90280",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat4th",
@@ -11202,6 +11776,8 @@ var locations = [
 	name      : "St. James Episcopal Church-Hope Net",
 	address_1 : "3903 Wilshire Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90010",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu",
@@ -11241,6 +11817,8 @@ var locations = [
 	name      : "St. John Coptic Orthodox",
 	address_1 : "21329 E. Cienega Avenue",
 	address_2 : "",
+	city      : "Covina",
+	zip       : "91724",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu2nd",
@@ -11280,6 +11858,8 @@ var locations = [
 	name      : "St. John Vianney Church",
 	address_1 : "1345 Turnbull Canyon Road",
 	address_2 : "",
+	city      : "Hacienda Heights",
+	zip       : "91745",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -11319,6 +11899,8 @@ var locations = [
 	name      : "St. John's Cathedral-Hope Net",
 	address_1 : "514 W. Adams Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90007",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -11358,6 +11940,8 @@ var locations = [
 	name      : "St. Joseph Conference",
 	address_1 : "1150 W. Holt Avenue",
 	address_2 : "",
+	city      : "Pomona",
+	zip       : "91768",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -11397,6 +11981,8 @@ var locations = [
 	name      : "St. Lawrence of Brindisi",
 	address_1 : "10122 Compton Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90002",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -11436,6 +12022,8 @@ var locations = [
 	name      : "St. Luke Catholic Community",
 	address_1 : "9451 Broadway",
 	address_2 : "",
+	city      : "Temple City",
+	zip       : "91780",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -11475,6 +12063,8 @@ var locations = [
 	name      : "St. Margaret's Center",
 	address_1 : "10217 Inglewood Avenue",
 	address_2 : "",
+	city      : "Lennox",
+	zip       : "90304",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -11514,6 +12104,8 @@ var locations = [
 	name      : "St. Mark Missionary Baptist",
 	address_1 : "5017 Compton Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90011",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -11553,6 +12145,8 @@ var locations = [
 	name      : "St. Mary & St. Athanasius Coptic Church",
 	address_1 : "17431 Roscoe Blvd.",
 	address_2 : "",
+	city      : "Northridge",
+	zip       : "91325",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun3rd",
@@ -11592,6 +12186,8 @@ var locations = [
 	name      : "St. Mary's Place",
 	address_1 : "7215 Newlin Avenue",
 	address_2 : "",
+	city      : "Whittier",
+	zip       : "90602",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -11631,6 +12227,8 @@ var locations = [
 	name      : "St. Paul's Methodist Church",
 	address_1 : "2600 Nelson Avenue",
 	address_2 : "",
+	city      : "Redondo Beach",
+	zip       : "90278",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu1st",
@@ -11670,6 +12268,8 @@ var locations = [
 	name      : "St. Peter and Paul Poverty Program",
 	address_1 : "943 Lagoon Avenue",
 	address_2 : "",
+	city      : "Wilmington",
+	zip       : "90744",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -11709,6 +12309,8 @@ var locations = [
 	name      : "St. Philip's Episcopal Church",
 	address_1 : "2800 Stanford Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90011",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue2nd",
@@ -11748,6 +12350,8 @@ var locations = [
 	name      : "St. Stephen's Community Outreach Program",
 	address_1 : "122 Ramona Avenue",
 	address_2 : "",
+	city      : "Monterey Park",
+	zip       : "91754",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat",
@@ -11787,6 +12391,8 @@ var locations = [
 	name      : "St. Thomas Center",
 	address_1 : "2727 W.  Pico Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90006",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat1st",
@@ -11826,6 +12432,8 @@ var locations = [
 	name      : "St. Vincent de Paul Church",
 	address_1 : "621 W. Adams Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90007",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu",
@@ -11865,6 +12473,8 @@ var locations = [
 	name      : "Star Christian School",
 	address_1 : "2120 Estrella Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90007",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat2nd",
@@ -11904,6 +12514,8 @@ var locations = [
 	name      : "Sunland Tujunga T.A.C.",
 	address_1 : "7747 Foothill Boulevard",
 	address_2 : "",
+	city      : "Tujunga",
+	zip       : "91042",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -11943,6 +12555,8 @@ var locations = [
 	name      : "Tamarind Avenue S.D.A. Church",
 	address_1 : "417 S. Tamarind Avenue",
 	address_2 : "",
+	city      : "Compton",
+	zip       : "90220",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue4th",
@@ -11982,6 +12596,8 @@ var locations = [
 	name      : "Testimonial Community Love Ctr",
 	address_1 : "5721 S. Western Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90062",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu",
@@ -12021,6 +12637,8 @@ var locations = [
 	name      : "The Bible Tabernacle (Venice)",
 	address_1 : "1761 Washington Way",
 	address_2 : "",
+	city      : "Venice",
+	zip       : "90291",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -12060,6 +12678,8 @@ var locations = [
 	name      : "The Bible Tabernacle",
 	address_1 : "16301 Sierra Highway",
 	address_2 : "",
+	city      : "Santa Clarita",
+	zip       : "91351",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun",
@@ -12099,6 +12719,8 @@ var locations = [
 	name      : "The Great Vision Church",
 	address_1 : "4465 W. Melrose Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90029",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat1st",
@@ -12138,6 +12760,8 @@ var locations = [
 	name      : "The Lord's Church",
 	address_1 : "9701 Flower Street",
 	address_2 : "",
+	city      : "Bellflower",
+	zip       : "90706",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed2nd",
@@ -12177,6 +12801,8 @@ var locations = [
 	name      : "Tongan Community Service Center",
 	address_1 : "13030 Inglewood Avenue, Suite.104",
 	address_2 : "",
+	city      : "Hawthorne",
+	zip       : "90249",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue1st",
@@ -12216,6 +12842,8 @@ var locations = [
 	name      : "Total Deliverance Church",
 	address_1 : "45124 10th Street West",
 	address_2 : "",
+	city      : "Lancaster",
+	zip       : "93535",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri2nd",
@@ -12255,6 +12883,8 @@ var locations = [
 	name      : "Travelers Rest Missionary B.C.",
 	address_1 : "1417 E. Florence Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90001",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -12294,6 +12924,8 @@ var locations = [
 	name      : "Trinity Baptist Church L.A.",
 	address_1 : "2040 W. Jefferson Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90018",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -12333,6 +12965,8 @@ var locations = [
 	name      : "Trinity Evangelical Lutheran Church",
 	address_1 : "997 E. Walnut",
 	address_2 : "",
+	city      : "Pasadena",
+	zip       : "91106",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -12372,6 +13006,8 @@ var locations = [
 	name      : "Trinity Pantry Ministry",
 	address_1 : "1450 West 7th Street",
 	address_2 : "",
+	city      : "San Pedro",
+	zip       : "90732",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun",
@@ -12411,6 +13047,8 @@ var locations = [
 	name      : "Trinity United Methodist Church",
 	address_1 : "676 North Gibbs Street",
 	address_2 : "",
+	city      : "Pomona",
+	zip       : "91767",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "",
@@ -12450,6 +13088,8 @@ var locations = [
 	name      : "Tujunga United Methodist Church",
 	address_1 : "9901 Tujunga Canyon Boulevard",
 	address_2 : "",
+	city      : "Tujunga",
+	zip       : "91042",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -12489,6 +13129,8 @@ var locations = [
 	name      : "Twin Lakes Community Church",
 	address_1 : "17213 Lake Los Angeles Avenue",
 	address_2 : "",
+	city      : "Lake Los Angeles",
+	zip       : "93591",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat2nd",
@@ -12528,6 +13170,8 @@ var locations = [
 	name      : "United African Church",
 	address_1 : "1745 W. 55th Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90062",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun1st",
@@ -12567,6 +13211,8 @@ var locations = [
 	name      : "United Gospel Outreach",
 	address_1 : "7223 S. Main Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90003",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -12606,6 +13252,8 @@ var locations = [
 	name      : "University S.D.A. Church",
 	address_1 : "1135 Martin Luther Kin Jr. Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90037",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -12645,6 +13293,8 @@ var locations = [
 	name      : "Vallejo Drive S.D.A. Church",
 	address_1 : "311-B Vallejo Drive",
 	address_2 : "",
+	city      : "Glendale",
+	zip       : "91206",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu3rd",
@@ -12684,6 +13334,8 @@ var locations = [
 	name      : "Valley Crossroads S.D.A. Church",
 	address_1 : "11350 Glenoaks Blvd.",
 	address_2 : "",
+	city      : "Pacoima",
+	zip       : "91331",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat2nd",
@@ -12723,6 +13375,8 @@ var locations = [
 	name      : "Vermont Avenue Baptist Church",
 	address_1 : "23325 S. Vermont Ave.",
 	address_2 : "",
+	city      : "Torrance",
+	zip       : "90502",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat3rd",
@@ -12762,6 +13416,8 @@ var locations = [
 	name      : "Victory Baptist Church",
 	address_1 : "4802 South McKinley Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90011",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -12801,6 +13457,8 @@ var locations = [
 	name      : "Village Covenant",
 	address_1 : "5607 N. Barranca Avenue",
 	address_2 : "",
+	city      : "Azusa",
+	zip       : "91702",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri",
@@ -12840,6 +13498,8 @@ var locations = [
 	name      : "Vision of Hope Outreach Ministry",
 	address_1 : "5951 S. San Pedro",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90003",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat2nd",
@@ -12879,6 +13539,8 @@ var locations = [
 	name      : "Visions Community Outreach",
 	address_1 : "2300 S. Griffith Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90011",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat2nd",
@@ -12918,6 +13580,8 @@ var locations = [
 	name      : "Wesley United Methodist Church",
 	address_1 : "112 West 52nd Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90037",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Thu",
@@ -12957,6 +13621,8 @@ var locations = [
 	name      : "West Adams Church of Christ",
 	address_1 : "4959 W. Adams Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90016",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Fri3rd",
@@ -12996,6 +13662,8 @@ var locations = [
 	name      : "West Angeles Community Corporation",
 	address_1 : "3045 South Crenshaw Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90016",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -13035,6 +13703,8 @@ var locations = [
 	name      : "White Memorial S.D.A. Church",
 	address_1 : "401 N. State Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90033",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue1st",
@@ -13074,6 +13744,8 @@ var locations = [
 	name      : "Willowbrook Project Area Commission",
 	address_1 : "11901 S. Willowbrook Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90059",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed3rd",
@@ -13113,6 +13785,8 @@ var locations = [
 	name      : "Wilshire Boulevard Temple Hope-Net",
 	address_1 : "3663 Wilshire Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90010",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sun",
@@ -13152,6 +13826,8 @@ var locations = [
 	name      : "Wilshire Presbyterian Church-Hope Net",
 	address_1 : "309 S. Oxford Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90020",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -13191,6 +13867,8 @@ var locations = [
 	name      : "WSFB- Ocean Park Community Ctr",
 	address_1 : "503 Olympic Boulevard",
 	address_2 : "",
+	city      : "Santa Monica",
+	zip       : "90401",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -13230,6 +13908,8 @@ var locations = [
 	name      : "WSFB-St. Anne's Social Service",
 	address_1 : "2013 Colorado Avenue",
 	address_2 : "",
+	city      : "Santa Monica",
+	zip       : "90404",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Wed",
@@ -13269,6 +13949,8 @@ var locations = [
 	name      : "WSFB- St. Augustine SAVES",
 	address_1 : "3820 Jasmine Avenue",
 	address_2 : "",
+	city      : "Culver City",
+	zip       : "90232",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -13308,6 +13990,8 @@ var locations = [
 	name      : "WSFB- St. Gerard's Social Services",
 	address_1 : "4439 Inglewood Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90066",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue",
@@ -13347,6 +14031,8 @@ var locations = [
 	name      : "WSFB- St. Joseph's Center",
 	address_1 : "204 Hampton Drive",
 	address_2 : "",
+	city      : "Venice",
+	zip       : "90291",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Mon",
@@ -13386,6 +14072,8 @@ var locations = [
 	name      : "Young Hwa United Methodist Church",
 	address_1 : "214 S. Loma Drive",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90026",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Sat2nd",
@@ -13425,6 +14113,8 @@ var locations = [
 	name      : "Zion Hill Baptist Church",
 	address_1 : "7860 10th Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90043",
 	category  : "Food Pantry",
 	hours     : [{
 		day       : "Tue1st",
@@ -13469,6 +14159,8 @@ var locations = [
 	name      : "Adams - Vermont Farmers Market / Saint Agnes Church Farmer's Market",
 	address_1 : "1432 W Adams Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90007",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Wed",
@@ -13508,6 +14200,8 @@ var locations = [
 	name      : "Alhambra Certified Farmers Market",
 	address_1 : "100 S. 2nd Street",
 	address_2 : "",
+	city      : "Alhambra",
+	zip       : "91801",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sun",
@@ -13547,6 +14241,8 @@ var locations = [
 	name      : "Altadena Farmers Market",
 	address_1 : "600 W. Palm Street",
 	address_2 : "",
+	city      : "Altadena",
+	zip       : "91001",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Wed",
@@ -13586,6 +14282,8 @@ var locations = [
 	name      : "Antelope Valley Winery Farmers Market",
 	address_1 : "42041 20th St. West",
 	address_2 : "",
+	city      : "Lancaster",
+	zip       : "93534",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sat",
@@ -13625,6 +14323,8 @@ var locations = [
 	name      : "Arts District Farmers Market",
 	address_1 : "740 E 3rd St",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90013",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sat",
@@ -13664,6 +14364,8 @@ var locations = [
 	name      : "Atwater Village Farmers Market",
 	address_1 : "Wells Fargo Parking Lot",
 	address_2 : "3250 Glendale Blvd",
+	city      : "Los Angeles",
+	zip       : "90039",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sun",
@@ -13703,6 +14405,8 @@ var locations = [
 	name      : "Baldwin La Brea Farmers Market",
 	address_1 : "3601 S. La Brea Ave.",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90016",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sat",
@@ -13742,6 +14446,8 @@ var locations = [
 	name      : "Baldwin Park Farmers Market",
 	address_1 : "Baldwin Park - Cesar Chavez & Ramond",
 	address_2 : "1011 Baldwin Park Blvd",
+	city      : "Baldwin Park",
+	zip       : "91706",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Fri",
@@ -13781,6 +14487,8 @@ var locations = [
 	name      : "Bank Of America Plaza Farmers Market",
 	address_1 : "333 S Hope St",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90021",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Fri",
@@ -13820,6 +14528,8 @@ var locations = [
 	name      : "Bellflower Farmers Market",
 	address_1 : "16614 Clark Ave at Oak Street",
 	address_2 : "",
+	city      : "Bellflower",
+	zip       : "90706",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Mon",
@@ -13859,6 +14569,8 @@ var locations = [
 	name      : "Beverly Hills Farmers Market",
 	address_1 : "9300 Civic Center Drive",
 	address_2 : "",
+	city      : "Beverly Hills",
+	zip       : "90210",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sun",
@@ -13898,6 +14610,8 @@ var locations = [
 	name      : "Boyle Heights Farmers Market",
 	address_1 : "1831 E 1st St",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90033",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Fri",
@@ -13937,6 +14651,8 @@ var locations = [
 	name      : "Brentwood Village Farmers Market",
 	address_1 : "741 South Gretna Green Way",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90049",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sun",
@@ -13976,6 +14692,8 @@ var locations = [
 	name      : "Burbank Farmers Market",
 	address_1 : "Corner of Olive & Glenoaks",
 	address_2 : "150 N. Third Street, Community Serv building parking lot",
+	city      : "Burbank",
+	zip       : "91502",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sat",
@@ -14015,6 +14733,8 @@ var locations = [
 	name      : "Cal State University Northridge (CSUN) Farmers Market (CFM)",
 	address_1 : "18111 Nordhoff Street",
 	address_2 : "",
+	city      : "Northridge",
+	zip       : "91325",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Tue",
@@ -14054,6 +14774,8 @@ var locations = [
 	name      : "Calabasas Old Town Farmers Market",
 	address_1 : "Calabasas & Mulholland Dr.",
 	address_2 : "23504 Calabasas Rd, Calabasas, 91302",
+	city      : "Calabasas",
+	zip       : "91303",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sat",
@@ -14093,6 +14815,8 @@ var locations = [
 	name      : "Canoga Park Farmers Market",
 	address_1 : "On Owensmouth Avenue between Wyandotte Street & Sherman Way",
 	address_2 : "7248 Owensmouth Ave",
+	city      : "Canoga Park",
+	zip       : "91303",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sat",
@@ -14132,6 +14856,8 @@ var locations = [
 	name      : "Central Ave Farmers Market",
 	address_1 : "courtyard of the Central Avenue Constituent Services Center",
 	address_2 : "4301 Central Ave  at 43rd st",
+	city      : "Los angeles  California",
+	zip       : "90011",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Thu",
@@ -14171,6 +14897,8 @@ var locations = [
 	name      : "Century City Farmers Market",
 	address_1 : "10100 Santa Monica Blvd.",
 	address_2 : "",
+	city      : "Century City",
+	zip       : "90037",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Thu",
@@ -14210,6 +14938,8 @@ var locations = [
 	name      : "Cerritos Farmers Market",
 	address_1 : "17870 Park plaza Drive",
 	address_2 : "",
+	city      : "Cerritos",
+	zip       : "90703",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sat",
@@ -14249,6 +14979,8 @@ var locations = [
 	name      : "Children's Hospital LA CFM",
 	address_1 : "4650 Sunset Blvd.",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90027",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Wed",
@@ -14288,6 +15020,8 @@ var locations = [
 	name      : "Claremont Farmers Market",
 	address_1 : "N Indian Hill Blvd & W 2Nd St",
 	address_2 : "",
+	city      : "Claremont",
+	zip       : "91711",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sun",
@@ -14327,6 +15061,8 @@ var locations = [
 	name      : "Compton Blue Line Farmers Market",
 	address_1 : "101 E Palmer Street",
 	address_2 : "",
+	city      : "Compton",
+	zip       : "90220",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Thu",
@@ -14366,6 +15102,8 @@ var locations = [
 	name      : "Covina Farmers Market",
 	address_1 : "Citrus Ave and San Bernandino Rd",
 	address_2 : "Heritage Plaza",
+	city      : "Covina",
+	zip       : "",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Fri",
@@ -14405,6 +15143,8 @@ var locations = [
 	name      : "Crenshaw Baldwin Hill Farmers Market",
 	address_1 : "3650 W Martin Luther King Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90008",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sat",
@@ -14444,6 +15184,8 @@ var locations = [
 	name      : "Culver City Farmers Market",
 	address_1 : "Main & Culver",
 	address_2 : "",
+	city      : "Culver City",
+	zip       : "90232",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Tue",
@@ -14483,6 +15225,8 @@ var locations = [
 	name      : "Diamond Bar Farmers Market",
 	address_1 : "Calvary Chapel Church",
 	address_2 : "",
+	city      : "Diamond Bar",
+	zip       : "91765",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sat",
@@ -14522,6 +15266,8 @@ var locations = [
 	name      : "Downey Farmers Market",
 	address_1 : "La Reina Ave & 2nd St",
 	address_2 : "",
+	city      : "Downey",
+	zip       : "90242",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sat",
@@ -14561,6 +15307,8 @@ var locations = [
 	name      : "Downtown Los Angeles (Fig at 7th) Farmers Market",
 	address_1 : "S Figueroa St & W 7th St",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90017",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Thu",
@@ -14600,6 +15348,8 @@ var locations = [
 	name      : "Duarte City of Hope Farmers Market",
 	address_1 : "1500 Duarte Rd",
 	address_2 : "",
+	city      : "DUARTE",
+	zip       : "91010",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Thu",
@@ -14639,6 +15389,8 @@ var locations = [
 	name      : "Eagle Rock Farmers Market",
 	address_1 : "2035 Colorado Blvd.",
 	address_2 : "",
+	city      : "Eagle Rock",
+	zip       : "90041",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Fri",
@@ -14678,6 +15430,8 @@ var locations = [
 	name      : "East Hollywood Farmers Market",
 	address_1 : "5448 Hollywood Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90027",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Thu",
@@ -14717,6 +15471,8 @@ var locations = [
 	name      : "East LA Farmers' Market",
 	address_1 : "4801 East 3rd Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90022",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sat",
@@ -14756,6 +15512,8 @@ var locations = [
 	name      : "Echo Park Farmers Market",
 	address_1 : "Logan St. and Sunset Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90026",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Fri",
@@ -14795,6 +15553,8 @@ var locations = [
 	name      : "El Segundo Plaza Farmers Market",
 	address_1 : "300 Main St.",
 	address_2 : "",
+	city      : "El Segundo",
+	zip       : "90245",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Thu",
@@ -14834,6 +15594,8 @@ var locations = [
 	name      : "Encino Farmers Market",
 	address_1 : "17400 Victory Blvd in Van Nuys",
 	address_2 : "",
+	city      : "Van Nuys",
+	zip       : "91406",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sun",
@@ -14873,6 +15635,8 @@ var locations = [
 	name      : "Gardena Hollypark Farmers Market",
 	address_1 : "13000 Van Ness",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90047",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sat",
@@ -14912,6 +15676,8 @@ var locations = [
 	name      : "Green Acres",
 	address_1 : "5000 East Spring Street",
 	address_2 : "",
+	city      : "Long Beach",
+	zip       : "90815",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Thu",
@@ -14951,6 +15717,8 @@ var locations = [
 	name      : "Hermosa Beach Farmers Market",
 	address_1 : "Valley Dr. between 8th St. & 10th St.",
 	address_2 : "",
+	city      : "Hermosa Beach",
+	zip       : "90254",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Wed",
@@ -14990,6 +15758,8 @@ var locations = [
 	name      : "Historic Downtown Farmers' Market (CFM)",
 	address_1 : "205 West 5th Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90013",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sun",
@@ -15029,6 +15799,8 @@ var locations = [
 	name      : "Hollywood Farmers Market",
 	address_1 : "1500 N Ivar Ave",
 	address_2 : "",
+	city      : "Hollywood",
+	zip       : "90028",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sun",
@@ -15068,6 +15840,8 @@ var locations = [
 	name      : "Howard Hughes Farmers Market",
 	address_1 : "6080 Center Drive",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90230",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Thu",
@@ -15107,6 +15881,8 @@ var locations = [
 	name      : "Huntington Park Farmers Market",
 	address_1 : "3401 East Florence Avenue",
 	address_2 : "",
+	city      : "Huntington Park",
+	zip       : "90255",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Wed",
@@ -15146,6 +15922,8 @@ var locations = [
 	name      : "Inglewood Farmers Market",
 	address_1 : "Market Street and Manchester Blvd.",
 	address_2 : "",
+	city      : "Inglewood",
+	zip       : "90302",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Thu1st",
@@ -15185,6 +15963,8 @@ var locations = [
 	name      : "Jack Newe's Farmers Market",
 	address_1 : "1920 S Brea Canyon Cut Off",
 	address_2 : "",
+	city      : "Walnut",
+	zip       : "",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sat",
@@ -15224,6 +16004,8 @@ var locations = [
 	name      : "Kaiser Baldwin Park Farmers Market",
 	address_1 : "1011 Baldwin Park Blvd",
 	address_2 : "",
+	city      : "Baldwin Park",
+	zip       : "91706",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Fri",
@@ -15263,6 +16045,8 @@ var locations = [
 	name      : "Kaiser Downey",
 	address_1 : "9333 E. Imperial Hwy in Kaiser Medical Center",
 	address_2 : "",
+	city      : "Downey",
+	zip       : "90242",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Thu",
@@ -15302,6 +16086,8 @@ var locations = [
 	name      : "Kaiser Medical Center Panorama City FM",
 	address_1 : "13652 Cantara Street",
 	address_2 : "",
+	city      : "Panorama City",
+	zip       : "91402",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Wed",
@@ -15341,6 +16127,8 @@ var locations = [
 	name      : "Kaiser Medical Center Woodland Hills",
 	address_1 : "5601 De Soto Avenue",
 	address_2 : "",
+	city      : "Woodland Hills",
+	zip       : "91367",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Thu",
@@ -15380,6 +16168,8 @@ var locations = [
 	name      : "Kaiser South Bay Farmers Market",
 	address_1 : "25825 S. Vermont Avenue",
 	address_2 : "",
+	city      : "Harbor City",
+	zip       : "90710",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Wed",
@@ -15419,6 +16209,8 @@ var locations = [
 	name      : "Kaiser -West LA Farmers Market",
 	address_1 : "6041 Cadillac Ave",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90034",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Wed",
@@ -15458,6 +16250,8 @@ var locations = [
 	name      : "L.A. Central Avenue Farmers Market",
 	address_1 : "4301 S. Central Avenue",
 	address_2 : "",
+	city      : "Hollywood",
+	zip       : "90028",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Thu",
@@ -15497,6 +16291,8 @@ var locations = [
 	name      : "L.A. City Hall (Little Tokyo CFM)",
 	address_1 : "200 North Main Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90012",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Thu",
@@ -15536,6 +16332,8 @@ var locations = [
 	name      : "L.A. Larchmont Village Farmers Market",
 	address_1 : "Larchmont Bldg., Lot #694",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90042",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sun",
@@ -15575,6 +16373,8 @@ var locations = [
 	name      : "L.A. Melrose Place Farmers Market",
 	address_1 : "Melrose Place & Croft",
 	address_2 : "8400 Melrose Ave, Los Angeles, CA 90069",
+	city      : "Los Angeles",
+	zip       : "90069",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sun",
@@ -15614,6 +16414,8 @@ var locations = [
 	name      : "L.A. Silverlake Farmers Market",
 	address_1 : "3700 Sunset Blvd.",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90026",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Tue",
@@ -15653,6 +16455,8 @@ var locations = [
 	name      : "La Canada Flintridge Farmers Market",
 	address_1 : "Beulah Dr. & Foothill Ave.",
 	address_2 : "",
+	city      : "La Canada Flintridge",
+	zip       : "91011",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sat",
@@ -15692,6 +16496,8 @@ var locations = [
 	name      : "La Cienega Farmers Market (CFM)",
 	address_1 : "1831 South La Cienega Blvd.",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90035",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Thu",
@@ -15731,6 +16537,8 @@ var locations = [
 	name      : "La Puente Live Farmers Market",
 	address_1 : "Main Street & First Street",
 	address_2 : "",
+	city      : "La Puente",
+	zip       : "91744",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Fri",
@@ -15770,6 +16578,8 @@ var locations = [
 	name      : "Lancaster Farmers Market / BLVD Farmers' Market",
 	address_1 : "758 West Lancaster Blvd",
 	address_2 : "",
+	city      : "Lancaster",
+	zip       : "93534",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Thu",
@@ -15809,6 +16619,8 @@ var locations = [
 	name      : "Lancaster Farmers Market",
 	address_1 : "721 Lancaster Blvd.",
 	address_2 : "",
+	city      : "Lancaster",
+	zip       : "93534",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Thu",
@@ -15848,6 +16660,8 @@ var locations = [
 	name      : "Lawndale Farmers Market",
 	address_1 : "14717 Burin Ave.",
 	address_2 : "",
+	city      : "Lawndale",
+	zip       : "90260",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Wed",
@@ -15887,6 +16701,8 @@ var locations = [
 	name      : "Lincoln Heights Farmers Market",
 	address_1 : "2334 Daly St.",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90031",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Wed",
@@ -15926,6 +16742,8 @@ var locations = [
 	name      : "Local Harvest Farmers Market",
 	address_1 : "Marine Stadium at Appian Way & Nieto",
 	address_2 : "",
+	city      : "Long Beach",
+	zip       : "90803",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Wed",
@@ -15965,6 +16783,8 @@ var locations = [
 	name      : "Long Beach Downtown CFM",
 	address_1 : "199 East 5th Street",
 	address_2 : "Inside City Place Shopping Center, on Promenade north between 3rd and 5th. ",
+	city      : "Long Beach",
+	zip       : "90805",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Fri",
@@ -16004,6 +16824,8 @@ var locations = [
 	name      : "Long Beach Southeast Farmers Market",
 	address_1 : "2nd St. and N. Marina Dr.",
 	address_2 : "Parking lot of the Alamitos Bay Marina, on E. Marina Dr. one quarter mile south of E. 2nd St., just west of PCH",
+	city      : "Long Beach",
+	zip       : "90803",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sun",
@@ -16043,6 +16865,8 @@ var locations = [
 	name      : "Long Beach Uptown Farmers Market",
 	address_1 : "E 46Th St & Atlantic Ave",
 	address_2 : "",
+	city      : "Long Beach",
+	zip       : "90807",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Thu",
@@ -16082,6 +16906,8 @@ var locations = [
 	name      : "Los Feliz Village CFM",
 	address_1 : "1825 North Vermont Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90027",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sun",
@@ -16121,6 +16947,8 @@ var locations = [
 	name      : "Malibu Farmers Market",
 	address_1 : "23555 Civic Center Way",
 	address_2 : "",
+	city      : "Malibu",
+	zip       : "90265",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sun",
@@ -16160,6 +16988,8 @@ var locations = [
 	name      : "Manhattan Beach Farmers Market",
 	address_1 : "326 13th St",
 	address_2 : "",
+	city      : "Manhattan Beach",
+	zip       : "90266",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Tue",
@@ -16199,6 +17029,8 @@ var locations = [
 	name      : "Mar Vista Farmers Market",
 	address_1 : "3826 Grand View Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90066",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sun",
@@ -16238,6 +17070,8 @@ var locations = [
 	name      : "Miracle Mile Farmers Market",
 	address_1 : "5700 Wilshire Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90036",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Wed",
@@ -16277,6 +17111,8 @@ var locations = [
 	name      : "Monrovia Farmers Market - Friday",
 	address_1 : "200 Block of Myrtle Ave @ Olive",
 	address_2 : "",
+	city      : "Monrovia",
+	zip       : "91016",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Fri",
@@ -16316,6 +17152,8 @@ var locations = [
 	name      : "Monterey Park Farmers Market",
 	address_1 : "318 S. Ramona Ave",
 	address_2 : "",
+	city      : "Monterey Park",
+	zip       : "91754",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Fri",
@@ -16355,6 +17193,8 @@ var locations = [
 	name      : "Montrose Harvest Market Farmers Market",
 	address_1 : "Honolulu & Ocean Avenue",
 	address_2 : "",
+	city      : "Santa Barbara",
+	zip       : "93101",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Mon",
@@ -16394,6 +17234,8 @@ var locations = [
 	name      : "Motor Avenue Farmers Market",
 	address_1 : "10316 National @ Motor Ave.",
 	address_2 : "Free Parking: 3376 Motor Avenue",
+	city      : "Los Angeles",
+	zip       : "90034",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Tue",
@@ -16433,6 +17275,8 @@ var locations = [
 	name      : "Newhall Farmers Market",
 	address_1 : "24500 Main Street",
 	address_2 : "",
+	city      : "Santa Clarita",
+	zip       : "91321",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sat",
@@ -16472,6 +17316,8 @@ var locations = [
 	name      : "Northridge Farmers Market And Family Festival",
 	address_1 : "9301 Tampa Ave",
 	address_2 : "",
+	city      : "Northridge",
+	zip       : "91324",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Wed",
@@ -16511,6 +17357,8 @@ var locations = [
 	name      : "Northridge University Farmers Market",
 	address_1 : "18111 Nordroff Street",
 	address_2 : "",
+	city      : "Northridge",
+	zip       : "91330",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Tue",
@@ -16550,6 +17398,8 @@ var locations = [
 	name      : "Old Highland Park Farmers Market",
 	address_1 : "5703 N Figueroa St",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90042",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Tue",
@@ -16589,6 +17439,8 @@ var locations = [
 	name      : "Old L.A. Farmers Market",
 	address_1 : "North Figueroa & Ave. 58",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90042",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Tue",
@@ -16628,6 +17480,8 @@ var locations = [
 	name      : "Palos Verdes Farmers Market",
 	address_1 : "27118 Silver Spur Rd",
 	address_2 : "",
+	city      : "Rolling Hills Estates",
+	zip       : "90274",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sun",
@@ -16667,6 +17521,8 @@ var locations = [
 	name      : "Paramount Farmers Market",
 	address_1 : "15500 Downey Ave",
 	address_2 : "",
+	city      : "Paramount",
+	zip       : "90723",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Fri",
@@ -16706,6 +17562,8 @@ var locations = [
 	name      : "Pasadena Victory Park Farmers Market",
 	address_1 : "2900 N. Sierra Madre Blvd between Paloma and Washington Avenues",
 	address_2 : "",
+	city      : "Pasadena",
+	zip       : "91107",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sat",
@@ -16745,6 +17603,8 @@ var locations = [
 	name      : "Pasadena Villa Parke Farmers Market",
 	address_1 : "363 E. Villa St.",
 	address_2 : "",
+	city      : "Pasadena",
+	zip       : "91101",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Tue",
@@ -16784,6 +17644,8 @@ var locations = [
 	name      : "Playa Vista Farmers Market",
 	address_1 : "12775 W. Millennium Drive",
 	address_2 : "",
+	city      : "Playa Vista",
+	zip       : "90094",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sat",
@@ -16823,6 +17685,8 @@ var locations = [
 	name      : "Pomona Valley CFM",
 	address_1 : "Corner of Pearl St & Garey Ave",
 	address_2 : "",
+	city      : "Pomona",
+	zip       : "91767",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sat",
@@ -16862,6 +17726,8 @@ var locations = [
 	name      : "Redondo Beach Farmers Market",
 	address_1 : "309 Esplanade",
 	address_2 : "",
+	city      : "Redondo Beach",
+	zip       : "90277",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Thu",
@@ -16901,6 +17767,8 @@ var locations = [
 	name      : "Riviera Village Farmers Market",
 	address_1 : "S Elena St & Avenida del Norte",
 	address_2 : "",
+	city      : "Redondo Beach",
+	zip       : "90277",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sun",
@@ -16940,6 +17808,8 @@ var locations = [
 	name      : "Rosemead Farmers Market",
 	address_1 : "8838 Valley Blvd.",
 	address_2 : "",
+	city      : "Rosemead",
+	zip       : "91770",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Mon",
@@ -16979,6 +17849,8 @@ var locations = [
 	name      : "San Pedro Farmers Market",
 	address_1 : "W 6Th St & S Mesa St",
 	address_2 : "",
+	city      : "San Pedro",
+	zip       : "90731",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Fri",
@@ -17018,6 +17890,8 @@ var locations = [
 	name      : "Santa Clarita Farmers Market",
 	address_1 : "College of the Canyons Valencia Campus",
 	address_2 : "26455 Rockwell Canyon Rd.",
+	city      : "Valencia",
+	zip       : "91355",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sun",
@@ -17057,6 +17931,8 @@ var locations = [
 	name      : "Santa Fe Springs Farmers Market",
 	address_1 : "11740 Telegraph Road",
 	address_2 : "",
+	city      : "Santa Fe Springs",
+	zip       : "90670",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Wed",
@@ -17096,6 +17972,8 @@ var locations = [
 	name      : "Santa Monica Downtown Farmers Market",
 	address_1 : "Arizona Ave between 4th St and Ocean",
 	address_2 : "",
+	city      : "Santa Monica",
+	zip       : "90401",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sat",
@@ -17135,6 +18013,8 @@ var locations = [
 	name      : "Santa Monica Farmers Market - Saturday Virginia Avenue Park",
 	address_1 : "2200 Virginia Avenue",
 	address_2 : "(Pico Blvd. @ Cloverfield Blvd.)",
+	city      : "Santa Monica",
+	zip       : "90405",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sat",
@@ -17174,6 +18054,8 @@ var locations = [
 	name      : "Santa Monica Farmers Market - Sunday Main Street",
 	address_1 : "2640 Main Street",
 	address_2 : "(in Heritage Square)",
+	city      : "Santa Monica",
+	zip       : "90405",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sun",
@@ -17213,6 +18095,8 @@ var locations = [
 	name      : "Temple City Farmers Market",
 	address_1 : "9701 Las  Tunas Dr",
 	address_2 : "",
+	city      : "Temple City",
+	zip       : "91780",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sun",
@@ -17252,6 +18136,8 @@ var locations = [
 	name      : "The Village Farmers Market",
 	address_1 : "6250 Topanga Blvd.",
 	address_2 : "",
+	city      : "Woodland HIlls",
+	zip       : "91367",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sun",
@@ -17291,6 +18177,8 @@ var locations = [
 	name      : "The WALL Food + Flowers + Farmers Market",
 	address_1 : "755 Wall Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90014",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sat",
@@ -17330,6 +18218,8 @@ var locations = [
 	name      : "Toluca Lake Farmers Market",
 	address_1 : "Sancola Ave & Riverside Dr",
 	address_2 : "",
+	city      : "Toluca Lake",
+	zip       : "91610",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sun",
@@ -17369,6 +18259,8 @@ var locations = [
 	name      : "Topanga Canyon CFM",
 	address_1 : "1440 North Topanga Canyon Blvd.",
 	address_2 : "",
+	city      : "Topanga",
+	zip       : "90503",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Fri",
@@ -17408,6 +18300,8 @@ var locations = [
 	name      : "Torrance Providence Farmers Market",
 	address_1 : "4101 Torranc Blvd. @ Hawthorne Blvd",
 	address_2 : "",
+	city      : "Torrance",
+	zip       : "90503",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Fri",
@@ -17447,6 +18341,8 @@ var locations = [
 	name      : "Torrance Farmers Market -Tuesday and saturday- 2200 Crenshaw Blvd Torrance,Ca.90501",
 	address_1 : "2200 Crenshaw Blvd",
 	address_2 : "",
+	city      : "Torrance",
+	zip       : "90501",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Tue",
@@ -17486,6 +18382,8 @@ var locations = [
 	name      : "Uptown Whittier Farmers Market",
 	address_1 : "Bright Ave & Philadelphia St",
 	address_2 : "13018 Philadelphia St.",
+	city      : "Whittier",
+	zip       : "90602",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Fri",
@@ -17525,6 +18423,8 @@ var locations = [
 	name      : "USC Hospitality Farmers Market",
 	address_1 : "3445 S. Figueroa Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90007",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Wed",
@@ -17564,6 +18464,8 @@ var locations = [
 	name      : "Valencia Farmers Market",
 	address_1 : "24201 Valencia Blvd",
 	address_2 : "",
+	city      : "valencia",
+	zip       : "91355",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Thu",
@@ -17603,6 +18505,8 @@ var locations = [
 	name      : "Venice Farmers Market",
 	address_1 : "N Venice Blvd & Venice Way",
 	address_2 : "",
+	city      : "Venice",
+	zip       : "90291",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Fri",
@@ -17642,6 +18546,8 @@ var locations = [
 	name      : "Watts Healthy Farmers Market",
 	address_1 : "1335 East 103rd Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90002",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sat",
@@ -17681,6 +18587,8 @@ var locations = [
 	name      : "Wellington Square Farmers Market",
 	address_1 : "4394 W Washington Blvd.",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90016",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sun",
@@ -17720,6 +18628,8 @@ var locations = [
 	name      : "West Covina Farmers Market",
 	address_1 : "195 S. Glendora Ave.",
 	address_2 : "",
+	city      : "West Covina",
+	zip       : "91790",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sat",
@@ -17759,6 +18669,8 @@ var locations = [
 	name      : "West Hollywood Farmers Market",
 	address_1 : "1200 N Vista St",
 	address_2 : "",
+	city      : "West Hollywood",
+	zip       : "90046",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Mon",
@@ -17798,6 +18710,8 @@ var locations = [
 	name      : "West Los Angeles Farmers Market",
 	address_1 : "1645 Corinth Avenue at Santa Monica Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90025",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sun",
@@ -17837,6 +18751,8 @@ var locations = [
 	name      : "Westchester Farmers Market",
 	address_1 : "7000 W Manchester Ave",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90045",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Wed",
@@ -17876,6 +18792,8 @@ var locations = [
 	name      : "Westwood Village Farmers Market",
 	address_1 : "1083 Braxton Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90024",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Thu",
@@ -17915,6 +18833,8 @@ var locations = [
 	name      : "Whittier Host Lions Farmers Market",
 	address_1 : "9401 S Painter Ave",
 	address_2 : "",
+	city      : "Whittier",
+	zip       : "90605",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sat",
@@ -17954,6 +18874,8 @@ var locations = [
 	name      : "Wilmington Farmers Market",
 	address_1 : "Avalon and L St.",
 	address_2 : "",
+	city      : "Wilminton",
+	zip       : "90744",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Thu",
@@ -17993,6 +18915,8 @@ var locations = [
 	name      : "Woodland Hills Farmers Market",
 	address_1 : "23504 Calabasas Rd",
 	address_2 : "",
+	city      : "Calabasas",
+	zip       : "91302",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sat",
@@ -18032,6 +18956,8 @@ var locations = [
 	name      : "Woodman Avenue Farmers Market",
 	address_1 : "14006 Riverside Dr",
 	address_2 : "",
+	city      : "Sherman Oaks",
+	zip       : "91423",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Tue",
@@ -18076,6 +19002,8 @@ var locations = [
 	name      : "Arleta Community Garden",
 	address_1 : "8800 Canterbury Avenue",
 	address_2 : "",
+	city      : "San Fernando Valley",
+	zip       : "91331",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -18115,6 +19043,8 @@ var locations = [
 	name      : "Chino Community Garden & Park",
 	address_1 : "5976 Riverside Drive",
 	address_2 : "",
+	city      : "Chino",
+	zip       : "91710",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -18154,6 +19084,8 @@ var locations = [
 	name      : "Crenshaw Community Garden",
 	address_1 : "1423 S Crenshaw Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90019",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -18193,6 +19125,8 @@ var locations = [
 	name      : "Eagle Rockdale Community Garden & Art Park",
 	address_1 : "1003 Rockdale Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90041",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -18232,6 +19166,8 @@ var locations = [
 	name      : "Eastwind Community Garden",
 	address_1 : "110 Eastwind Street",
 	address_2 : "",
+	city      : "Marina Del Rey",
+	zip       : "90292",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -18271,6 +19207,8 @@ var locations = [
 	name      : "El Sereno Community Garden",
 	address_1 : "5466 Huntington Drive",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90032",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -18310,6 +19248,8 @@ var locations = [
 	name      : "Elysian Valley Community Garden",
 	address_1 : "1816 W Blake Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90039",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -18349,6 +19289,8 @@ var locations = [
 	name      : "Emerson Avenue Community Garden",
 	address_1 : "6550 W 80th Street",
 	address_2 : "",
+	city      : "Westchester",
+	zip       : "90045",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -18388,6 +19330,8 @@ var locations = [
 	name      : "Enrique Noguera Educational Garden",
 	address_1 : "6614 Fountain Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90038",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -18427,6 +19371,8 @@ var locations = [
 	name      : "Epworth Community Garden",
 	address_1 : "1419 W 65th Place",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90047",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -18466,6 +19412,8 @@ var locations = [
 	name      : "Erika J. Glazer Community Garden",
 	address_1 : "2632 Raymond Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90007",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -18505,6 +19453,8 @@ var locations = [
 	name      : "Feed & Be Fed",
 	address_1 : "429 West 6th Street",
 	address_2 : "",
+	city      : "San Pedro",
+	zip       : "90731",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -18544,6 +19494,8 @@ var locations = [
 	name      : "Fountain Community Gardens",
 	address_1 : "5620 Fountain Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90028",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -18583,6 +19535,8 @@ var locations = [
 	name      : "Fremont Wellness Center & Community Garden",
 	address_1 : "7821 S Avalon Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90003",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -18622,6 +19576,8 @@ var locations = [
 	name      : "Glassell Park Community Garden",
 	address_1 : "3304 Drew Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90065",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -18661,6 +19617,8 @@ var locations = [
 	name      : "Good Earth Community Garden",
 	address_1 : "5990 Boden St",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90016",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -18700,6 +19658,8 @@ var locations = [
 	name      : "Granada Hills Salad Bowl Garden Club",
 	address_1 : "16003 Rinaldi Street",
 	address_2 : "",
+	city      : "Granada Hills",
+	zip       : "91344",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -18739,6 +19699,8 @@ var locations = [
 	name      : "Greater Watts Community Garden",
 	address_1 : "660 E 118th Place",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90059",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -18778,6 +19740,8 @@ var locations = [
 	name      : "Holy Nativity Community Garden",
 	address_1 : "6700 W 83rd Street",
 	address_2 : "",
+	city      : "Westchester",
+	zip       : "90045",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -18817,6 +19781,8 @@ var locations = [
 	name      : "Howard Finn Community Garden",
 	address_1 : "7747 Foothill Blvd",
 	address_2 : "",
+	city      : "Tujunga",
+	zip       : "91042",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -18856,6 +19822,8 @@ var locations = [
 	name      : "Huerta del Valle Garden",
 	address_1 : "831 East Belmont Street",
 	address_2 : "",
+	city      : "Ontario",
+	zip       : "91761",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -18895,6 +19863,8 @@ var locations = [
 	name      : "Jardin Del Rio",
 	address_1 : "2363 N Riverdale Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90031",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -18934,6 +19904,8 @@ var locations = [
 	name      : "John S. Gibson Senior Garden",
 	address_1 : "1500 S Harbor Blvd",
 	address_2 : "",
+	city      : "San Pedro",
+	zip       : "90731",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -18973,6 +19945,8 @@ var locations = [
 	name      : "Mansfield Fountain Community Garden",
 	address_1 : "1259 N Mansfield Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90038",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -19012,6 +19986,8 @@ var locations = [
 	name      : "Manzanita Street Community Garden",
 	address_1 : "1101 Manzanita Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90029",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -19051,6 +20027,8 @@ var locations = [
 	name      : "Mar Vista Community Garden",
 	address_1 : "5075 S Slauson Avenue",
 	address_2 : "",
+	city      : "Culver City",
+	zip       : "90230",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -19090,6 +20068,8 @@ var locations = [
 	name      : "Messiah Organic Community Garden",
 	address_1 : "7300 West Manchester Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90045",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -19129,6 +20109,8 @@ var locations = [
 	name      : "Milagro Allegro Community Garden",
 	address_1 : "115 S Avenue 56",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90042",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -19168,6 +20150,8 @@ var locations = [
 	name      : "Moothart Collingnon/Francis Avenue Community Garden",
 	address_1 : "2909 Francis Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90005",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -19207,6 +20191,8 @@ var locations = [
 	name      : "Norman Harriton Community Garden",
 	address_1 : "2037 N Sanborn Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90027",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -19246,6 +20232,8 @@ var locations = [
 	name      : "Ocean View Farms",
 	address_1 : "3300 S Centinela Avenue",
 	address_2 : "",
+	city      : "Mar Vista",
+	zip       : "90066",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -19285,6 +20273,8 @@ var locations = [
 	name      : "Orcutt Ranch Horticultural Center Rancho Sombra del Roble",
 	address_1 : "23600 Roscoe Blvd",
 	address_2 : "",
+	city      : "West Hills",
+	zip       : "91304",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -19324,6 +20314,8 @@ var locations = [
 	name      : "Pomona Hope Center Street Garden",
 	address_1 : "192 East Center Street",
 	address_2 : "",
+	city      : "Pomona",
+	zip       : "91767",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -19363,6 +20355,8 @@ var locations = [
 	name      : "Pomona South Hills Gardens",
 	address_1 : "1170 Fremont Street",
 	address_2 : "",
+	city      : "Pomona",
+	zip       : "91766",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -19402,6 +20396,8 @@ var locations = [
 	name      : "Rancho San Pedro Community Garden",
 	address_1 : "275 W 1st Street",
 	address_2 : "",
+	city      : "San Pedro",
+	zip       : "90731",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -19441,6 +20437,8 @@ var locations = [
 	name      : "Rosewood Gardens",
 	address_1 : "4160 Rosewood Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90004",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -19480,6 +20478,8 @@ var locations = [
 	name      : "Saint Paul’s Episcopal Church",
 	address_1 : "242 East Alvarado Street",
 	address_2 : "",
+	city      : "Pomona",
+	zip       : "91767",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -19519,6 +20519,8 @@ var locations = [
 	name      : "Salesian Boys & Girls Club Community Garden",
 	address_1 : "2228 E 4th Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90033",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -19558,6 +20560,8 @@ var locations = [
 	name      : "San Pedro Gardens",
 	address_1 : "1400 N Gaffey Street",
 	address_2 : "",
+	city      : "San Pedro",
+	zip       : "90731",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -19597,6 +20601,8 @@ var locations = [
 	name      : "Sarvodaya Farms",
 	address_1 : "1196 South San Antonio Avenue",
 	address_2 : "",
+	city      : "Pomona",
+	zip       : "91766",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -19636,6 +20642,8 @@ var locations = [
 	name      : "Sepulveda Garden Center",
 	address_1 : "16633 Magnolia Boulevard",
 	address_2 : "",
+	city      : "Encino",
+	zip       : "91436",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -19675,6 +20683,8 @@ var locations = [
 	name      : "Solano Canyon Community Garden",
 	address_1 : "545 Solano Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90012",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -19714,6 +20724,8 @@ var locations = [
 	name      : "Spring Street Community Garden",
 	address_1 : "220 S Spring Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90012",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -19753,6 +20765,8 @@ var locations = [
 	name      : "Stanford Avalon Community Garden",
 	address_1 : "658 E 111th Place",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90059",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -19792,6 +20806,8 @@ var locations = [
 	name      : "The Learning Garden",
 	address_1 : "1300 Venice Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90006",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -19831,6 +20847,8 @@ var locations = [
 	name      : "Urban Mission Garden",
 	address_1 : "810 South White Avenue",
 	address_2 : "",
+	city      : "Pomona",
+	zip       : "91766",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -19870,6 +20888,8 @@ var locations = [
 	name      : "Vermont Square Community Garden",
 	address_1 : "4712 S Vermont Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90037",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -19909,6 +20929,8 @@ var locations = [
 	name      : "Wattles Farm",
 	address_1 : "1714 N Curson Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90046",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -19953,6 +20975,8 @@ var locations = [
 	name      : "365 by Whole Foods Market",
 	address_1 : "2520 Glendale Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90039",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -19992,6 +21016,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "1000 N Azusa Ave",
 	address_2 : "",
+	city      : "Covina",
+	zip       : "91722",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -20031,6 +21057,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "1000 S Central Ave",
 	address_2 : "",
+	city      : "Glendale",
+	zip       : "91204",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -20070,6 +21098,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "101 E Avenue E",
 	address_2 : "",
+	city      : "Lancaster",
+	zip       : "93535",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -20109,6 +21139,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "101 E Willow St",
 	address_2 : "",
+	city      : "Long Beach",
+	zip       : "90806",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -20148,6 +21180,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "1010 E Ave",
 	address_2 : "",
+	city      : "Lancaster",
+	zip       : "93535",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -20187,6 +21221,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "1023 N Grand Ave",
 	address_2 : "",
+	city      : "Covina",
+	zip       : "91724",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -20226,6 +21262,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "110 E Carson St",
 	address_2 : "",
+	city      : "Carson",
+	zip       : "90745",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -20265,6 +21303,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "12013 Central Ave",
 	address_2 : "",
+	city      : "Chino",
+	zip       : "91710",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -20304,6 +21344,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "1222 N AVALON Blvd",
 	address_2 : "",
+	city      : "Wilmington",
+	zip       : "90744",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -20343,6 +21385,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "1235 S Diamond Bar Blvd",
 	address_2 : "",
+	city      : "Diamond Bar",
+	zip       : "91765",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -20382,6 +21426,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "12630 Hawthorne Blvd",
 	address_2 : "",
+	city      : "Hawthorne",
+	zip       : "90250",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -20421,6 +21467,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "13003 Whittier Blvd",
 	address_2 : "",
+	city      : "Whittier",
+	zip       : "90602",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -20460,6 +21508,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "133 W Avenue 45",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90065",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -20499,6 +21549,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "133 W Route 66",
 	address_2 : "",
+	city      : "Glendora",
+	zip       : "91740",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -20538,6 +21590,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "13401 Washington Blvd",
 	address_2 : "",
+	city      : "Venice",
+	zip       : "90292",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -20577,6 +21631,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "14401 Inglewood Ave",
 	address_2 : "",
+	city      : "Hawthorne",
+	zip       : "90250",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -20616,6 +21672,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "1516 S Pacific Coast Hwy",
 	address_2 : "",
+	city      : "Redondo Beach",
+	zip       : "90277",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -20655,6 +21713,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "15200 Rosecrans Ave",
 	address_2 : "",
+	city      : "La Mirada",
+	zip       : "90638",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -20694,6 +21754,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "15970 Los Serranos Country Club Dr",
 	address_2 : "",
+	city      : "Chino Hills",
+	zip       : "91709",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -20733,6 +21795,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "16201 San Fernando Mission Blvd",
 	address_2 : "",
+	city      : "Granada Hills",
+	zip       : "91344",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -20772,6 +21836,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "1636 W 25th St",
 	address_2 : "",
+	city      : "San Pedro",
+	zip       : "90732",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -20811,6 +21877,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "17120 Colima Rd",
 	address_2 : "",
+	city      : "Hacienda Heights",
+	zip       : "91745",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -20850,6 +21918,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "1735 W Artesia Blvd",
 	address_2 : "",
+	city      : "Gardena",
+	zip       : "90248",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -20889,6 +21959,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "1736 E Avenida De Los Arboles",
 	address_2 : "",
+	city      : "Thousand Oaks",
+	zip       : "91362",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -20928,6 +22000,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "1800 W Whittier Blvd",
 	address_2 : "",
+	city      : "La Habra",
+	zip       : "90631",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -20967,6 +22041,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "18555 Devonshire St",
 	address_2 : "",
+	city      : "Porter Ranch",
+	zip       : "91324",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -21006,6 +22082,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "18730 Amar Rd",
 	address_2 : "",
+	city      : "Walnut",
+	zip       : "91789",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -21045,6 +22123,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "19307 Saticoy St",
 	address_2 : "",
+	city      : "Reseda",
+	zip       : "91335",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -21084,6 +22164,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "19725 Colima Rd",
 	address_2 : "",
+	city      : "Rowland Heights",
+	zip       : "91748",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -21123,6 +22205,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "200 E Sepulveda Blvd",
 	address_2 : "",
+	city      : "Carson",
+	zip       : "90745",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -21162,6 +22246,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "2035 Hillhurst Ave",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90027",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -21201,6 +22287,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "21035 Hawthorne Blvd",
 	address_2 : "",
+	city      : "Torrance",
+	zip       : "90503",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -21240,6 +22328,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "2115 Artesia Blvd",
 	address_2 : "",
+	city      : "Redondo Beach",
+	zip       : "90278",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -21279,6 +22369,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "2130 Pacific Coast Hwy",
 	address_2 : "",
+	city      : "Lomita",
+	zip       : "90717",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -21318,6 +22410,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "220 E Bonita Ave",
 	address_2 : "",
+	city      : "San Dimas",
+	zip       : "91773",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -21357,6 +22451,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "22840 Victory Blvd",
 	address_2 : "",
+	city      : "Woodland Hills",
+	zip       : "91367",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -21396,6 +22492,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "23449 Lyons Ave",
 	address_2 : "",
+	city      : "Valencia",
+	zip       : "91355",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -21435,6 +22533,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "23850 Copperhill Dr",
 	address_2 : "",
+	city      : "Valencia",
+	zip       : "91354",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -21474,6 +22574,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "2400 W Commonwealth Ave",
 	address_2 : "",
+	city      : "Alhambra",
+	zip       : "91803",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -21513,6 +22615,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "2469 Via Campo",
 	address_2 : "",
+	city      : "Montebello",
+	zip       : "90640",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -21552,6 +22656,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "2500 E Imperial Hwy",
 	address_2 : "",
+	city      : "Brea",
+	zip       : "92821",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -21591,6 +22697,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "2510 Pacific Coast Hwy",
 	address_2 : "",
+	city      : "Hermosa Beach",
+	zip       : "90254",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -21630,6 +22738,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "2547 W Rosamond Blvd",
 	address_2 : "",
+	city      : "Rosamond",
+	zip       : "93560",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -21669,6 +22779,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "2627 Lincoln Blvd",
 	address_2 : "",
+	city      : "Santa Monica",
+	zip       : "90405",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -21708,6 +22820,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "2630 E Workman Ave",
 	address_2 : "",
+	city      : "West Covina",
+	zip       : "91791",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -21747,6 +22861,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "26521 Agoura Rd",
 	address_2 : "",
+	city      : "Calabasas",
+	zip       : "91302",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -21786,6 +22902,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "26850 the Old Rd",
 	address_2 : "",
+	city      : "Valencia",
+	zip       : "91381",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -21825,6 +22943,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "27631 Bouquet Canyon Rd",
 	address_2 : "",
+	city      : "Santa Clarita",
+	zip       : "91350",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -21864,6 +22984,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "28090 S Western Ave",
 	address_2 : "",
+	city      : "San Pedro",
+	zip       : "90732",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -21903,6 +23025,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "298 E Live Oak Ave",
 	address_2 : "",
+	city      : "Arcadia",
+	zip       : "91006",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -21942,6 +23066,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "3180 N Garey Ave",
 	address_2 : "",
+	city      : "Pomona",
+	zip       : "91767",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -21981,6 +23107,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "3255 Grand Ave",
 	address_2 : "",
+	city      : "Chino Hills",
+	zip       : "91709",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -22020,6 +23148,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "3400 E South St",
 	address_2 : "",
+	city      : "Long Beach",
+	zip       : "90805",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -22059,6 +23189,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "3443 S Sepulveda Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90034",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -22098,6 +23230,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "3828 Peck Rd",
 	address_2 : "",
+	city      : "El Monte",
+	zip       : "91732",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -22137,6 +23271,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "3830 W Verdugo Ave",
 	address_2 : "",
+	city      : "Burbank",
+	zip       : "91505",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -22176,6 +23312,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "3841 E Sierra Madre Blvd",
 	address_2 : "",
+	city      : "Pasadena",
+	zip       : "91107",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -22215,6 +23353,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "38727 Tierra Subida Ave",
 	address_2 : "",
+	city      : "Palmdale",
+	zip       : "93551",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -22254,6 +23394,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "3901 Crenshaw Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90008",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -22293,6 +23435,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "4155 Tweedy Blvd",
 	address_2 : "",
+	city      : "South Gate",
+	zip       : "90280",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -22332,6 +23476,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "43543 20th St W",
 	address_2 : "",
+	city      : "Lancaster",
+	zip       : "93534",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -22371,6 +23517,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "450 Long Beach Blvd",
 	address_2 : "",
+	city      : "Long Beach",
+	zip       : "90802",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -22410,6 +23558,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "5015 Del Amo Blvd",
 	address_2 : "",
+	city      : "Lakewood",
+	zip       : "90712",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -22449,6 +23599,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "5038 W Avenue N",
 	address_2 : "",
+	city      : "Palmdale",
+	zip       : "93551",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -22488,6 +23640,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "5770 Lindero Canyon Rd",
 	address_2 : "",
+	city      : "Thousand Oaks",
+	zip       : "91362",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -22527,6 +23681,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "615 N Pacific Coast Hwy",
 	address_2 : "",
+	city      : "Redondo Beach",
+	zip       : "90277",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -22566,6 +23722,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "6235 E Spring St",
 	address_2 : "",
+	city      : "Long Beach",
+	zip       : "90808",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -22605,6 +23763,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "6240 Foothill Blvd",
 	address_2 : "",
+	city      : "Tujunga",
+	zip       : "91042",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -22644,6 +23804,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "6255 E 2nd St",
 	address_2 : "",
+	city      : "Long Beach",
+	zip       : "90803",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -22683,6 +23845,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "644 Redondo Ave",
 	address_2 : "",
+	city      : "Long Beach",
+	zip       : "90814",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -22722,6 +23886,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "7227 Van Nuys Blvd",
 	address_2 : "",
+	city      : "Van Nuys",
+	zip       : "91405",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -22761,6 +23927,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "725 E Huntington Dr",
 	address_2 : "",
+	city      : "Monrovia",
+	zip       : "91016",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -22800,6 +23968,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "7676 Firestone Blvd",
 	address_2 : "",
+	city      : "Downey",
+	zip       : "90241",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -22839,6 +24009,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "8320 Firestone Blvd",
 	address_2 : "",
+	city      : "Downey",
+	zip       : "90241",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -22878,6 +24050,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "855 N Wilcox Ave",
 	address_2 : "",
+	city      : "Montebello",
+	zip       : "90640",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -22917,6 +24091,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "8985 Venice Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90034",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -22956,6 +24132,8 @@ var locations = [
 	name      : "Albertsons",
 	address_1 : "9022 Balboa Blvd",
 	address_2 : "",
+	city      : "North Hills",
+	zip       : "91325",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -22995,6 +24173,8 @@ var locations = [
 	name      : "Aldi",
 	address_1 : "11530 South St",
 	address_2 : "",
+	city      : "Cerritos",
+	zip       : "90703",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -23034,6 +24214,8 @@ var locations = [
 	name      : "Aldi",
 	address_1 : "1400 N Azusa Ave",
 	address_2 : "",
+	city      : "Covina",
+	zip       : "91722",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -23073,6 +24255,8 @@ var locations = [
 	name      : "Aldi",
 	address_1 : "8530 Firestone Blvd",
 	address_2 : "",
+	city      : "Downey",
+	zip       : "90241",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -23112,6 +24296,8 @@ var locations = [
 	name      : "Big Saver Foods",
 	address_1 : "1313 E Artesia Blvd",
 	address_2 : "",
+	city      : "Long Beach",
+	zip       : "90805",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -23151,6 +24337,8 @@ var locations = [
 	name      : "Big Saver Foods",
 	address_1 : "14310 Hawthorne Blvd",
 	address_2 : "",
+	city      : "Lawndale",
+	zip       : "90260",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -23190,6 +24378,8 @@ var locations = [
 	name      : "Big Saver Foods",
 	address_1 : "1500 W Willow St",
 	address_2 : "",
+	city      : "Long Beach",
+	zip       : "90810",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -23229,6 +24419,8 @@ var locations = [
 	name      : "Big Saver Foods",
 	address_1 : "16000 Woodruff Ave",
 	address_2 : "",
+	city      : "Bellflower",
+	zip       : "90706",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -23268,6 +24460,8 @@ var locations = [
 	name      : "Big Saver Foods",
 	address_1 : "2300 E 7th St",
 	address_2 : "",
+	city      : "Long Beach",
+	zip       : "90804",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -23307,6 +24501,8 @@ var locations = [
 	name      : "Big Saver Foods",
 	address_1 : "2619 N Figueroa St",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90065",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -23346,6 +24542,8 @@ var locations = [
 	name      : "Big Saver Foods",
 	address_1 : "3000 N Broadway",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90031",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -23385,6 +24583,8 @@ var locations = [
 	name      : "Big Saver Foods",
 	address_1 : "4260 Charter St",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90058",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -23424,6 +24624,8 @@ var locations = [
 	name      : "Big Saver Foods",
 	address_1 : "5168 Huntington Dr S",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90032",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -23463,6 +24665,8 @@ var locations = [
 	name      : "Big Saver Foods",
 	address_1 : "5829 Compton Ave",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90001",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -23502,6 +24706,8 @@ var locations = [
 	name      : "Big Saver Foods",
 	address_1 : "7619 Garvey Ave",
 	address_2 : "",
+	city      : "Rosemead",
+	zip       : "91770",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -23541,6 +24747,8 @@ var locations = [
 	name      : "Big Saver Foods",
 	address_1 : "9406 Washington Blvd",
 	address_2 : "",
+	city      : "Pico Rivera",
+	zip       : "90660",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -23580,6 +24788,8 @@ var locations = [
 	name      : "Bristol Farms",
 	address_1 : "140 Promenade Way",
 	address_2 : "",
+	city      : "Thousand Oaks",
+	zip       : "91362",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -23619,6 +24829,8 @@ var locations = [
 	name      : "Bristol Farms",
 	address_1 : "1515 Westwood Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90024",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -23658,6 +24870,8 @@ var locations = [
 	name      : "Bristol Farms",
 	address_1 : "1570 Rosecrans Ave",
 	address_2 : "",
+	city      : "Manhattan Beach",
+	zip       : "90266",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -23697,6 +24911,8 @@ var locations = [
 	name      : "Bristol Farms",
 	address_1 : "1700 S Pacific Coast Hwy",
 	address_2 : "",
+	city      : "Redondo Beach",
+	zip       : "90277",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -23736,6 +24952,8 @@ var locations = [
 	name      : "Bristol Farms",
 	address_1 : "3105 Wilshire Blvd",
 	address_2 : "",
+	city      : "Santa Monica",
+	zip       : "90403",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -23775,6 +24993,8 @@ var locations = [
 	name      : "Bristol Farms",
 	address_1 : "606 Fair Oaks Ave",
 	address_2 : "",
+	city      : "South Pasadena",
+	zip       : "91030",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -23814,6 +25034,8 @@ var locations = [
 	name      : "Bristol Farms",
 	address_1 : "7880 W Sunset Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90046",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -23853,6 +25075,8 @@ var locations = [
 	name      : "Bristol Farms",
 	address_1 : "837 Silver Spur Rd",
 	address_2 : "",
+	city      : "Palos Verdes Peninsula",
+	zip       : "90274",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -23892,6 +25116,8 @@ var locations = [
 	name      : "Bristol Farms",
 	address_1 : "8448 Lincoln Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90045",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -23931,6 +25157,8 @@ var locations = [
 	name      : "Bristol Farms",
 	address_1 : "9039 Beverly Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90048",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -23970,6 +25198,8 @@ var locations = [
 	name      : "Bristol Farms",
 	address_1 : "915 E 230th St",
 	address_2 : "",
+	city      : "Carson",
+	zip       : "90745",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -24009,6 +25239,8 @@ var locations = [
 	name      : "El Super",
 	address_1 : "10721 Atlantic Ave",
 	address_2 : "",
+	city      : "Lynwood",
+	zip       : "90262",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -24048,6 +25280,8 @@ var locations = [
 	name      : "El Super",
 	address_1 : "1100 W Slauson Ave",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90044",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -24087,6 +25321,8 @@ var locations = [
 	name      : "El Super",
 	address_1 : "120 W Anaheim St",
 	address_2 : "",
+	city      : "Wilmington",
+	zip       : "90744",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -24126,6 +25362,8 @@ var locations = [
 	name      : "El Super",
 	address_1 : "1285 N Hacienda Blvd",
 	address_2 : "",
+	city      : "La Puente",
+	zip       : "91744",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -24165,6 +25403,8 @@ var locations = [
 	name      : "El Super",
 	address_1 : "1301 E Gage Ave",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90001",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -24204,6 +25444,8 @@ var locations = [
 	name      : "El Super",
 	address_1 : "14103 Ramona Blvd",
 	address_2 : "",
+	city      : "Baldwin Park",
+	zip       : "91706",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -24243,6 +25485,8 @@ var locations = [
 	name      : "El Super",
 	address_1 : "14601 Lakewood Blvd",
 	address_2 : "",
+	city      : "Paramount",
+	zip       : "90723",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -24282,6 +25526,8 @@ var locations = [
 	name      : "El Super",
 	address_1 : "14620 Parthenia St",
 	address_2 : "",
+	city      : "Panorama City",
+	zip       : "91402",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -24321,6 +25567,8 @@ var locations = [
 	name      : "El Super",
 	address_1 : "15202 Hawthorne Blvd",
 	address_2 : "",
+	city      : "Lawndale",
+	zip       : "90260",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -24360,6 +25608,8 @@ var locations = [
 	name      : "El Super",
 	address_1 : "1575 E Holt Ave",
 	address_2 : "",
+	city      : "Pomona",
+	zip       : "91767",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -24399,6 +25649,8 @@ var locations = [
 	name      : "El Super",
 	address_1 : "315 San Fernando Mission Blvd",
 	address_2 : "",
+	city      : "San Fernando",
+	zip       : "91340",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -24438,6 +25690,8 @@ var locations = [
 	name      : "El Super",
 	address_1 : "3211 Firestone Blvd",
 	address_2 : "",
+	city      : "South Gate",
+	zip       : "90280",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -24477,6 +25731,8 @@ var locations = [
 	name      : "El Super",
 	address_1 : "3321 W Century Blvd",
 	address_2 : "",
+	city      : "Inglewood",
+	zip       : "90303",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -24516,6 +25772,8 @@ var locations = [
 	name      : "El Super",
 	address_1 : "3405 E Cesar E Chavez Ave",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90063",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -24555,6 +25813,8 @@ var locations = [
 	name      : "El Super",
 	address_1 : "450 Long Beach Blvd",
 	address_2 : "",
+	city      : "Long Beach",
+	zip       : "90802",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -24594,6 +25854,8 @@ var locations = [
 	name      : "El Super",
 	address_1 : "5610 York Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90042",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -24633,6 +25895,8 @@ var locations = [
 	name      : "El Super",
 	address_1 : "5646 Whittier Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90022",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -24672,6 +25936,8 @@ var locations = [
 	name      : "El Super",
 	address_1 : "5702 Firestone Blvd",
 	address_2 : "",
+	city      : "South Gate",
+	zip       : "90280",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -24711,6 +25977,8 @@ var locations = [
 	name      : "El Super",
 	address_1 : "6203 Gage Ave",
 	address_2 : "",
+	city      : "Bell Gardens",
+	zip       : "90201",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -24750,6 +26018,8 @@ var locations = [
 	name      : "El Super",
 	address_1 : "7000 S Alameda St",
 	address_2 : "",
+	city      : "Huntington Park",
+	zip       : "90255",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -24789,6 +26059,8 @@ var locations = [
 	name      : "El Super",
 	address_1 : "960 W Arrow Hwy",
 	address_2 : "",
+	city      : "Covina",
+	zip       : "91722",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -24828,6 +26100,8 @@ var locations = [
 	name      : "El Super",
 	address_1 : "9710 Woodman Ave",
 	address_2 : "",
+	city      : "Pacoima",
+	zip       : "91331",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -24867,6 +26141,8 @@ var locations = [
 	name      : "Family Market",
 	address_1 : "2426 W 8th St",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90057",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -24906,6 +26182,8 @@ var locations = [
 	name      : "Family Market",
 	address_1 : "2500 Hooper Ave",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90011",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -24945,6 +26223,8 @@ var locations = [
 	name      : "Family Market",
 	address_1 : "4267 Ascot Ave",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90011",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -24984,6 +26264,8 @@ var locations = [
 	name      : "Family Market",
 	address_1 : "4304 Floral Dr",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90022",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -25023,6 +26305,8 @@ var locations = [
 	name      : "Food 4 Less",
 	address_1 : "10901 Imperial Hwy",
 	address_2 : "",
+	city      : "Norwalk",
+	zip       : "90650",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -25062,6 +26346,8 @@ var locations = [
 	name      : "Food 4 Less",
 	address_1 : "1091 S Hoover St",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90006",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -25101,6 +26387,8 @@ var locations = [
 	name      : "Food 4 Less",
 	address_1 : "11245 Long Beach Blvd",
 	address_2 : "",
+	city      : "Lynwood",
+	zip       : "90262",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -25140,6 +26428,8 @@ var locations = [
 	name      : "Food 4 Less",
 	address_1 : "11407 S Western Ave",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90047",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -25179,6 +26469,8 @@ var locations = [
 	name      : "Food 4 Less",
 	address_1 : "11840 Wilmington Ave",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90059",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -25218,6 +26510,8 @@ var locations = [
 	name      : "Food 4 Less",
 	address_1 : "11950 Garvey Ave",
 	address_2 : "",
+	city      : "El Monte",
+	zip       : "91732",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -25257,6 +26551,8 @@ var locations = [
 	name      : "Food 4 Less",
 	address_1 : "12222 Carson St",
 	address_2 : "",
+	city      : "Hawaiian Gardens",
+	zip       : "90716",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -25296,6 +26592,8 @@ var locations = [
 	name      : "Food 4 Less",
 	address_1 : "12689 Glenoaks Blvd",
 	address_2 : "",
+	city      : "Sylmar",
+	zip       : "91342",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -25335,6 +26633,8 @@ var locations = [
 	name      : "Food 4 Less",
 	address_1 : "12765 Van Nuys Blvd",
 	address_2 : "",
+	city      : "Pacoima",
+	zip       : "91331",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -25374,6 +26674,8 @@ var locations = [
 	name      : "Food 4 Less",
 	address_1 : "1299 W Artesia Blvd",
 	address_2 : "",
+	city      : "Gardena",
+	zip       : "90248",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -25413,6 +26715,8 @@ var locations = [
 	name      : "Food 4 Less",
 	address_1 : "1329 N Lake Ave",
 	address_2 : "",
+	city      : "Pasadena",
+	zip       : "91104",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -25452,6 +26756,8 @@ var locations = [
 	name      : "Food 4 Less",
 	address_1 : "13413 Telegraph Rd",
 	address_2 : "",
+	city      : "Whittier",
+	zip       : "90605",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -25491,6 +26797,8 @@ var locations = [
 	name      : "Food 4 Less",
 	address_1 : "13525 Lakewood Blvd",
 	address_2 : "",
+	city      : "Downey",
+	zip       : "90242",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -25530,6 +26838,8 @@ var locations = [
 	name      : "Food 4 Less",
 	address_1 : "14500 Ocean Gate Ave",
 	address_2 : "",
+	city      : "Hawthorne",
+	zip       : "90250",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -25569,6 +26879,8 @@ var locations = [
 	name      : "Food 4 Less",
 	address_1 : "1600 E Willow St",
 	address_2 : "",
+	city      : "Signal Hill",
+	zip       : "90755",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -25608,6 +26920,8 @@ var locations = [
 	name      : "Food 4 Less",
 	address_1 : "16208 Parthenia St",
 	address_2 : "",
+	city      : "North Hills",
+	zip       : "91343",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -25647,6 +26961,8 @@ var locations = [
 	name      : "Food 4 Less",
 	address_1 : "1651 E 103rd St",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90002",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -25686,6 +27002,8 @@ var locations = [
 	name      : "Food 4 Less",
 	address_1 : "16530 Sherman Way",
 	address_2 : "",
+	city      : "Santa Clarita",
+	zip       : "91406",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -25725,6 +27043,8 @@ var locations = [
 	name      : "Food 4 Less",
 	address_1 : "1700 W 6th St",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90017",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -25764,6 +27084,8 @@ var locations = [
 	name      : "Food 4 Less",
 	address_1 : "1717 S Western Ave",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90006",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -25803,6 +27125,8 @@ var locations = [
 	name      : "Food 4 Less",
 	address_1 : "1748 W Jefferson Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90018",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -25842,6 +27166,8 @@ var locations = [
 	name      : "Food 4 Less",
 	address_1 : "1820 W Slauson Ave",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90047",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -25881,6 +27207,8 @@ var locations = [
 	name      : "Food 4 Less",
 	address_1 : "1821 N Hacienda Blvd",
 	address_2 : "",
+	city      : "West Covina",
+	zip       : "91744",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -25920,6 +27248,8 @@ var locations = [
 	name      : "Food 4 Less",
 	address_1 : "1900 W Rosecrans Ave",
 	address_2 : "",
+	city      : "Compton",
+	zip       : "90220",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -25959,6 +27289,8 @@ var locations = [
 	name      : "Food 4 Less",
 	address_1 : "19200 Soledad Canyon Rd",
 	address_2 : "",
+	city      : "Canyon Country",
+	zip       : "91351",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -25998,6 +27330,8 @@ var locations = [
 	name      : "Food 4 Less",
 	address_1 : "20155 Saticoy St",
 	address_2 : "",
+	city      : "Winnetka",
+	zip       : "91306",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -26037,6 +27371,8 @@ var locations = [
 	name      : "Food 4 Less",
 	address_1 : "2090 S Garey Ave",
 	address_2 : "",
+	city      : "Pomona",
+	zip       : "91766",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -26076,6 +27412,8 @@ var locations = [
 	name      : "Food 4 Less",
 	address_1 : "2185 E South St",
 	address_2 : "",
+	city      : "Long Beach",
+	zip       : "90805",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -26115,6 +27453,8 @@ var locations = [
 	name      : "Food 4 Less",
 	address_1 : "2341 E Avenue S",
 	address_2 : "",
+	city      : "Palmdale",
+	zip       : "93550",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -26154,6 +27494,8 @@ var locations = [
 	name      : "Food 4 Less",
 	address_1 : "2750 E 1st St",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90033",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -26193,6 +27535,8 @@ var locations = [
 	name      : "Food 4 Less",
 	address_1 : "3000 Baldwin Park Blvd",
 	address_2 : "",
+	city      : "Baldwin Park",
+	zip       : "91706",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -26232,6 +27576,8 @@ var locations = [
 	name      : "Food 4 Less",
 	address_1 : "3200 W Century Blvd",
 	address_2 : "",
+	city      : "Inglewood",
+	zip       : "90303",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -26271,6 +27617,8 @@ var locations = [
 	name      : "Food 4 Less",
 	address_1 : "336 W Anaheim St",
 	address_2 : "",
+	city      : "Wilmington",
+	zip       : "90744",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -26310,6 +27658,8 @@ var locations = [
 	name      : "Food 4 Less",
 	address_1 : "3654 E Olympic Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90023",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -26349,6 +27699,8 @@ var locations = [
 	name      : "Food 4 Less",
 	address_1 : "4400 Slauson Ave",
 	address_2 : "",
+	city      : "Maywood",
+	zip       : "90270",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -26388,6 +27740,8 @@ var locations = [
 	name      : "Food 4 Less",
 	address_1 : "44455 Valley Central Way",
 	address_2 : "",
+	city      : "Lancaster",
+	zip       : "93536",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -26427,6 +27781,8 @@ var locations = [
 	name      : "Food 4 Less",
 	address_1 : "4910 Huntington Dr S",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90032",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -26466,6 +27822,8 @@ var locations = [
 	name      : "Food 4 Less",
 	address_1 : "5318 S Main St",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90037",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -26505,6 +27863,8 @@ var locations = [
 	name      : "Food 4 Less",
 	address_1 : "5420 W Sunset Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90027",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -26544,6 +27904,8 @@ var locations = [
 	name      : "Food 4 Less",
 	address_1 : "615 N Azusa Ave",
 	address_2 : "",
+	city      : "West Covina",
+	zip       : "91791",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -26583,6 +27945,8 @@ var locations = [
 	name      : "Food 4 Less",
 	address_1 : "6700 Cherry Ave",
 	address_2 : "",
+	city      : "Long Beach",
+	zip       : "90805",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -26622,6 +27986,8 @@ var locations = [
 	name      : "Food 4 Less",
 	address_1 : "6901 Eastern Ave",
 	address_2 : "",
+	city      : "Bell Gardens",
+	zip       : "90201",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -26661,6 +28027,8 @@ var locations = [
 	name      : "Food 4 Less",
 	address_1 : "6920 Santa Fe Ave",
 	address_2 : "",
+	city      : "Huntington Park",
+	zip       : "90255",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -26700,6 +28068,8 @@ var locations = [
 	name      : "Food 4 Less",
 	address_1 : "7810 Norwalk Blvd",
 	address_2 : "",
+	city      : "Whittier",
+	zip       : "90606",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -26739,6 +28109,8 @@ var locations = [
 	name      : "Food 4 Less",
 	address_1 : "8035 Webb Ave",
 	address_2 : "",
+	city      : "North Hollywood",
+	zip       : "91605",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -26778,6 +28150,8 @@ var locations = [
 	name      : "Food 4 Less",
 	address_1 : "851 Sepulveda Blvd",
 	address_2 : "",
+	city      : "Torrance",
+	zip       : "90502",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -26817,6 +28191,8 @@ var locations = [
 	name      : "Food 4 Less",
 	address_1 : "8530 Tobias Ave",
 	address_2 : "",
+	city      : "Panorama City",
+	zip       : "91402",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -26856,6 +28232,8 @@ var locations = [
 	name      : "Food 4 Less",
 	address_1 : "8620 Whittier Blvd",
 	address_2 : "",
+	city      : "Pico Rivera",
+	zip       : "90660",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -26895,6 +28273,8 @@ var locations = [
 	name      : "Food 4 Less",
 	address_1 : "9635 Laurel Canyon Blvd",
 	address_2 : "",
+	city      : "Pacoima",
+	zip       : "91331",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -26934,6 +28314,8 @@ var locations = [
 	name      : "Gelson's Market",
 	address_1 : "10250 Santa Monica Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90067",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -26973,6 +28355,8 @@ var locations = [
 	name      : "Gelson's Market",
 	address_1 : "13455 Maxella Ave",
 	address_2 : "",
+	city      : "Marina del Rey",
+	zip       : "90292",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -27012,6 +28396,8 @@ var locations = [
 	name      : "Gelson's Market",
 	address_1 : "15424 W Sunset Blvd",
 	address_2 : "",
+	city      : "Pacific Palisades",
+	zip       : "90272",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -27051,6 +28437,8 @@ var locations = [
 	name      : "Gelson's Market",
 	address_1 : "16450 Ventura Blvd",
 	address_2 : "",
+	city      : "Encino",
+	zip       : "91436",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -27090,6 +28478,8 @@ var locations = [
 	name      : "Gelson's Market",
 	address_1 : "1930 Century Park W",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90067",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -27129,6 +28519,8 @@ var locations = [
 	name      : "Gelson's Market",
 	address_1 : "22277 Mulholland Hwy",
 	address_2 : "",
+	city      : "Calabasas",
+	zip       : "91302",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -27168,6 +28560,8 @@ var locations = [
 	name      : "Gelson's Market",
 	address_1 : "2725 Hyperion Ave",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90027",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -27207,6 +28601,8 @@ var locations = [
 	name      : "Gelson's Market",
 	address_1 : "2734 Townsgate Rd",
 	address_2 : "",
+	city      : "Westlake Village",
+	zip       : "91361",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -27246,6 +28642,8 @@ var locations = [
 	name      : "Gelson's Market",
 	address_1 : "4520 Van Nuys Blvd",
 	address_2 : "",
+	city      : "Sherman Oaks",
+	zip       : "91403",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -27285,6 +28683,8 @@ var locations = [
 	name      : "Gelson's Market",
 	address_1 : "4738 Laurel Canyon Blvd",
 	address_2 : "",
+	city      : "Valley Village",
+	zip       : "91607",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -27324,6 +28724,8 @@ var locations = [
 	name      : "Gelson's Market",
 	address_1 : "5500 Reseda Blvd",
 	address_2 : "",
+	city      : "Tarzana",
+	zip       : "91356",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -27363,6 +28765,8 @@ var locations = [
 	name      : "Gelson's Market",
 	address_1 : "5877 Franklin Ave",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90028",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -27402,6 +28806,8 @@ var locations = [
 	name      : "Gelson's Market",
 	address_1 : "6255 E 2nd St",
 	address_2 : "",
+	city      : "Long Beach",
+	zip       : "90803",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -27441,6 +28847,8 @@ var locations = [
 	name      : "Gelsons Market",
 	address_1 : "635 Foothill Blvd",
 	address_2 : "",
+	city      : "La Canada Flintridge",
+	zip       : "91011",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -27480,6 +28888,8 @@ var locations = [
 	name      : "Gelson's Market",
 	address_1 : "8330 Santa Monica Blvd",
 	address_2 : "",
+	city      : "West Hollywood",
+	zip       : "90069",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -27519,6 +28929,8 @@ var locations = [
 	name      : "Island Pacific Supermarket",
 	address_1 : "11481 South St",
 	address_2 : "",
+	city      : "Cerritos",
+	zip       : "90703",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -27558,6 +28970,8 @@ var locations = [
 	name      : "Island Pacific Supermarket",
 	address_1 : "1512 E Amar Rd",
 	address_2 : "",
+	city      : "West Covina",
+	zip       : "91792",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -27597,6 +29011,8 @@ var locations = [
 	name      : "Island Pacific Supermarket",
 	address_1 : "20922 Roscoe Blvd",
 	address_2 : "",
+	city      : "Canoga Park",
+	zip       : "91304",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -27636,6 +29052,8 @@ var locations = [
 	name      : "Island Pacific Supermarket",
 	address_1 : "229 S Vermont Ave",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90004",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -27675,6 +29093,8 @@ var locations = [
 	name      : "Island Pacific Supermarket",
 	address_1 : "627 N Vermont Ave",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90004",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -27714,6 +29134,8 @@ var locations = [
 	name      : "Island Pacific Supermarket",
 	address_1 : "8340 Van Nuys Blvd",
 	address_2 : "",
+	city      : "Panorama City",
+	zip       : "91402",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -27753,6 +29175,8 @@ var locations = [
 	name      : "Jons Marketplace",
 	address_1 : "12122 Magnolia Blvd",
 	address_2 : "",
+	city      : "Valley Village",
+	zip       : "91607",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -27792,6 +29216,8 @@ var locations = [
 	name      : "Jons Marketplace",
 	address_1 : "1717 W Glenoaks Blvd",
 	address_2 : "",
+	city      : "Glendale",
+	zip       : "91201",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -27831,6 +29257,8 @@ var locations = [
 	name      : "Jons Marketplace",
 	address_1 : "20151 Roscoe Blvd",
 	address_2 : "",
+	city      : "Winnetka",
+	zip       : "91306",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -27870,6 +29298,8 @@ var locations = [
 	name      : "Jons Marketplace 24",
 	address_1 : "18135 Sherman Way",
 	address_2 : "",
+	city      : "Reseda",
+	zip       : "91335",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -27909,6 +29339,8 @@ var locations = [
 	name      : "Jons Marketplace",
 	address_1 : "3334 W 8th St",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90005",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -27948,6 +29380,8 @@ var locations = [
 	name      : "Jons Marketplace",
 	address_1 : "5315 Santa Monica Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90029",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -27987,6 +29421,8 @@ var locations = [
 	name      : "Jons Marketplace",
 	address_1 : "600 E Colorado St",
 	address_2 : "",
+	city      : "Glendale",
+	zip       : "91205",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -28026,6 +29462,8 @@ var locations = [
 	name      : "Jons Marketplace",
 	address_1 : "6655 Van Nuys Blvd",
 	address_2 : "",
+	city      : "Van Nuys",
+	zip       : "91405",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -28065,6 +29503,8 @@ var locations = [
 	name      : "Lassens Natural Foods",
 	address_1 : "2080 Hillhurst Ave",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90027",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -28104,6 +29544,8 @@ var locations = [
 	name      : "Lassen's Natural Foods",
 	address_1 : "2150 E Thousand Oaks Blvd",
 	address_2 : "",
+	city      : "Thousand Oaks",
+	zip       : "91362",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -28143,6 +29585,8 @@ var locations = [
 	name      : "Lassens Natural Foods & Vitamins",
 	address_1 : "1631 W Sunset Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90026",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -28182,6 +29626,8 @@ var locations = [
 	name      : "Lassens Natural Foods & Vitamins",
 	address_1 : "2857 E Thousand Oaks Blvd",
 	address_2 : "",
+	city      : "Thousand Oaks",
+	zip       : "91362",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -28221,6 +29667,8 @@ var locations = [
 	name      : "Northgate Supermarket",
 	address_1 : "2120 Pacific Ave",
 	address_2 : "",
+	city      : "Long Beach",
+	zip       : "90806",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -28260,6 +29708,8 @@ var locations = [
 	name      : "Northgate Gonzalez Markets",
 	address_1 : "2323 W Olympic Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90006",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -28299,6 +29749,8 @@ var locations = [
 	name      : "Northgate Gonzalez Markets",
 	address_1 : "425 S Soto St",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90033",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -28338,6 +29790,8 @@ var locations = [
 	name      : "Northgate Gonzalez Markets",
 	address_1 : "4700 Inglewood Blvd",
 	address_2 : "",
+	city      : "Culver City",
+	zip       : "90230",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -28377,6 +29831,8 @@ var locations = [
 	name      : "Northgate Gonzalez Markets",
 	address_1 : "944 E Slauson Ave",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90011",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -28416,6 +29872,8 @@ var locations = [
 	name      : "Northgate Market",
 	address_1 : "11660 Firestone Blvd",
 	address_2 : "",
+	city      : "Norwalk",
+	zip       : "90650",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -28455,6 +29913,8 @@ var locations = [
 	name      : "Northgate Market",
 	address_1 : "1320 W Francisquito Ave",
 	address_2 : "",
+	city      : "West Covina",
+	zip       : "91790",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -28494,6 +29954,8 @@ var locations = [
 	name      : "Northgate Market",
 	address_1 : "16259 Paramount Blvd",
 	address_2 : "",
+	city      : "Paramount",
+	zip       : "90723",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -28533,6 +29995,8 @@ var locations = [
 	name      : "Northgate Market",
 	address_1 : "2633 Santa Ana St",
 	address_2 : "",
+	city      : "South Gate",
+	zip       : "90280",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -28572,6 +30036,8 @@ var locations = [
 	name      : "Northgate Market",
 	address_1 : "3828 Peck Rd",
 	address_2 : "",
+	city      : "El Monte",
+	zip       : "91732",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -28611,6 +30077,8 @@ var locations = [
 	name      : "Northgate Market",
 	address_1 : "6801 Atlantic Ave",
 	address_2 : "",
+	city      : "Bell Gardens",
+	zip       : "90201",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -28650,6 +30118,8 @@ var locations = [
 	name      : "Northgate Market",
 	address_1 : "831 N Hacienda Blvd",
 	address_2 : "",
+	city      : "La Puente",
+	zip       : "91744",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -28689,6 +30159,8 @@ var locations = [
 	name      : "Northgate Super Market",
 	address_1 : "9101 Telegraph Rd",
 	address_2 : "",
+	city      : "Pico Rivera",
+	zip       : "90660",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -28728,6 +30200,8 @@ var locations = [
 	name      : "Northgate Supermarkets",
 	address_1 : "1222 N AVALON Blvd",
 	address_2 : "",
+	city      : "Wilmington",
+	zip       : "90744",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -28767,6 +30241,8 @@ var locations = [
 	name      : "Northgate Supermarkets",
 	address_1 : "311 W Pacific Coast Hwy",
 	address_2 : "",
+	city      : "Wilmington",
+	zip       : "90744",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -28806,6 +30282,8 @@ var locations = [
 	name      : "Numero Uno Market",
 	address_1 : "1831 W 3rd St",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90057",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -28845,6 +30323,8 @@ var locations = [
 	name      : "Pavilions",
 	address_1 : "11030 Jefferson Blvd",
 	address_2 : "",
+	city      : "Culver City",
+	zip       : "90230",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -28884,6 +30364,8 @@ var locations = [
 	name      : "Pavilions",
 	address_1 : "1110 W Alameda Ave",
 	address_2 : "",
+	city      : "Burbank",
+	zip       : "91506",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -28923,6 +30405,8 @@ var locations = [
 	name      : "Pavilions",
 	address_1 : "1135 Lindero Canyon Rd",
 	address_2 : "",
+	city      : "Thousand Oaks",
+	zip       : "91362",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -28962,6 +30446,8 @@ var locations = [
 	name      : "Pavilions",
 	address_1 : "1213 Fair Oaks Ave",
 	address_2 : "",
+	city      : "South Pasadena",
+	zip       : "91030",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -29001,6 +30487,8 @@ var locations = [
 	name      : "Pavilions",
 	address_1 : "130 W Foothill Blvd",
 	address_2 : "",
+	city      : "Monrovia",
+	zip       : "91016",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -29040,6 +30528,8 @@ var locations = [
 	name      : "Pavilions",
 	address_1 : "14845 Ventura Blvd",
 	address_2 : "",
+	city      : "Sherman Oaks",
+	zip       : "91403",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -29079,6 +30569,8 @@ var locations = [
 	name      : "Pavilions",
 	address_1 : "29211 Heathercliff Rd",
 	address_2 : "",
+	city      : "Malibu",
+	zip       : "90265",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -29118,6 +30610,8 @@ var locations = [
 	name      : "Pavilions",
 	address_1 : "4365 Glencoe Ave",
 	address_2 : "",
+	city      : "Marina del Rey",
+	zip       : "90292",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -29157,6 +30651,8 @@ var locations = [
 	name      : "Pavilions",
 	address_1 : "5500 Woodruff Ave",
 	address_2 : "",
+	city      : "Lakewood",
+	zip       : "90713",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -29196,6 +30692,8 @@ var locations = [
 	name      : "Pavilions",
 	address_1 : "5949 E Spring St",
 	address_2 : "",
+	city      : "Long Beach",
+	zip       : "90808",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -29235,6 +30733,8 @@ var locations = [
 	name      : "Pavilions",
 	address_1 : "6534 Platt Ave",
 	address_2 : "",
+	city      : "West Hills",
+	zip       : "91307",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -29274,6 +30774,8 @@ var locations = [
 	name      : "Pavilions",
 	address_1 : "7 Peninsula Ctr",
 	address_2 : "",
+	city      : "Palos Verdes Peninsula",
+	zip       : "90274",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -29313,6 +30815,8 @@ var locations = [
 	name      : "Pavilions",
 	address_1 : "727 Vine St",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90038",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -29352,6 +30856,8 @@ var locations = [
 	name      : "Pavilions",
 	address_1 : "745 W Naomi Ave",
 	address_2 : "",
+	city      : "Arcadia",
+	zip       : "91007",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -29391,6 +30897,8 @@ var locations = [
 	name      : "Pavilions",
 	address_1 : "820 Montana Ave",
 	address_2 : "",
+	city      : "Santa Monica",
+	zip       : "90403",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -29430,6 +30938,8 @@ var locations = [
 	name      : "Pavilions",
 	address_1 : "845 E California Blvd",
 	address_2 : "",
+	city      : "Pasadena",
+	zip       : "91106",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -29469,6 +30979,8 @@ var locations = [
 	name      : "Pavilions",
 	address_1 : "8969 Santa Monica Blvd",
 	address_2 : "",
+	city      : "West Hollywood",
+	zip       : "90069",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -29508,6 +31020,8 @@ var locations = [
 	name      : "Pavilions",
 	address_1 : "9467 W Olympic Blvd",
 	address_2 : "",
+	city      : "Beverly Hills",
+	zip       : "90212",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -29547,6 +31061,8 @@ var locations = [
 	name      : "Payless Foods",
 	address_1 : "12301 Norwalk Blvd",
 	address_2 : "",
+	city      : "Norwalk",
+	zip       : "90650",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -29586,6 +31102,8 @@ var locations = [
 	name      : "Payless Foods",
 	address_1 : "23501 Avalon Blvd",
 	address_2 : "",
+	city      : "Carson",
+	zip       : "90745",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -29625,6 +31143,8 @@ var locations = [
 	name      : "Payless Foods",
 	address_1 : "757 S Workman St",
 	address_2 : "",
+	city      : "San Fernando",
+	zip       : "91340",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -29664,6 +31184,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "10309 W Olympic Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90064",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -29703,6 +31225,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "10455 Sunland Blvd",
 	address_2 : "",
+	city      : "Sunland",
+	zip       : "91040",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -29742,6 +31266,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "1050 N Western Ave",
 	address_2 : "",
+	city      : "San Pedro",
+	zip       : "90732",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -29781,6 +31307,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "10772 Jefferson Blvd",
 	address_2 : "",
+	city      : "Culver City",
+	zip       : "90230",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -29820,6 +31348,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "10861 Le Conte Ave",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90024",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -29859,6 +31389,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "10900 Magnolia Blvd",
 	address_2 : "",
+	city      : "North Hollywood",
+	zip       : "91601",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -29898,6 +31430,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "10901 Ventura Blvd",
 	address_2 : "",
+	city      : "Studio City",
+	zip       : "91604",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -29937,6 +31471,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "1100 N San Fernando Blvd",
 	address_2 : "",
+	city      : "Burbank",
+	zip       : "91504",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -29976,6 +31512,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "1100 Pacific Coast Hwy",
 	address_2 : "",
+	city      : "Hermosa Beach",
+	zip       : "90254",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -30015,6 +31553,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "1101 W Huntington Dr",
 	address_2 : "",
+	city      : "Arcadia",
+	zip       : "91007",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -30054,6 +31594,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "11361 National Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90064",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -30093,6 +31635,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "11727 W Olympic Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90064",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -30132,6 +31676,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "11825 Whittier Blvd",
 	address_2 : "",
+	city      : "Whittier",
+	zip       : "90601",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -30171,6 +31717,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "11873 Hawthorne Blvd",
 	address_2 : "",
+	city      : "Hawthorne",
+	zip       : "90250",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -30210,6 +31758,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "11922 S Vermont Ave",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90044",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -30249,6 +31799,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "1200 N Central Ave",
 	address_2 : "",
+	city      : "Glendale",
+	zip       : "91202",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -30288,6 +31840,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "12057 Wilshire Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90025",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -30327,6 +31881,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "1233 N La Brea Ave",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90038",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -30366,6 +31922,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "12842 Ventura Blvd",
 	address_2 : "",
+	city      : "Studio City",
+	zip       : "91604",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -30405,6 +31963,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "12921 Magnolia Blvd",
 	address_2 : "",
+	city      : "Van Nuys",
+	zip       : "91423",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -30444,6 +32004,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "13321 South St",
 	address_2 : "",
+	city      : "Cerritos",
+	zip       : "90703",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -30483,6 +32045,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "14049 Ventura Blvd",
 	address_2 : "",
+	city      : "Sherman Oaks",
+	zip       : "91423",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -30522,6 +32086,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "1413 Hawthorne Blvd",
 	address_2 : "",
+	city      : "Redondo Beach",
+	zip       : "90278",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -30561,6 +32127,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "1416 E Colorado St",
 	address_2 : "",
+	city      : "Glendale",
+	zip       : "91205",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -30600,6 +32168,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "14440 Burbank Blvd",
 	address_2 : "",
+	city      : "Van Nuys",
+	zip       : "91401",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -30639,6 +32209,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "14919 Whittier Blvd",
 	address_2 : "",
+	city      : "Whittier",
+	zip       : "90605",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -30678,6 +32250,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "15120 W Sunset Blvd",
 	address_2 : "",
+	city      : "Pacific Palisades",
+	zip       : "90272",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -30717,6 +32291,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "160 N Lake Ave",
 	address_2 : "",
+	city      : "Pasadena",
+	zip       : "91101",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -30756,6 +32332,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "16123 Bellflower Blvd",
 	address_2 : "",
+	city      : "Bellflower",
+	zip       : "90706",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -30795,6 +32373,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "16325 Ventura Blvd",
 	address_2 : "",
+	city      : "Encino",
+	zip       : "91436",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -30834,6 +32414,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "1644 Cloverfield Blvd",
 	address_2 : "",
+	city      : "Santa Monica",
+	zip       : "90404",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -30873,6 +32455,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "16940 Devonshire St",
 	address_2 : "",
+	city      : "North Hills",
+	zip       : "91344",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -30912,6 +32496,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "17250 Saticoy St",
 	address_2 : "",
+	city      : "Van Nuys",
+	zip       : "91406",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -30951,6 +32537,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "1730 W Manchester Ave",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90047",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -30990,6 +32578,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "1745 Garfield Ave",
 	address_2 : "",
+	city      : "South Pasadena",
+	zip       : "91030",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -31029,6 +32619,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "17500 Crenshaw Blvd",
 	address_2 : "",
+	city      : "Torrance",
+	zip       : "90504",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -31068,6 +32660,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "1770 W Carson St",
 	address_2 : "",
+	city      : "Torrance",
+	zip       : "90501",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -31107,6 +32701,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "17840 Ventura Blvd",
 	address_2 : "",
+	city      : "Encino",
+	zip       : "91316",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -31146,6 +32742,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "18010 Chatsworth St",
 	address_2 : "",
+	city      : "Granada Hills",
+	zip       : "91344",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -31185,6 +32783,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "18318 Vanowen St",
 	address_2 : "",
+	city      : "Reseda",
+	zip       : "91335",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -31224,6 +32824,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "1930 N Lakewood Blvd",
 	address_2 : "",
+	city      : "Long Beach",
+	zip       : "90815",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -31263,6 +32865,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "19340 Soledad Canyon Rd",
 	address_2 : "",
+	city      : "Canyon Country",
+	zip       : "91351",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -31302,6 +32906,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "19781 Rinaldi St",
 	address_2 : "",
+	city      : "Porter Ranch",
+	zip       : "91326",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -31341,6 +32947,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "20060 Ventura Blvd",
 	address_2 : "",
+	city      : "Woodland Hills",
+	zip       : "91364",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -31380,6 +32988,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "20137 Pioneer Blvd",
 	address_2 : "",
+	city      : "Lakewood",
+	zip       : "90715",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -31419,6 +33029,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "211 E Foothill Blvd",
 	address_2 : "",
+	city      : "Arcadia",
+	zip       : "91006",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -31458,6 +33070,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "211 N Glendale Ave",
 	address_2 : "",
+	city      : "Glendale",
+	zip       : "91206",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -31497,6 +33111,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "21431 Devonshire St",
 	address_2 : "",
+	city      : "Chatsworth",
+	zip       : "91311",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -31536,6 +33152,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "21909 Ventura Blvd",
 	address_2 : "",
+	city      : "Woodland Hills",
+	zip       : "91364",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -31575,6 +33193,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "2201 W Redondo Beach Blvd",
 	address_2 : "",
+	city      : "Gardena",
+	zip       : "90247",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -31614,6 +33234,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "2230 S Atlantic Blvd",
 	address_2 : "",
+	city      : "Monterey Park",
+	zip       : "91754",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -31653,6 +33275,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "22333 Sherman Way",
 	address_2 : "",
+	city      : "Canoga Park",
+	zip       : "91303",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -31692,6 +33316,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "2250 E Carson St",
 	address_2 : "",
+	city      : "Long Beach",
+	zip       : "90807",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -31731,6 +33357,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "2270 Lake Ave",
 	address_2 : "",
+	city      : "Altadena",
+	zip       : "91001",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -31770,6 +33398,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "22915 Victory Blvd",
 	address_2 : "",
+	city      : "West Hills",
+	zip       : "91307",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -31809,6 +33439,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "23841 Malibu Rd",
 	address_2 : "",
+	city      : "Malibu",
+	zip       : "90265",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -31848,6 +33480,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "24975 Pico Canyon Rd",
 	address_2 : "",
+	city      : "Stevenson Ranch",
+	zip       : "91381",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -31887,6 +33521,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "25 E Alameda Ave",
 	address_2 : "",
+	city      : "Burbank",
+	zip       : "91502",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -31926,6 +33562,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "25930 McBean Pkwy",
 	address_2 : "",
+	city      : "Valencia",
+	zip       : "91355",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -31965,6 +33603,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "260 S La Brea Ave",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90036",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -32004,6 +33644,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "2600 S Vermont Ave",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90007",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -32043,6 +33685,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "2600 W Victory Blvd",
 	address_2 : "",
+	city      : "Burbank",
+	zip       : "91505",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -32082,6 +33726,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "2675 Foothill Blvd",
 	address_2 : "",
+	city      : "La Crescenta",
+	zip       : "91214",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -32121,6 +33767,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "2700 N Sepulveda Blvd",
 	address_2 : "",
+	city      : "Manhattan Beach",
+	zip       : "90266",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -32160,6 +33808,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "27760 McBean Pkwy",
 	address_2 : "",
+	city      : "Valencia",
+	zip       : "91354",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -32199,6 +33849,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "2909 Rolling Hills Rd",
 	address_2 : "",
+	city      : "Torrance",
+	zip       : "90505",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -32238,6 +33890,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "2930 E 4th St",
 	address_2 : "",
+	city      : "Long Beach",
+	zip       : "90814",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -32277,6 +33931,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "29675 the Old Rd",
 	address_2 : "",
+	city      : "Castaic",
+	zip       : "91384",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -32316,6 +33972,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "30019 Hawthorne Blvd",
 	address_2 : "",
+	city      : "Rancho Palos Verdes",
+	zip       : "90275",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -32355,6 +34013,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "305 W Imperial Hwy",
 	address_2 : "",
+	city      : "Brea",
+	zip       : "92821",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -32394,6 +34054,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "320 W Colorado Blvd",
 	address_2 : "",
+	city      : "Pasadena",
+	zip       : "91105",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -32433,6 +34095,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "330 N Atlantic Blvd",
 	address_2 : "",
+	city      : "Monterey Park",
+	zip       : "91754",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -32472,6 +34136,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "3300 W Slauson Ave",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90043",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -32511,6 +34177,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "3380 N Los Coyotes Diagonal",
 	address_2 : "",
+	city      : "Long Beach",
+	zip       : "90808",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -32550,6 +34218,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "3410 W 3rd St",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90020",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -32589,6 +34259,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "3455 Sepulveda Blvd",
 	address_2 : "",
+	city      : "Torrance",
+	zip       : "90505",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -32628,6 +34300,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "3601 E Foothill Blvd",
 	address_2 : "",
+	city      : "Pasadena",
+	zip       : "91107",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -32667,6 +34341,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "3827 Culver Ctr",
 	address_2 : "",
+	city      : "Culver City",
+	zip       : "90232",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -32706,6 +34382,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "3963 E Thousand Oaks Blvd",
 	address_2 : "",
+	city      : "Thousand Oaks",
+	zip       : "91362",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -32745,6 +34423,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "4033 Ball Rd",
 	address_2 : "",
+	city      : "Cypress",
+	zip       : "90630",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -32784,6 +34464,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "4311 Lincoln Blvd",
 	address_2 : "",
+	city      : "Marina del Rey",
+	zip       : "90292",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -32823,6 +34505,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "4700 Admiralty Way",
 	address_2 : "",
+	city      : "Marina del Rey",
+	zip       : "90292",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -32862,6 +34546,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "4754 Commons Way",
 	address_2 : "",
+	city      : "Calabasas",
+	zip       : "91302",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -32901,6 +34587,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "4760 W Pico Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90019",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -32940,6 +34628,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "500 N Sepulveda Blvd",
 	address_2 : "",
+	city      : "El Segundo",
+	zip       : "90245",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -32979,6 +34669,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "5035 Pacific Coast Hwy",
 	address_2 : "",
+	city      : "Torrance",
+	zip       : "90505",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -33018,6 +34710,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "5080 Rodeo Rd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90016",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -33057,6 +34751,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "521 Foothill Blvd",
 	address_2 : "",
+	city      : "La Canada Flintridge",
+	zip       : "91011",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -33096,6 +34792,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "5245 W Centinela Ave",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90045",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -33135,6 +34833,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "5429 Hollywood Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90027",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -33174,6 +34874,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "5601 Wilshire Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90036",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -33213,6 +34915,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "5727 Kanan Rd",
 	address_2 : "",
+	city      : "Agoura Hills",
+	zip       : "91301",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -33252,6 +34956,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "5951 Del Amo Blvd",
 	address_2 : "",
+	city      : "Lakewood",
+	zip       : "90713",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -33291,6 +34997,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "6290 E Pacific Coast Hwy",
 	address_2 : "",
+	city      : "Long Beach",
+	zip       : "90803",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -33330,6 +35038,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "645 W 9th St",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90015",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -33369,6 +35079,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "650 E Carson St",
 	address_2 : "",
+	city      : "Carson",
+	zip       : "90745",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -33408,6 +35120,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "655 S Grand Ave",
 	address_2 : "",
+	city      : "Glendora",
+	zip       : "91740",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -33447,6 +35161,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "6657 Laurel Canyon Blvd",
 	address_2 : "",
+	city      : "North Hollywood",
+	zip       : "91606",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -33486,6 +35202,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "670 S Western Ave",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90005",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -33525,6 +35243,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "7221 Woodman Ave",
 	address_2 : "",
+	city      : "Van Nuys",
+	zip       : "91405",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -33564,6 +35284,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "7257 W Sunset Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90046",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -33603,6 +35325,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "8325 Laurel Canyon Blvd",
 	address_2 : "",
+	city      : "Sun Valley",
+	zip       : "91352",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -33642,6 +35366,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "8626 Firestone Blvd",
 	address_2 : "",
+	city      : "Downey",
+	zip       : "90241",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -33681,6 +35407,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "8701 Lincoln Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90045",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -33720,6 +35448,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "8824 S Sepulveda Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90045",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -33759,6 +35489,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "9040 Beverly Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90048",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -33798,6 +35530,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "910 Lincoln Blvd",
 	address_2 : "",
+	city      : "Venice",
+	zip       : "90291",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -33837,6 +35571,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "9200 Lakewood Blvd",
 	address_2 : "",
+	city      : "Downey",
+	zip       : "90240",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -33876,6 +35612,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "9320 Slauson Ave",
 	address_2 : "",
+	city      : "Pico Rivera",
+	zip       : "90660",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -33915,6 +35653,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "9470 Las Tunas Dr",
 	address_2 : "",
+	city      : "Temple City",
+	zip       : "91780",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -33954,6 +35694,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "950 N La Brea Ave",
 	address_2 : "",
+	city      : "Inglewood",
+	zip       : "90302",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -33993,6 +35735,8 @@ var locations = [
 	name      : "Ralphs",
 	address_1 : "9616 W Pico Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90035",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -34032,6 +35776,8 @@ var locations = [
 	name      : "Smart and Final",
 	address_1 : "1855 W Glenoaks Blvd",
 	address_2 : "",
+	city      : "Glendale",
+	zip       : "91201",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -34071,6 +35817,8 @@ var locations = [
 	name      : "Smart & Final",
 	address_1 : "10340 Mason Ave",
 	address_2 : "",
+	city      : "Chatsworth",
+	zip       : "91311",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -34110,6 +35858,8 @@ var locations = [
 	name      : "Smart & Final",
 	address_1 : "1041 N Fuller Ave",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90046",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -34149,6 +35899,8 @@ var locations = [
 	name      : "Smart & Final",
 	address_1 : "10893 San Fernando Rd",
 	address_2 : "",
+	city      : "Pacoima",
+	zip       : "91331",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -34188,6 +35940,8 @@ var locations = [
 	name      : "Smart & Final",
 	address_1 : "10935 Firestone Blvd",
 	address_2 : "",
+	city      : "Norwalk",
+	zip       : "90650",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -34227,6 +35981,8 @@ var locations = [
 	name      : "Smart & Final",
 	address_1 : "11110 Ramona Blvd",
 	address_2 : "",
+	city      : "El Monte",
+	zip       : "91731",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -34266,6 +36022,8 @@ var locations = [
 	name      : "Smart & Final",
 	address_1 : "11221 W Pico Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90064",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -34305,6 +36063,8 @@ var locations = [
 	name      : "Smart & Final",
 	address_1 : "1125 E El Segundo Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90059",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -34344,6 +36104,8 @@ var locations = [
 	name      : "Smart & Final",
 	address_1 : "11460 Washington Blvd",
 	address_2 : "",
+	city      : "Whittier",
+	zip       : "90606",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -34383,6 +36145,8 @@ var locations = [
 	name      : "Smart & Final",
 	address_1 : "1216 Compton Ave",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90021",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -34422,6 +36186,8 @@ var locations = [
 	name      : "Smart & Final",
 	address_1 : "12164 Central Ave",
 	address_2 : "",
+	city      : "Chino",
+	zip       : "91710",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -34461,6 +36227,8 @@ var locations = [
 	name      : "Smart & Final",
 	address_1 : "12210 Santa Monica Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90025",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -34500,6 +36268,8 @@ var locations = [
 	name      : "Smart & Final",
 	address_1 : "1320 Atlantic Ave",
 	address_2 : "",
+	city      : "Long Beach",
+	zip       : "90813",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -34539,6 +36309,8 @@ var locations = [
 	name      : "Smart & Final",
 	address_1 : "1516 S Pacific Coast Hwy",
 	address_2 : "",
+	city      : "Redondo Beach",
+	zip       : "90277",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -34578,6 +36350,8 @@ var locations = [
 	name      : "Smart & Final",
 	address_1 : "15214 Whittier Blvd",
 	address_2 : "",
+	city      : "Whittier",
+	zip       : "90603",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -34617,6 +36391,8 @@ var locations = [
 	name      : "Smart & Final",
 	address_1 : "1550 W Redondo Beach Blvd",
 	address_2 : "",
+	city      : "Gardena",
+	zip       : "90247",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -34656,6 +36432,8 @@ var locations = [
 	name      : "Smart & Final",
 	address_1 : "1575 Centinela Ave",
 	address_2 : "",
+	city      : "Inglewood",
+	zip       : "90302",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -34695,6 +36473,8 @@ var locations = [
 	name      : "Smart & Final",
 	address_1 : "160 W Willow St",
 	address_2 : "",
+	city      : "Pomona",
+	zip       : "91768",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -34734,6 +36514,8 @@ var locations = [
 	name      : "Smart & Final",
 	address_1 : "16847 Ventura Blvd",
 	address_2 : "",
+	city      : "Encino",
+	zip       : "91436",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -34773,6 +36555,8 @@ var locations = [
 	name      : "Smart & Final",
 	address_1 : "1755 Ximeno Ave",
 	address_2 : "",
+	city      : "Long Beach",
+	zip       : "90815",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -34812,6 +36596,8 @@ var locations = [
 	name      : "Smart & Final",
 	address_1 : "18204 Gale Ave",
 	address_2 : "",
+	city      : "Rowland Heights",
+	zip       : "91748",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -34851,6 +36637,8 @@ var locations = [
 	name      : "Smart & Final",
 	address_1 : "1835 S La Cienega Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90035",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -34890,6 +36678,8 @@ var locations = [
 	name      : "Smart & Final",
 	address_1 : "2019 Pasadena Ave",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90031",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -34929,6 +36719,8 @@ var locations = [
 	name      : "Smart & Final",
 	address_1 : "20410 S Susana Rd",
 	address_2 : "",
+	city      : "Long Beach",
+	zip       : "90810",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -34968,6 +36760,8 @@ var locations = [
 	name      : "Smart & Final",
 	address_1 : "21600 S Vermont Ave",
 	address_2 : "",
+	city      : "Torrance",
+	zip       : "90502",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -35007,6 +36801,8 @@ var locations = [
 	name      : "Smart & Final",
 	address_1 : "2308 E 4th St",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90033",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -35046,6 +36842,8 @@ var locations = [
 	name      : "Smart & Final",
 	address_1 : "23640B Lyons Ave",
 	address_2 : "",
+	city      : "Newhall",
+	zip       : "91321",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -35085,6 +36883,8 @@ var locations = [
 	name      : "Smart & Final",
 	address_1 : "266 E Huntington Dr",
 	address_2 : "",
+	city      : "Monrovia",
+	zip       : "91016",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -35124,6 +36924,8 @@ var locations = [
 	name      : "Smart & Final",
 	address_1 : "266 E Palmdale Blvd",
 	address_2 : "",
+	city      : "Palmdale",
+	zip       : "93550",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -35163,6 +36965,8 @@ var locations = [
 	name      : "Smart & Final",
 	address_1 : "2720 Beverly Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90057",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -35202,6 +37006,8 @@ var locations = [
 	name      : "Smart & Final",
 	address_1 : "2775 Pacific Coast Hwy",
 	address_2 : "",
+	city      : "Torrance",
+	zip       : "90505",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -35241,6 +37047,8 @@ var locations = [
 	name      : "Smart & Final",
 	address_1 : "28207 Newhall Ranch Rd",
 	address_2 : "",
+	city      : "Valencia",
+	zip       : "91355",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -35280,6 +37088,8 @@ var locations = [
 	name      : "Smart & Final",
 	address_1 : "2929 Crenshaw Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90016",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -35319,6 +37129,8 @@ var locations = [
 	name      : "Smart & Final",
 	address_1 : "2949 W Pico Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90006",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -35358,6 +37170,8 @@ var locations = [
 	name      : "Smart & Final",
 	address_1 : "3123 Baldwin Park Blvd",
 	address_2 : "",
+	city      : "Baldwin Park",
+	zip       : "91706",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -35397,6 +37211,8 @@ var locations = [
 	name      : "Smart & Final",
 	address_1 : "3299 E Colorado Blvd",
 	address_2 : "",
+	city      : "Pasadena",
+	zip       : "91107",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -35436,6 +37252,8 @@ var locations = [
 	name      : "Smart & Final",
 	address_1 : "332 S Pacific Coast Hwy",
 	address_2 : "",
+	city      : "Redondo Beach",
+	zip       : "90277",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -35475,6 +37293,8 @@ var locations = [
 	name      : "Smart & Final",
 	address_1 : "3607 S Vermont Ave",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90007",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -35514,6 +37334,8 @@ var locations = [
 	name      : "Smart & Final",
 	address_1 : "3708 W Burbank Blvd",
 	address_2 : "",
+	city      : "Burbank",
+	zip       : "91505",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -35553,6 +37375,8 @@ var locations = [
 	name      : "Smart & Final",
 	address_1 : "401 N Fair",
 	address_2 : "",
+	city      : "Pasadena",
+	zip       : "91103",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -35592,6 +37416,8 @@ var locations = [
 	name      : "Smart & Final",
 	address_1 : "5500 Sheila St",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90040",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -35631,6 +37457,8 @@ var locations = [
 	name      : "Smart & Final",
 	address_1 : "5555 Wilshire Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90036",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -35670,6 +37498,8 @@ var locations = [
 	name      : "Smart & Final",
 	address_1 : "5700 E Olympic Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90022",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -35709,6 +37539,8 @@ var locations = [
 	name      : "Smart & Final",
 	address_1 : "5925 Carson St",
 	address_2 : "",
+	city      : "Lakewood",
+	zip       : "90713",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -35748,6 +37580,8 @@ var locations = [
 	name      : "Smart & Final",
 	address_1 : "600 Citadel Dr",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90040",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -35787,6 +37621,8 @@ var locations = [
 	name      : "Smart & Final",
 	address_1 : "6060 N Figueroa St",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90042",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -35826,6 +37662,8 @@ var locations = [
 	name      : "Smart & Final",
 	address_1 : "6555 Foothill Blvd",
 	address_2 : "",
+	city      : "Tujunga",
+	zip       : "91042",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -35865,6 +37703,8 @@ var locations = [
 	name      : "Smart & Final",
 	address_1 : "725 E Main St",
 	address_2 : "",
+	city      : "Alhambra",
+	zip       : "91801",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -35904,6 +37744,8 @@ var locations = [
 	name      : "Smart & Final",
 	address_1 : "7815 Van Nuys Blvd",
 	address_2 : "",
+	city      : "Panorama City",
+	zip       : "91402",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -35943,6 +37785,8 @@ var locations = [
 	name      : "Smart & Final",
 	address_1 : "8137 S Vermont Ave",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90044",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -35982,6 +37826,8 @@ var locations = [
 	name      : "Smart & Final Extra",
 	address_1 : "1005 W Arrow Hwy",
 	address_2 : "",
+	city      : "San Dimas",
+	zip       : "91773",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -36021,6 +37867,8 @@ var locations = [
 	name      : "Smart & Final Extra",
 	address_1 : "10100 Crenshaw Blvd",
 	address_2 : "",
+	city      : "Inglewood",
+	zip       : "90303",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -36060,6 +37908,8 @@ var locations = [
 	name      : "Smart & Final Extra",
 	address_1 : "10113 Venice Blvd",
 	address_2 : "",
+	city      : "Culver City",
+	zip       : "90034",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -36099,6 +37949,8 @@ var locations = [
 	name      : "Smart & Final Extra",
 	address_1 : "10833 Long Beach Blvd",
 	address_2 : "",
+	city      : "Lynwood",
+	zip       : "90262",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -36138,6 +37990,8 @@ var locations = [
 	name      : "Smart & Final Extra",
 	address_1 : "114 N Azusa Ave",
 	address_2 : "",
+	city      : "Covina",
+	zip       : "91722",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -36177,6 +38031,8 @@ var locations = [
 	name      : "Smart & Final Extra",
 	address_1 : "13003 Whittier Blvd",
 	address_2 : "",
+	city      : "Whittier",
+	zip       : "90602",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -36216,6 +38072,8 @@ var locations = [
 	name      : "Smart & Final Extra",
 	address_1 : "15055 Mulberry Dr",
 	address_2 : "",
+	city      : "Whittier",
+	zip       : "90604",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -36255,6 +38113,8 @@ var locations = [
 	name      : "Smart & Final Extra",
 	address_1 : "15205 Hawthorne Blvd",
 	address_2 : "",
+	city      : "Lawndale",
+	zip       : "90260",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -36294,6 +38154,8 @@ var locations = [
 	name      : "Smart & Final Extra",
 	address_1 : "15427 Amar Rd",
 	address_2 : "",
+	city      : "La Puente",
+	zip       : "91744",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -36333,6 +38195,8 @@ var locations = [
 	name      : "Smart & Final Extra",
 	address_1 : "15930 Bellflower Blvd",
 	address_2 : "",
+	city      : "Bellflower",
+	zip       : "90706",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -36372,6 +38236,8 @@ var locations = [
 	name      : "Smart & Final Extra",
 	address_1 : "16210 Devonshire St",
 	address_2 : "",
+	city      : "North Hills",
+	zip       : "91344",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -36411,6 +38277,8 @@ var locations = [
 	name      : "Smart & Final Extra",
 	address_1 : "1855 W Glenoaks Blvd",
 	address_2 : "",
+	city      : "Glendale",
+	zip       : "91201",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -36450,6 +38318,8 @@ var locations = [
 	name      : "Smart & Final Extra",
 	address_1 : "18555 Devonshire St",
 	address_2 : "",
+	city      : "Porter Ranch",
+	zip       : "91324",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -36489,6 +38359,8 @@ var locations = [
 	name      : "Smart & Final Extra",
 	address_1 : "1941 W Imperial Hwy",
 	address_2 : "",
+	city      : "La Habra",
+	zip       : "90631",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -36528,6 +38400,8 @@ var locations = [
 	name      : "Smart & Final Extra",
 	address_1 : "2040 Glenoaks Blvd",
 	address_2 : "",
+	city      : "San Fernando",
+	zip       : "91340",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -36567,6 +38441,8 @@ var locations = [
 	name      : "Smart & Final Extra",
 	address_1 : "210 N Verdugo Rd",
 	address_2 : "",
+	city      : "Glendale",
+	zip       : "91206",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -36606,6 +38482,8 @@ var locations = [
 	name      : "Smart & Final Extra",
 	address_1 : "22631 Ventura Blvd",
 	address_2 : "",
+	city      : "Woodland Hills",
+	zip       : "91364",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -36645,6 +38523,8 @@ var locations = [
 	name      : "Smart & Final Extra",
 	address_1 : "2511 Daly St",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90031",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -36684,6 +38564,8 @@ var locations = [
 	name      : "Smart & Final Extra",
 	address_1 : "28500 S Western Ave",
 	address_2 : "",
+	city      : "Rancho Palos Verdes",
+	zip       : "90275",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -36723,6 +38605,8 @@ var locations = [
 	name      : "Smart & Final Extra",
 	address_1 : "39212 10th St W",
 	address_2 : "",
+	city      : "Palmdale",
+	zip       : "93551",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -36762,6 +38646,8 @@ var locations = [
 	name      : "Smart & Final Extra",
 	address_1 : "4237 Woodruff Ave",
 	address_2 : "",
+	city      : "Lakewood",
+	zip       : "90713",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -36801,6 +38687,8 @@ var locations = [
 	name      : "Smart & Final Extra",
 	address_1 : "4550 W Pico Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90019",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -36840,6 +38728,8 @@ var locations = [
 	name      : "Smart & Final Extra",
 	address_1 : "5029 Florence Ave",
 	address_2 : "",
+	city      : "Bell Gardens",
+	zip       : "90201",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -36879,6 +38769,8 @@ var locations = [
 	name      : "Smart & Final Extra",
 	address_1 : "604 Lincoln Blvd",
 	address_2 : "",
+	city      : "Venice",
+	zip       : "90291",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -36918,6 +38810,8 @@ var locations = [
 	name      : "Smart & Final Extra",
 	address_1 : "644 Redondo Ave",
 	address_2 : "",
+	city      : "Long Beach",
+	zip       : "90814",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -36957,6 +38851,8 @@ var locations = [
 	name      : "Smart & Final Extra",
 	address_1 : "6601 Laurel Canyon Blvd",
 	address_2 : "",
+	city      : "North Hollywood",
+	zip       : "91606",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -36996,6 +38892,8 @@ var locations = [
 	name      : "Smart & Final Extra",
 	address_1 : "7224 Mason Ave",
 	address_2 : "",
+	city      : "Winnetka",
+	zip       : "91306",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -37035,6 +38933,8 @@ var locations = [
 	name      : "Smart & Final Extra",
 	address_1 : "845 S Figueroa St",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90017",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -37074,6 +38974,8 @@ var locations = [
 	name      : "Smart & Final Extra",
 	address_1 : "855 N Wilcox Ave",
 	address_2 : "",
+	city      : "Montebello",
+	zip       : "90640",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -37113,6 +39015,8 @@ var locations = [
 	name      : "Smart & Final Extra",
 	address_1 : "939 N Western Ave",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90029",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -37152,6 +39056,8 @@ var locations = [
 	name      : "Sprouts Farmers Market",
 	address_1 : "1011 N San Fernando Blvd",
 	address_2 : "",
+	city      : "Burbank",
+	zip       : "91504",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -37191,6 +39097,8 @@ var locations = [
 	name      : "Sprouts Farmers Market",
 	address_1 : "1012 S Westlake Blvd",
 	address_2 : "",
+	city      : "Westlake Village",
+	zip       : "91361",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -37230,6 +39138,8 @@ var locations = [
 	name      : "Sprouts Farmers Market",
 	address_1 : "4230 Pacific Coast Hwy",
 	address_2 : "",
+	city      : "Torrance",
+	zip       : "90505",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -37269,6 +39179,8 @@ var locations = [
 	name      : "Sprouts Farmers Market",
 	address_1 : "4253 Woodruff Ave",
 	address_2 : "",
+	city      : "Lakewood",
+	zip       : "90713",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -37308,6 +39220,8 @@ var locations = [
 	name      : "Sprouts Farmers Market",
 	address_1 : "735 E Birch St",
 	address_2 : "",
+	city      : "Brea",
+	zip       : "92821",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -37347,6 +39261,8 @@ var locations = [
 	name      : "Stater Bros. Markets",
 	address_1 : "10051 Valley View St",
 	address_2 : "",
+	city      : "Cypress",
+	zip       : "90630",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -37386,6 +39302,8 @@ var locations = [
 	name      : "Stater Bros. Markets",
 	address_1 : "1023 N Grand Ave",
 	address_2 : "",
+	city      : "Covina",
+	zip       : "91724",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -37425,6 +39343,8 @@ var locations = [
 	name      : "Stater Bros. Markets",
 	address_1 : "1025 E Amar Rd",
 	address_2 : "",
+	city      : "West Covina",
+	zip       : "91792",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -37464,6 +39384,8 @@ var locations = [
 	name      : "Stater Bros. Markets",
 	address_1 : "1045 N Garey Ave",
 	address_2 : "",
+	city      : "Pomona",
+	zip       : "91767",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -37503,6 +39425,8 @@ var locations = [
 	name      : "Stater Bros. Markets",
 	address_1 : "1055 W Foothill Blvd",
 	address_2 : "",
+	city      : "Claremont",
+	zip       : "91711",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -37542,6 +39466,8 @@ var locations = [
 	name      : "Stater Bros. Markets",
 	address_1 : "11300 Firestone Blvd",
 	address_2 : "",
+	city      : "Norwalk",
+	zip       : "90650",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -37581,6 +39507,8 @@ var locations = [
 	name      : "Stater Bros. Markets",
 	address_1 : "1145 E Alosta Ave",
 	address_2 : "",
+	city      : "Azusa",
+	zip       : "91702",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -37620,6 +39548,8 @@ var locations = [
 	name      : "Stater Bros. Markets",
 	address_1 : "11750 Whittier Blvd",
 	address_2 : "",
+	city      : "Whittier",
+	zip       : "90601",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -37659,6 +39589,8 @@ var locations = [
 	name      : "Stater Bros. Markets",
 	address_1 : "11815 Artesia Blvd",
 	address_2 : "",
+	city      : "Artesia",
+	zip       : "90701",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -37698,6 +39630,8 @@ var locations = [
 	name      : "Stater Bros. Markets",
 	address_1 : "12523 Alondra Blvd",
 	address_2 : "",
+	city      : "Norwalk",
+	zip       : "90650",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -37737,6 +39671,8 @@ var locations = [
 	name      : "Stater Bros. Markets",
 	address_1 : "12800 La Mirada Blvd",
 	address_2 : "",
+	city      : "La Mirada",
+	zip       : "90638",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -37776,6 +39712,8 @@ var locations = [
 	name      : "Stater Bros. Markets",
 	address_1 : "14212 Mulberry Dr",
 	address_2 : "",
+	city      : "Whittier",
+	zip       : "90604",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -37815,6 +39753,8 @@ var locations = [
 	name      : "Stater Bros. Markets",
 	address_1 : "1425 W Arrow Hwy",
 	address_2 : "",
+	city      : "San Dimas",
+	zip       : "91773",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -37854,6 +39794,8 @@ var locations = [
 	name      : "Stater Bros. Markets",
 	address_1 : "14250 Chino Hills Pkwy",
 	address_2 : "",
+	city      : "Chino Hills",
+	zip       : "91709",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -37893,6 +39835,8 @@ var locations = [
 	name      : "Stater Bros. Markets",
 	address_1 : "17220 Lakewood Blvd",
 	address_2 : "",
+	city      : "Bellflower",
+	zip       : "90706",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -37932,6 +39876,8 @@ var locations = [
 	name      : "Stater Bros. Markets",
 	address_1 : "1830 E Route 66",
 	address_2 : "",
+	city      : "Glendora",
+	zip       : "91740",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -37971,6 +39917,8 @@ var locations = [
 	name      : "Stater Bros. Markets",
 	address_1 : "1850 E Ave",
 	address_2 : "",
+	city      : "Lancaster",
+	zip       : "93535",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -38010,6 +39958,8 @@ var locations = [
 	name      : "Stater Bros. Markets",
 	address_1 : "19756 Colima Rd",
 	address_2 : "",
+	city      : "Rowland Heights",
+	zip       : "91748",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -38049,6 +39999,8 @@ var locations = [
 	name      : "Stater Bros. Markets",
 	address_1 : "20677 Amar Rd",
 	address_2 : "",
+	city      : "Walnut",
+	zip       : "91789",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -38088,6 +40040,8 @@ var locations = [
 	name      : "Stater Bros. Markets",
 	address_1 : "2090 Foothill Blvd",
 	address_2 : "",
+	city      : "La Verne",
+	zip       : "91750",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -38127,6 +40081,8 @@ var locations = [
 	name      : "Stater Bros. Markets",
 	address_1 : "2535 E Avenue S",
 	address_2 : "",
+	city      : "Palmdale",
+	zip       : "93550",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -38166,6 +40122,8 @@ var locations = [
 	name      : "Stater Bros. Markets",
 	address_1 : "26900 Sierra Hwy",
 	address_2 : "",
+	city      : "Newhall",
+	zip       : "91321",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -38205,6 +40163,8 @@ var locations = [
 	name      : "Stater Bros. Markets",
 	address_1 : "2845 W Ave",
 	address_2 : "",
+	city      : "Lancaster",
+	zip       : "93536",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -38244,6 +40204,8 @@ var locations = [
 	name      : "Stater Bros. Markets",
 	address_1 : "37218 47th St E",
 	address_2 : "",
+	city      : "Palmdale",
+	zip       : "93552",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -38283,6 +40245,8 @@ var locations = [
 	name      : "Stater Bros. Markets",
 	address_1 : "375 N Azusa Ave",
 	address_2 : "",
+	city      : "West Covina",
+	zip       : "91791",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -38322,6 +40286,8 @@ var locations = [
 	name      : "Stater Bros. Markets",
 	address_1 : "4721 Riverside Dr",
 	address_2 : "",
+	city      : "Chino",
+	zip       : "91710",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -38361,6 +40327,8 @@ var locations = [
 	name      : "Stater Bros. Markets",
 	address_1 : "6501 E Spring St",
 	address_2 : "",
+	city      : "Long Beach",
+	zip       : "90808",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -38400,6 +40368,8 @@ var locations = [
 	name      : "Stater Bros. Markets",
 	address_1 : "6989 Schaefer Ave",
 	address_2 : "",
+	city      : "Chino",
+	zip       : "91710",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -38439,6 +40409,8 @@ var locations = [
 	name      : "Stater Bros. Markets",
 	address_1 : "7814 Firestone Blvd",
 	address_2 : "",
+	city      : "Downey",
+	zip       : "90241",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -38478,6 +40450,8 @@ var locations = [
 	name      : "Stater Bros. Markets",
 	address_1 : "851 N Harbor Blvd",
 	address_2 : "",
+	city      : "La Habra",
+	zip       : "90631",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -38517,6 +40491,8 @@ var locations = [
 	name      : "Stater Bros. Markets",
 	address_1 : "8640 Alondra Blvd",
 	address_2 : "",
+	city      : "Paramount",
+	zip       : "90723",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -38556,6 +40532,8 @@ var locations = [
 	name      : "Super A Foods",
 	address_1 : "13120 Downey Ave",
 	address_2 : "",
+	city      : "Paramount",
+	zip       : "90723",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -38595,6 +40573,8 @@ var locations = [
 	name      : "Super A Foods",
 	address_1 : "2245 Yosemite Dr",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90041",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -38634,6 +40614,8 @@ var locations = [
 	name      : "Super A Foods",
 	address_1 : "2924 W Beverly Blvd",
 	address_2 : "",
+	city      : "Montebello",
+	zip       : "90640",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -38673,6 +40655,8 @@ var locations = [
 	name      : "Super A Foods",
 	address_1 : "2925 Division St",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90065",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -38712,6 +40696,8 @@ var locations = [
 	name      : "Super A Foods",
 	address_1 : "300 W Main St",
 	address_2 : "",
+	city      : "Alhambra",
+	zip       : "91801",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -38751,6 +40737,8 @@ var locations = [
 	name      : "Super A Foods",
 	address_1 : "4848 W 190th St",
 	address_2 : "",
+	city      : "Torrance",
+	zip       : "90503",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -38790,6 +40778,8 @@ var locations = [
 	name      : "Super A Foods",
 	address_1 : "5250 York Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90042",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -38829,6 +40819,8 @@ var locations = [
 	name      : "Super A Foods",
 	address_1 : "5595 Rosemead Blvd",
 	address_2 : "",
+	city      : "Temple City",
+	zip       : "91780",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -38868,6 +40860,8 @@ var locations = [
 	name      : "Super A Foods",
 	address_1 : "6380 Florence Ave",
 	address_2 : "",
+	city      : "Bell Gardens",
+	zip       : "90201",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -38907,6 +40901,8 @@ var locations = [
 	name      : "Super A Foods",
 	address_1 : "7200 Dominion Cir",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90040",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -38946,6 +40942,8 @@ var locations = [
 	name      : "Super A Foods",
 	address_1 : "8116 California Ave",
 	address_2 : "",
+	city      : "South Gate",
+	zip       : "90280",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -38985,6 +40983,8 @@ var locations = [
 	name      : "Super A Foods",
 	address_1 : "935 W Duarte Rd",
 	address_2 : "",
+	city      : "Monrovia",
+	zip       : "91016",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -39024,6 +41024,8 @@ var locations = [
 	name      : "Super King Market",
 	address_1 : "19500 Plummer St",
 	address_2 : "",
+	city      : "Northridge",
+	zip       : "91324",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -39063,6 +41065,8 @@ var locations = [
 	name      : "Super King Market",
 	address_1 : "2260 Lincoln Ave",
 	address_2 : "",
+	city      : "Altadena",
+	zip       : "91001",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -39102,6 +41106,8 @@ var locations = [
 	name      : "Super King Market",
 	address_1 : "2716 N San Fernando Rd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90065",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -39141,6 +41147,8 @@ var locations = [
 	name      : "Super King Market",
 	address_1 : "436 Auto Center Dr",
 	address_2 : "",
+	city      : "Claremont",
+	zip       : "91711",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -39180,6 +41188,8 @@ var locations = [
 	name      : "Super King Market",
 	address_1 : "632 E Foothill Blvd",
 	address_2 : "",
+	city      : "Azusa",
+	zip       : "91702",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -39219,6 +41229,8 @@ var locations = [
 	name      : "Super King Market",
 	address_1 : "7227 Van Nuys Blvd",
 	address_2 : "",
+	city      : "Van Nuys",
+	zip       : "91405",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -39258,6 +41270,8 @@ var locations = [
 	name      : "Superior Grocers",
 	address_1 : "1010 E Ave",
 	address_2 : "",
+	city      : "Lancaster",
+	zip       : "93535",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -39297,6 +41311,8 @@ var locations = [
 	name      : "Superior Grocers",
 	address_1 : "10683 Valley Blvd",
 	address_2 : "",
+	city      : "El Monte",
+	zip       : "91731",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -39336,6 +41352,8 @@ var locations = [
 	name      : "Superior Grocers",
 	address_1 : "11202 Crenshaw Blvd",
 	address_2 : "",
+	city      : "Inglewood",
+	zip       : "90303",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -39375,6 +41393,8 @@ var locations = [
 	name      : "Superior Grocers",
 	address_1 : "12375 Central Ave",
 	address_2 : "",
+	city      : "Chino",
+	zip       : "91710",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -39414,6 +41434,8 @@ var locations = [
 	name      : "Superior Grocers",
 	address_1 : "133 W Avenue 45",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90065",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -39453,6 +41475,8 @@ var locations = [
 	name      : "Superior Grocers",
 	address_1 : "14433 Ramona Blvd",
 	address_2 : "",
+	city      : "Baldwin Park",
+	zip       : "91706",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -39492,6 +41516,8 @@ var locations = [
 	name      : "Superior Grocers",
 	address_1 : "151 S Hacienda Blvd",
 	address_2 : "",
+	city      : "La Puente",
+	zip       : "91745",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -39531,6 +41557,8 @@ var locations = [
 	name      : "Superior Grocers",
 	address_1 : "16100 Lakewood Blvd",
 	address_2 : "",
+	city      : "Bellflower",
+	zip       : "90706",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -39570,6 +41598,8 @@ var locations = [
 	name      : "Superior Grocers",
 	address_1 : "3180 N Garey Ave",
 	address_2 : "",
+	city      : "Pomona",
+	zip       : "91767",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -39609,6 +41639,8 @@ var locations = [
 	name      : "Superior Grocers",
 	address_1 : "3480 S La Brea Ave",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90016",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -39648,6 +41680,8 @@ var locations = [
 	name      : "Superior Grocers",
 	address_1 : "38360 20th St E",
 	address_2 : "",
+	city      : "Palmdale",
+	zip       : "93550",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -39687,6 +41721,8 @@ var locations = [
 	name      : "Superior Grocers",
 	address_1 : "4308 Slauson Ave",
 	address_2 : "",
+	city      : "Maywood",
+	zip       : "90270",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -39726,6 +41762,8 @@ var locations = [
 	name      : "Superior Grocers",
 	address_1 : "5450 Cherry Ave",
 	address_2 : "",
+	city      : "Long Beach",
+	zip       : "90805",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -39765,6 +41803,8 @@ var locations = [
 	name      : "Superior Grocers",
 	address_1 : "5824 S Vermont Ave",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90044",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -39804,6 +41844,8 @@ var locations = [
 	name      : "Superior Grocers",
 	address_1 : "6140 Lankershim Blvd",
 	address_2 : "",
+	city      : "North Hollywood",
+	zip       : "91606",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -39843,6 +41885,8 @@ var locations = [
 	name      : "Superior Grocers",
 	address_1 : "9801 Laurel Canyon Blvd",
 	address_2 : "",
+	city      : "Pacoima",
+	zip       : "91331",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -39882,6 +41926,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "1000 Glendon Ave",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90024",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -39921,6 +41967,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "10130 Riverside Dr",
 	address_2 : "",
+	city      : "North Hollywood",
+	zip       : "91602",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -39960,6 +42008,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "103 E Glenoaks Blvd",
 	address_2 : "",
+	city      : "Glendale",
+	zip       : "91207",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -39999,6 +42049,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "10330 Mason Ave",
 	address_2 : "",
+	city      : "Chatsworth",
+	zip       : "91311",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -40038,6 +42090,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "10850 National Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90064",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -40077,6 +42131,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "1100 Pacific Coast Hwy",
 	address_2 : "",
+	city      : "Hermosa Beach",
+	zip       : "90254",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -40116,6 +42172,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "11114 Balboa Blvd",
 	address_2 : "",
+	city      : "Granada Hills",
+	zip       : "91344",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -40155,6 +42213,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "11755 W Olympic Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90064",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -40194,6 +42254,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "11976 Ventura Blvd",
 	address_2 : "",
+	city      : "Studio City",
+	zip       : "91604",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -40233,6 +42295,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "12861 Towne Center Dr",
 	address_2 : "",
+	city      : "Cerritos",
+	zip       : "90703",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -40272,6 +42336,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "13911 Peyton Dr",
 	address_2 : "",
+	city      : "Chino Hills",
+	zip       : "91709",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -40311,6 +42377,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "14119 Riverside Dr",
 	address_2 : "",
+	city      : "Sherman Oaks",
+	zip       : "91423",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -40350,6 +42418,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "15025 Whittier Blvd",
 	address_2 : "",
+	city      : "Whittier",
+	zip       : "90603",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -40389,6 +42459,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "1566 Colorado Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90041",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -40428,6 +42500,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "1600 Vine St",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90028",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -40467,6 +42541,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "175 S Fairfax Ave",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90036",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -40506,6 +42582,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "1761 S Elena Ave",
 	address_2 : "",
+	city      : "Redondo Beach",
+	zip       : "90277",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -40545,6 +42623,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "17640 Burbank Blvd",
 	address_2 : "",
+	city      : "Encino",
+	zip       : "91316",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -40584,6 +42664,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "1800 Rosecrans Ave",
 	address_2 : "",
+	city      : "Manhattan Beach",
+	zip       : "90266",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -40623,6 +42705,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "1821 Manhattan Beach Blvd",
 	address_2 : "",
+	city      : "Manhattan Beach",
+	zip       : "90266",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -40662,6 +42746,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "19720 Hawthorne Blvd",
 	address_2 : "",
+	city      : "Torrance",
+	zip       : "90503",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -40701,6 +42787,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "21055 Ventura Blvd",
 	address_2 : "",
+	city      : "Woodland Hills",
+	zip       : "91364",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -40740,6 +42828,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "214 E Alameda Ave",
 	address_2 : "",
+	city      : "Burbank",
+	zip       : "91502",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -40779,6 +42869,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "2222 N Bellflower Blvd",
 	address_2 : "",
+	city      : "Long Beach",
+	zip       : "90815",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -40818,6 +42910,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "2462 Honolulu Ave",
 	address_2 : "",
+	city      : "Montrose",
+	zip       : "91020",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -40857,6 +42951,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "2500 E Imperial Hwy",
 	address_2 : "",
+	city      : "Brea",
+	zip       : "92821",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -40896,6 +42992,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "2545 Pacific Coast Hwy",
 	address_2 : "",
+	city      : "Torrance",
+	zip       : "90505",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -40935,6 +43033,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "263 S La Brea Ave",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90036",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -40974,6 +43074,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "26517 Bouquet Canyon Rd",
 	address_2 : "",
+	city      : "Santa Clarita",
+	zip       : "91350",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -41013,6 +43115,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "2738 Hyperion Ave",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90027",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -41052,6 +43156,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "28901 S Western Ave",
 	address_2 : "",
+	city      : "Rancho Palos Verdes",
+	zip       : "90275",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -41091,6 +43197,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "28941 Canwood St",
 	address_2 : "",
+	city      : "Agoura Hills",
+	zip       : "91301",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -41130,6 +43238,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "31176 Hawthorne Blvd",
 	address_2 : "",
+	city      : "Rancho Palos Verdes",
+	zip       : "90275",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -41169,6 +43279,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "3212 Pico Blvd",
 	address_2 : "",
+	city      : "Santa Monica",
+	zip       : "90405",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -41208,6 +43320,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "345 S Lake Ave",
 	address_2 : "",
+	city      : "Pasadena",
+	zip       : "91101",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -41247,6 +43361,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "3456 S Sepulveda Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90034",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -41286,6 +43402,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "3835 E Thousand Oaks Blvd",
 	address_2 : "",
+	city      : "Thousand Oaks",
+	zip       : "91362",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -41325,6 +43443,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "39507 10th St W",
 	address_2 : "",
+	city      : "Palmdale",
+	zip       : "93551",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -41364,6 +43484,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "4210 Long Beach Blvd",
 	address_2 : "",
+	city      : "Long Beach",
+	zip       : "90807",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -41403,6 +43525,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "467 N Rosemead Blvd",
 	address_2 : "",
+	city      : "Pasadena",
+	zip       : "91107",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -41442,6 +43566,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "475 Foothill Blvd",
 	address_2 : "",
+	city      : "La Canada Flintridge",
+	zip       : "91011",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -41481,6 +43607,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "475 W Foothill Blvd",
 	address_2 : "",
+	city      : "Claremont",
+	zip       : "91711",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -41520,6 +43648,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "604 W Huntington Dr",
 	address_2 : "",
+	city      : "Monrovia",
+	zip       : "91016",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -41559,6 +43689,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "610 S Arroyo Pkwy",
 	address_2 : "",
+	city      : "Pasadena",
+	zip       : "91105",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -41598,6 +43730,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "613 Mission St",
 	address_2 : "",
+	city      : "South Pasadena",
+	zip       : "91030",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -41637,6 +43771,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "6150 W Slauson Ave",
 	address_2 : "",
+	city      : "Culver City",
+	zip       : "90230",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -41676,6 +43812,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "6451 E Pacific Coast Hwy",
 	address_2 : "",
+	city      : "Long Beach",
+	zip       : "90803",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -41715,6 +43853,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "6751 Fallbrook Ave",
 	address_2 : "",
+	city      : "West Hills",
+	zip       : "91307",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -41754,6 +43894,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "7260 Rosemead Blvd",
 	address_2 : "",
+	city      : "San Gabriel",
+	zip       : "91775",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -41793,6 +43935,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "8000 W Sunset Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90046",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -41832,6 +43976,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "8500 Burton Way",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90048",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -41871,6 +44017,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "856 W Arrow Hwy",
 	address_2 : "",
+	city      : "San Dimas",
+	zip       : "91773",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -41910,6 +44058,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "8611 Santa Monica Blvd",
 	address_2 : "",
+	city      : "West Hollywood",
+	zip       : "90069",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -41949,6 +44099,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "8645 S Sepulveda Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90045",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -41988,6 +44140,8 @@ var locations = [
 	name      : "Trader Joe's",
 	address_1 : "9290 Culver Blvd",
 	address_2 : "",
+	city      : "Culver City",
+	zip       : "90232",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -42027,6 +44181,8 @@ var locations = [
 	name      : "Urban Radish",
 	address_1 : "661 Imperial St",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90021",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -42066,6 +44222,8 @@ var locations = [
 	name      : "Vallarta Supermarket",
 	address_1 : "10859 Oxnard St",
 	address_2 : "",
+	city      : "North Hollywood",
+	zip       : "91606",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -42105,6 +44263,8 @@ var locations = [
 	name      : "Vallarta Supermarket",
 	address_1 : "10950 Sherman Way",
 	address_2 : "",
+	city      : "Burbank",
+	zip       : "91505",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -42144,6 +44304,8 @@ var locations = [
 	name      : "Vallarta Supermarket",
 	address_1 : "1111 W Ave",
 	address_2 : "",
+	city      : "Lancaster",
+	zip       : "93534",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -42183,6 +44345,8 @@ var locations = [
 	name      : "Vallarta Supermarket",
 	address_1 : "13051 Victory Blvd",
 	address_2 : "",
+	city      : "North Hollywood",
+	zip       : "91606",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -42222,6 +44386,8 @@ var locations = [
 	name      : "Vallarta Supermarket",
 	address_1 : "13715 Vanowen St",
 	address_2 : "",
+	city      : "Van Nuys",
+	zip       : "91405",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -42261,6 +44427,8 @@ var locations = [
 	name      : "Vallarta Supermarket",
 	address_1 : "13820 Foothill Blvd",
 	address_2 : "",
+	city      : "Sylmar",
+	zip       : "91342",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -42300,6 +44468,8 @@ var locations = [
 	name      : "Vallarta Supermarket",
 	address_1 : "13940 Ramona Blvd",
 	address_2 : "",
+	city      : "Baldwin Park",
+	zip       : "91706",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -42339,6 +44509,8 @@ var locations = [
 	name      : "Vallarta Supermarket",
 	address_1 : "1801 W Ave",
 	address_2 : "",
+	city      : "Lancaster",
+	zip       : "93534",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -42378,6 +44550,8 @@ var locations = [
 	name      : "Vallarta Supermarket",
 	address_1 : "1803 E Palmdale Blvd",
 	address_2 : "",
+	city      : "Palmdale",
+	zip       : "93550",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -42417,6 +44591,8 @@ var locations = [
 	name      : "Vallarta Supermarket",
 	address_1 : "18571 Soledad Canyon Rd",
 	address_2 : "",
+	city      : "Canyon Country",
+	zip       : "91351",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -42456,6 +44632,8 @@ var locations = [
 	name      : "Vallarta Supermarket",
 	address_1 : "19725 Vanowen St",
 	address_2 : "",
+	city      : "Winnetka",
+	zip       : "91306",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -42495,6 +44673,8 @@ var locations = [
 	name      : "Vallarta Supermarket",
 	address_1 : "21208 Sherman Way",
 	address_2 : "",
+	city      : "Canoga Park",
+	zip       : "91303",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -42534,6 +44714,8 @@ var locations = [
 	name      : "Vallarta Supermarket",
 	address_1 : "21555 Roscoe Blvd",
 	address_2 : "",
+	city      : "Canoga Park",
+	zip       : "91304",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -42573,6 +44755,8 @@ var locations = [
 	name      : "Vallarta Supermarket",
 	address_1 : "23449 Lyons Ave",
 	address_2 : "",
+	city      : "Valencia",
+	zip       : "91355",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -42612,6 +44796,8 @@ var locations = [
 	name      : "Vallarta Supermarket",
 	address_1 : "2550 E 25th St",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90058",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -42651,6 +44837,8 @@ var locations = [
 	name      : "Vallarta Supermarket",
 	address_1 : "3425 Whittier Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90023",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -42690,6 +44878,8 @@ var locations = [
 	name      : "Vallarta Supermarket",
 	address_1 : "8453 Reseda Blvd",
 	address_2 : "",
+	city      : "Northridge",
+	zip       : "91324",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -42729,6 +44919,8 @@ var locations = [
 	name      : "Vallarta Supermarket",
 	address_1 : "8510 Painter Ave",
 	address_2 : "",
+	city      : "Whittier",
+	zip       : "90602",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -42768,6 +44960,8 @@ var locations = [
 	name      : "Vallarta Supermarket",
 	address_1 : "9011 Woodman Ave",
 	address_2 : "",
+	city      : "Pacoima",
+	zip       : "91331",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -42807,6 +45001,8 @@ var locations = [
 	name      : "Vallarta Supermarkets",
 	address_1 : "10147 San Fernando Rd",
 	address_2 : "",
+	city      : "Pacoima",
+	zip       : "91331",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -42846,6 +45042,8 @@ var locations = [
 	name      : "Vallarta Supermarkets",
 	address_1 : "10175 San Fernando Rd",
 	address_2 : "",
+	city      : "Pacoima",
+	zip       : "91331",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -42885,6 +45083,8 @@ var locations = [
 	name      : "Vallarta Supermarkets",
 	address_1 : "12881 Bradley Ave",
 	address_2 : "",
+	city      : "Sylmar",
+	zip       : "91342",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -42924,6 +45124,8 @@ var locations = [
 	name      : "Vallarta Supermarkets",
 	address_1 : "38118 47th St E",
 	address_2 : "",
+	city      : "Palmdale",
+	zip       : "93552",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -42963,6 +45165,8 @@ var locations = [
 	name      : "Vallarta Supermarkets",
 	address_1 : "757 S Workman St",
 	address_2 : "",
+	city      : "San Fernando",
+	zip       : "91340",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -43002,6 +45206,8 @@ var locations = [
 	name      : "Vallarta Supermarkets",
 	address_1 : "815 E Ave",
 	address_2 : "",
+	city      : "Lancaster",
+	zip       : "93535",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -43041,6 +45247,8 @@ var locations = [
 	name      : "Vallarta Supermarkets",
 	address_1 : "9011 Woodman Ave",
 	address_2 : "",
+	city      : "Pacoima",
+	zip       : "91331",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -43080,6 +45288,8 @@ var locations = [
 	name      : "Vallarta Supermarkets",
 	address_1 : "9134 Van Nuys Blvd",
 	address_2 : "",
+	city      : "Panorama City",
+	zip       : "91402",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -43119,6 +45329,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "10321 Sepulveda Blvd",
 	address_2 : "",
+	city      : "Mission Hills",
+	zip       : "91345",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -43158,6 +45370,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "1129 Fair Oaks Ave",
 	address_2 : "",
+	city      : "South Pasadena",
+	zip       : "91030",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -43197,6 +45411,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "1160 Via Verde",
 	address_2 : "",
+	city      : "San Dimas",
+	zip       : "91773",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -43236,6 +45452,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "1212 Beryl St",
 	address_2 : "",
+	city      : "Redondo Beach",
+	zip       : "90277",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -43275,6 +45493,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "1221 S Gaffey St",
 	address_2 : "",
+	city      : "San Pedro",
+	zip       : "90731",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -43314,6 +45534,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "123 Metropole Ave",
 	address_2 : "",
+	city      : "Avalon",
+	zip       : "90704",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -43353,6 +45575,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "1260 W Redondo Beach Blvd",
 	address_2 : "",
+	city      : "Gardena",
+	zip       : "90247",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -43392,6 +45616,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "1311 Wilshire Blvd",
 	address_2 : "",
+	city      : "Santa Monica",
+	zip       : "90403",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -43431,6 +45657,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "1342 N Alvarado St",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90026",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -43470,6 +45698,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "13730 Foothill Blvd",
 	address_2 : "",
+	city      : "Sylmar",
+	zip       : "91342",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -43509,6 +45739,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "1390 N Allen Ave",
 	address_2 : "",
+	city      : "Pasadena",
+	zip       : "91104",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -43548,6 +45780,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "1430 S Fairfax Ave",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90019",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -43587,6 +45821,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "1440 W 25th St",
 	address_2 : "",
+	city      : "San Pedro",
+	zip       : "90732",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -43626,6 +45862,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "155 W California Blvd",
 	address_2 : "",
+	city      : "Pasadena",
+	zip       : "91105",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -43665,6 +45903,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "15740 La Forge St",
 	address_2 : "",
+	city      : "Whittier",
+	zip       : "90603",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -43704,6 +45944,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "1600 Foothill Blvd",
 	address_2 : "",
+	city      : "La Verne",
+	zip       : "91750",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -43743,6 +45985,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "16550 Soledad Canyon Rd",
 	address_2 : "",
+	city      : "Canyon Country",
+	zip       : "91387",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -43782,6 +46026,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "16830 San Fernando Mission Blvd",
 	address_2 : "",
+	city      : "Granada Hills",
+	zip       : "91344",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -43821,6 +46067,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "17380 W Sunset Blvd",
 	address_2 : "",
+	city      : "Pacific Palisades",
+	zip       : "90272",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -43860,6 +46108,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "1820 Ximeno Ave",
 	address_2 : "",
+	city      : "Long Beach",
+	zip       : "90815",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -43899,6 +46149,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "18439 Ventura Blvd",
 	address_2 : "",
+	city      : "Tarzana",
+	zip       : "91356",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -43938,6 +46190,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "19333 Victory Blvd",
 	address_2 : "",
+	city      : "Reseda",
+	zip       : "91335",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -43977,6 +46231,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "2039 Verdugo Blvd",
 	address_2 : "",
+	city      : "Montrose",
+	zip       : "91020",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -44016,6 +46272,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "20440 Devonshire St",
 	address_2 : "",
+	city      : "Chatsworth",
+	zip       : "91311",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -44055,6 +46313,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "2048 De Los Avda",
 	address_2 : "",
+	city      : "Thousand Oaks",
+	zip       : "91362",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -44094,6 +46354,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "2101 W Imperial Hwy",
 	address_2 : "",
+	city      : "La Habra",
+	zip       : "90631",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -44133,6 +46395,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "2122 S Hacienda Blvd",
 	address_2 : "",
+	city      : "Hacienda Heights",
+	zip       : "91745",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -44172,6 +46436,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "2355 E Colorado Blvd",
 	address_2 : "",
+	city      : "Pasadena",
+	zip       : "91107",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -44211,6 +46477,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "24160 Lyons Ave",
 	address_2 : "",
+	city      : "Newhall",
+	zip       : "91321",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -44250,6 +46518,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "24325 Crenshaw Blvd",
 	address_2 : "",
+	city      : "Torrance",
+	zip       : "90505",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -44289,6 +46559,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "245 Palos Verdes Blvd",
 	address_2 : "",
+	city      : "Redondo Beach",
+	zip       : "90277",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -44328,6 +46600,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "25850 the Old Rd",
 	address_2 : "",
+	city      : "Stevenson Ranch",
+	zip       : "91381",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -44367,6 +46641,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "26518 Bouquet Canyon Rd",
 	address_2 : "",
+	city      : "Santa Clarita",
+	zip       : "91350",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -44406,6 +46682,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "2725 Agoura Rd",
 	address_2 : "",
+	city      : "Westlake Village",
+	zip       : "91361",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -44445,6 +46723,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "301 N Pass Ave",
 	address_2 : "",
+	city      : "Burbank",
+	zip       : "91505",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -44484,6 +46764,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "3027 Rancho Vista Blvd",
 	address_2 : "",
+	city      : "Palmdale",
+	zip       : "93551",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -44523,6 +46805,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "311 W Los Feliz Rd",
 	address_2 : "",
+	city      : "Glendale",
+	zip       : "91204",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -44562,6 +46846,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "3118 S Sepulveda Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90034",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -44601,6 +46887,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "3233 Foothill Blvd",
 	address_2 : "",
+	city      : "La Crescenta",
+	zip       : "91214",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -44640,6 +46928,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "3461 W 3rd St",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90020",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -44679,6 +46969,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "350 N Lemon Ave",
 	address_2 : "",
+	city      : "Walnut",
+	zip       : "91789",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -44718,6 +47010,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "3900 E Ocean Blvd",
 	address_2 : "",
+	city      : "Long Beach",
+	zip       : "90803",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -44757,6 +47051,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "4001 Inglewood Ave",
 	address_2 : "",
+	city      : "Redondo Beach",
+	zip       : "90278",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -44796,6 +47092,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "4030 S Centinela Ave",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90066",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -44835,6 +47133,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "4033 Laurel Canyon Blvd",
 	address_2 : "",
+	city      : "Studio City",
+	zip       : "91604",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -44874,6 +47174,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "4033 W Ave",
 	address_2 : "",
+	city      : "Lancaster",
+	zip       : "93536",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -44913,6 +47215,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "410 Manhattan Beach Blvd",
 	address_2 : "",
+	city      : "Manhattan Beach",
+	zip       : "90266",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -44952,6 +47256,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "4226 Woodruff Ave",
 	address_2 : "",
+	city      : "Lakewood",
+	zip       : "90713",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -44991,6 +47297,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "431 E Arrow Hwy",
 	address_2 : "",
+	city      : "Glendora",
+	zip       : "91740",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -45030,6 +47338,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "435 FOOTHILL Blvd",
 	address_2 : "",
+	city      : "Glendora",
+	zip       : "91740",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -45069,6 +47379,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "4520 W Sunset Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90027",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -45108,6 +47420,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "4550 Atlantic Ave",
 	address_2 : "",
+	city      : "Long Beach",
+	zip       : "90807",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -45147,6 +47461,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "4705 Torrance Blvd",
 	address_2 : "",
+	city      : "Torrance",
+	zip       : "90503",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -45186,6 +47502,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "500 E Manchester Blvd",
 	address_2 : "",
+	city      : "Inglewood",
+	zip       : "90301",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -45225,6 +47543,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "550 E Baseline Rd",
 	address_2 : "",
+	city      : "Claremont",
+	zip       : "91711",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -45264,6 +47584,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "561 N Glendale Ave",
 	address_2 : "",
+	city      : "Glendale",
+	zip       : "91206",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -45303,6 +47625,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "5671 Kanan Rd",
 	address_2 : "",
+	city      : "Agoura Hills",
+	zip       : "91301",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -45342,6 +47666,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "600 E Broadway",
 	address_2 : "",
+	city      : "Long Beach",
+	zip       : "90802",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -45381,6 +47707,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "655 N Fair Oaks Ave",
 	address_2 : "",
+	city      : "Pasadena",
+	zip       : "91103",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -45420,6 +47748,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "6571 W 80th St",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90045",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -45459,6 +47789,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "710 Brdway",
 	address_2 : "",
+	city      : "Santa Monica",
+	zip       : "90401",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -45498,6 +47830,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "715 Pier Ave",
 	address_2 : "",
+	city      : "Hermosa Beach",
+	zip       : "90254",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -45537,6 +47871,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "7311 N Figueroa St",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90041",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -45576,6 +47912,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "777 S Glendora Ave",
 	address_2 : "",
+	city      : "West Covina",
+	zip       : "91790",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -45615,6 +47953,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "7789 Foothill Blvd",
 	address_2 : "",
+	city      : "Sunland",
+	zip       : "91042",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -45654,6 +47994,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "780 N Brea Blvd",
 	address_2 : "",
+	city      : "Brea",
+	zip       : "92821",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -45693,6 +48035,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "804 W Beverly Blvd",
 	address_2 : "",
+	city      : "Montebello",
+	zip       : "90640",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -45732,6 +48076,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "8201 Topanga Canyon Blvd",
 	address_2 : "",
+	city      : "Canoga Park",
+	zip       : "91304",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -45771,6 +48117,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "9119 Reseda Blvd",
 	address_2 : "",
+	city      : "Northridge",
+	zip       : "91324",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -45810,6 +48158,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "932 E Badillo St",
 	address_2 : "",
+	city      : "Covina",
+	zip       : "91724",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -45849,6 +48199,8 @@ var locations = [
 	name      : "Vons",
 	address_1 : "9860 National Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90034",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -45888,6 +48240,8 @@ var locations = [
 	name      : "Vons Food and Pharmacy",
 	address_1 : "2310 E Colorado Blvd",
 	address_2 : "",
+	city      : "Pasadena",
+	zip       : "91107",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -45927,6 +48281,8 @@ var locations = [
 	name      : "Whole Foods",
 	address_1 : "1050 Gayley Ave",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90024",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -45966,6 +48322,8 @@ var locations = [
 	name      : "Whole Foods",
 	address_1 : "11666 National Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90064",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -46005,6 +48363,8 @@ var locations = [
 	name      : "Whole Foods",
 	address_1 : "11737 San Vicente Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90049",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -46044,6 +48404,8 @@ var locations = [
 	name      : "Whole Foods",
 	address_1 : "12746 W Jefferson Blvd",
 	address_2 : "",
+	city      : "Playa del Rey",
+	zip       : "90094",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -46083,6 +48445,8 @@ var locations = [
 	name      : "Whole Foods",
 	address_1 : "1425 Montana Ave",
 	address_2 : "",
+	city      : "Santa Monica",
+	zip       : "90403",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -46122,6 +48486,8 @@ var locations = [
 	name      : "Whole Foods",
 	address_1 : "19340 Rinaldi St",
 	address_2 : "",
+	city      : "Porter Ranch",
+	zip       : "91326",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -46161,6 +48527,8 @@ var locations = [
 	name      : "Whole Foods",
 	address_1 : "21347 Ventura Blvd",
 	address_2 : "",
+	city      : "Woodland Hills",
+	zip       : "91364",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -46200,6 +48568,8 @@ var locations = [
 	name      : "Whole Foods",
 	address_1 : "2201 Wilshire Blvd",
 	address_2 : "",
+	city      : "Santa Monica",
+	zip       : "90403",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -46239,6 +48609,8 @@ var locations = [
 	name      : "Whole Foods",
 	address_1 : "225 Lincoln Blvd",
 	address_2 : "",
+	city      : "Venice",
+	zip       : "90291",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -46278,6 +48650,8 @@ var locations = [
 	name      : "Whole Foods",
 	address_1 : "239 N Crescent Dr",
 	address_2 : "",
+	city      : "Beverly Hills",
+	zip       : "90210",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -46317,6 +48691,8 @@ var locations = [
 	name      : "Whole Foods",
 	address_1 : "24130 Valencia Blvd",
 	address_2 : "",
+	city      : "Valencia",
+	zip       : "91355",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -46356,6 +48732,8 @@ var locations = [
 	name      : "Whole Foods",
 	address_1 : "2655 Pacific Coast Hwy",
 	address_2 : "",
+	city      : "Torrance",
+	zip       : "90505",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -46395,6 +48773,8 @@ var locations = [
 	name      : "Whole Foods",
 	address_1 : "331 N Glendale Ave",
 	address_2 : "",
+	city      : "Glendale",
+	zip       : "91206",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -46434,6 +48814,8 @@ var locations = [
 	name      : "Whole Foods",
 	address_1 : "3751 E Foothill Blvd",
 	address_2 : "",
+	city      : "Pasadena",
+	zip       : "91107",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -46473,6 +48855,8 @@ var locations = [
 	name      : "Whole Foods",
 	address_1 : "405 N Pacific Coast Hwy",
 	address_2 : "",
+	city      : "Redondo Beach",
+	zip       : "90277",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -46512,6 +48896,8 @@ var locations = [
 	name      : "Whole Foods",
 	address_1 : "4520 Sepulveda Blvd",
 	address_2 : "",
+	city      : "Sherman Oaks",
+	zip       : "91403",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -46551,6 +48937,8 @@ var locations = [
 	name      : "Whole Foods",
 	address_1 : "465 S Arroyo Pkwy",
 	address_2 : "",
+	city      : "Pasadena",
+	zip       : "91105",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -46590,6 +48978,8 @@ var locations = [
 	name      : "Whole Foods",
 	address_1 : "500 Wilshire Blvd",
 	address_2 : "",
+	city      : "Santa Monica",
+	zip       : "90401",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -46629,6 +49019,8 @@ var locations = [
 	name      : "Whole Foods",
 	address_1 : "6350 W 3rd St",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90036",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -46668,6 +49060,8 @@ var locations = [
 	name      : "Whole Foods",
 	address_1 : "6550 E Pacific Coast Hwy",
 	address_2 : "",
+	city      : "Long Beach",
+	zip       : "90803",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -46707,6 +49101,8 @@ var locations = [
 	name      : "Whole Foods",
 	address_1 : "760 S Sepulveda Blvd",
 	address_2 : "",
+	city      : "El Segundo",
+	zip       : "90245",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -46746,6 +49142,8 @@ var locations = [
 	name      : "Whole Foods",
 	address_1 : "788 S Grand Ave",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90017",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -46785,6 +49183,8 @@ var locations = [
 	name      : "Yummy.com",
 	address_1 : "3607 W Sunset Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90026",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -46824,6 +49224,8 @@ var locations = [
 	name      : "Yummy.com",
 	address_1 : "5520 San Vicente Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90019",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -46863,6 +49265,8 @@ var locations = [
 	name      : "Yummy.com",
 	address_1 : "6020 Seabluff Dr",
 	address_2 : "",
+	city      : "Playa Vista",
+	zip       : "90094",
 	category  : "Supermarket",
 	hours     : [{
 		day       : "Mon",
@@ -46907,6 +49311,8 @@ var locations = [
 	name      : "All Peoples Christian Center",
 	address_1 : "822 E. 20th Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90011",
 	category  : "Free Summer Lunch",
 	hours     : [{
 		day       : "",
@@ -46946,6 +49352,8 @@ var locations = [
 	name      : "Boys & Girls Clubs of the Antelope Valley, Hammack Activity Center",
 	address_1 : "815 East Avenue Q-6",
 	address_2 : "",
+	city      : "Pamdale",
+	zip       : "93550",
 	category  : "Free Summer Lunch",
 	hours     : [{
 		day       : "",
@@ -46985,6 +49393,8 @@ var locations = [
 	name      : "Boys & Girls Clubs of the Antelope Valley, Whitney Mac Center",
 	address_1 : "45404 North Division Street",
 	address_2 : "",
+	city      : "Lancaster",
+	zip       : "93535",
 	category  : "Free Summer Lunch",
 	hours     : [{
 		day       : "",
@@ -47024,6 +49434,8 @@ var locations = [
 	name      : "Cheli’s Produce",
 	address_1 : "170 East 35th Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90011",
 	category  : "Pop Up Market",
 	hours     : [{
 		day       : "",
@@ -47063,6 +49475,8 @@ var locations = [
 	name      : "Daily Organics",
 	address_1 : "5746 Adams Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90016",
 	category  : "Pop Up Market",
 	hours     : [{
 		day       : "",
@@ -47102,6 +49516,8 @@ var locations = [
 	name      : "Everytable Baldwin Hills",
 	address_1 : "Baldwin Hills Crenshaw Plaza",
 	address_2 : "3650 W MLK Blvd",
+	city      : "Los Angeles",
+	zip       : "90008",
 	category  : "Restaurant",
 	hours     : [{
 		day       : "",
@@ -47141,6 +49557,8 @@ var locations = [
 	name      : "Everytable Downtown LA",
 	address_1 : "The Bloc",
 	address_2 : "700 South Flower Street",
+	city      : "Los Angeles",
+	zip       : "90017",
 	category  : "Restaurant",
 	hours     : [{
 		day       : "",
@@ -47180,6 +49598,8 @@ var locations = [
 	name      : "Everytable Santa Monica",
 	address_1 : "Third Street Promenade",
 	address_2 : "1315 3rd St",
+	city      : "Santa Monica",
+	zip       : "90401",
 	category  : "Restaurant",
 	hours     : [{
 		day       : "",
@@ -47219,6 +49639,8 @@ var locations = [
 	name      : "Everytable South LA",
 	address_1 : "1101 West 23rd Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90007",
 	category  : "Restaurant",
 	hours     : [{
 		day       : "",
@@ -47258,6 +49680,8 @@ var locations = [
 	name      : "Locol, Watts",
 	address_1 : "1950 East 103rd Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90002",
 	category  : "Restaurant",
 	hours     : [{
 		day       : "",
@@ -47297,6 +49721,8 @@ var locations = [
 	name      : "Orange trees at Los Angeles State Historic Park",
 	address_1 : "1245 North Spring Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90012",
 	category  : "Orchard",
 	hours     : [{
 		day       : "",
@@ -47336,6 +49762,8 @@ var locations = [
 	name      : "SÜPRMARKT LA",
 	address_1 : "Leimert Park",
 	address_2 : "3333 West 43rd Place",
+	city      : "Los Angeles",
+	zip       : "90008",
 	category  : "Pop Up Market",
 	hours     : [{
 		day       : "",

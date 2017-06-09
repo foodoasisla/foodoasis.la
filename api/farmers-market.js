@@ -9,6 +9,8 @@ var locations = [
 	name      : "Adams - Vermont Farmers Market / Saint Agnes Church Farmer's Market",
 	address_1 : "1432 W Adams Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90007",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Wed",
@@ -48,6 +50,8 @@ var locations = [
 	name      : "Alhambra Certified Farmers Market",
 	address_1 : "100 S. 2nd Street",
 	address_2 : "",
+	city      : "Alhambra",
+	zip       : "91801",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sun",
@@ -87,6 +91,8 @@ var locations = [
 	name      : "Altadena Farmers Market",
 	address_1 : "600 W. Palm Street",
 	address_2 : "",
+	city      : "Altadena",
+	zip       : "91001",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Wed",
@@ -126,6 +132,8 @@ var locations = [
 	name      : "Antelope Valley Winery Farmers Market",
 	address_1 : "42041 20th St. West",
 	address_2 : "",
+	city      : "Lancaster",
+	zip       : "93534",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sat",
@@ -165,6 +173,8 @@ var locations = [
 	name      : "Arts District Farmers Market",
 	address_1 : "740 E 3rd St",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90013",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sat",
@@ -204,6 +214,8 @@ var locations = [
 	name      : "Atwater Village Farmers Market",
 	address_1 : "Wells Fargo Parking Lot",
 	address_2 : "3250 Glendale Blvd",
+	city      : "Los Angeles",
+	zip       : "90039",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sun",
@@ -243,6 +255,8 @@ var locations = [
 	name      : "Baldwin La Brea Farmers Market",
 	address_1 : "3601 S. La Brea Ave.",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90016",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sat",
@@ -282,6 +296,8 @@ var locations = [
 	name      : "Baldwin Park Farmers Market",
 	address_1 : "Baldwin Park - Cesar Chavez & Ramond",
 	address_2 : "1011 Baldwin Park Blvd",
+	city      : "Baldwin Park",
+	zip       : "91706",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Fri",
@@ -321,6 +337,8 @@ var locations = [
 	name      : "Bank Of America Plaza Farmers Market",
 	address_1 : "333 S Hope St",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90021",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Fri",
@@ -360,6 +378,8 @@ var locations = [
 	name      : "Bellflower Farmers Market",
 	address_1 : "16614 Clark Ave at Oak Street",
 	address_2 : "",
+	city      : "Bellflower",
+	zip       : "90706",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Mon",
@@ -399,6 +419,8 @@ var locations = [
 	name      : "Beverly Hills Farmers Market",
 	address_1 : "9300 Civic Center Drive",
 	address_2 : "",
+	city      : "Beverly Hills",
+	zip       : "90210",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sun",
@@ -438,6 +460,8 @@ var locations = [
 	name      : "Boyle Heights Farmers Market",
 	address_1 : "1831 E 1st St",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90033",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Fri",
@@ -477,6 +501,8 @@ var locations = [
 	name      : "Brentwood Village Farmers Market",
 	address_1 : "741 South Gretna Green Way",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90049",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sun",
@@ -516,6 +542,8 @@ var locations = [
 	name      : "Burbank Farmers Market",
 	address_1 : "Corner of Olive & Glenoaks",
 	address_2 : "150 N. Third Street, Community Serv building parking lot",
+	city      : "Burbank",
+	zip       : "91502",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sat",
@@ -555,6 +583,8 @@ var locations = [
 	name      : "Cal State University Northridge (CSUN) Farmers Market (CFM)",
 	address_1 : "18111 Nordhoff Street",
 	address_2 : "",
+	city      : "Northridge",
+	zip       : "91325",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Tue",
@@ -594,6 +624,8 @@ var locations = [
 	name      : "Calabasas Old Town Farmers Market",
 	address_1 : "Calabasas & Mulholland Dr.",
 	address_2 : "23504 Calabasas Rd, Calabasas, 91302",
+	city      : "Calabasas",
+	zip       : "91303",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sat",
@@ -633,6 +665,8 @@ var locations = [
 	name      : "Canoga Park Farmers Market",
 	address_1 : "On Owensmouth Avenue between Wyandotte Street & Sherman Way",
 	address_2 : "7248 Owensmouth Ave",
+	city      : "Canoga Park",
+	zip       : "91303",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sat",
@@ -672,6 +706,8 @@ var locations = [
 	name      : "Central Ave Farmers Market",
 	address_1 : "courtyard of the Central Avenue Constituent Services Center",
 	address_2 : "4301 Central Ave  at 43rd st",
+	city      : "Los angeles  California",
+	zip       : "90011",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Thu",
@@ -711,6 +747,8 @@ var locations = [
 	name      : "Century City Farmers Market",
 	address_1 : "10100 Santa Monica Blvd.",
 	address_2 : "",
+	city      : "Century City",
+	zip       : "90037",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Thu",
@@ -750,6 +788,8 @@ var locations = [
 	name      : "Cerritos Farmers Market",
 	address_1 : "17870 Park plaza Drive",
 	address_2 : "",
+	city      : "Cerritos",
+	zip       : "90703",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sat",
@@ -789,6 +829,8 @@ var locations = [
 	name      : "Children's Hospital LA CFM",
 	address_1 : "4650 Sunset Blvd.",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90027",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Wed",
@@ -828,6 +870,8 @@ var locations = [
 	name      : "Claremont Farmers Market",
 	address_1 : "N Indian Hill Blvd & W 2Nd St",
 	address_2 : "",
+	city      : "Claremont",
+	zip       : "91711",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sun",
@@ -867,6 +911,8 @@ var locations = [
 	name      : "Compton Blue Line Farmers Market",
 	address_1 : "101 E Palmer Street",
 	address_2 : "",
+	city      : "Compton",
+	zip       : "90220",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Thu",
@@ -906,6 +952,8 @@ var locations = [
 	name      : "Covina Farmers Market",
 	address_1 : "Citrus Ave and San Bernandino Rd",
 	address_2 : "Heritage Plaza",
+	city      : "Covina",
+	zip       : "",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Fri",
@@ -945,6 +993,8 @@ var locations = [
 	name      : "Crenshaw Baldwin Hill Farmers Market",
 	address_1 : "3650 W Martin Luther King Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90008",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sat",
@@ -984,6 +1034,8 @@ var locations = [
 	name      : "Culver City Farmers Market",
 	address_1 : "Main & Culver",
 	address_2 : "",
+	city      : "Culver City",
+	zip       : "90232",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Tue",
@@ -1023,6 +1075,8 @@ var locations = [
 	name      : "Diamond Bar Farmers Market",
 	address_1 : "Calvary Chapel Church",
 	address_2 : "",
+	city      : "Diamond Bar",
+	zip       : "91765",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sat",
@@ -1062,6 +1116,8 @@ var locations = [
 	name      : "Downey Farmers Market",
 	address_1 : "La Reina Ave & 2nd St",
 	address_2 : "",
+	city      : "Downey",
+	zip       : "90242",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sat",
@@ -1101,6 +1157,8 @@ var locations = [
 	name      : "Downtown Los Angeles (Fig at 7th) Farmers Market",
 	address_1 : "S Figueroa St & W 7th St",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90017",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Thu",
@@ -1140,6 +1198,8 @@ var locations = [
 	name      : "Duarte City of Hope Farmers Market",
 	address_1 : "1500 Duarte Rd",
 	address_2 : "",
+	city      : "DUARTE",
+	zip       : "91010",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Thu",
@@ -1179,6 +1239,8 @@ var locations = [
 	name      : "Eagle Rock Farmers Market",
 	address_1 : "2035 Colorado Blvd.",
 	address_2 : "",
+	city      : "Eagle Rock",
+	zip       : "90041",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Fri",
@@ -1218,6 +1280,8 @@ var locations = [
 	name      : "East Hollywood Farmers Market",
 	address_1 : "5448 Hollywood Boulevard",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90027",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Thu",
@@ -1257,6 +1321,8 @@ var locations = [
 	name      : "East LA Farmers' Market",
 	address_1 : "4801 East 3rd Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90022",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sat",
@@ -1296,6 +1362,8 @@ var locations = [
 	name      : "Echo Park Farmers Market",
 	address_1 : "Logan St. and Sunset Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90026",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Fri",
@@ -1335,6 +1403,8 @@ var locations = [
 	name      : "El Segundo Plaza Farmers Market",
 	address_1 : "300 Main St.",
 	address_2 : "",
+	city      : "El Segundo",
+	zip       : "90245",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Thu",
@@ -1374,6 +1444,8 @@ var locations = [
 	name      : "Encino Farmers Market",
 	address_1 : "17400 Victory Blvd in Van Nuys",
 	address_2 : "",
+	city      : "Van Nuys",
+	zip       : "91406",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sun",
@@ -1413,6 +1485,8 @@ var locations = [
 	name      : "Gardena Hollypark Farmers Market",
 	address_1 : "13000 Van Ness",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90047",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sat",
@@ -1452,6 +1526,8 @@ var locations = [
 	name      : "Green Acres",
 	address_1 : "5000 East Spring Street",
 	address_2 : "",
+	city      : "Long Beach",
+	zip       : "90815",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Thu",
@@ -1491,6 +1567,8 @@ var locations = [
 	name      : "Hermosa Beach Farmers Market",
 	address_1 : "Valley Dr. between 8th St. & 10th St.",
 	address_2 : "",
+	city      : "Hermosa Beach",
+	zip       : "90254",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Wed",
@@ -1530,6 +1608,8 @@ var locations = [
 	name      : "Historic Downtown Farmers' Market (CFM)",
 	address_1 : "205 West 5th Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90013",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sun",
@@ -1569,6 +1649,8 @@ var locations = [
 	name      : "Hollywood Farmers Market",
 	address_1 : "1500 N Ivar Ave",
 	address_2 : "",
+	city      : "Hollywood",
+	zip       : "90028",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sun",
@@ -1608,6 +1690,8 @@ var locations = [
 	name      : "Howard Hughes Farmers Market",
 	address_1 : "6080 Center Drive",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90230",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Thu",
@@ -1647,6 +1731,8 @@ var locations = [
 	name      : "Huntington Park Farmers Market",
 	address_1 : "3401 East Florence Avenue",
 	address_2 : "",
+	city      : "Huntington Park",
+	zip       : "90255",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Wed",
@@ -1686,6 +1772,8 @@ var locations = [
 	name      : "Inglewood Farmers Market",
 	address_1 : "Market Street and Manchester Blvd.",
 	address_2 : "",
+	city      : "Inglewood",
+	zip       : "90302",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Thu1st",
@@ -1725,6 +1813,8 @@ var locations = [
 	name      : "Jack Newe's Farmers Market",
 	address_1 : "1920 S Brea Canyon Cut Off",
 	address_2 : "",
+	city      : "Walnut",
+	zip       : "",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sat",
@@ -1764,6 +1854,8 @@ var locations = [
 	name      : "Kaiser Baldwin Park Farmers Market",
 	address_1 : "1011 Baldwin Park Blvd",
 	address_2 : "",
+	city      : "Baldwin Park",
+	zip       : "91706",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Fri",
@@ -1803,6 +1895,8 @@ var locations = [
 	name      : "Kaiser Downey",
 	address_1 : "9333 E. Imperial Hwy in Kaiser Medical Center",
 	address_2 : "",
+	city      : "Downey",
+	zip       : "90242",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Thu",
@@ -1842,6 +1936,8 @@ var locations = [
 	name      : "Kaiser Medical Center Panorama City FM",
 	address_1 : "13652 Cantara Street",
 	address_2 : "",
+	city      : "Panorama City",
+	zip       : "91402",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Wed",
@@ -1881,6 +1977,8 @@ var locations = [
 	name      : "Kaiser Medical Center Woodland Hills",
 	address_1 : "5601 De Soto Avenue",
 	address_2 : "",
+	city      : "Woodland Hills",
+	zip       : "91367",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Thu",
@@ -1920,6 +2018,8 @@ var locations = [
 	name      : "Kaiser South Bay Farmers Market",
 	address_1 : "25825 S. Vermont Avenue",
 	address_2 : "",
+	city      : "Harbor City",
+	zip       : "90710",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Wed",
@@ -1959,6 +2059,8 @@ var locations = [
 	name      : "Kaiser -West LA Farmers Market",
 	address_1 : "6041 Cadillac Ave",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90034",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Wed",
@@ -1998,6 +2100,8 @@ var locations = [
 	name      : "L.A. Central Avenue Farmers Market",
 	address_1 : "4301 S. Central Avenue",
 	address_2 : "",
+	city      : "Hollywood",
+	zip       : "90028",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Thu",
@@ -2037,6 +2141,8 @@ var locations = [
 	name      : "L.A. City Hall (Little Tokyo CFM)",
 	address_1 : "200 North Main Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90012",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Thu",
@@ -2076,6 +2182,8 @@ var locations = [
 	name      : "L.A. Larchmont Village Farmers Market",
 	address_1 : "Larchmont Bldg., Lot #694",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90042",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sun",
@@ -2115,6 +2223,8 @@ var locations = [
 	name      : "L.A. Melrose Place Farmers Market",
 	address_1 : "Melrose Place & Croft",
 	address_2 : "8400 Melrose Ave, Los Angeles, CA 90069",
+	city      : "Los Angeles",
+	zip       : "90069",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sun",
@@ -2154,6 +2264,8 @@ var locations = [
 	name      : "L.A. Silverlake Farmers Market",
 	address_1 : "3700 Sunset Blvd.",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90026",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Tue",
@@ -2193,6 +2305,8 @@ var locations = [
 	name      : "La Canada Flintridge Farmers Market",
 	address_1 : "Beulah Dr. & Foothill Ave.",
 	address_2 : "",
+	city      : "La Canada Flintridge",
+	zip       : "91011",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sat",
@@ -2232,6 +2346,8 @@ var locations = [
 	name      : "La Cienega Farmers Market (CFM)",
 	address_1 : "1831 South La Cienega Blvd.",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90035",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Thu",
@@ -2271,6 +2387,8 @@ var locations = [
 	name      : "La Puente Live Farmers Market",
 	address_1 : "Main Street & First Street",
 	address_2 : "",
+	city      : "La Puente",
+	zip       : "91744",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Fri",
@@ -2310,6 +2428,8 @@ var locations = [
 	name      : "Lancaster Farmers Market / BLVD Farmers' Market",
 	address_1 : "758 West Lancaster Blvd",
 	address_2 : "",
+	city      : "Lancaster",
+	zip       : "93534",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Thu",
@@ -2349,6 +2469,8 @@ var locations = [
 	name      : "Lancaster Farmers Market",
 	address_1 : "721 Lancaster Blvd.",
 	address_2 : "",
+	city      : "Lancaster",
+	zip       : "93534",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Thu",
@@ -2388,6 +2510,8 @@ var locations = [
 	name      : "Lawndale Farmers Market",
 	address_1 : "14717 Burin Ave.",
 	address_2 : "",
+	city      : "Lawndale",
+	zip       : "90260",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Wed",
@@ -2427,6 +2551,8 @@ var locations = [
 	name      : "Lincoln Heights Farmers Market",
 	address_1 : "2334 Daly St.",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90031",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Wed",
@@ -2466,6 +2592,8 @@ var locations = [
 	name      : "Local Harvest Farmers Market",
 	address_1 : "Marine Stadium at Appian Way & Nieto",
 	address_2 : "",
+	city      : "Long Beach",
+	zip       : "90803",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Wed",
@@ -2505,6 +2633,8 @@ var locations = [
 	name      : "Long Beach Downtown CFM",
 	address_1 : "199 East 5th Street",
 	address_2 : "Inside City Place Shopping Center, on Promenade north between 3rd and 5th. ",
+	city      : "Long Beach",
+	zip       : "90805",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Fri",
@@ -2544,6 +2674,8 @@ var locations = [
 	name      : "Long Beach Southeast Farmers Market",
 	address_1 : "2nd St. and N. Marina Dr.",
 	address_2 : "Parking lot of the Alamitos Bay Marina, on E. Marina Dr. one quarter mile south of E. 2nd St., just west of PCH",
+	city      : "Long Beach",
+	zip       : "90803",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sun",
@@ -2583,6 +2715,8 @@ var locations = [
 	name      : "Long Beach Uptown Farmers Market",
 	address_1 : "E 46Th St & Atlantic Ave",
 	address_2 : "",
+	city      : "Long Beach",
+	zip       : "90807",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Thu",
@@ -2622,6 +2756,8 @@ var locations = [
 	name      : "Los Feliz Village CFM",
 	address_1 : "1825 North Vermont Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90027",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sun",
@@ -2661,6 +2797,8 @@ var locations = [
 	name      : "Malibu Farmers Market",
 	address_1 : "23555 Civic Center Way",
 	address_2 : "",
+	city      : "Malibu",
+	zip       : "90265",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sun",
@@ -2700,6 +2838,8 @@ var locations = [
 	name      : "Manhattan Beach Farmers Market",
 	address_1 : "326 13th St",
 	address_2 : "",
+	city      : "Manhattan Beach",
+	zip       : "90266",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Tue",
@@ -2739,6 +2879,8 @@ var locations = [
 	name      : "Mar Vista Farmers Market",
 	address_1 : "3826 Grand View Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90066",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sun",
@@ -2778,6 +2920,8 @@ var locations = [
 	name      : "Miracle Mile Farmers Market",
 	address_1 : "5700 Wilshire Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90036",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Wed",
@@ -2817,6 +2961,8 @@ var locations = [
 	name      : "Monrovia Farmers Market - Friday",
 	address_1 : "200 Block of Myrtle Ave @ Olive",
 	address_2 : "",
+	city      : "Monrovia",
+	zip       : "91016",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Fri",
@@ -2856,6 +3002,8 @@ var locations = [
 	name      : "Monterey Park Farmers Market",
 	address_1 : "318 S. Ramona Ave",
 	address_2 : "",
+	city      : "Monterey Park",
+	zip       : "91754",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Fri",
@@ -2895,6 +3043,8 @@ var locations = [
 	name      : "Montrose Harvest Market Farmers Market",
 	address_1 : "Honolulu & Ocean Avenue",
 	address_2 : "",
+	city      : "Santa Barbara",
+	zip       : "93101",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Mon",
@@ -2934,6 +3084,8 @@ var locations = [
 	name      : "Motor Avenue Farmers Market",
 	address_1 : "10316 National @ Motor Ave.",
 	address_2 : "Free Parking: 3376 Motor Avenue",
+	city      : "Los Angeles",
+	zip       : "90034",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Tue",
@@ -2973,6 +3125,8 @@ var locations = [
 	name      : "Newhall Farmers Market",
 	address_1 : "24500 Main Street",
 	address_2 : "",
+	city      : "Santa Clarita",
+	zip       : "91321",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sat",
@@ -3012,6 +3166,8 @@ var locations = [
 	name      : "Northridge Farmers Market And Family Festival",
 	address_1 : "9301 Tampa Ave",
 	address_2 : "",
+	city      : "Northridge",
+	zip       : "91324",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Wed",
@@ -3051,6 +3207,8 @@ var locations = [
 	name      : "Northridge University Farmers Market",
 	address_1 : "18111 Nordroff Street",
 	address_2 : "",
+	city      : "Northridge",
+	zip       : "91330",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Tue",
@@ -3090,6 +3248,8 @@ var locations = [
 	name      : "Old Highland Park Farmers Market",
 	address_1 : "5703 N Figueroa St",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90042",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Tue",
@@ -3129,6 +3289,8 @@ var locations = [
 	name      : "Old L.A. Farmers Market",
 	address_1 : "North Figueroa & Ave. 58",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90042",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Tue",
@@ -3168,6 +3330,8 @@ var locations = [
 	name      : "Palos Verdes Farmers Market",
 	address_1 : "27118 Silver Spur Rd",
 	address_2 : "",
+	city      : "Rolling Hills Estates",
+	zip       : "90274",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sun",
@@ -3207,6 +3371,8 @@ var locations = [
 	name      : "Paramount Farmers Market",
 	address_1 : "15500 Downey Ave",
 	address_2 : "",
+	city      : "Paramount",
+	zip       : "90723",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Fri",
@@ -3246,6 +3412,8 @@ var locations = [
 	name      : "Pasadena Victory Park Farmers Market",
 	address_1 : "2900 N. Sierra Madre Blvd between Paloma and Washington Avenues",
 	address_2 : "",
+	city      : "Pasadena",
+	zip       : "91107",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sat",
@@ -3285,6 +3453,8 @@ var locations = [
 	name      : "Pasadena Villa Parke Farmers Market",
 	address_1 : "363 E. Villa St.",
 	address_2 : "",
+	city      : "Pasadena",
+	zip       : "91101",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Tue",
@@ -3324,6 +3494,8 @@ var locations = [
 	name      : "Playa Vista Farmers Market",
 	address_1 : "12775 W. Millennium Drive",
 	address_2 : "",
+	city      : "Playa Vista",
+	zip       : "90094",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sat",
@@ -3363,6 +3535,8 @@ var locations = [
 	name      : "Pomona Valley CFM",
 	address_1 : "Corner of Pearl St & Garey Ave",
 	address_2 : "",
+	city      : "Pomona",
+	zip       : "91767",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sat",
@@ -3402,6 +3576,8 @@ var locations = [
 	name      : "Redondo Beach Farmers Market",
 	address_1 : "309 Esplanade",
 	address_2 : "",
+	city      : "Redondo Beach",
+	zip       : "90277",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Thu",
@@ -3441,6 +3617,8 @@ var locations = [
 	name      : "Riviera Village Farmers Market",
 	address_1 : "S Elena St & Avenida del Norte",
 	address_2 : "",
+	city      : "Redondo Beach",
+	zip       : "90277",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sun",
@@ -3480,6 +3658,8 @@ var locations = [
 	name      : "Rosemead Farmers Market",
 	address_1 : "8838 Valley Blvd.",
 	address_2 : "",
+	city      : "Rosemead",
+	zip       : "91770",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Mon",
@@ -3519,6 +3699,8 @@ var locations = [
 	name      : "San Pedro Farmers Market",
 	address_1 : "W 6Th St & S Mesa St",
 	address_2 : "",
+	city      : "San Pedro",
+	zip       : "90731",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Fri",
@@ -3558,6 +3740,8 @@ var locations = [
 	name      : "Santa Clarita Farmers Market",
 	address_1 : "College of the Canyons Valencia Campus",
 	address_2 : "26455 Rockwell Canyon Rd.",
+	city      : "Valencia",
+	zip       : "91355",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sun",
@@ -3597,6 +3781,8 @@ var locations = [
 	name      : "Santa Fe Springs Farmers Market",
 	address_1 : "11740 Telegraph Road",
 	address_2 : "",
+	city      : "Santa Fe Springs",
+	zip       : "90670",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Wed",
@@ -3636,6 +3822,8 @@ var locations = [
 	name      : "Santa Monica Downtown Farmers Market",
 	address_1 : "Arizona Ave between 4th St and Ocean",
 	address_2 : "",
+	city      : "Santa Monica",
+	zip       : "90401",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sat",
@@ -3675,6 +3863,8 @@ var locations = [
 	name      : "Santa Monica Farmers Market - Saturday Virginia Avenue Park",
 	address_1 : "2200 Virginia Avenue",
 	address_2 : "(Pico Blvd. @ Cloverfield Blvd.)",
+	city      : "Santa Monica",
+	zip       : "90405",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sat",
@@ -3714,6 +3904,8 @@ var locations = [
 	name      : "Santa Monica Farmers Market - Sunday Main Street",
 	address_1 : "2640 Main Street",
 	address_2 : "(in Heritage Square)",
+	city      : "Santa Monica",
+	zip       : "90405",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sun",
@@ -3753,6 +3945,8 @@ var locations = [
 	name      : "Temple City Farmers Market",
 	address_1 : "9701 Las  Tunas Dr",
 	address_2 : "",
+	city      : "Temple City",
+	zip       : "91780",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sun",
@@ -3792,6 +3986,8 @@ var locations = [
 	name      : "The Village Farmers Market",
 	address_1 : "6250 Topanga Blvd.",
 	address_2 : "",
+	city      : "Woodland HIlls",
+	zip       : "91367",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sun",
@@ -3831,6 +4027,8 @@ var locations = [
 	name      : "The WALL Food + Flowers + Farmers Market",
 	address_1 : "755 Wall Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90014",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sat",
@@ -3870,6 +4068,8 @@ var locations = [
 	name      : "Toluca Lake Farmers Market",
 	address_1 : "Sancola Ave & Riverside Dr",
 	address_2 : "",
+	city      : "Toluca Lake",
+	zip       : "91610",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sun",
@@ -3909,6 +4109,8 @@ var locations = [
 	name      : "Topanga Canyon CFM",
 	address_1 : "1440 North Topanga Canyon Blvd.",
 	address_2 : "",
+	city      : "Topanga",
+	zip       : "90503",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Fri",
@@ -3948,6 +4150,8 @@ var locations = [
 	name      : "Torrance Providence Farmers Market",
 	address_1 : "4101 Torranc Blvd. @ Hawthorne Blvd",
 	address_2 : "",
+	city      : "Torrance",
+	zip       : "90503",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Fri",
@@ -3987,6 +4191,8 @@ var locations = [
 	name      : "Torrance Farmers Market -Tuesday and saturday- 2200 Crenshaw Blvd Torrance,Ca.90501",
 	address_1 : "2200 Crenshaw Blvd",
 	address_2 : "",
+	city      : "Torrance",
+	zip       : "90501",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Tue",
@@ -4026,6 +4232,8 @@ var locations = [
 	name      : "Uptown Whittier Farmers Market",
 	address_1 : "Bright Ave & Philadelphia St",
 	address_2 : "13018 Philadelphia St.",
+	city      : "Whittier",
+	zip       : "90602",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Fri",
@@ -4065,6 +4273,8 @@ var locations = [
 	name      : "USC Hospitality Farmers Market",
 	address_1 : "3445 S. Figueroa Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90007",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Wed",
@@ -4104,6 +4314,8 @@ var locations = [
 	name      : "Valencia Farmers Market",
 	address_1 : "24201 Valencia Blvd",
 	address_2 : "",
+	city      : "valencia",
+	zip       : "91355",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Thu",
@@ -4143,6 +4355,8 @@ var locations = [
 	name      : "Venice Farmers Market",
 	address_1 : "N Venice Blvd & Venice Way",
 	address_2 : "",
+	city      : "Venice",
+	zip       : "90291",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Fri",
@@ -4182,6 +4396,8 @@ var locations = [
 	name      : "Watts Healthy Farmers Market",
 	address_1 : "1335 East 103rd Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90002",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sat",
@@ -4221,6 +4437,8 @@ var locations = [
 	name      : "Wellington Square Farmers Market",
 	address_1 : "4394 W Washington Blvd.",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90016",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sun",
@@ -4260,6 +4478,8 @@ var locations = [
 	name      : "West Covina Farmers Market",
 	address_1 : "195 S. Glendora Ave.",
 	address_2 : "",
+	city      : "West Covina",
+	zip       : "91790",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sat",
@@ -4299,6 +4519,8 @@ var locations = [
 	name      : "West Hollywood Farmers Market",
 	address_1 : "1200 N Vista St",
 	address_2 : "",
+	city      : "West Hollywood",
+	zip       : "90046",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Mon",
@@ -4338,6 +4560,8 @@ var locations = [
 	name      : "West Los Angeles Farmers Market",
 	address_1 : "1645 Corinth Avenue at Santa Monica Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90025",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sun",
@@ -4377,6 +4601,8 @@ var locations = [
 	name      : "Westchester Farmers Market",
 	address_1 : "7000 W Manchester Ave",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90045",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Wed",
@@ -4416,6 +4642,8 @@ var locations = [
 	name      : "Westwood Village Farmers Market",
 	address_1 : "1083 Braxton Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90024",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Thu",
@@ -4455,6 +4683,8 @@ var locations = [
 	name      : "Whittier Host Lions Farmers Market",
 	address_1 : "9401 S Painter Ave",
 	address_2 : "",
+	city      : "Whittier",
+	zip       : "90605",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sat",
@@ -4494,6 +4724,8 @@ var locations = [
 	name      : "Wilmington Farmers Market",
 	address_1 : "Avalon and L St.",
 	address_2 : "",
+	city      : "Wilminton",
+	zip       : "90744",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Thu",
@@ -4533,6 +4765,8 @@ var locations = [
 	name      : "Woodland Hills Farmers Market",
 	address_1 : "23504 Calabasas Rd",
 	address_2 : "",
+	city      : "Calabasas",
+	zip       : "91302",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Sat",
@@ -4572,6 +4806,8 @@ var locations = [
 	name      : "Woodman Avenue Farmers Market",
 	address_1 : "14006 Riverside Dr",
 	address_2 : "",
+	city      : "Sherman Oaks",
+	zip       : "91423",
 	category  : "Farmers Market",
 	hours     : [{
 		day       : "Tue",

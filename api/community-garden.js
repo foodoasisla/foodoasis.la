@@ -9,6 +9,8 @@ var locations = [
 	name      : "Arleta Community Garden",
 	address_1 : "8800 Canterbury Avenue",
 	address_2 : "",
+	city      : "San Fernando Valley",
+	zip       : "91331",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -48,6 +50,8 @@ var locations = [
 	name      : "Chino Community Garden & Park",
 	address_1 : "5976 Riverside Drive",
 	address_2 : "",
+	city      : "Chino",
+	zip       : "91710",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -87,6 +91,8 @@ var locations = [
 	name      : "Crenshaw Community Garden",
 	address_1 : "1423 S Crenshaw Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90019",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -126,6 +132,8 @@ var locations = [
 	name      : "Eagle Rockdale Community Garden & Art Park",
 	address_1 : "1003 Rockdale Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90041",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -165,6 +173,8 @@ var locations = [
 	name      : "Eastwind Community Garden",
 	address_1 : "110 Eastwind Street",
 	address_2 : "",
+	city      : "Marina Del Rey",
+	zip       : "90292",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -204,6 +214,8 @@ var locations = [
 	name      : "El Sereno Community Garden",
 	address_1 : "5466 Huntington Drive",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90032",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -243,6 +255,8 @@ var locations = [
 	name      : "Elysian Valley Community Garden",
 	address_1 : "1816 W Blake Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90039",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -282,6 +296,8 @@ var locations = [
 	name      : "Emerson Avenue Community Garden",
 	address_1 : "6550 W 80th Street",
 	address_2 : "",
+	city      : "Westchester",
+	zip       : "90045",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -321,6 +337,8 @@ var locations = [
 	name      : "Enrique Noguera Educational Garden",
 	address_1 : "6614 Fountain Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90038",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -360,6 +378,8 @@ var locations = [
 	name      : "Epworth Community Garden",
 	address_1 : "1419 W 65th Place",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90047",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -399,6 +419,8 @@ var locations = [
 	name      : "Erika J. Glazer Community Garden",
 	address_1 : "2632 Raymond Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90007",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -438,6 +460,8 @@ var locations = [
 	name      : "Feed & Be Fed",
 	address_1 : "429 West 6th Street",
 	address_2 : "",
+	city      : "San Pedro",
+	zip       : "90731",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -477,6 +501,8 @@ var locations = [
 	name      : "Fountain Community Gardens",
 	address_1 : "5620 Fountain Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90028",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -516,6 +542,8 @@ var locations = [
 	name      : "Fremont Wellness Center & Community Garden",
 	address_1 : "7821 S Avalon Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90003",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -555,6 +583,8 @@ var locations = [
 	name      : "Glassell Park Community Garden",
 	address_1 : "3304 Drew Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90065",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -594,6 +624,8 @@ var locations = [
 	name      : "Good Earth Community Garden",
 	address_1 : "5990 Boden St",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90016",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -633,6 +665,8 @@ var locations = [
 	name      : "Granada Hills Salad Bowl Garden Club",
 	address_1 : "16003 Rinaldi Street",
 	address_2 : "",
+	city      : "Granada Hills",
+	zip       : "91344",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -672,6 +706,8 @@ var locations = [
 	name      : "Greater Watts Community Garden",
 	address_1 : "660 E 118th Place",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90059",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -711,6 +747,8 @@ var locations = [
 	name      : "Holy Nativity Community Garden",
 	address_1 : "6700 W 83rd Street",
 	address_2 : "",
+	city      : "Westchester",
+	zip       : "90045",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -750,6 +788,8 @@ var locations = [
 	name      : "Howard Finn Community Garden",
 	address_1 : "7747 Foothill Blvd",
 	address_2 : "",
+	city      : "Tujunga",
+	zip       : "91042",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -789,6 +829,8 @@ var locations = [
 	name      : "Huerta del Valle Garden",
 	address_1 : "831 East Belmont Street",
 	address_2 : "",
+	city      : "Ontario",
+	zip       : "91761",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -828,6 +870,8 @@ var locations = [
 	name      : "Jardin Del Rio",
 	address_1 : "2363 N Riverdale Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90031",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -867,6 +911,8 @@ var locations = [
 	name      : "John S. Gibson Senior Garden",
 	address_1 : "1500 S Harbor Blvd",
 	address_2 : "",
+	city      : "San Pedro",
+	zip       : "90731",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -906,6 +952,8 @@ var locations = [
 	name      : "Mansfield Fountain Community Garden",
 	address_1 : "1259 N Mansfield Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90038",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -945,6 +993,8 @@ var locations = [
 	name      : "Manzanita Street Community Garden",
 	address_1 : "1101 Manzanita Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90029",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -984,6 +1034,8 @@ var locations = [
 	name      : "Mar Vista Community Garden",
 	address_1 : "5075 S Slauson Avenue",
 	address_2 : "",
+	city      : "Culver City",
+	zip       : "90230",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -1023,6 +1075,8 @@ var locations = [
 	name      : "Messiah Organic Community Garden",
 	address_1 : "7300 West Manchester Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90045",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -1062,6 +1116,8 @@ var locations = [
 	name      : "Milagro Allegro Community Garden",
 	address_1 : "115 S Avenue 56",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90042",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -1101,6 +1157,8 @@ var locations = [
 	name      : "Moothart Collingnon/Francis Avenue Community Garden",
 	address_1 : "2909 Francis Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90005",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -1140,6 +1198,8 @@ var locations = [
 	name      : "Norman Harriton Community Garden",
 	address_1 : "2037 N Sanborn Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90027",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -1179,6 +1239,8 @@ var locations = [
 	name      : "Ocean View Farms",
 	address_1 : "3300 S Centinela Avenue",
 	address_2 : "",
+	city      : "Mar Vista",
+	zip       : "90066",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -1218,6 +1280,8 @@ var locations = [
 	name      : "Orcutt Ranch Horticultural Center Rancho Sombra del Roble",
 	address_1 : "23600 Roscoe Blvd",
 	address_2 : "",
+	city      : "West Hills",
+	zip       : "91304",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -1257,6 +1321,8 @@ var locations = [
 	name      : "Pomona Hope Center Street Garden",
 	address_1 : "192 East Center Street",
 	address_2 : "",
+	city      : "Pomona",
+	zip       : "91767",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -1296,6 +1362,8 @@ var locations = [
 	name      : "Pomona South Hills Gardens",
 	address_1 : "1170 Fremont Street",
 	address_2 : "",
+	city      : "Pomona",
+	zip       : "91766",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -1335,6 +1403,8 @@ var locations = [
 	name      : "Rancho San Pedro Community Garden",
 	address_1 : "275 W 1st Street",
 	address_2 : "",
+	city      : "San Pedro",
+	zip       : "90731",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -1374,6 +1444,8 @@ var locations = [
 	name      : "Rosewood Gardens",
 	address_1 : "4160 Rosewood Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90004",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -1413,6 +1485,8 @@ var locations = [
 	name      : "Saint Paul’s Episcopal Church",
 	address_1 : "242 East Alvarado Street",
 	address_2 : "",
+	city      : "Pomona",
+	zip       : "91767",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -1452,6 +1526,8 @@ var locations = [
 	name      : "Salesian Boys & Girls Club Community Garden",
 	address_1 : "2228 E 4th Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90033",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -1491,6 +1567,8 @@ var locations = [
 	name      : "San Pedro Gardens",
 	address_1 : "1400 N Gaffey Street",
 	address_2 : "",
+	city      : "San Pedro",
+	zip       : "90731",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -1530,6 +1608,8 @@ var locations = [
 	name      : "Sarvodaya Farms",
 	address_1 : "1196 South San Antonio Avenue",
 	address_2 : "",
+	city      : "Pomona",
+	zip       : "91766",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -1569,6 +1649,8 @@ var locations = [
 	name      : "Sepulveda Garden Center",
 	address_1 : "16633 Magnolia Boulevard",
 	address_2 : "",
+	city      : "Encino",
+	zip       : "91436",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -1608,6 +1690,8 @@ var locations = [
 	name      : "Solano Canyon Community Garden",
 	address_1 : "545 Solano Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90012",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -1647,6 +1731,8 @@ var locations = [
 	name      : "Spring Street Community Garden",
 	address_1 : "220 S Spring Street",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90012",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -1686,6 +1772,8 @@ var locations = [
 	name      : "Stanford Avalon Community Garden",
 	address_1 : "658 E 111th Place",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90059",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -1725,6 +1813,8 @@ var locations = [
 	name      : "The Learning Garden",
 	address_1 : "1300 Venice Blvd",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90006",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -1764,6 +1854,8 @@ var locations = [
 	name      : "Urban Mission Garden",
 	address_1 : "810 South White Avenue",
 	address_2 : "",
+	city      : "Pomona",
+	zip       : "91766",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -1803,6 +1895,8 @@ var locations = [
 	name      : "Vermont Square Community Garden",
 	address_1 : "4712 S Vermont Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90037",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
@@ -1842,6 +1936,8 @@ var locations = [
 	name      : "Wattles Farm",
 	address_1 : "1714 N Curson Avenue",
 	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90046",
 	category  : "Community Garden",
 	hours     : [{
 		day       : "",
