@@ -17,6 +17,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/12/17",
+	season_close  : "8/11/17",
 	hours     : [
 	
 
@@ -96,6 +98,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/12/2017",
+	season_close  : "7/28/2017",
 	hours     : [
 	
 
@@ -175,6 +179,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/5/2017",
+	season_close  : "8/4/2017",
 	hours     : [
 	
 
@@ -254,6 +260,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/9/2017",
+	season_close  : "8/4/2017",
 	hours     : [
 	
 
@@ -333,6 +341,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/12/17",
+	season_close  : "8/11/17",
 	hours     : [
 	
 
@@ -412,6 +422,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/19/2017",
+	season_close  : "7/28/2017",
 	hours     : [
 	
 
@@ -491,6 +503,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/26/2017",
+	season_close  : "7/20/2017",
 	hours     : [
 	
 
@@ -562,6 +576,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/12/2017",
+	season_close  : "8/4/2017",
 	hours     : [
 	
 
@@ -641,6 +657,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/12/2017",
+	season_close  : "8/4/2017",
 	hours     : [
 	
 
@@ -720,6 +738,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/19/2017",
+	season_close  : "8/10/2017",
 	hours     : [
 	
 
@@ -799,6 +819,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/26/2017",
+	season_close  : "8/10/2017",
 	hours     : [
 	
 
@@ -878,6 +900,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/12/2017",
+	season_close  : "8/4/2017",
 	hours     : [
 	
 
@@ -957,6 +981,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "7/10/2017",
+	season_close  : "7/28/2017",
 	hours     : [
 	
 
@@ -1036,6 +1062,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/12/2017",
+	season_close  : "8/12/2017",
 	hours     : [
 	
 
@@ -1115,6 +1143,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/19/2017",
+	season_close  : "8/11/2017",
 	hours     : [
 	
 
@@ -1194,6 +1224,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/19/2017",
+	season_close  : "8/11/2017",
 	hours     : [
 	
 
@@ -1273,6 +1305,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/12/2017",
+	season_close  : "8/10/2017",
 	hours     : [
 	
 
@@ -1344,6 +1378,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/12/2017",
+	season_close  : "8/4/2017",
 	hours     : [
 	
 
@@ -1423,6 +1459,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/12/2017",
+	season_close  : "8/4/2017",
 	hours     : [
 	
 
@@ -1502,6 +1540,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/8/2017",
+	season_close  : "8/7/2017",
 	hours     : [
 	
 
@@ -1581,6 +1621,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/26/2017",
+	season_close  : "8/18/2017",
 	hours     : [
 	
 
@@ -1644,6 +1686,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/12/2017",
+	season_close  : "8/10/2017",
 	hours     : [
 	
 
@@ -1723,6 +1767,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/12/2017",
+	season_close  : "8/10/2017",
 	hours     : [
 	
 
@@ -1802,6 +1848,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/12/2017",
+	season_close  : "8/12/2017",
 	hours     : [
 	
 
@@ -1881,6 +1929,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/19/2017",
+	season_close  : "8/18/2017",
 	hours     : [
 	
 
@@ -1960,6 +2010,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/12/2017",
+	season_close  : "8/4/2017",
 	hours     : [
 	
 
@@ -2039,6 +2091,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/26/2017",
+	season_close  : "8/3/2017",
 	hours     : [
 	
 
@@ -2118,6 +2172,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/19/2017",
+	season_close  : "8/4/2017",
 	hours     : [
 	
 
@@ -2197,6 +2253,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/26/2017",
+	season_close  : "8/4/2017",
 	hours     : [
 	
 
@@ -2276,6 +2334,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/19/2017",
+	season_close  : "8/11/2017",
 	hours     : [
 	
 
@@ -2355,6 +2415,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/19/2017",
+	season_close  : "8/11/2017",
 	hours     : [
 	
 
@@ -2434,6 +2496,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/20/2017",
+	season_close  : "8/4/2017",
 	hours     : [
 	
 
@@ -2513,6 +2577,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/12/2017",
+	season_close  : "8/4/2017",
 	hours     : [
 	
 
@@ -2592,6 +2658,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "7/10/2017",
+	season_close  : "7/28/2017",
 	hours     : [
 	
 
@@ -2671,6 +2739,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "7/5/2017",
+	season_close  : "8/5/2017",
 	hours     : [
 	
 
@@ -2750,6 +2820,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "7/12/2017",
+	season_close  : "8/10/2017",
 	hours     : [
 	
 
@@ -2829,6 +2901,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/12/2017",
+	season_close  : "8/4/2017",
 	hours     : [
 	
 
@@ -2908,6 +2982,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/19/2017",
+	season_close  : "7/28/2017",
 	hours     : [
 	
 
@@ -2987,6 +3063,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/19/2017",
+	season_close  : "8/18/2017",
 	hours     : [
 	
 
@@ -3066,6 +3144,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/19/2017",
+	season_close  : "8/8/2017",
 	hours     : [
 	
 
@@ -3137,6 +3217,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/12/2017",
+	season_close  : "8/4/2017",
 	hours     : [
 	
 
@@ -3198,7 +3280,7 @@ var locations = [
 	uri       : "/summer-lunch/northridge-library/"
 	
 
-	, content   : "<p>Closed 7/4/2017</p>   "
+	, content   : "<p>Closed 7/4/2017</p>  <p><a href=\"http://www.lapl.org/branches/northridge\">http://www.lapl.org/branches/northridge</a></p>  <p>Kids and teens ages 5-18 eat lunch FREE at our library. Join us! Monday through Friday from 12:30 p.m. to 1:30 p.m.</p>  <p>Servimos almuerzo GRATIS para niños y adolescentes de 5 a 18 años. Lunes a viernes de 12:30 a 1:30 p. m.</p>  "
 	
 },
 
@@ -3216,6 +3298,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/26/2017",
+	season_close  : "8/16/2017",
 	hours     : [
 	
 
@@ -3287,6 +3371,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/12/2017",
+	season_close  : "8/4/2017",
 	hours     : [
 	
 
@@ -3366,6 +3452,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/12/2017",
+	season_close  : "8/4/2017",
 	hours     : [
 	
 
@@ -3445,6 +3533,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/12/2017",
+	season_close  : "6/30/2017",
 	hours     : [
 	
 
@@ -3524,6 +3614,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/12/2017",
+	season_close  : "6/30/2017",
 	hours     : [
 	
 
@@ -3603,6 +3695,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/12/2017",
+	season_close  : "6/30/2017",
 	hours     : [
 	
 
@@ -3682,6 +3776,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/12/2017",
+	season_close  : "8/4/2017",
 	hours     : [
 	
 
@@ -3761,6 +3857,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/12/2017",
+	season_close  : "8/4/2017",
 	hours     : [
 	
 
@@ -3840,6 +3938,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/26/2017",
+	season_close  : "7/28/2017",
 	hours     : [
 	
 
@@ -3919,6 +4019,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/19/2017",
+	season_close  : "7/21/2017",
 	hours     : [
 	
 
@@ -3998,6 +4100,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "7/10/2017",
+	season_close  : "8/17/2017",
 	hours     : [
 	
 
@@ -4061,6 +4165,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/5/2017",
+	season_close  : "7/4/2017",
 	hours     : [
 	
 
@@ -4140,6 +4246,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/5/2017",
+	season_close  : "7/28/2017",
 	hours     : [
 	
 
@@ -4219,6 +4327,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/12/2017",
+	season_close  : "8/3/2017",
 	hours     : [
 	
 
@@ -4298,6 +4408,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/12/2017",
+	season_close  : "8/17/2017",
 	hours     : [
 	
 
@@ -4377,6 +4489,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/12/2017",
+	season_close  : "8/4/2017",
 	hours     : [
 	
 
@@ -4456,6 +4570,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/12/2017",
+	season_close  : "8/11/2017",
 	hours     : [
 	
 
@@ -4535,6 +4651,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/12/2017",
+	season_close  : "8/10/2017",
 	hours     : [
 	
 
@@ -4614,6 +4732,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/19/2017",
+	season_close  : "8/11/2017",
 	hours     : [
 	
 
@@ -4693,6 +4813,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/27/2017",
+	season_close  : "7/28/2017",
 	hours     : [
 	
 
@@ -4772,6 +4894,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/19/2017",
+	season_close  : "7/21/2017",
 	hours     : [
 	
 
@@ -4851,6 +4975,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/27/2017",
+	season_close  : "7/27/2017",
 	hours     : [
 	
 
@@ -4930,6 +5056,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/12/2017",
+	season_close  : "8/4/2017",
 	hours     : [
 	
 
@@ -5009,6 +5137,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/5/2017",
+	season_close  : "8/4/2017",
 	hours     : [
 	
 
@@ -5088,6 +5218,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/12/2017",
+	season_close  : "8/4/2017",
 	hours     : [
 	
 
@@ -5167,6 +5299,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/12/2017",
+	season_close  : "8/4/2017",
 	hours     : [
 	
 
@@ -5246,6 +5380,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/12/2017",
+	season_close  : "8/4/2017",
 	hours     : [
 	
 
@@ -5325,6 +5461,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -5404,6 +5542,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "6/26/2017",
+	season_close  : "8/2/2017",
 	hours     : [
 	
 

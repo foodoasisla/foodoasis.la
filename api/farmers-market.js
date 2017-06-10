@@ -17,6 +17,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -64,6 +66,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -111,6 +115,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -158,6 +164,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -205,6 +213,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -252,6 +262,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -299,6 +311,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -346,6 +360,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -393,6 +409,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -440,6 +458,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -487,6 +507,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -534,6 +556,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -581,6 +605,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -628,6 +654,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -675,6 +703,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -722,6 +752,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -769,6 +801,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -816,6 +850,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -863,6 +899,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -910,6 +948,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -957,6 +997,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -1004,6 +1046,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -1051,6 +1095,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -1098,6 +1144,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -1145,6 +1193,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -1192,6 +1242,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -1239,6 +1291,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -1286,6 +1340,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -1333,6 +1389,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -1380,6 +1438,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -1427,6 +1487,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -1474,6 +1536,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -1521,6 +1585,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -1568,6 +1634,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -1615,6 +1683,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -1662,6 +1732,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -1709,6 +1781,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -1756,6 +1830,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -1811,6 +1887,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -1858,6 +1936,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -1905,6 +1985,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -1952,6 +2034,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -1999,6 +2083,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -2046,6 +2132,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -2101,6 +2189,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -2148,6 +2238,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -2195,6 +2287,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -2242,6 +2336,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -2289,6 +2385,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -2336,6 +2434,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -2383,6 +2483,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -2430,6 +2532,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -2477,6 +2581,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -2524,6 +2630,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -2571,6 +2679,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -2618,6 +2728,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -2673,6 +2785,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -2720,6 +2834,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -2767,6 +2883,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -2814,6 +2932,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -2861,6 +2981,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -2908,6 +3030,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -2955,6 +3079,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -3002,6 +3128,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -3049,6 +3177,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -3096,6 +3226,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -3143,6 +3275,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -3190,6 +3324,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -3237,6 +3373,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -3284,6 +3422,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -3331,6 +3471,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -3378,6 +3520,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -3425,6 +3569,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -3472,6 +3618,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -3519,6 +3667,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -3566,6 +3716,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -3613,6 +3765,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -3660,6 +3814,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -3707,6 +3863,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -3754,6 +3912,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -3801,6 +3961,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -3848,6 +4010,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -3895,6 +4059,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -3942,6 +4108,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -3989,6 +4157,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -4036,6 +4206,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -4083,6 +4255,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -4130,6 +4304,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -4177,6 +4353,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -4224,6 +4402,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -4271,6 +4451,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -4318,6 +4500,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -4365,6 +4549,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -4412,6 +4598,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -4459,6 +4647,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -4506,6 +4696,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -4553,6 +4745,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -4600,6 +4794,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -4647,6 +4843,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -4694,6 +4892,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -4741,6 +4941,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -4788,6 +4990,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -4835,6 +5039,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -4882,6 +5088,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -4929,6 +5137,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -4976,6 +5186,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -5023,6 +5235,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -5070,6 +5284,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -5117,6 +5333,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -5164,6 +5382,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -5211,6 +5431,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -5258,6 +5480,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -5305,6 +5529,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -5352,6 +5578,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -5399,6 +5627,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -5446,6 +5676,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -5493,6 +5725,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
@@ -5540,6 +5774,8 @@ var locations = [
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
+	season_open   : "",
+	season_close  : "",
 	hours     : [
 	
 
