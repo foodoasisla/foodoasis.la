@@ -942,6 +942,8 @@ var updateLink;
 		if (console && console.log) console.log('MapboxGL doesn’t appear to be supported in this web browser. Showing the list instead…');
 		window.oasis.showList();
 		window.oasis.hideToggleButtons();
+	} else {
+		document.body.classList.add('has-active-map');
 	}
 </script>
 
@@ -1090,9 +1092,6 @@ var listOffset = 0;
 
 })();
 </script>
-
-</body>
-</html>
 
 	</main>
 
