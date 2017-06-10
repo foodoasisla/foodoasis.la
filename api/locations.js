@@ -94616,10 +94616,10 @@ var locations = [
 
 
 {
-	latitude  : "34.240555",
-	longitude : "-118.569637",
+	latitude  : "34.2416554",
+	longitude : "-118.56875",
 	name      : "1st Place Sports Complex",
-	address_1 : "9400 Penfield St",
+	address_1 : "9400 Penfield Avenue",
 	address_2 : "",
 	city      : "Chatsworth",
 	zip       : "91311",
@@ -94697,8 +94697,8 @@ var locations = [
 },
 
 {
-	latitude  : "34.025762",
-	longitude : "-118.256665",
+	latitude  : "34.025793",
+	longitude : "-118.256591",
 	name      : "All Peoples Christian Center",
 	address_1 : "822 East 20th Street",
 	address_2 : "",
@@ -94773,7 +94773,7 @@ var locations = [
 	uri       : "/summer-lunch/all-peoples-christian-center/"
 	
 
-	, content   : "<p>Field Trip: 6/16,6/23, 6/30, 7/7, 7/14, 7/21, 7/28</p>  <dl>   <dt>Lunch Times</dt>   <dd>June 12 through July 28, 2017</dd>   <dd><em>12:15pm–1:15pm</em></dd>   <dt>Field Trips</dt>   <dd>June 16</dd>   <dd>June 23</dd>   <dd>June 30</dd>   <dd>July 7</dd>   <dd>July 21</dd>   <dd>July 28</dd> </dl> "
+	, content   : "<p>Field Trip: 6/16,6/23, 6/30, 7/7, 7/14, 7/21, 7/28</p>  <dl>   <dt>Lunch Times</dt>   <dd>June 12 through July 28, 2017</dd>   <dd><em>12:15pm–1:15pm</em></dd>   <dt>Field Trips</dt>   <dd>June 16</dd>   <dd>June 23</dd>   <dd>June 30</dd>   <dd>July 7</dd>   <dd>July 21</dd>   <dd>July 28</dd> </dl>  "
 	
 },
 
@@ -94859,10 +94859,10 @@ var locations = [
 },
 
 {
-	latitude  : "34.785485",
-	longitude : "-118.131102",
+	latitude  : "34.7081706",
+	longitude : "-118.1304502",
 	name      : "Boys & Girls Clubs of the Antelope Valley, Whitney Mac Center",
-	address_1 : "45404 North Division Street",
+	address_1 : "45404 Division Street",
 	address_2 : "",
 	city      : "Lancaster",
 	zip       : "93535",
@@ -94935,13 +94935,13 @@ var locations = [
 	uri       : "/summer-lunch/avbgc-whitney-mac-center/"
 	
 
-	, content   : "<p>Closed: 7/3, 7/4</p>  <dl>   <dt>Open</dt>   <dd>June 9 through August 4, 2017</dd>   <dd><em>3:00pm–4:00pm</em></dd>   <dt>Closed</dt>   <dd>July 3 and July 4, 2017</dd> </dl> "
+	, content   : "<p>Closed: 7/3, 7/4</p>  <dl>   <dt>Open</dt>   <dd>June 9 through August 4, 2017</dd>   <dd><em>3:00pm–4:00pm</em></dd>   <dt>Closed</dt>   <dd>July 3 and July 4, 2017</dd> </dl>  "
 	
 },
 
 {
-	latitude  : "34.087099",
-	longitude : "-118.176266",
+	latitude  : "34.087439",
+	longitude : "-118.176357",
 	name      : "Barrio Action Youth & Family Center",
 	address_1 : "4927 Huntington Drive North",
 	address_2 : "Ste 200",
@@ -95021,8 +95021,8 @@ var locations = [
 },
 
 {
-	latitude  : "34.716938",
-	longitude : "-118.1101",
+	latitude  : "34.716831",
+	longitude : "-118.110368",
 	name      : "Brierwood",
 	address_1 : "45800 Challenger Way",
 	address_2 : "",
@@ -95102,10 +95102,10 @@ var locations = [
 },
 
 {
-	latitude  : "34.052104",
-	longitude : "-118.220178",
+	latitude  : "34.052037",
+	longitude : "-118.220204",
 	name      : "Brownson House",
-	address_1 : "1307 Warren St,",
+	address_1 : "1307 Warren Street",
 	address_2 : "",
 	city      : "Los Angeles",
 	zip       : "90033",
@@ -95175,8 +95175,8 @@ var locations = [
 },
 
 {
-	latitude  : "34.201107",
-	longitude : "-118.589792",
+	latitude  : "34.2013572",
+	longitude : "-118.5901475",
 	name      : "Canoga Park Library",
 	address_1 : "20939 Sherman Way",
 	address_2 : "",
@@ -95256,10 +95256,10 @@ var locations = [
 },
 
 {
-	latitude  : "33.833456",
-	longitude : "-118.278422",
-	name      : "Carson BGC",
-	address_1 : "21502 Main St.",
+	latitude  : "33.8333496",
+	longitude : "-118.2782185",
+	name      : "Carson Boys & Girls Club",
+	address_1 : "21502 South Main Street",
 	address_2 : "",
 	city      : "Carson",
 	zip       : "90745",
@@ -95337,10 +95337,10 @@ var locations = [
 },
 
 {
-	latitude  : "33.890368",
-	longitude : "-118.193011",
+	latitude  : "33.8897572",
+	longitude : "-118.1935257",
 	name      : "Casa Dominguez",
-	address_1 : "15727 Atlantic Ave",
+	address_1 : "15727 Atlantic Avenue",
 	address_2 : "",
 	city      : "Compton",
 	zip       : "90221",
@@ -95418,10 +95418,10 @@ var locations = [
 },
 
 {
-	latitude  : "34.054836",
-	longitude : "-118.261844",
+	latitude  : "34.05495330000001",
+	longitude : "-118.261983",
 	name      : "Central City Neighborhood Partners",
-	address_1 : "501 S. Bixel Street",
+	address_1 : "501 South Bixel Street",
 	address_2 : "",
 	city      : "Los Angeles",
 	zip       : "90017",
@@ -95499,10 +95499,10 @@ var locations = [
 },
 
 {
-	latitude  : "34.05074",
-	longitude : "-118.255134",
+	latitude  : "34.0502687",
+	longitude : "-118.2550433",
 	name      : "Central Library",
-	address_1 : "630 W 5th St",
+	address_1 : "630 West 5th Street",
 	address_2 : "",
 	city      : "Los Angeles",
 	zip       : "90071",
@@ -95580,10 +95580,10 @@ var locations = [
 },
 
 {
-	latitude  : "33.90236",
-	longitude : "-118.263571",
+	latitude  : "33.9022476",
+	longitude : "-118.2606299",
 	name      : "Church of the Redeemer",
-	address_1 : "900 E. Rosecrans Ave",
+	address_1 : "900 East Rosecrans Avenue",
 	address_2 : "",
 	city      : "Los Angeles",
 	zip       : "90059",
@@ -95661,10 +95661,10 @@ var locations = [
 },
 
 {
-	latitude  : "33.97586",
-	longitude : "-118.176823",
+	latitude  : "33.9764969",
+	longitude : "-118.1762006",
 	name      : "City of Bell-Veterans Memorial Park",
-	address_1 : "6500 Wilcox Ave",
+	address_1 : "6500 Wilcox Avenue",
 	address_2 : "",
 	city      : "Bell",
 	zip       : "90201",
@@ -95742,10 +95742,10 @@ var locations = [
 },
 
 {
-	latitude  : "34.013501",
-	longitude : "-118.169819",
+	latitude  : "34.0130966",
+	longitude : "-118.1692298",
 	name      : "City of Commerce-Bristow Library",
-	address_1 : "1466 S. McDonnell Ave",
+	address_1 : "1466 South McDonnell Avenue",
 	address_2 : "",
 	city      : "Commerce",
 	zip       : "90040",
@@ -95823,10 +95823,10 @@ var locations = [
 },
 
 {
-	latitude  : "33.972644",
-	longitude : "-118.126773",
+	latitude  : "33.9719459",
+	longitude : "-118.1266146",
 	name      : "City of Commerce-Veterans Park",
-	address_1 : "6364 Zindell Ave",
+	address_1 : "6364 Zindell Avenue",
 	address_2 : "",
 	city      : "Commerce",
 	zip       : "90040",
@@ -95904,10 +95904,10 @@ var locations = [
 },
 
 {
-	latitude  : "34.017375",
-	longitude : "-118.184588",
+	latitude  : "34.018459",
+	longitude : "-118.1856253",
 	name      : "Eastman Elementary School/Healthy Start",
-	address_1 : "4112 E. Olympic Blvd",
+	address_1 : "4112 East Olympic Boulevard",
 	address_2 : "",
 	city      : "Los Angeles",
 	zip       : "90023",
@@ -95977,10 +95977,10 @@ var locations = [
 },
 
 {
-	latitude  : "34.067115",
-	longitude : "-118.257227",
+	latitude  : "34.0670485",
+	longitude : "-118.2574632",
 	name      : "Echo Park Library",
-	address_1 : "1410 W Temple Street",
+	address_1 : "1410 West Temple Street",
 	address_2 : "",
 	city      : "Los Angeles",
 	zip       : "90026",
@@ -96058,10 +96058,10 @@ var locations = [
 },
 
 {
-	latitude  : "34.014402",
-	longitude : "-118.308616",
+	latitude  : "34.0143751",
+	longitude : "-118.3085184",
 	name      : "Exposition Park Library",
-	address_1 : "3900 S Western Ave",
+	address_1 : "3900 South Western Avenue",
 	address_2 : "",
 	city      : "Los Angeles",
 	zip       : "90062",
@@ -96139,10 +96139,10 @@ var locations = [
 },
 
 {
-	latitude  : "34.706691",
-	longitude : "-118.105996",
+	latitude  : "34.70824090000001",
+	longitude : "-118.1056841",
 	name      : "Friendly Village",
-	address_1 : "1301 East Ave I",
+	address_1 : "1301 East Avenue I",
 	address_2 : "",
 	city      : "Lancaster",
 	zip       : "93535",
@@ -96220,10 +96220,10 @@ var locations = [
 },
 
 {
-	latitude  : "33.9163712",
-	longitude : "-118.2652415",
+	latitude  : "33.947664",
+	longitude : "-118.265526",
 	name      : "Greater New Unity B.C.",
-	address_1 : "9719 S Avalon Blvd",
+	address_1 : "9719 South Avalon Boulevard",
 	address_2 : "",
 	city      : "Los Angeles",
 	zip       : "90003",
@@ -96285,10 +96285,10 @@ var locations = [
 },
 
 {
-	latitude  : "34.680539",
-	longitude : "-118.088058",
+	latitude  : "34.6797458",
+	longitude : "-118.0883691",
 	name      : "Hacienda Estates",
-	address_1 : "2330 East Ave J8",
+	address_1 : "2330 East Avenue J 8",
 	address_2 : "",
 	city      : "Lancaster",
 	zip       : "93535",
@@ -96366,10 +96366,10 @@ var locations = [
 },
 
 {
-	latitude  : "33.791498",
-	longitude : "-118.307533",
-	name      : "Harbor City BGC",
-	address_1 : "1220 W 256th St",
+	latitude  : "33.7915516",
+	longitude : "-118.2983853",
+	name      : "Harbor City Boys & Girls Club",
+	address_1 : "1220 256th Street West",
 	address_2 : "",
 	city      : "Harbor City",
 	zip       : "90710",
@@ -96447,10 +96447,10 @@ var locations = [
 },
 
 {
-	latitude  : "33.881372",
-	longitude : "-118.28937",
-	name      : "Harbor Gateway BGC",
-	address_1 : "802 W Gardena Blvd",
+	latitude  : "33.8815087",
+	longitude : "-118.2894217",
+	name      : "Harbor Gateway Boys & Girls Club",
+	address_1 : "802 West Gardena Boulevard",
 	address_2 : "",
 	city      : "Gardena",
 	zip       : "90247",
@@ -96528,10 +96528,10 @@ var locations = [
 },
 
 {
-	latitude  : "33.792413",
-	longitude : "-118.292523",
+	latitude  : "33.7927819",
+	longitude : "-118.2925155",
 	name      : "Harbor Village",
-	address_1 : "981 Harbor Village Dr",
+	address_1 : "981 Harbor Village Drive",
 	address_2 : "",
 	city      : "Harbor City",
 	zip       : "90710",
@@ -96609,10 +96609,10 @@ var locations = [
 },
 
 {
-	latitude  : "33.974588",
-	longitude : "-118.318131",
+	latitude  : "33.9747784",
+	longitude : "-118.3182044",
 	name      : "Hyde Park Library",
-	address_1 : "2205 W Florence Ave",
+	address_1 : "2205 West Florence Avenue",
 	address_2 : "",
 	city      : "Los Angeles",
 	zip       : "90043",
@@ -96690,10 +96690,10 @@ var locations = [
 },
 
 {
-	latitude  : "34.043002",
-	longitude : "-118.290696",
+	latitude  : "34.0479859",
+	longitude : "-118.2902679",
 	name      : "KYCC- Menlo",
-	address_1 : "1230 S Menlo Ave",
+	address_1 : "1230 Menlo Avenue",
 	address_2 : "",
 	city      : "Los Angeles",
 	zip       : "90006",
@@ -96852,10 +96852,10 @@ var locations = [
 },
 
 {
-	latitude  : "34.060595",
-	longitude : "-118.314354",
+	latitude  : "34.0600461",
+	longitude : "-118.3141938",
 	name      : "KYCC- Wilton",
-	address_1 : "680 S Wilton Place",
+	address_1 : "680 South Wilton Place",
 	address_2 : "",
 	city      : "Los Angeles",
 	zip       : "90005",
@@ -96933,10 +96933,10 @@ var locations = [
 },
 
 {
-	latitude  : "34.037885",
-	longitude : "-118.292381",
+	latitude  : "34.0378134",
+	longitude : "-118.2924473",
 	name      : "KYDS- Los Angeles Christian School",
-	address_1 : "1620 W 20th St",
+	address_1 : "1620 West 20th Street",
 	address_2 : "",
 	city      : "Los Angeles",
 	zip       : "90007",
@@ -97014,8 +97014,8 @@ var locations = [
 },
 
 {
-	latitude  : "34.2012",
-	longitude : "-118.527852",
+	latitude  : "34.201352",
+	longitude : "-118.528147",
 	name      : "KYDS- St Catherine of Siena School",
 	address_1 : "18125 Sherman Way",
 	address_2 : "",
@@ -97095,10 +97095,10 @@ var locations = [
 },
 
 {
-	latitude  : "34.0544",
-	longitude : "-118.2439",
+	latitude  : "34.0586382",
+	longitude : "-118.2653523",
 	name      : "La Villa Mariposa",
-	address_1 : "345 S. Columbia Dr.",
+	address_1 : "345 Columbia Avenue",
 	address_2 : "",
 	city      : "Los Angeles",
 	zip       : "90017",
@@ -97176,10 +97176,10 @@ var locations = [
 },
 
 {
-	latitude  : "34.075733",
-	longitude : "-118.214404",
+	latitude  : "34.0761642",
+	longitude : "-118.2140063",
 	name      : "Lincoln Heights Library",
-	address_1 : "2530 Workman St",
+	address_1 : "2530 Workman Street",
 	address_2 : "",
 	city      : "Los Angeles",
 	zip       : "90031",
@@ -97258,7 +97258,7 @@ var locations = [
 
 {
 	latitude  : "34.690442",
-	longitude : "-118.116525",
+	longitude : "-118.116524",
 	name      : "Lutheran Church of the Master",
 	address_1 : "725 East Avenue J",
 	address_2 : "",
@@ -97338,10 +97338,10 @@ var locations = [
 },
 
 {
-	latitude  : "33.8743625",
-	longitude : "-118.2168391",
+	latitude  : "33.8756663",
+	longitude : "-118.2131422",
 	name      : "Major League Baseball Urban Youth Academy",
-	address_1 : "901 E Artesia Blvd",
+	address_1 : "901 East Artesia Boulevard",
 	address_2 : "",
 	city      : "Compton",
 	zip       : "90221",
@@ -97419,8 +97419,8 @@ var locations = [
 },
 
 {
-	latitude  : "33.994124",
-	longitude : "-118.4108",
+	latitude  : "33.9928885",
+	longitude : "-118.4113812",
 	name      : "Mar Vista Gardens",
 	address_1 : "4901 Marionwood Dr.",
 	address_2 : "",
@@ -97500,10 +97500,10 @@ var locations = [
 },
 
 {
-	latitude  : "33.948986",
-	longitude : "-118.282688",
+	latitude  : "33.9484352",
+	longitude : "-118.2829768",
 	name      : "Mark Twain Library",
-	address_1 : "9621 S Figueroa",
+	address_1 : "9621 South Figueroa Street",
 	address_2 : "",
 	city      : "Los Angeles",
 	zip       : "90003",
@@ -97581,8 +97581,8 @@ var locations = [
 },
 
 {
-	latitude  : "34.244516",
-	longitude : "-118.415488",
+	latitude  : "34.2444648",
+	longitude : "-118.415015",
 	name      : "Montague Charter Academy",
 	address_1 : "13000 Montague Street",
 	address_2 : "",
@@ -97662,10 +97662,10 @@ var locations = [
 },
 
 {
-	latitude  : "34.575483",
-	longitude : "-118.068273",
+	latitude  : "34.5732296",
+	longitude : "-118.0702004",
 	name      : "Mountain View Estates",
-	address_1 : "3255 E Ave R",
+	address_1 : "3255 East Avenue R",
 	address_2 : "",
 	city      : "Palmdale",
 	zip       : "93550",
@@ -97743,8 +97743,8 @@ var locations = [
 },
 
 {
-	latitude  : "34.231911",
-	longitude : "-118.469087",
+	latitude  : "34.232206",
+	longitude : "-118.469137",
 	name      : "North Valley Caring Services",
 	address_1 : "15453 Rayen Street",
 	address_2 : "",
@@ -97816,8 +97816,8 @@ var locations = [
 },
 
 {
-	latitude  : "34.234676",
-	longitude : "-118.533867",
+	latitude  : "34.2350906",
+	longitude : "-118.5340957",
 	name      : "Northridge Library",
 	address_1 : "9051 Darby Avenue",
 	address_2 : "",
@@ -97897,13 +97897,13 @@ var locations = [
 },
 
 {
-	latitude  : "34.082471",
-	longitude : "-118.018208",
+	latitude  : "34.085222",
+	longitude : "-118.0284116",
 	name      : "Our Saviour Center",
-	address_1 : "4316 Peck Rd",
+	address_1 : "4368 Santa Anita Avenue",
 	address_2 : "",
 	city      : "El Monte",
-	zip       : "91732",
+	zip       : "91731",
 	category  : "Summer Lunch",
 	website   : "https://www.lafoodbank.org/sfsp/",
 	phone     : "Jose Vega, Marguerite Ponce (reports) / 626.329.0860 x 1203 or x 01",
@@ -97970,10 +97970,10 @@ var locations = [
 },
 
 {
-	latitude  : "34.261035",
-	longitude : "-118.429026",
+	latitude  : "34.2611303",
+	longitude : "-118.4292084",
 	name      : "Pacoima Library",
-	address_1 : "13605 Van Nuys Blvd",
+	address_1 : "13605 Van Nuys Boulevard",
 	address_2 : "",
 	city      : "Pacoima",
 	zip       : "91331",
@@ -98051,12 +98051,12 @@ var locations = [
 },
 
 {
-	latitude  : "34.227817",
-	longitude : "-118.450104",
+	latitude  : "34.2219274",
+	longitude : "-118.4462008",
 	name      : "Panorama City Library",
-	address_1 : "13605 Van Nuys Blvd",
+	address_1 : "14345 Roscoe Boulevard",
 	address_2 : "",
-	city      : "Panorama City",
+	city      : "Los Angeles",
 	zip       : "91402",
 	category  : "Summer Lunch",
 	website   : "https://www.lafoodbank.org/sfsp/",
@@ -98132,10 +98132,10 @@ var locations = [
 },
 
 {
-	latitude  : "34.03514",
-	longitude : "-118.236922",
+	latitude  : "34.0351536",
+	longitude : "-118.2369527",
 	name      : "Para Los Ninos (7th)",
-	address_1 : "1617 7th Street",
+	address_1 : "1617 East 7th Street",
 	address_2 : "",
 	city      : "Los Angeles",
 	zip       : "90021",
@@ -98213,10 +98213,10 @@ var locations = [
 },
 
 {
-	latitude  : "34.0544",
-	longitude : "-118.2439",
+	latitude  : "34.0560461",
+	longitude : "-118.2638085",
 	name      : "Para Los Ninos (Gratts Primary Center)",
-	address_1 : "474 S. Hartford Ave",
+	address_1 : "474 Hartford Avenue",
 	address_2 : "",
 	city      : "Los Angeles",
 	zip       : "90017",
@@ -98294,10 +98294,10 @@ var locations = [
 },
 
 {
-	latitude  : "34.035973",
-	longitude : "-118.247126",
+	latitude  : "34.0357512",
+	longitude : "-118.2474731",
 	name      : "Para Los Ninos (Middle School)",
-	address_1 : "835 Stanford Ave",
+	address_1 : "835 Stanford Avenue",
 	address_2 : "",
 	city      : "Los Angeles",
 	zip       : "90021",
@@ -98375,10 +98375,10 @@ var locations = [
 },
 
 {
-	latitude  : "34.0544",
-	longitude : "-118.2439",
+	latitude  : "34.0509937",
+	longitude : "-118.2798606",
 	name      : "Pico Union Library",
-	address_1 : "14345 Roscoe Blvd",
+	address_1 : "1030 South Alvarado Street",
 	address_2 : "",
 	city      : "Los Angeles",
 	zip       : "90006",
@@ -98537,10 +98537,10 @@ var locations = [
 },
 
 {
-	latitude  : "34.002842",
-	longitude : "-118.256482",
+	latitude  : "34.04137300000001",
+	longitude : "-118.220209",
 	name      : "PUENTE Learning Center",
-	address_1 : "4504 S Central Ave",
+	address_1 : "501 South Boyle Avenue",
 	address_2 : "",
 	city      : "Los Angeles",
 	zip       : "90033",
@@ -98618,10 +98618,10 @@ var locations = [
 },
 
 {
-	latitude  : "34.067374",
-	longitude : "-118.271893",
+	latitude  : "34.0672088",
+	longitude : "-118.2719804",
 	name      : "Regis House",
-	address_1 : "2212 Beverly Ave",
+	address_1 : "2212 Beverly Boulevard",
 	address_2 : "",
 	city      : "Los Angeles",
 	zip       : "90057",
@@ -98699,10 +98699,10 @@ var locations = [
 },
 
 {
-	latitude  : "33.907182",
-	longitude : "-118.341096",
+	latitude  : "33.9072483",
+	longitude : "-118.3413094",
 	name      : "Richstone Family Center",
-	address_1 : "13634 Cordary Ave",
+	address_1 : "13634 Cordary Avenue",
 	address_2 : "",
 	city      : "Hawthorne",
 	zip       : "90250",
@@ -98764,10 +98764,10 @@ var locations = [
 },
 
 {
-	latitude  : "33.936324",
-	longitude : "-118.112364",
+	latitude  : "33.937697",
+	longitude : "-118.112213",
 	name      : "Rio San Gabriel (Downey Family YMCA)",
-	address_1 : "9338 Gotham St",
+	address_1 : "9338 Gotham Street",
 	address_2 : "",
 	city      : "Downey",
 	zip       : "90241",
@@ -98845,10 +98845,10 @@ var locations = [
 },
 
 {
-	latitude  : "34.136344",
-	longitude : "-118.258782",
+	latitude  : "34.1364105",
+	longitude : "-118.2589307",
 	name      : "Salvation Army-Glendale",
-	address_1 : "320 W. Windsor Rd",
+	address_1 : "320 West Windsor Road",
 	address_2 : "",
 	city      : "Glendale",
 	zip       : "91204",
@@ -98926,10 +98926,10 @@ var locations = [
 },
 
 {
-	latitude  : "33.969836",
-	longitude : "-118.256757",
+	latitude  : "33.9700567",
+	longitude : "-118.2565698",
 	name      : "Salvation Army South LA",
-	address_1 : "7651 S. Central Ave",
+	address_1 : "7651 South Central Avenue",
 	address_2 : "",
 	city      : "Los Angeles",
 	zip       : "90001",
@@ -99007,10 +99007,10 @@ var locations = [
 },
 
 {
-	latitude  : "34.041461",
-	longitude : "-118.220134",
+	latitude  : "34.1020094",
+	longitude : "-118.3194242",
 	name      : "Salvation Army Weingart Youth Center",
-	address_1 : "501 S Boyle Ave",
+	address_1 : "5941 Hollywood Boulevard",
 	address_2 : "",
 	city      : "Los Angeles",
 	zip       : "90028",
@@ -99088,10 +99088,10 @@ var locations = [
 },
 
 {
-	latitude  : "34.050765",
-	longitude : "-118.280059",
+	latitude  : "33.7357394",
+	longitude : "-118.2929497",
 	name      : "San Pedro Library",
-	address_1 : "1030 S Alvarado Street",
+	address_1 : "931 South Gaffey Street",
 	address_2 : "",
 	city      : "Los Angeles",
 	zip       : "90731",
@@ -99169,10 +99169,10 @@ var locations = [
 },
 
 {
-	latitude  : "34.012448",
-	longitude : "-118.469628",
+	latitude  : "34.0132786",
+	longitude : "-118.4695619",
 	name      : "Santa Monica- JAMS",
-	address_1 : "2441 16th Street",
+	address_1 : "2425 16th Street",
 	address_2 : "",
 	city      : "Santa Monica",
 	zip       : "90405",
@@ -99253,7 +99253,7 @@ var locations = [
 	latitude  : "34.040728",
 	longitude : "-118.24673",
 	name      : "School on Wheels",
-	address_1 : "600 E 7th St Ste 109",
+	address_1 : "600 East 7th Street, Ste 109",
 	address_2 : "",
 	city      : "Los Angeles",
 	zip       : "90021",
@@ -99331,10 +99331,10 @@ var locations = [
 },
 
 {
-	latitude  : "34.274891",
-	longitude : "-118.412957",
-	name      : "SF Valley BGC",
-	address_1 : "11251 Glenoaks Blvd",
+	latitude  : "34.2743645",
+	longitude : "-118.4131712",
+	name      : "SF Valley Boys & Girls Club",
+	address_1 : "11251 Glenoaks Boulevard",
 	address_2 : "",
 	city      : "Pacoima",
 	zip       : "91331",
@@ -99412,12 +99412,12 @@ var locations = [
 },
 
 {
-	latitude  : "33.895607",
-	longitude : "-118.215201",
+	latitude  : "33.8944697",
+	longitude : "-118.2613875",
 	name      : "St. Albert the Great School",
-	address_1 : "736 E. Compton Blvd",
+	address_1 : "804 East Compton Boulevard",
 	address_2 : "",
-	city      : "Compton",
+	city      : "West Rancho Dominguez",
 	zip       : "90220",
 	category  : "Summer Lunch",
 	website   : "https://www.lafoodbank.org/sfsp/",
@@ -99493,10 +99493,10 @@ var locations = [
 },
 
 {
-	latitude  : "34.046444",
-	longitude : "-118.298835",
+	latitude  : "34.04513439999999",
+	longitude : "-118.2990262",
 	name      : "St. Thomas the Apostle School",
-	address_1 : "St. Thomas the Apostle School",
+	address_1 : "2632 West 15th Street",
 	address_2 : "",
 	city      : "Los Angeles",
 	zip       : "90006",
@@ -99574,13 +99574,13 @@ var locations = [
 },
 
 {
-	latitude  : "34.026196",
-	longitude : "-118.250417",
+	latitude  : "34.027191",
+	longitude : "-118.248824",
 	name      : "St. Turibius School",
 	address_1 : "1524 Essex Street",
 	address_2 : "",
 	city      : "Los Angeles",
-	zip       : "93550",
+	zip       : "90021",
 	category  : "Summer Lunch",
 	website   : "https://www.lafoodbank.org/sfsp/",
 	phone     : "Ann Olmos, Juana Gomez / 213.749.8894",
@@ -99655,13 +99655,13 @@ var locations = [
 },
 
 {
-	latitude  : "34.102063",
-	longitude : "-118.319438",
+	latitude  : "34.1020094",
+	longitude : "-118.3194242",
 	name      : "The Salvation Army Compton Corps Community",
-	address_1 : "5941 Hollywood Blvd",
+	address_1 : "5941 Hollywood Boulevard",
 	address_2 : "",
 	city      : "Los Angeles",
-	zip       : "90221",
+	zip       : "90028",
 	category  : "Summer Lunch",
 	website   : "https://www.lafoodbank.org/sfsp/",
 	phone     : "Steven Wimberly Jr./310.639.0362",
@@ -99736,10 +99736,10 @@ var locations = [
 },
 
 {
-	latitude  : "34.584057",
-	longitude : "-118.108859",
+	latitude  : "34.5841119",
+	longitude : "-118.1088617",
 	name      : "Twin Palms Family Apartments",
-	address_1 : "1105 East Avenue Q4",
+	address_1 : "1105 E Avenue Q4",
 	address_2 : "",
 	city      : "Palmdale",
 	zip       : "93550",
@@ -99817,13 +99817,13 @@ var locations = [
 },
 
 {
-	latitude  : "33.735365",
-	longitude : "-118.292349",
+	latitude  : "33.7357394",
+	longitude : "-118.2929497",
 	name      : "Vermont Square Library",
-	address_1 : "931 S Gaffey",
+	address_1 : "931 South Gaffey Street",
 	address_2 : "",
-	city      : "San Pedro",
-	zip       : "90037",
+	city      : "Los Angeles",
+	zip       : "90731",
 	category  : "Summer Lunch",
 	website   : "https://www.lafoodbank.org/sfsp/",
 	phone     : "Martha Sherod / Staff:323.290.7406 / Main: 323.290.7405",
@@ -99898,13 +99898,13 @@ var locations = [
 },
 
 {
-	latitude  : "33.99961",
-	longitude : "-118.295884",
+	latitude  : "33.999846",
+	longitude : "-118.2959017",
 	name      : "Vernon Library",
-	address_1 : "1201 W 48th Street",
+	address_1 : "1201 West 48th Street",
 	address_2 : "",
 	city      : "Los Angeles",
-	zip       : "90011",
+	zip       : "90037",
 	category  : "Summer Lunch",
 	website   : "https://www.lafoodbank.org/sfsp/",
 	phone     : "Ana Campos, Corinda Humphrey / 323.234.9107",
@@ -99979,12 +99979,12 @@ var locations = [
 },
 
 {
-	latitude  : "34.202317",
-	longitude : "-118.600627",
-	name      : "West Valley BGC",
-	address_1 : "7245 Remmet Ave",
+	latitude  : "34.2024553",
+	longitude : "-118.6004325",
+	name      : "West Valley Boys & Girls Club",
+	address_1 : "7245 Remmet Avenue",
 	address_2 : "",
-	city      : "Canoga Park",
+	city      : "Los Angeles",
 	zip       : "91303",
 	category  : "Summer Lunch",
 	website   : "https://www.lafoodbank.org/sfsp/",
@@ -100060,10 +100060,10 @@ var locations = [
 },
 
 {
-	latitude  : "33.964211",
-	longitude : "-118.038604",
-	name      : "Whittier BGC",
-	address_1 : "7905 S. Greenleaf Ave",
+	latitude  : "33.969803",
+	longitude : "-118.037795",
+	name      : "Whittier Boys & Girls Club",
+	address_1 : "7905 South Greenleaf Avenue",
 	address_2 : "",
 	city      : "Whittier",
 	zip       : "90602",
@@ -100141,10 +100141,10 @@ var locations = [
 },
 
 {
-	latitude  : "34.016769",
-	longitude : "-118.179274",
+	latitude  : "34.0166993",
+	longitude : "-118.1795315",
 	name      : "YWCA-GLA Union Pacific Empowerment Center",
-	address_1 : "4315 Union Pacific Ave",
+	address_1 : "4315 Union Pacific Avenue",
 	address_2 : "",
 	city      : "Los Angeles",
 	zip       : "90023",
