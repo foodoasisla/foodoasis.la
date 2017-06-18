@@ -212,7 +212,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<li class="filter"><a href="/filters/" id="filters-link">Filter</a></li>
 	<li class="search">
 		<a href="/search/" id="search-link">
-			<img src="/assets/images/icons/search-black.svg" width="50" style="height: 1.5em; width: auto;" alt="Search" />
+			<img src="/assets/images/icons/search-black.svg" width="50" alt="Search" />
 			<span id="search-type">Farmers’ Markets</span> <span id="search-near">near</span> <em id="search-location" style="font-style: normal;">Los Angeles</em>
 		</a>
 	</li>
@@ -303,6 +303,9 @@ var updateLink;
 </script>
 
 	</nav>
+	<nav class="secondary-nav back-nav" style="display: none;">
+		<p class="back"><a href="/locations/"><img src="/assets/images/icons/back.svg" /> <span>Back to all results</span></a></p>
+	</nav>
 	
 
 	
@@ -318,7 +321,9 @@ var updateLink;
 	
 
 	<main>
-		<ul class="location-list">
+		<h2><a href="#list-results" id="list-results-title">List Results</a></h2>
+
+<ul class="location-list" id="list-results">
 	
 
 		
@@ -827,6 +832,10 @@ var updateLink;
 	<div class="you-are-here"><span>You are here</span></div>
 </script>
 
+<script type="text/template" id="search-this-area-template">
+	<p class="action search-this-area"><a href="">Search this area</a></p>
+</script>
+
 <script type="text/template" id="list-item-template">
 	<a href="" class="location-summary">
 		<img src="" alt="" />
@@ -839,6 +848,12 @@ var updateLink;
 </script>
 
 <script type="text/template" id="list-item-template-detailed">
+	<p class="action" style="text-align: center; font-size: 0.75em; margin-top: -0.375rem; margin-bottom: 0; display: none;">
+		<button type="button" onclick="event.preventDefault(); if (window.oasis.hideLocationSummary) { window.oasis.hideLocationSummary(); }">
+			Close
+		</button>
+	</p>
+
 	<a href="" class="location-summary">
 		<img src="" alt="" />
 		<h2></h2>
