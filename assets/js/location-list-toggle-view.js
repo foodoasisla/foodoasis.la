@@ -3,15 +3,15 @@
 window.oasis = window.oasis || {};
 
 // Toggle between the map and list views
-(function() {
+(function () {
 
-	let views = document.getElementById('search-views');
-	let template = document.getElementById('search-views-template');
+	var views = document.getElementById('search-views');
+	var template = document.getElementById('search-views-template');
 	views.insertAdjacentHTML('beforeend', template.innerHTML);
 
-	let mapButton = document.getElementById('map-button');
-	let listButton = document.getElementById('list-button');
-	let title = document.getElementById('list-results-title');
+	var mapButton = document.getElementById('map-button');
+	var listButton = document.getElementById('list-button');
+	var title = document.getElementById('list-results-title');
 
 	function showMap() {
 		mapButton.style.display = "none";
@@ -60,7 +60,7 @@ window.oasis = window.oasis || {};
 
 	showList();
 
-	window.oasis.showMap  = showMap;
+	window.oasis.showMap = showMap;
 	window.oasis.showList = showList;
 	window.oasis.hideToggleButtons = hideToggleButtons;
 })();

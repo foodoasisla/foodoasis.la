@@ -2,15 +2,15 @@
 
 window.oasis = window.oasis || {};
 
-(function() {
+(function () {
 
 	function toggleDetailsOnPress(element, elementID) {
 		// Hide the details until the link is pressed
-		let link = element.querySelector('a[href="#' + elementID + '"]');
-		let details = element.querySelector('#' + elementID);
+		var link = element.querySelector('a[href="#' + elementID + '"]');
+		var details = element.querySelector('#' + elementID);
 		if (link && details) {
 			details.classList.add('inactive');
-			link.addEventListener('click', function(e) {
+			link.addEventListener('click', function (e) {
 				details.classList.remove('inactive');
 				details.classList.add('active');
 				e.preventDefault();
@@ -21,8 +21,8 @@ window.oasis = window.oasis || {};
 	}
 
 	function addDataAttribute(element, data, attribute) {
-		let dt = element.querySelector('dt.' + attribute);
-		let dd = element.querySelector('dd.' + attribute);
+		var dt = element.querySelector('dt.' + attribute);
+		var dd = element.querySelector('dd.' + attribute);
 		if (data[attribute]) {
 			if (attribute === 'website') {
 				dd.innerHTML = '<a href="' + data[attribute] + '">' + data[attribute] + '</a>';
@@ -35,29 +35,30 @@ window.oasis = window.oasis || {};
 		}
 	}
 
-	function formatTime(timeString) { // Example: 1430 ==> 2:30pm; 0900 ==> 9:00am
-		let hours   = Number(timeString.substring(0, timeString.length - 2));
-		let minutes = timeString.substring(timeString.length - 2);
-		let ampm = 'am';
+	function formatTime(timeString) {
+		// Example: 1430 ==> 2:30pm; 0900 ==> 9:00am
+		var hours = Number(timeString.substring(0, timeString.length - 2));
+		var minutes = timeString.substring(timeString.length - 2);
+		var ampm = 'am';
 		if (hours >= 12 && hours < 24) {
 			ampm = 'pm';
 		}
 		if (hours >= 13) {
 			hours = hours - 12;
 		}
-		return hours + ((minutes != '00') ? ":" + minutes : '') + ampm;
+		return hours + (minutes != '00' ? ":" + minutes : '') + ampm;
 	}
 
 	function createListItem(data, containerTagName, detailed) {
 
-		let template = document.getElementById('list-item-template' + ((detailed) ? '-detailed' : ''));
+		var template = document.getElementById('list-item-template' + (detailed ? '-detailed' : ''));
 		if (template) {
-			let element = document.createElement(containerTagName);
-			let category = data.category.toLowerCase().replace(/\s/g, '-'); // Example: farmers-market
+			var element = document.createElement(containerTagName);
+			var category = data.category.toLowerCase().replace(/\s/g, '-'); // Example: farmers-market
 			element.innerHTML = template.innerHTML;
 			element.className = category;
 
-			switch(category) {
+			switch (category) {
 				case 'supermarket':
 				case 'restaurant':
 				case 'pop-up-market':
@@ -76,27 +77,27 @@ window.oasis = window.oasis || {};
 			}
 
 			// Name
-			let nameElement = element.querySelector('h2');
+			var nameElement = element.querySelector('h2');
 			nameElement.textContent = data.name;
 
-			let params = [];
+			var params = [];
 			if (PAGE_PARAMETERS.type) params.push('type=' + PAGE_PARAMETERS.type);
 			if (PAGE_PARAMETERS.address) params.push('address=' + PAGE_PARAMETERS.address);
 			if (PAGE_PARAMETERS.deserts) params.push('deserts=' + PAGE_PARAMETERS.deserts);
 			if (PAGE_PARAMETERS.open) params.push('open=' + PAGE_PARAMETERS.open);
 
-			let queryString = params.join('&');
+			var queryString = params.join('&');
 
-			let link = element.querySelector('a');
+			var link = element.querySelector('a');
 			link.setAttribute('href', data.uri + '?' + queryString);
-			link.addEventListener('click', function(e) {
+			link.addEventListener('click', function (e) {
 
 				// If the user wants to open the link in a new window, let the browser handle it.
 				if (e && (e.shiftKey || e.ctrlKey || e.altKey || e.metaKey)) return;
 
 				if (!detailed) {
 					// Pretend that a map point was clicked
-					let success = window.oasis.simulateMapPointClick(data);
+					var success = window.oasis.simulateMapPointClick(data);
 
 					if (success) {
 						// Scroll to the top of the page, since the page content has changed.
@@ -107,39 +108,32 @@ window.oasis = window.oasis || {};
 			}, false);
 
 			// Category (Type)
-			let typeElement = element.querySelector('.type');
+			var typeElement = element.querySelector('.type');
 			typeElement.textContent = data.category;
-			let img = element.querySelector('.location-summary img');
+			var img = element.querySelector('.location-summary img');
 
 			// SHIM: Should we handle this in the CSS instead?
-			if (category == 'food-pantry' ||
-				category == 'summer-lunch' ||
-				category == 'community-garden' ||
-				category == 'farmers-market' ||
-				category == 'supermarket' ||
-				category == 'restaurant' ||
-				category == 'orchard' ||
-				category == 'pop-up-market') {
+			if (category == 'food-pantry' || category == 'summer-lunch' || category == 'community-garden' || category == 'farmers-market' || category == 'supermarket' || category == 'restaurant' || category == 'orchard' || category == 'pop-up-market') {
 				img.src = "/assets/images/home/" + category + ".svg";
 			} else {
 				img.src = "/assets/images/home/restaurant.svg";
 			}
 
 			// Address
-			let address = data.address_1;
+			var address = data.address_1;
 			if (data.address_2 && data.address_2 != '') address += '<br />' + data.address_2;
 			if (detailed) address += '<br />' + data.city + ', California ' + data.zip;
 			element.querySelector('.address').innerHTML = address;
 
 			// Open Now
-			let open = false;
-			for (let index = 0; index < data.hours.length; index++) {
+			var open = false;
+			for (var index = 0; index < data.hours.length; index++) {
 				if (window.oasis.isOpenNow(data.hours[index])) {
 					open = true;
 				}
 			}
 			if (!open) {
-				let openNowElement = element.querySelector('.open');
+				var openNowElement = element.querySelector('.open');
 				openNowElement.parentNode.removeChild(openNowElement);
 			}
 
@@ -155,16 +149,14 @@ window.oasis = window.oasis || {};
 
 				element.querySelector('.shareable-link input').value = 'https://foodoasis.la' + data.uri;
 
-				let directionsPasteable = 
-				data.name      + '\r\n' +
-				data.address_1 + '\r\n';
+				var directionsPasteable = data.name + '\r\n' + data.address_1 + '\r\n';
 				if (data.address_2 && data.address_2 !== '') {
 					directionsPasteable += data.address_2 + '\r\n';
 				}
 				directionsPasteable += data.city + ', California ' + data.zip;
 				element.querySelector('.directions textarea').value = directionsPasteable;
 
-				let directionsURL = data.latitude + ',' + data.longitude + ',' + data.name + ' ' + data.address_1;
+				var directionsURL = data.latitude + ',' + data.longitude + ',' + data.name + ' ' + data.address_1;
 				if (data.address_2 && data.address_2 !== '') {
 					directionsURL += ' ' + data.address_2;
 				}
@@ -179,16 +171,16 @@ window.oasis = window.oasis || {};
 					element.querySelector('.dates').parentNode.removeChild(element.querySelector('.dates'));
 				}
 
-				let hoursHTML = '';
-				let dt;
-				let dd;
+				var hoursHTML = '';
+				var dt = void 0;
+				var dd = void 0;
 
-				for (let index = 0; index < data.hours.length; index++) {
+				for (var _index = 0; _index < data.hours.length; _index++) {
 
 					dt = document.createElement('dt');
-					dt.innerHTML = data.hours[index].day;
+					dt.innerHTML = data.hours[_index].day;
 
-					switch (data.hours[index].day.trim().toLowerCase()) {
+					switch (data.hours[_index].day.trim().toLowerCase()) {
 						case 'mon':
 							dt.innerHTML = 'Monday';
 							break;
@@ -215,10 +207,10 @@ window.oasis = window.oasis || {};
 					element.querySelector('.hours dl').appendChild(dt);
 
 					dd = document.createElement('dd');
-					dd.innerHTML = data.hours[index].open === '' ? '<i>Closed</i>' : '<span>' + formatTime(data.hours[index].open) + ' – ' + formatTime(data.hours[index].close) + '</span>';
+					dd.innerHTML = data.hours[_index].open === '' ? '<i>Closed</i>' : '<span>' + formatTime(data.hours[_index].open) + ' – ' + formatTime(data.hours[_index].close) + '</span>';
 					element.querySelector('.hours dl').appendChild(dd);
 
-					if (window.oasis.isOpenNow(data.hours[index])) {
+					if (window.oasis.isOpenNow(data.hours[_index])) {
 						dt.className = 'open';
 						dd.className = 'open';
 						dd.innerHTML = dd.innerHTML + ' <i>Open Now</i>';
@@ -241,21 +233,21 @@ window.oasis = window.oasis || {};
 		}
 	}
 
-	let sortedLocations;
+	var sortedLocations = void 0;
 	function addListItems(locations) {
 		sortedLocations = locations;
-		let limit = window.oasis.getParameterByName('limit') || itemsPerPage;
+		var limit = window.oasis.getParameterByName('limit') || itemsPerPage;
 		if (!limit) {
 			limit = 10;
 		}
 		limit = Number(limit);
-		let start = window.listOffset || 0;
+		var start = window.listOffset || 0;
 		limit += start;
 		if (limit >= sortedLocations.length) limit = locations.length;
-		let list = document.querySelector('ul.location-list');
+		var list = document.querySelector('ul.location-list');
 
-		let limitedList = sortedLocations.slice(start, start + limit + 1);
-		limitedList.sort(function(a, b) {
+		var limitedList = sortedLocations.slice(start, start + limit + 1);
+		limitedList.sort(function (a, b) {
 			if (a.travelDistance > b.travelDistance) {
 				return 1;
 			}
@@ -268,16 +260,16 @@ window.oasis = window.oasis || {};
 
 		if (list) {
 			list.innerHTML = '';
-			for (let index = 0; index < limitedList.length; index++) {
+			for (var index = 0; index < limitedList.length; index++) {
 				list.appendChild(createListItem(limitedList[index], 'li'));
 			}
 		}
 
 		if (sortedLocations.length < 1) {
-			let template = document.getElementById('no-results-template');
-			let map = document.getElementById('map');
+			var template = document.getElementById('no-results-template');
+			var map = document.getElementById('map');
 			if (template && map) {
-				let div = document.createElement('div');
+				var div = document.createElement('div');
 				div.innerHTML = template.innerHTML;
 				map.parentNode.insertBefore(div, map);
 			}

@@ -73,18 +73,18 @@
       // for old version of IE we need to use the msDoNotTrack property of navigator
       // on newer versions, and newer platforms, this is doNotTrack but, on the window object
       // Safari also exposes the property on the window object.
-      let dntStatus = dnt || navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack;
-      let ua = userAgent || navigator.userAgent;
+      var dntStatus = dnt || navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack;
+      var ua = userAgent || navigator.userAgent;
 
       // List of Windows versions known to not implement DNT according to the standard.
-      let anomalousWinVersions = ['Windows NT 6.1', 'Windows NT 6.2', 'Windows NT 6.3'];
+      var anomalousWinVersions = ['Windows NT 6.1', 'Windows NT 6.2', 'Windows NT 6.3'];
 
-      let fxMatch = ua.match(/Firefox\/(\d+)/);
-      let ieRegEx = /MSIE|Trident/i;
-      let isIE = ieRegEx.test(ua);
+      var fxMatch = ua.match(/Firefox\/(\d+)/);
+      var ieRegEx = /MSIE|Trident/i;
+      var isIE = ieRegEx.test(ua);
       // Matches from Windows up to the first occurance of ; un-greedily
       // http://www.regexr.com/3c2el
-      let platform = ua.match(/Windows.+?(?=;)/g);
+      var platform = ua.match(/Windows.+?(?=;)/g);
 
       // With old versions of IE, DNT did not exist so we simply return false;
       if (isIE && typeof Array.prototype.indexOf !== 'function') {
@@ -259,8 +259,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>
 function toggleDetailsOnPress(elementID) {
 	// Hide the details until the link is pressed
-	let link = document.querySelector('a[href="#' + elementID + '"]');
-	let details = document.getElementById(elementID);
+	var link = document.querySelector('a[href="#' + elementID + '"]');
+	var details = document.getElementById(elementID);
 	if (link && details) {
 		details.classList.add('inactive');
 		link.addEventListener('click', function(e) {
@@ -413,12 +413,7 @@ toggleDetailsOnPress('directions');
 </script>
 
 <script>
-// FOLA’s Mapbox API key
-const MAP_ACCESS_TOKEN = 'pk.eyJ1IjoiZm9vZG9hc2lzbGEiLCJhIjoiY2l0ZjdudnN4MDhpYzJvbXlpb3IyOHg2OSJ9.POBdqXF5EIsGwfEzCm8Y3Q';
-
-const MAP_STYLE = 'mapbox://styles/mapbox/basic-v9';
-
-let LOCATION_DETAILS = {
+var LOCATION_DETAILS = {
 	latitude: 34.045502,
 	longitude: -118.236677
 }

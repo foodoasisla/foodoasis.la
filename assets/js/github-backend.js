@@ -5,32 +5,33 @@
 // Gatekeeper hosted at https://jimchat-learntocode.herokuapp.com/
 
 // For testing, we'll use this as the master repo:
-const GITHUB_REPO = 'site';
-const GITHUB_OWNER = 'foodoasisla';
-const GATEKEEPER_URL = 'https://foodoasisla-gatekeeper.herokuapp.com/authenticate/';
+
+var GITHUB_REPO = 'site';
+var GITHUB_OWNER = 'foodoasisla';
+var GATEKEEPER_URL = 'https://foodoasisla-gatekeeper.herokuapp.com/authenticate/';
 
 // VARIABLES FOR CURRENT USER:
-let gitHubAccessToken;	
-let userName;
-let userProfileLink;
-let userPhoto;
-let userForkedRepoName;
-let pullRequestLink;
+var gitHubAccessToken = void 0;
+var userName = void 0;
+var userProfileLink = void 0;
+var userPhoto = void 0;
+var userForkedRepoName = void 0;
+var pullRequestLink = void 0;
 
 // VARIABLES FOR GIT COMMIT PROCESS
-let pullRequestTitle = "Suggesting New Location: "; // for testing!
-let pullRequestBody = '';
-let notesFileSha;
-let newCommitSha;
+var pullRequestTitle = "Suggesting New Location: "; // for testing!
+var pullRequestBody = '';
+var notesFileSha = void 0;
+var newCommitSha = void 0;
 
 // Elements and user input:
-let messageSection = document.getElementById("messageSection");
-let loginSection = document.getElementById("loginSection");
-let inputSection = document.getElementById("inputSection");
-let userNameSpan = document.getElementById("userNameSpan");
+var messageSection = document.getElementById("messageSection");
+var loginSection = document.getElementById("loginSection");
+var inputSection = document.getElementById("inputSection");
+var userNameSpan = document.getElementById("userNameSpan");
 
 // Get the temporary GitHub code from URL params, as in ?code=gitHubTemporaryCodeHere
-let gitHubTemporaryCodeArray = window.location.href.match(/\?code=(.*)/);
+var gitHubTemporaryCodeArray = window.location.href.match(/\?code=(.*)/);
 
 // If code exists (meaning the user clicked the login button, gave access in GitHub, and was redirected):
 if (gitHubTemporaryCodeArray) {
@@ -44,18 +45,16 @@ if (gitHubTemporaryCodeArray) {
 
   // Step 1: Authenticate the user with GitHub
   // (Gatekeeper exchanges temporary code for an access token, using the stored client ID and client secret)
-  get(GATEKEEPER_URL + gitHubTemporaryCodeArray[1])
-  .then(JSON.parse).then(function (authResponse){
+  get(GATEKEEPER_URL + gitHubTemporaryCodeArray[1]).then(JSON.parse).then(function (authResponse) {
     console.log('Authentication response from Gatekeeper:\n');
     console.log(authResponse);
-  
+
     // Save the access token for later API calls!
     gitHubAccessToken = authResponse.token;
 
     // Step 2: Fork the base repo
-    return postWithToken('https://api.github.com/repos/' + GITHUB_OWNER + '/' + GITHUB_REPO + '/forks', {}, gitHubAccessToken)
-  
-  }).then(JSON.parse).then(function (forkResponse){
+    return postWithToken('https://api.github.com/repos/' + GITHUB_OWNER + '/' + GITHUB_REPO + '/forks', {}, gitHubAccessToken);
+  }).then(JSON.parse).then(function (forkResponse) {
     console.log('GitHub response after forking the base repo:\n');
     console.log(forkResponse);
 
@@ -72,34 +71,32 @@ if (gitHubTemporaryCodeArray) {
     userNameSpan.textContent = userName;
     // Display inputSection
     inputSection.classList.remove('hidden');
-
   }).catch(logAndDisplayError);
-
 }
 
 function submitToGitHub(e) {
   e.preventDefault();
 
   // If user hasn't signed in first, notify user to do so before submitting notes!
-  if (!gitHubAccessToken) {    
-  	messageSection.innerHTML = "<p><strong>Please log in with GitHub first! Then you can submit your suggestion.</strong></p>";
-  	return;	// Exit from this function, skipping the code below
+  if (!gitHubAccessToken) {
+    messageSection.innerHTML = "<p><strong>Please log in with GitHub first! Then you can submit your suggestion.</strong></p>";
+    return; // Exit from this function, skipping the code below
   }
 
   // Get user input
-  let userText = document.getElementById("userText").value;
-  let locationTitle = document.getElementById("locationTitle").value;
-  let locationCategory = document.getElementById("locationCategory").value;
-  let locationAddress1 = document.getElementById("locationAddress1").value;
-  let locationAddress2 = document.getElementById("locationAddress2").value;
-  let locationCity = document.getElementById("locationCity").value;
-  let locationZip = document.getElementById("locationZip").value;
-  let locationWebsite = document.getElementById("locationWebsite").value;
-  let locationPhone = document.getElementById("locationPhone").value;
-	
+  var userText = document.getElementById("userText").value;
+  var locationTitle = document.getElementById("locationTitle").value;
+  var locationCategory = document.getElementById("locationCategory").value;
+  var locationAddress1 = document.getElementById("locationAddress1").value;
+  var locationAddress2 = document.getElementById("locationAddress2").value;
+  var locationCity = document.getElementById("locationCity").value;
+  var locationZip = document.getElementById("locationZip").value;
+  var locationWebsite = document.getElementById("locationWebsite").value;
+  var locationPhone = document.getElementById("locationPhone").value;
+
   pullRequestTitle += locationTitle;
-	
-  let folderName = 'locations';
+
+  var folderName = 'locations';
   if (locationCategory && locationCategory != '') {
     folderName = String(locationCategory.replace(/[^a-z0-9]/gi, '-').toLowerCase());
   }
@@ -111,26 +108,25 @@ function submitToGitHub(e) {
 
   // Convert to safe (well, safe ENOUGH for now) file name. ❤️
   // via https://stackoverflow.com/questions/8485027/javascript-url-safe-filename-safe-string  
-  let newFileName = '_' + folderName + '/' + locationTitle.replace(/[^a-z0-9]/gi, '-').toLowerCase() + '.md';
+  var newFileName = '_' + folderName + '/' + locationTitle.replace(/[^a-z0-9]/gi, '-').toLowerCase() + '.md';
 
   // Display loading message
   messageSection.innerHTML = "<p><em>...Loading...</em></p>";
   messageSection.classList.remove('hidden');
 
-  let latitude = '';
-  let longitude = '';
+  var latitude = '';
+  var longitude = '';
 
-  let addressForGeocoding = locationAddress1 + ' ' + locationAddress2 + ' ' + locationCity + ' California ' + locationZip;
+  var addressForGeocoding = locationAddress1 + ' ' + locationAddress2 + ' ' + locationCity + ' California ' + locationZip;
 
   // FOLA’s Mapbox Access Token
-  let MAP_ACCESS_TOKEN = 'pk.eyJ1IjoiZm9vZG9hc2lzbGEiLCJhIjoiY2l0ZjdudnN4MDhpYzJvbXlpb3IyOHg2OSJ9.POBdqXF5EIsGwfEzCm8Y3Q';
+  var MAP_ACCESS_TOKEN = 'pk.eyJ1IjoiZm9vZG9hc2lzbGEiLCJhIjoiY2l0ZjdudnN4MDhpYzJvbXlpb3IyOHg2OSJ9.POBdqXF5EIsGwfEzCm8Y3Q';
 
-  let MAPBOX_URL = 'https://api.mapbox.com/geocoding/v5/mapbox.places/' + encodeURIComponent(addressForGeocoding) + '.json?limit=1&access_token=' + MAP_ACCESS_TOKEN;
+  var MAPBOX_URL = 'https://api.mapbox.com/geocoding/v5/mapbox.places/' + encodeURIComponent(addressForGeocoding) + '.json?limit=1&access_token=' + MAP_ACCESS_TOKEN;
 
-  get(MAPBOX_URL)
-  .then(JSON.parse).then(function (mapboxResponse){
+  get(MAPBOX_URL).then(JSON.parse).then(function (mapboxResponse) {
     longitude = mapboxResponse.features[0].center[0];
-    latitude  = mapboxResponse.features[0].center[1];
+    latitude = mapboxResponse.features[0].center[1];
     doTheRest();
   }).catch(logAndDisplayError);
 
@@ -145,71 +141,50 @@ function submitToGitHub(e) {
    });
    */
 
-function doTheRest() {
+  function doTheRest() {
 
-  // Create and format content for new file with user input
-  let fileContents =
-  '---' + '\r\n' + 
-  'name: ' + locationTitle + '\r\n' + 
-  'address_1: ' + locationAddress1 + '\r\n' + 
-  'address_2: ' + locationAddress2 + '\r\n' + 
-  'city: ' + locationCity + '\r\n' + 
-  'state: CA' + '\r\n' + 
-  'zip: ' + locationZip + '\r\n' + 
-  'latitude: ' + latitude + '\r\n' + 
-  'longitude: ' + longitude + '\r\n' + 
-  'category: ' + locationCategory + '\r\n' + 
-  'website: ' + locationWebsite + '\r\n' + 
-  'phone: ' + locationPhone + '\r\n' + 
-  'title: ' + locationTitle + ', Food Oasis Los Angeles' + '\r\n' + 
-  'uri: ' + '/' + folderName + '/' + locationTitle.replace(/[^a-z0-9]/gi, '-').toLowerCase() + '/' + '\r\n' + 
-  '---' + '\r\n' + 
-  userText + '\r\n';
+    // Create and format content for new file with user input
+    var fileContents = '---' + '\r\n' + 'name: ' + locationTitle + '\r\n' + 'address_1: ' + locationAddress1 + '\r\n' + 'address_2: ' + locationAddress2 + '\r\n' + 'city: ' + locationCity + '\r\n' + 'state: CA' + '\r\n' + 'zip: ' + locationZip + '\r\n' + 'latitude: ' + latitude + '\r\n' + 'longitude: ' + longitude + '\r\n' + 'category: ' + locationCategory + '\r\n' + 'website: ' + locationWebsite + '\r\n' + 'phone: ' + locationPhone + '\r\n' + 'title: ' + locationTitle + ', Food Oasis Los Angeles' + '\r\n' + 'uri: ' + '/' + folderName + '/' + locationTitle.replace(/[^a-z0-9]/gi, '-').toLowerCase() + '/' + '\r\n' + '---' + '\r\n' + userText + '\r\n';
 
-  // Encode into base64, and convert the string to ASCII
-  // https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/btoa#Unicode_strings
-  fileContents = window.btoa(unescape(encodeURIComponent(fileContents)));
-  
-  let updateFileData = {"path": newFileName, "message": pullRequestTitle, "content": fileContents};      
+    // Encode into base64, and convert the string to ASCII
+    // https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/btoa#Unicode_strings
+    fileContents = window.btoa(unescape(encodeURIComponent(fileContents)));
 
-  // Step 3: Commit to the repo, creating new file
-  postWithToken('https://api.github.com/repos/' + userName + '/' + userForkedRepoName + '/contents/' + newFileName, updateFileData, gitHubAccessToken, "PUT")
-  .then(JSON.parse).then(function (updateResponse){
-    console.log('GitHub response after creating the file:\n');
-    console.log(updateResponse);
-    
-    // Step 4: Create a new pull request
-    let pullRequestData = {"title": pullRequestTitle, "body": pullRequestBody, "base": "master", "head": userName + ":master"};
-    return postWithToken('https://api.github.com/repos/' + GITHUB_OWNER + '/' + GITHUB_REPO + '/pulls', pullRequestData, gitHubAccessToken);
+    var updateFileData = { "path": newFileName, "message": pullRequestTitle, "content": fileContents };
 
-  }).then(JSON.parse).then(function (pullResponse){
-    console.log('GitHub response after creating the pull request:\n');
-    console.log(pullResponse);
-    
-    // If a new pull request was successfully created, save its public link
-    if (pullResponse.html_url) {
-      pullRequestLink = pullResponse.html_url;
-    }
+    // Step 3: Commit to the repo, creating new file
+    postWithToken('https://api.github.com/repos/' + userName + '/' + userForkedRepoName + '/contents/' + newFileName, updateFileData, gitHubAccessToken, "PUT").then(JSON.parse).then(function (updateResponse) {
+      console.log('GitHub response after creating the file:\n');
+      console.log(updateResponse);
 
-    // Step 5: Display success message with link to pull request
-    messageSection.classList.remove('hidden');
-  	messageSection.innerHTML = '<h1>Thanks! Your suggestion has been submitted!</h1><p><a href="' + pullRequestLink + '">View your suggestion on GitHub here!</a><br />Once approved, your suggestion will appear on our map.</p>';    
+      // Step 4: Create a new pull request
+      var pullRequestData = { "title": pullRequestTitle, "body": pullRequestBody, "base": "master", "head": userName + ":master" };
+      return postWithToken('https://api.github.com/repos/' + GITHUB_OWNER + '/' + GITHUB_REPO + '/pulls', pullRequestData, gitHubAccessToken);
+    }).then(JSON.parse).then(function (pullResponse) {
+      console.log('GitHub response after creating the pull request:\n');
+      console.log(pullResponse);
 
-    // TODO: Prevent "pull request already exists" error?
+      // If a new pull request was successfully created, save its public link
+      if (pullResponse.html_url) {
+        pullRequestLink = pullResponse.html_url;
+      }
 
-  }).catch(logAndDisplayError); // Log error to console and display on the web page too
+      // Step 5: Display success message with link to pull request
+      messageSection.classList.remove('hidden');
+      messageSection.innerHTML = '<h1>Thanks! Your suggestion has been submitted!</h1><p><a href="' + pullRequestLink + '">View your suggestion on GitHub here!</a><br />Once approved, your suggestion will appear on our map.</p>';
 
-}
-
+      // TODO: Prevent "pull request already exists" error?
+    }).catch(logAndDisplayError); // Log error to console and display on the web page too
+  }
 } // end of submitToGitHub function
 
 // When user clicks "submit" button, post to GitHub!
 document.getElementById('addForm').addEventListener('submit', submitToGitHub);
 
-function logAndDisplayError (errorMessage) {
-	console.log(errorMessage);
+function logAndDisplayError(errorMessage) {
+  console.log(errorMessage);
   messageSection.classList.remove('hidden');
-	messageSection.innerHTML = '<p><strong>' + errorMessage + '</strong></p><p class="action"><a href="/add/">Start Over</a></p>';
+  messageSection.innerHTML = '<p><strong>' + errorMessage + '</strong></p><p class="action"><a href="/add/">Start Over</a></p>';
 }
 
 /* -------------------------------------------------
@@ -219,16 +194,13 @@ function logAndDisplayError (errorMessage) {
 // Returns a promise, as a simple wrapper around XMLHTTPRequest
 // via http://eloquentjavascript.net/17_http.html
 function get(url) {
-  return new Promise(function(succeed, fail) {
-    let req = new XMLHttpRequest();
+  return new Promise(function (succeed, fail) {
+    var req = new XMLHttpRequest();
     req.open("GET", url, true);
-    req.addEventListener("load", function() {
-      if (req.status < 400)
-        succeed(req.responseText);
-      else
-        fail(new Error("Request failed: " + req.statusText));
+    req.addEventListener("load", function () {
+      if (req.status < 400) succeed(req.responseText);else fail(new Error("Request failed: " + req.statusText));
     });
-    req.addEventListener("error", function() {
+    req.addEventListener("error", function () {
       fail(new Error("Network error"));
     });
     req.send(null);
@@ -236,19 +208,16 @@ function get(url) {
 }
 
 function getWithCustomHeader(url, customHeader) {
-  return new Promise(function(succeed, fail) {
-    let req = new XMLHttpRequest();
+  return new Promise(function (succeed, fail) {
+    var req = new XMLHttpRequest();
     req.open("GET", url, true);
-    
+
     req.setRequestHeader('Accept', 'application/vnd.github.v3.html');
 
-    req.addEventListener("load", function() {
-      if (req.status < 400)
-        succeed(req.responseText);
-      else
-        fail(new Error("Request failed: " + req.statusText));
+    req.addEventListener("load", function () {
+      if (req.status < 400) succeed(req.responseText);else fail(new Error("Request failed: " + req.statusText));
     });
-    req.addEventListener("error", function() {
+    req.addEventListener("error", function () {
       fail(new Error("Network error"));
     });
     req.send(null);
@@ -257,27 +226,27 @@ function getWithCustomHeader(url, customHeader) {
 
 // Returns a promise for a POST request
 function postWithToken(url, postDataObject, accessToken, method) {
-  return new Promise(function(succeed, fail) {
-    let req = new XMLHttpRequest();    
+  return new Promise(function (succeed, fail) {
+    var req = new XMLHttpRequest();
 
     req.open(method || "POST", url, true);
-    
+
     // Set header for POST, like sending form data
     req.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');
     // Set header for GitHub auth
     req.setRequestHeader('Authorization', 'token ' + accessToken);
 
-    req.addEventListener("load", function() {
+    req.addEventListener("load", function () {
       // NOTE: Exception for "A pull request already exists" 422 error!
-      if (req.status < 400 || ( req.status == 422 && JSON.parse(req.responseText).errors[0].message.includes("A pull request already exists") ) ) {
+      if (req.status < 400 || req.status == 422 && JSON.parse(req.responseText).errors[0].message.includes("A pull request already exists")) {
         succeed(req.responseText);
       } else {
         fail(new Error("Request failed: " + req.statusText));
       }
     });
-    req.addEventListener("error", function() {
+    req.addEventListener("error", function () {
       fail(new Error("Network error"));
-    });      
+    });
 
     req.send(JSON.stringify(postDataObject));
   });

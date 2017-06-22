@@ -73,18 +73,18 @@
       // for old version of IE we need to use the msDoNotTrack property of navigator
       // on newer versions, and newer platforms, this is doNotTrack but, on the window object
       // Safari also exposes the property on the window object.
-      let dntStatus = dnt || navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack;
-      let ua = userAgent || navigator.userAgent;
+      var dntStatus = dnt || navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack;
+      var ua = userAgent || navigator.userAgent;
 
       // List of Windows versions known to not implement DNT according to the standard.
-      let anomalousWinVersions = ['Windows NT 6.1', 'Windows NT 6.2', 'Windows NT 6.3'];
+      var anomalousWinVersions = ['Windows NT 6.1', 'Windows NT 6.2', 'Windows NT 6.3'];
 
-      let fxMatch = ua.match(/Firefox\/(\d+)/);
-      let ieRegEx = /MSIE|Trident/i;
-      let isIE = ieRegEx.test(ua);
+      var fxMatch = ua.match(/Firefox\/(\d+)/);
+      var ieRegEx = /MSIE|Trident/i;
+      var isIE = ieRegEx.test(ua);
       // Matches from Windows up to the first occurance of ; un-greedily
       // http://www.regexr.com/3c2el
-      let platform = ua.match(/Windows.+?(?=;)/g);
+      var platform = ua.match(/Windows.+?(?=;)/g);
 
       // With old versions of IE, DNT did not exist so we simply return false;
       if (isIE && typeof Array.prototype.indexOf !== 'function') {
@@ -233,102 +233,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	</script>
 </section>
 
-<script>
-(function() {
-
-	/* OPTIONAL: Show a random image behind the introduction
-	----------------------------------------------- */
-	let images = [
-		'/assets/images/photos/daily-organics/1.jpg',
-		'/assets/images/photos/daily-organics/2.jpg',
-		'/assets/images/photos/santa-monica/1.jpg',
-		'/assets/images/photos/santa-monica/2.jpg',
-		'/assets/images/photos/santa-monica/3.jpg',
-		'/assets/images/photos/santa-monica/4.jpg',
-		'/assets/images/photos/santa-monica/5.jpg',
-		'/assets/images/photos/santa-monica/6.jpg',
-		'/assets/images/photos/santa-monica/7.jpg',
-		'/assets/images/photos/santa-monica/8.jpg',
-		'/assets/images/photos/santa-monica/9.jpg',
-		'/assets/images/photos/santa-monica/10.jpg',
-		'/assets/images/photos/santa-monica/11.jpg',
-		'/assets/images/photos/santa-monica/12.jpg',
-		'/assets/images/photos/santa-monica/13.jpg',
-		'/assets/images/photos/santa-monica/14.jpg',
-		'/assets/images/photos/santa-monica/15.jpg',
-		'/assets/images/photos/santa-monica/16.jpg',
-		'/assets/images/photos/santa-monica/17.jpg'
-	];
-	let min = 0;
-	let max = images.length - 1;
-	let random = Math.floor(Math.random() * (max - min + 1) + min);
-	let introduction = document.querySelector('.introduction');
-	introduction.style.backgroundImage = 'url(' + images[random] + ')';
-
-	let template = document.getElementById('photo-credit-template');
-	introduction.insertAdjacentHTML('beforeend', template.innerHTML);
-	let creditLink = document.querySelector('.photo-credit a');
-
-	let data = {
-		'santa-monica': {
-			url: 'https://www.smgov.net/portals/farmersmarket/',
-			name: 'Santa Monica Farmers’ Market'
-		},
-		'daily-organics': {
-			url: 'https://dailyorganicsla.com',
-			name: 'Daily Organics'
-		}
-	}
-
-	let id = (images[random].indexOf('santa-monica') >= 0) ? 'santa-monica' : 'daily-organics';
-
-	creditLink.textContent = data[id].name;
-	creditLink.href        = data[id].url;
-
-})();
-</script>
-
-<script>
-(function() {
-
-	/* OPTIONAL: Add a class name of “scrolled-up” to the body if the introduction (including the logo) is visible.
-	----------------------------------------------- */
-
-	if (!('addEventListener' in window) || !('scrollY' in window) || !('classList' in document.body)) return; // Do we have the features we need?
-
-	function update(e) {
-		if (window.scrollY < 300) {
-			document.body.classList.add('scrolled-up');
-		} else {
-			document.body.classList.remove('scrolled-up');
-		}
-	}
-
-	update();
-
-	(function() {
-		let throttle;
-		window.addEventListener('scroll', function() {
-			if (throttle) clearTimeout(throttle);
-			throttle = setTimeout(update, 10);
-		}, false);
-	})();
-
-
-	/* OPTIONAL: Handle slow loading content and resizing windows.
-	----------------------------------------------- */
-	window.addEventListener('load', update, false);
-
-	(function() {
-		let throttle;
-		window.addEventListener('resize', function() {
-			if (throttle) clearTimeout(throttle);
-			throttle = setTimeout(update, 100);
-		}, false);
-	})();
-
-})();
-</script>
+<script src="/assets/js/home.js"></script>
 
 	</main>
 

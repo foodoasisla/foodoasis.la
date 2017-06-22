@@ -73,18 +73,18 @@
       // for old version of IE we need to use the msDoNotTrack property of navigator
       // on newer versions, and newer platforms, this is doNotTrack but, on the window object
       // Safari also exposes the property on the window object.
-      let dntStatus = dnt || navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack;
-      let ua = userAgent || navigator.userAgent;
+      var dntStatus = dnt || navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack;
+      var ua = userAgent || navigator.userAgent;
 
       // List of Windows versions known to not implement DNT according to the standard.
-      let anomalousWinVersions = ['Windows NT 6.1', 'Windows NT 6.2', 'Windows NT 6.3'];
+      var anomalousWinVersions = ['Windows NT 6.1', 'Windows NT 6.2', 'Windows NT 6.3'];
 
-      let fxMatch = ua.match(/Firefox\/(\d+)/);
-      let ieRegEx = /MSIE|Trident/i;
-      let isIE = ieRegEx.test(ua);
+      var fxMatch = ua.match(/Firefox\/(\d+)/);
+      var ieRegEx = /MSIE|Trident/i;
+      var isIE = ieRegEx.test(ua);
       // Matches from Windows up to the first occurance of ; un-greedily
       // http://www.regexr.com/3c2el
-      let platform = ua.match(/Windows.+?(?=;)/g);
+      var platform = ua.match(/Windows.+?(?=;)/g);
 
       // With old versions of IE, DNT did not exist so we simply return false;
       if (isIE && typeof Array.prototype.indexOf !== 'function') {
@@ -223,83 +223,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </script>
 
 <script>
-let PAGE_PARAMETERS;
-let getParameterByName;
-let updateLink;
+// SHIM: Support type by parameter, or as part of the URL
+var PAGE_TYPE
 
-(function() {
-	// http://stackoverflow.com/questions/901115/how-can-i-get-query-string-values-in-javascript#answer-901144	
-	getParameterByName = function(name, url) {
-		if (!url) url = window.location.href;
-		name = name.replace(/[\[\]]/g, "\\$&");
-		let regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
-				results = regex.exec(url);
-		if (!results) return null;
-		if (!results[2]) return '';
-		return decodeURIComponent(results[2].replace(/\+/g, " "));
-	}
+PAGE_TYPE = 'supermarket';
 
-	PAGE_PARAMETERS = {
-		type   : getParameterByName('type') || 'supermarket',
-		address: getParameterByName('address'),
-		deserts: getParameterByName('deserts'),
-		open: getParameterByName('open')
-	};
-
-	// SHIM: Make the type persistent
-
-	updateLink = function(link) {
-		let params = [];
-		if (PAGE_PARAMETERS.type) params.push('type=' + PAGE_PARAMETERS.type);
-		if (PAGE_PARAMETERS.address) params.push('address=' + PAGE_PARAMETERS.address);
-		if (PAGE_PARAMETERS.deserts) params.push('deserts=' + PAGE_PARAMETERS.deserts);
-		if (PAGE_PARAMETERS.open) params.push('open=' + PAGE_PARAMETERS.open);
-
-		let queryString = params.join('&');
-		link.setAttribute('href', link.getAttribute('href') + '?' + queryString);
-	}
-
-	if (PAGE_PARAMETERS.type || PAGE_PARAMETERS.address || PAGE_PARAMETERS.deserts || PAGE_PARAMETERS.open) {
-		let filtersLink = document.getElementById('filters-link');
-		if (filtersLink) {
-			updateLink(filtersLink);
-		}
-
-		let searchLink = document.getElementById('search-link');
-		if (searchLink) {
-			updateLink(searchLink);
-		}
-	}
-
-	if (PAGE_PARAMETERS.type) {
-		let types = PAGE_PARAMETERS.type.split('|');
-
-		let searchType = document.getElementById('search-type');
-		let near = document.getElementById('search-near');
-
-		if (types.length === 1 || types.length === 2) {
-			// SHIM: Translate to a human readable version of the “type”.
-			let formattedTypes = [];
-			for (let index = 0; index < types.length; index++) {
-				formattedTypes.push(
-					(types[index] === 'food-pantry') ? 'food pantries' : 
-					(types[index] === 'summer-lunch') ? 'summer lunch for kids' :
-					types[index].replace(/\-/g, ' ') + 's'
-				);
-			}
-			searchType.innerText = formattedTypes.join(', ');
-			searchType.style.textTransform = 'capitalize';
-			//searchType.style.display = 'inline';
-			//near.style.display = 'inline';
-		} else {
-			//searchType.style.display = 'none';
-			//near.style.display = 'none';
-			searchType.innerText = 'Everything';
-			searchType.style.textTransform = 'capitalize';
-		}
-	}
-})();
 </script>
+<script src="/assets/js/location-list-nav.js"></script>
 
 	</nav>
 	<nav class="secondary-nav back-nav" style="display: none;">
@@ -807,7 +737,7 @@ let updateLink;
 	if (PAGE_PARAMETERS.type || PAGE_PARAMETERS.address || PAGE_PARAMETERS.deserts) {
 
 		// SHIM: Pass the query string onto the next page
-		let paginationLink = document.querySelector('.pagination a[href]');
+		var paginationLink = document.querySelector('.pagination a[href]');
 		if (paginationLink) {
 			updateLink(paginationLink);
 		}
@@ -944,109 +874,8 @@ let updateLink;
 </script>
 
 <script>
-// FOLA’s Mapbox API key
-const MAP_ACCESS_TOKEN = 'pk.eyJ1IjoiZm9vZG9hc2lzbGEiLCJhIjoiY2l0ZjdudnN4MDhpYzJvbXlpb3IyOHg2OSJ9.POBdqXF5EIsGwfEzCm8Y3Q';
-
-const MAP_STYLE = 'mapbox://styles/mapbox/basic-v9';
-
-// Los Angeles County boundaries
-let MAP_BOUNDS = [
-	[-119.9442369,32.7089729], // Southwest coordinates
-	[-116.63282912,35.8275538]  // Northeast coordinates
-];
-
-// Define the icons
-let MARKER_OPTIONS = {
-	'Community Garden': {
-		// Specify a class name we can refer to in CSS.
-		className: 'community-garden-marker',
-		// Set marker width and height
-		iconSize: [30, 46],
-		iconAnchor: [15, 40],
-		popupAnchor: [0, -23]
-	},
-	'Farmers Market': {
-		// Specify a class name we can refer to in CSS.
-		className: 'farmers-market-marker',
-		// Set marker width and height
-		iconSize: [30, 46],
-		iconAnchor: [15, 40],
-		popupAnchor: [0, -23]
-	},
-	'Food Pantry': {
-		// Specify a class name we can refer to in CSS.
-		className: 'food-pantry-marker',
-		// Set marker width and height
-		iconSize: [30, 46],
-		iconAnchor: [15, 40],
-		popupAnchor: [0, -23]
-	},
-	'Orchard': {
-		// Specify a class name we can refer to in CSS.
-		className: 'orchard-marker',
-		// Set marker width and height
-		iconSize: [30, 46],
-		iconAnchor: [15, 40],
-		popupAnchor: [0, -23]
-	},
-	'Pop Up Market': {
-		// Specify a class name we can refer to in CSS.
-		className: 'pop-up-market-marker',
-		// Set marker width and height
-		iconSize: [30, 46],
-		iconAnchor: [15, 40],
-		popupAnchor: [0, -23]
-	},
-	'Restaurant': {
-		// Specify a class name we can refer to in CSS.
-		className: 'restaurant-marker',
-		// Set marker width and height
-		iconSize: [30, 46],
-		iconAnchor: [15, 40],
-		popupAnchor: [0, -23]
-	},
-	'Summer Lunch': {
-		// Specify a class name we can refer to in CSS.
-		className: 'summer-lunch-marker',
-		// Set marker width and height
-		iconSize: [30, 46],
-		iconAnchor: [15, 40],
-		popupAnchor: [0, -23]
-	},
-	'Supermarket': {
-		// Specify a class name we can refer to in CSS.
-		className: 'farmers-market-marker',
-		// Set marker width and height
-		iconSize: [30, 46],
-		iconAnchor: [15, 40],
-		popupAnchor: [0, -23]
-	}
-};
-
-let FOOD_DESERTS_SOURCE = {
-	'type': 'vector',
-	'url': 'mapbox://foodoasisla.d040onrj'
-};
-
-let FOOD_DESERTS_LAYER = {
-	'id': 'Food Deserts',
-	'type': 'fill',
-	'source': 'Food Deserts',
-	'layout': {
-		'visibility': 'visible'
-	},
-	'paint': {
-		'fill-color': '#FF0000',
-		'fill-opacity': 0.1
-	},
-	'filter': ["==", "LI LA De_4", "1"],
-	'source-layer': 'USDA_Food_Desert_Tracts_2010-65gavx'
-};
-</script>
-
-<script>
-let itemsPerPage = 20;
-let listOffset = 640;
+var itemsPerPage = 20;
+var listOffset = 640;
 </script>
 
 
@@ -1056,12 +885,12 @@ let listOffset = 640;
 <script>
 (function() {
 
-	let foodSourcesList = document.querySelector('ul.location-list');
+	var foodSourcesList = document.querySelector('ul.location-list');
 	if (foodSourcesList) foodSourcesList.classList.add('sorting');
 
 	// If sorting is taking a long time, show the default list again.
 	setTimeout(function() {
-		let foodSourcesList = document.querySelector('ul.location-list');
+		var foodSourcesList = document.querySelector('ul.location-list');
 		if (foodSourcesList) foodSourcesList.classList.remove('sorting');
 	}, 5000);
 
@@ -1072,22 +901,6 @@ let listOffset = 640;
 <script src="/assets/js/location-list-sort.js"></script>
 <script src="/assets/js/location-list-item.js"></script>
 <script src="/assets/js/location-list-map.js"></script>
-<script>
-(function() {
-
-	window.oasis.createMap();
-
-	window.oasis.findUserLocation(function(userLocation) {
-		let list = window.oasis.sortByClosest(userLocation.latitude, userLocation.longitude);
-		let foodSourcesList = document.querySelector('ul.location-list');
-		if (foodSourcesList) foodSourcesList.classList.remove('sorting');
-		if (document.getElementById('search-location')) document.getElementById('search-location').textContent = userLocation.label;
-		window.oasis.addMarkers(list, userLocation);
-		window.oasis.addListItems(list);
-	});
-
-})();
-</script>
 
 	</main>
 
