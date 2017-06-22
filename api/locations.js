@@ -6976,7 +6976,7 @@ var locations = [
 	uri       : "/farmers-market/santa-monica-downtown/"
 	
 
-	, content   : "   "
+	, content   : "  <p><img src=\"/assets/images/photos/santa-monica/1.jpg\" alt=\"Fruit at the Santa Monica Farmers Market\" /> <img src=\"/assets/images/photos/santa-monica/4.jpg\" alt=\"Vegetables at the Santa Monica Farmers Market\" /> <img src=\"/assets/images/photos/santa-monica/17.jpg\" alt=\"Beans at the Santa Monica Farmers Market\" /></p> "
 	
 },
 
@@ -48144,6 +48144,47 @@ var locations = [
 	
 
 	, content   : "   "
+	
+},
+
+{
+	latitude  : "34.049158",
+	longitude : "-118.239798",
+	name      : "Nijiya Market, Little Tokyo",
+	address_1 : "124 Japanese Village Plaza",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90012",
+	category  : "Supermarket",
+	website   : "http://www.nijiya.com",
+	phone     : "(213) 680-3280",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	season_open   : "",
+	season_close  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/supermarket/nijiya-market-little-tokyo/"
+	
+
+	, content   : "  <h2 id=\"hours\">Hours</h2>  <p>Monday to Sunday, from 9:00am–9:00pm</p> "
 	
 },
 

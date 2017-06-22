@@ -20568,6 +20568,47 @@ var locations = [
 },
 
 {
+	latitude  : "34.049158",
+	longitude : "-118.239798",
+	name      : "Nijiya Market, Little Tokyo",
+	address_1 : "124 Japanese Village Plaza",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90012",
+	category  : "Supermarket",
+	website   : "http://www.nijiya.com",
+	phone     : "(213) 680-3280",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	season_open   : "",
+	season_close  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/supermarket/nijiya-market-little-tokyo/"
+	
+
+	, content   : "  <h2 id=\"hours\">Hours</h2>  <p>Monday to Sunday, from 9:00am–9:00pm</p> "
+	
+},
+
+{
 	latitude  : "33.795871",
 	longitude : "-118.193324",
 	name      : "Northgate Supermarket",

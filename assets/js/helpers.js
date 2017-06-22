@@ -105,9 +105,9 @@ window.oasis = window.oasis || {};
 				var now = new Date();
 				var pacificTime = now.toString().indexOf('(PDT)') >= 0 || now.toString().indexOf('(PST)') >= 0;
 
-				var time = now.toTimeString();
 				var nowSeconds = now.getHours() * 60 * 60 + now.getMinutes() * 60 + now.getSeconds();
 
+				// SHIM: Only proceed if the user is in the same time zone as Los Angeles
 				if (pacificTime && DAYS_OF_WEEK[now.getDay()] === data.day.toLowerCase() && nowSeconds > getSeconds(data.open) && nowSeconds < getSeconds(data.close)) {
 					return true;
 				}

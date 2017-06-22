@@ -391,6 +391,10 @@ var FOOD_DESERTS_LAYER = {
 			//handleMapPress();
 			var backNav = document.querySelector('.back-nav a');
 			if (backNav) backNav.addEventListener('click', function (e) {
+
+				// If the user wants to open the link in a new window, let the browser handle it.
+				if (e && (e.shiftKey || e.ctrlKey || e.altKey || e.metaKey)) return;
+
 				hideLocationSummary();
 				//window.oasis.showMap();
 
