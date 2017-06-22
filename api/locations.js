@@ -81,7 +81,7 @@ var locations = [
 	uri       : "/locations/daily-organics/"
 	
 
-	, content   : "  <h3 id=\"hours\">Hours</h3> <p>Thursday Friday and Saturday 11 to 6</p> "
+	, content   : "  <h3 id=\"hours\">Hours</h3>  <p>Thursday, Friday and Saturday from 11am to 6pm</p>  <h3 id=\"photos\">Photos</h3>  <p><img src=\"/assets/images/photos/daily-organics/1.jpg\" alt=\"Apples at the Daily Organics pop up market\" /> <img src=\"/assets/images/photos/daily-organics/2.jpg\" alt=\"Squash at the Daily Organics pop up market\" /></p> "
 	
 },
 
