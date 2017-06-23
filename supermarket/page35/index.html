@@ -494,25 +494,6 @@ PAGE_TYPE = 'supermarket';
 
 
 
-<div class="pagination">
-	<p><a href="/supermarket/page36/"><span>Next 20 results</span> <img src="/assets/images/icons/forward.svg" /></a></p>
-</div>
-
-<script>
-(function() {
-	if (PAGE_PARAMETERS.type || PAGE_PARAMETERS.address || PAGE_PARAMETERS.deserts) {
-
-		// SHIM: Pass the query string onto the next page
-		var paginationLink = document.querySelector('.pagination a[href]');
-		if (paginationLink) {
-			updateLink(paginationLink);
-		}
-	}
-})();
-</script>
-
-
-
 <!-- For location-list.js -->
 <script type="text/template" id="you-are-here-template">
 	<div class="you-are-here"><span>You are here</span></div>
