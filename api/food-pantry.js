@@ -15947,7 +15947,7 @@ var locations = [
 	uri       : "/food-pantry/st-francis-center/"
 	
 
-	, content   : "  <p>For 45 years, St. Francis Center has provided hunger relief and human services to homeless and extremely low-income families and individuals in Los Angeles.</p>  <p><strong>All program recipients must first register on Tuesdays between 10am-noon.</strong> Please visit the <a href=\"http://sfcla.org/programs/family-well-being/\">St. Francis Center website</a> for more details.</p> "
+	, content   : "  <p>For 45 years, St. Francis Center has provided hunger relief and human services to homeless and extremely low-income families and individuals in Los Angeles.</p>  <p><strong>All program recipients must first register on Tuesdays between 10am-noon.</strong> Please visit the <a href=\"http://sfcla.org/programs/family-well-being/\">St. Francis Center website</a> for more details.</p>  <h2 id=\"photos\">Photos</h2>  <p><img src=\"/assets/images/photos/food-pantry/st-francis-center/1.jpg\" alt=\"Window at Saint Francis Center\" /> <img src=\"/assets/images/photos/food-pantry/st-francis-center/2.jpg\" alt=\"Tomatoes at Saint Francis Center\" /></p> "
 	
 },
 

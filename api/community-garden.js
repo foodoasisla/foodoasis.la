@@ -1762,7 +1762,7 @@ var locations = [
 	uri       : "/community-garden/spring-street/"
 	
 
-	, content   : "  <h3 id=\"photos\">Photos</h3>  <p><img src=\"/assets/images/photos/community-garden/spring-street/1.jpg\" alt=\"Birthday event at the Spring Street Communtiy Garden\" /> <img src=\"/assets/images/photos/community-garden/spring-street/2.jpg\" alt=\"Tomatoes at the Spring Street Communtiy Garden\" /> <img src=\"/assets/images/photos/community-garden/spring-street/3.jpg\" alt=\"Spring Street Communtiy Garden\" /></p> "
+	, content   : "  <h2 id=\"photos\">Photos</h2>  <p><img src=\"/assets/images/photos/community-garden/spring-street/1.jpg\" alt=\"Birthday event at the Spring Street Communtiy Garden\" /> <img src=\"/assets/images/photos/community-garden/spring-street/2.jpg\" alt=\"Tomatoes at the Spring Street Communtiy Garden\" /> <img src=\"/assets/images/photos/community-garden/spring-street/3.jpg\" alt=\"Spring Street Communtiy Garden\" /></p> "
 	
 },
 

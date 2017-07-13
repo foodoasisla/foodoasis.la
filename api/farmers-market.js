@@ -4629,7 +4629,7 @@ var locations = [
 	uri       : "/farmers-market/santa-monica-downtown/"
 	
 
-	, content   : "  <p><img src=\"/assets/images/photos/santa-monica/1.jpg\" alt=\"Fruit at the Santa Monica Farmers Market\" /> <img src=\"/assets/images/photos/santa-monica/4.jpg\" alt=\"Vegetables at the Santa Monica Farmers Market\" /> <img src=\"/assets/images/photos/santa-monica/17.jpg\" alt=\"Beans at the Santa Monica Farmers Market\" /></p> "
+	, content   : "  <h2 id=\"photos\">Photos</h2>  <p><img src=\"/assets/images/photos/farmers-market/santa-monica-downtown/1.jpg\" alt=\"Fruit at the Santa Monica Farmers Market\" /> <img src=\"/assets/images/photos/farmers-market/santa-monica-downtown/4.jpg\" alt=\"Vegetables at the Santa Monica Farmers Market\" /> <img src=\"/assets/images/photos/farmers-market/santa-monica-downtown/17.jpg\" alt=\"Beans at the Santa Monica Farmers Market\" /></p> "
 	
 },
 

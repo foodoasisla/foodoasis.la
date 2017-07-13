@@ -81,7 +81,7 @@ var locations = [
 	uri       : "/locations/daily-organics/"
 	
 
-	, content   : "  <h3 id=\"hours\">Hours</h3>  <p>Thursday, Friday and Saturday, from 11am to 6pm</p>  <h3 id=\"photos\">Photos</h3>  <p><img src=\"/assets/images/photos/daily-organics/1.jpg\" alt=\"Apples at the Daily Organics pop up market\" /> <img src=\"/assets/images/photos/daily-organics/2.jpg\" alt=\"Squash at the Daily Organics pop up market\" /></p> "
+	, content   : "  <h2 id=\"hours\">Hours</h2>  <p>Thursday, Friday and Saturday, from 11am to 6pm</p>  <h2 id=\"photos\">Photos</h2>  <p><img src=\"/assets/images/photos/locations/daily-organics/1.jpg\" alt=\"Apples at the Daily Organics pop up market\" /> <img src=\"/assets/images/photos/locations/daily-organics/2.jpg\" alt=\"Squash at the Daily Organics pop up market\" /></p> "
 	
 },
 
@@ -2136,7 +2136,7 @@ var locations = [
 	uri       : "/community-garden/spring-street/"
 	
 
-	, content   : "  <h3 id=\"photos\">Photos</h3>  <p><img src=\"/assets/images/photos/community-garden/spring-street/1.jpg\" alt=\"Birthday event at the Spring Street Communtiy Garden\" /> <img src=\"/assets/images/photos/community-garden/spring-street/2.jpg\" alt=\"Tomatoes at the Spring Street Communtiy Garden\" /> <img src=\"/assets/images/photos/community-garden/spring-street/3.jpg\" alt=\"Spring Street Communtiy Garden\" /></p> "
+	, content   : "  <h2 id=\"photos\">Photos</h2>  <p><img src=\"/assets/images/photos/community-garden/spring-street/1.jpg\" alt=\"Birthday event at the Spring Street Communtiy Garden\" /> <img src=\"/assets/images/photos/community-garden/spring-street/2.jpg\" alt=\"Tomatoes at the Spring Street Communtiy Garden\" /> <img src=\"/assets/images/photos/community-garden/spring-street/3.jpg\" alt=\"Spring Street Communtiy Garden\" /></p> "
 	
 },
 
@@ -6976,7 +6976,7 @@ var locations = [
 	uri       : "/farmers-market/santa-monica-downtown/"
 	
 
-	, content   : "  <p><img src=\"/assets/images/photos/santa-monica/1.jpg\" alt=\"Fruit at the Santa Monica Farmers Market\" /> <img src=\"/assets/images/photos/santa-monica/4.jpg\" alt=\"Vegetables at the Santa Monica Farmers Market\" /> <img src=\"/assets/images/photos/santa-monica/17.jpg\" alt=\"Beans at the Santa Monica Farmers Market\" /></p> "
+	, content   : "  <h2 id=\"photos\">Photos</h2>  <p><img src=\"/assets/images/photos/farmers-market/santa-monica-downtown/1.jpg\" alt=\"Fruit at the Santa Monica Farmers Market\" /> <img src=\"/assets/images/photos/farmers-market/santa-monica-downtown/4.jpg\" alt=\"Vegetables at the Santa Monica Farmers Market\" /> <img src=\"/assets/images/photos/farmers-market/santa-monica-downtown/17.jpg\" alt=\"Beans at the Santa Monica Farmers Market\" /></p> "
 	
 },
 
@@ -24105,7 +24105,7 @@ var locations = [
 	uri       : "/food-pantry/st-francis-center/"
 	
 
-	, content   : "  <p>For 45 years, St. Francis Center has provided hunger relief and human services to homeless and extremely low-income families and individuals in Los Angeles.</p>  <p><strong>All program recipients must first register on Tuesdays between 10am-noon.</strong> Please visit the <a href=\"http://sfcla.org/programs/family-well-being/\">St. Francis Center website</a> for more details.</p> "
+	, content   : "  <p>For 45 years, St. Francis Center has provided hunger relief and human services to homeless and extremely low-income families and individuals in Los Angeles.</p>  <p><strong>All program recipients must first register on Tuesdays between 10am-noon.</strong> Please visit the <a href=\"http://sfcla.org/programs/family-well-being/\">St. Francis Center website</a> for more details.</p>  <h2 id=\"photos\">Photos</h2>  <p><img src=\"/assets/images/photos/food-pantry/st-francis-center/1.jpg\" alt=\"Window at Saint Francis Center\" /> <img src=\"/assets/images/photos/food-pantry/st-francis-center/2.jpg\" alt=\"Tomatoes at Saint Francis Center\" /></p> "
 	
 },
 
