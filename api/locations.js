@@ -204,7 +204,7 @@ var locations = [
 	uri       : "/locations/everytable-santa-monica/"
 	
 
-	, content   : "  <h3 id=\"hours\">Hours</h3> <p>10:30am - 9pm daily</p> "
+	, content   : "  <h2 id=\"hours\">Hours</h2> <p>10:30am - 9pm daily</p>  <h2 id=\"photos\">Photos</h2>  <p><img src=\"/assets/images/photos/locations/everytable-santa-monica/1.jpg\" alt=\"Everytable Santa Monica\" /> <img src=\"/assets/images/photos/locations/everytable-santa-monica/2.jpg\" alt=\"Everytable Santa Monica\" /> <img src=\"/assets/images/photos/locations/everytable-santa-monica/3.jpg\" alt=\"Everytable Santa Monica\" /></p> "
 	
 },
 
