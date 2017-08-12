@@ -67,6 +67,12 @@
   </url>
 
   <url>
+    <loc>https://foodoasis.la/news/2017/07/13/lacma/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://foodoasis.la/news/2017/05/04/feeding5000/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -151,6 +157,12 @@
   </url>
 
   <url>
+    <loc>https://foodoasis.la/locations/district-market/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
     <loc>https://foodoasis.la/locations/everytable-baldwin-hills/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -188,6 +200,12 @@
 
   <url>
     <loc>https://foodoasis.la/locations/suprmarkt-la/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/locations/torres-produce/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -4971,7 +4989,25 @@
   </url>
 
   <url>
+    <loc>https://foodoasis.la/supermarket/nijiya-market-little-osaka/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
     <loc>https://foodoasis.la/supermarket/nijiya-market-little-tokyo/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/supermarket/nijiya-market-puente-hill/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://foodoasis.la/supermarket/nijiya-market-rolling-hills/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

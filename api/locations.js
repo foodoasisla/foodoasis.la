@@ -86,6 +86,47 @@ var locations = [
 },
 
 {
+	latitude  : "34.050691",
+	longitude : "-118.248789",
+	name      : "District Market",
+	address_1 : "317 South Broadway",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90013",
+	category  : "Supermarket",
+	website   : "http://www.grandcentralmarket.com/vendors/542/district-market",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	season_open   : "",
+	season_close  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/locations/district-market/"
+	
+
+	, content   : "<p>Hours are 8AM to 10PM, 7 days a week.</p>   "
+	
+},
+
+{
 	latitude  : "34.0066",
 	longitude : "-118.3691",
 	name      : "Everytable Baldwin Hills",
@@ -369,6 +410,47 @@ var locations = [
 	
 
 	, content   : "  <h2 id=\"hours\">Hours</h2>  <dl>   <dt>Sunday</dt>   <dd>2pm – 6pm</dd> </dl>  <p><em>The market’s location and hours may have changed.</em> Please visit <a href=\"http://suprmarkt.la/next-suprmarkt/\">suprmarkt.la/next-suprmarkt</a> to find out where and when to find the market.</p>  <h2 id=\"features\">Features</h2>  <ul>   <li>100% organic food for sale</li>   <li>EBT Accepted</li> </ul> "
+	
+},
+
+{
+	latitude  : "34.050691",
+	longitude : "-118.248789",
+	name      : "Torres Produce",
+	address_1 : "317 South Broadway",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90013",
+	category  : "Supermarket",
+	website   : "http://www.grandcentralmarket.com/vendors/37/torres-produce",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	season_open   : "",
+	season_close  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/locations/torres-produce/"
+	
+
+	, content   : "<p>9AM - 6PM daily</p>   "
 	
 }
 
@@ -48148,6 +48230,47 @@ var locations = [
 },
 
 {
+	latitude  : "34.039143",
+	longitude : "-118.441498",
+	name      : "Nijiya Market, Little Osaka",
+	address_1 : "2130 Sawtelle Blvd., #105",
+	address_2 : "",
+	city      : "Los Angeles",
+	zip       : "90025",
+	category  : "Supermarket",
+	website   : "http://www.nijiya.com",
+	phone     : "310-575-3300",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	season_open   : "",
+	season_close  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/supermarket/nijiya-market-little-osaka/"
+	
+
+	, content   : "<h2 id=\"hours\">Hours</h2>  <p>Mon~Sun 9:00am-11:45pm</p>   "
+	
+},
+
+{
 	latitude  : "34.049158",
 	longitude : "-118.239798",
 	name      : "Nijiya Market, Little Tokyo",
@@ -48157,7 +48280,7 @@ var locations = [
 	zip       : "90012",
 	category  : "Supermarket",
 	website   : "http://www.nijiya.com",
-	phone     : "(213) 680-3280",
+	phone     : "213-680-3280",
 	twitter   : "",
 	instagram : "",
 	facebook  : "",
@@ -48185,6 +48308,88 @@ var locations = [
 	
 
 	, content   : "  <h2 id=\"hours\">Hours</h2>  <p>Monday to Sunday, from 9:00am–9:00pm</p> "
+	
+},
+
+{
+	latitude  : "33.990085",
+	longitude : "-117.914927",
+	name      : "Nijiya Market, Puente Hill",
+	address_1 : "17869 Colima Rd.",
+	address_2 : "",
+	city      : "City of Industry",
+	zip       : "91748",
+	category  : "Supermarket",
+	website   : "http://www.nijiya.com",
+	phone     : "626-913-9991",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	season_open   : "",
+	season_close  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/supermarket/nijiya-market-puente-hill/"
+	
+
+	, content   : "<h2 id=\"hours\">Hours</h2>  <p>Monday through Sunday from 10 a.m. to 8 p.m.</p>   "
+	
+},
+
+{
+	latitude  : "33.789608",
+	longitude : "-118.329105",
+	name      : "Nijiya Market, Rolling Hills",
+	address_1 : "2533B Pacific Coast Highway",
+	address_2 : "",
+	city      : "Torrance",
+	zip       : "90505",
+	category  : "Supermarket",
+	website   : "http://www.nijiya.com",
+	phone     : "310-534-3000",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	season_open   : "",
+	season_close  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/supermarket/nijiya-market-rolling-hills/"
+	
+
+	, content   : "<h2 id=\"hours\">Hours</h2>  <p>Mon~Sun 10:00am-9:00pm</p>   "
 	
 },
 
