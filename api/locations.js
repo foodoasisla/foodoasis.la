@@ -93,7 +93,7 @@ var locations = [
 	address_2 : "",
 	city      : "Los Angeles",
 	zip       : "90013",
-	category  : "Supermarket",
+	category  : "Pop Up Market",
 	website   : "http://www.grandcentralmarket.com/vendors/542/district-market",
 	phone     : "",
 	twitter   : "",
@@ -122,7 +122,7 @@ var locations = [
 	uri       : "/locations/district-market/"
 	
 
-	, content   : "<p>Hours are 8AM to 10PM, 7 days a week.</p>   "
+	, content   : "  <p>District Market specializes in organic, sustainable and locally-sourced fruit and vegetables with an overall emphasis on quality, accessibility and education. It’s located inside <a href=\"http://www.grandcentralmarket.com\">Grand Central Market</a>.</p>  <h2 id=\"hours\">Hours</h2>  <p>8AM to 10PM, 7 days a week</p>  <h2 id=\"photos\">Photos</h2>  <p><img src=\"https://user-images.githubusercontent.com/926616/27504996-f60065f0-5849-11e7-8400-f6211d398221.jpg\" alt=\"Grand Central Market\" /></p>  <p><img src=\"https://user-images.githubusercontent.com/926616/27504997-f8fe0d5c-5849-11e7-95c0-77d64e857943.jpg\" alt=\"District Market\" /></p> "
 	
 },
 
@@ -245,7 +245,7 @@ var locations = [
 	uri       : "/locations/everytable-santa-monica/"
 	
 
-	, content   : "  <h2 id=\"hours\">Hours</h2> <p>10:30am - 9pm daily</p>  <h2 id=\"photos\">Photos</h2>  <p><img src=\"/assets/images/photos/locations/everytable-santa-monica/1.jpg\" alt=\"Everytable Santa Monica\" /> <img src=\"/assets/images/photos/locations/everytable-santa-monica/2.jpg\" alt=\"Everytable Santa Monica\" /> <img src=\"/assets/images/photos/locations/everytable-santa-monica/3.jpg\" alt=\"Everytable Santa Monica\" /></p> "
+	, content   : "  <h2 id=\"hours\">Hours</h2>  <p>10:30 a.m. to 9:00 p.m. daily</p>  <h2 id=\"photos\">Photos</h2>  <p><img src=\"/assets/images/photos/locations/everytable-santa-monica/1.jpg\" alt=\"Everytable Santa Monica\" /> <img src=\"/assets/images/photos/locations/everytable-santa-monica/2.jpg\" alt=\"Everytable Santa Monica\" /> <img src=\"/assets/images/photos/locations/everytable-santa-monica/3.jpg\" alt=\"Everytable Santa Monica\" /></p> "
 	
 },
 
@@ -286,7 +286,7 @@ var locations = [
 	uri       : "/locations/everytable-south-la/"
 	
 
-	, content   : "  <h3 id=\"hours\">Hours</h3> <p>11am - 8pm daily</p> "
+	, content   : "  <h2 id=\"hours\">Hours</h2>  <p>11:00 a.m. to 8:00 p.m. daily</p> "
 	
 },
 
@@ -327,7 +327,7 @@ var locations = [
 	uri       : "/locations/locol-watts/"
 	
 
-	, content   : "  <h3 id=\"hours\">Hours</h3>  <p>Open everyday from 11am–8pm</p> "
+	, content   : "  <h2 id=\"hours\">Hours</h2>  <p>Open everyday from 11am–8pm</p> "
 	
 },
 
@@ -421,7 +421,7 @@ var locations = [
 	address_2 : "",
 	city      : "Los Angeles",
 	zip       : "90013",
-	category  : "Supermarket",
+	category  : "Pop Up Market",
 	website   : "http://www.grandcentralmarket.com/vendors/37/torres-produce",
 	phone     : "",
 	twitter   : "",
@@ -450,7 +450,7 @@ var locations = [
 	uri       : "/locations/torres-produce/"
 	
 
-	, content   : "<p>9AM - 6PM daily</p>   "
+	, content   : "  <p>Torres Produce offers a selection of seasonal fruit and vegetables. It’s located inside <a href=\"http://www.grandcentralmarket.com\">Grand Central Market</a>.</p>  <h2 id=\"hours\">Hours</h2>  <p>9AM - 6PM daily</p>  <h2 id=\"photos\">Photos</h2>  <p><img src=\"https://user-images.githubusercontent.com/926616/27504996-f60065f0-5849-11e7-8400-f6211d398221.jpg\" alt=\"Grand Central Market\" /></p>  <p><img src=\"https://user-images.githubusercontent.com/926616/27504998-fa92c324-5849-11e7-81c6-b845b2a41c70.jpg\" alt=\"Torres Produce\" /></p> "
 	
 }
 
