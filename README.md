@@ -29,4 +29,4 @@ npm run build
 
 6. Switch to your local [foodoasis.la](https://github.com/foodoasisla/foodoasis.la) repository. Commit and push the new files.
 
-Your changes should now be visible at: https://foodoasis.la
+After a few minutes, your changes should be visible at: https://foodoasis.la
