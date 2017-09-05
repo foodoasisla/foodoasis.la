@@ -86,6 +86,47 @@ var locations = [
 },
 
 {
+	latitude  : "33.917812",
+	longitude : "-118.3776767",
+	name      : "Del Aire Fruit Park",
+	address_1 : "12601 S Isis Ave",
+	address_2 : "",
+	city      : "Hawthorne",
+	zip       : "90250",
+	category  : "Orchard",
+	website   : "http://parks.lacounty.gov/wps/portal/dpr/parks/del_aire_park",
+	phone     : "",
+	twitter   : "",
+	instagram : "",
+	facebook  : "",
+	season_open   : "",
+	season_close  : "",
+	hours     : [
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	],
+	uri       : "/locations/del-aire-fruit-park/"
+	
+
+	, content   : "  <p><a href=\"http://fallenfruit.org/projects/public-fruit-park-los-angeles/\">The Fallen Fruit Project: Del Aire Fruit Park</a><br /> <a href=\"https://www.yelp.com/biz/del-aire-public-fruit-park-hawthorne\">Yelp Page</a></p> "
+	
+},
+
+{
 	latitude  : "34.050691",
 	longitude : "-118.248789",
 	name      : "District Market",

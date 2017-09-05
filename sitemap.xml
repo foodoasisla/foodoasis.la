@@ -157,6 +157,12 @@
   </url>
 
   <url>
+    <loc>https://foodoasis.la/locations/del-aire-fruit-park/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
     <loc>https://foodoasis.la/locations/district-market/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
