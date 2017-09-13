@@ -273,8 +273,8 @@ if ('content' in document.createElement('template')) {
                 <input type="text" name="phone" id="locationPhone" />
             </label>
         </p>
-        <hr />
-        <h2>Hours</h2>
+        <fieldset>
+        <legend>Hours</legend>
         <script type="text/javascript">
                             function showHideHours(e) {
                               // pass element
@@ -302,17 +302,21 @@ if ('content' in document.createElement('template')) {
           display: none;
         }
         </style>
+        <p>
         <label for="daily-hours-same-radio">
             <input type="radio" name="daily-hours-same-radio" id="daily-hours-same-radio" onclick="showHideHours('same')" value="same" checked="" />
             Same Hours Every Day
         </label>
-        <br />
+        </p>
+        <p>
         <label for="daily-hours-different-radio">
             <input type="radio" name="daily-hours-same-radio" id="daily-hours-different-radio" onclick="showHideHours('different')" value="different" />
             Different Hours Every Day
         </label>
-        <div id="daily-hours-same">
-            <h2>Same Hours Every Day</h2>
+        </p>
+        </fieldset>
+        <fieldset id="daily-hours-same">
+            <legend>Same Hours Every Day</legend>
             <p>
                 <label>
                     Open
@@ -421,11 +425,14 @@ if ('content' in document.createElement('template')) {
                     </select>
                 </label>
             </p>
-        </div>
+        </fieldset>
         <div id="daily-hours-different">
-            <h4>Sunday</h4>
+        <fieldset>
+            <legend>Sunday</legend>
+            <label>
             <input type="checkbox" name="SundayClosed" value="SundayClosed" />
             Closed on Sunday
+            </label>
             <br />
             <p>
                 <label>
@@ -535,9 +542,13 @@ if ('content' in document.createElement('template')) {
                     </select>
                 </label>
             </p>
-            <h4>Monday</h4>
+            </fieldset>
+            <fieldset>
+            <legend>Monday</legend>
+            <label>
             <input type="checkbox" name="MondayClosed" value="MondayClosed" />
             Closed on Monday
+            </label>
             <br />
             <p>
                 <label>
@@ -647,9 +658,13 @@ if ('content' in document.createElement('template')) {
                     </select>
                 </label>
             </p>
-            <h4>Tuesday</h4>
+            </fieldset>
+            <fieldset>
+            <legend>Tuesday</legend>
+            <label>
             <input type="checkbox" name="TuesdayClosed" value="TuesdayClosed" />
             Closed on Tuesday
+            </label>
             <br />
             <p>
                 <label>
@@ -759,9 +774,13 @@ if ('content' in document.createElement('template')) {
                     </select>
                 </label>
             </p>
-            <h4>Wednesday</h4>
+            </fieldset>
+            <fieldset>
+            <legend>Wednesday</legend>
+            <label>
             <input type="checkbox" name="WednesdayClosed" value="WednesdayClosed" />
             Closed on Wednesday
+            </label>
             <br />
             <p>
                 <label>
@@ -871,9 +890,13 @@ if ('content' in document.createElement('template')) {
                     </select>
                 </label>
             </p>
-            <h4>Thursday</h4>
+            </fieldset>
+            <fieldset>
+            <legend>Thursday</legend>
+            <label>
             <input type="checkbox" name="ThursdayClosed" value="ThursdayClosed" />
             Closed on Thursday
+            </label>
             <br />
             <p>
                 <label>
@@ -983,9 +1006,13 @@ if ('content' in document.createElement('template')) {
                     </select>
                 </label>
             </p>
-            <h4>Friday</h4>
+            </fieldset>
+            <fieldset>
+            <legend>Friday</legend>
+            <label>
             <input type="checkbox" name="FridayClosed" value="FridayClosed" />
             Closed on Friday
+            </label>
             <br />
             <p>
                 <label>
@@ -1095,9 +1122,13 @@ if ('content' in document.createElement('template')) {
                     </select>
                 </label>
             </p>
-            <h4>Saturday</h4>
+            </fieldset>
+            <fieldset>
+            <legend>Saturday</legend>
+            <label>
             <input type="checkbox" name="SaturdayClosed" value="SaturdayClosed" />
             Closed on Saturday
+            </label>
             <br />
             <p>
                 <label>
@@ -1207,10 +1238,8 @@ if ('content' in document.createElement('template')) {
                     </select>
                 </label>
             </p>
+            </fieldset>
         </div>
-        <br />
-        <br />
-        <hr />
         <p>
             <label>
                 Is there anything else you’d like to tell us about this location?
