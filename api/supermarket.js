@@ -25410,7 +25410,7 @@ var locations = [
 	
 	{
 		day       : "Mon",
-		open      : "0",
+		open      : "0000",
 		close     : "2359"
 	}
 	
@@ -25420,7 +25420,7 @@ var locations = [
 	,
 	{
 		day       : "Tue",
-		open      : "0",
+		open      : "00000",
 		close     : "2359"
 	}
 	
@@ -25430,7 +25430,7 @@ var locations = [
 	,
 	{
 		day       : "Wed",
-		open      : "0",
+		open      : "0000",
 		close     : "2359"
 	}
 	
@@ -25440,7 +25440,7 @@ var locations = [
 	,
 	{
 		day       : "Thu",
-		open      : "0",
+		open      : "0000",
 		close     : "2359"
 	}
 	
@@ -25450,7 +25450,7 @@ var locations = [
 	,
 	{
 		day       : "Fri",
-		open      : "0",
+		open      : "0000",
 		close     : "2359"
 	}
 	
@@ -25460,7 +25460,7 @@ var locations = [
 	,
 	{
 		day       : "Sat",
-		open      : "0",
+		open      : "0000",
 		close     : "2359"
 	}
 	
@@ -25470,7 +25470,7 @@ var locations = [
 	,
 	{
 		day       : "Sun",
-		open      : "0",
+		open      : "0000",
 		close     : "2359"
 	}
 	
@@ -33461,7 +33461,7 @@ var locations = [
 	
 	{
 		day       : "Mon",
-		open      : "0",
+		open      : "500",
 		close     : "200"
 	}
 	
@@ -33471,7 +33471,7 @@ var locations = [
 	,
 	{
 		day       : "Tue",
-		open      : "0",
+		open      : "500",
 		close     : "200"
 	}
 	
@@ -33481,7 +33481,7 @@ var locations = [
 	,
 	{
 		day       : "Wed",
-		open      : "0",
+		open      : "500",
 		close     : "200"
 	}
 	
@@ -33491,7 +33491,7 @@ var locations = [
 	,
 	{
 		day       : "Thu",
-		open      : "0",
+		open      : "500",
 		close     : "200"
 	}
 	
@@ -33501,7 +33501,7 @@ var locations = [
 	,
 	{
 		day       : "Fri",
-		open      : "0",
+		open      : "500",
 		close     : "200"
 	}
 	
@@ -33511,7 +33511,7 @@ var locations = [
 	,
 	{
 		day       : "Sat",
-		open      : "0",
+		open      : "500",
 		close     : "200"
 	}
 	
@@ -33521,7 +33521,7 @@ var locations = [
 	,
 	{
 		day       : "Sun",
-		open      : "0",
+		open      : "500",
 		close     : "200"
 	}
 	

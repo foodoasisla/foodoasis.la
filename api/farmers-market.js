@@ -3168,7 +3168,7 @@ var locations = [
 	longitude : "-118.169951",
 	name      : "Long Beach Downtown CFM",
 	address_1 : "199 East 5th Street",
-	address_2 : "Inside City Place Shopping Center, on Promenade north between 3rd and 5th. ",
+	address_2 : "",
 	city      : "Long Beach",
 	zip       : "90805",
 	category  : "Farmers Market",
@@ -3208,7 +3208,7 @@ var locations = [
 	uri       : "/farmers-market/long-beach-downtown-cfm/"
 	
 
-	, content   : "   "
+	, content   : "  <p>Inside City Place Shopping Center, on Promenade north between 3rd and 5th.</p> "
 	
 },
 
