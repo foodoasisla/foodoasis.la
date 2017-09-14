@@ -15110,7 +15110,7 @@ var locations = [
 	city      : "Lancaster",
 	zip       : "93534",
 	category  : "Food Pantry",
-	website   : "",
+	website   : "http://graceresources.org/",
 	phone     : "(661)940-5272",
 	twitter   : "",
 	instagram : "",
@@ -15183,7 +15183,7 @@ var locations = [
 	
 
 	],
-	uri       : "/food-pantry/grace-resource-center-inc-/"
+	uri       : "/food-pantry/grace-resource-center/"
 	
 
 	, content   : "   "
