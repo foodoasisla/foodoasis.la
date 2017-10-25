@@ -99,19 +99,21 @@ window.oasis = window.oasis || {};
 			var minutes = Number(timeString.substring(timeString.length - 2));
 			return hours * 60 * 60 + minutes * 60;
 		}
-		isOpenNow = function isOpenNow(data) {
+		isOpenNow = function isOpenNow(data, startTime, item) {
 			if (data.day && data.open && data.close) {
+				var nowSeconds = void 0;
+				var now = void 0;
+				var today = new Date();
+				now = !startTime ? new Date() : new Date("October 24, 2017 " + startTime);
 
-				var now = new Date();
 				var pacificTime = now.toString().indexOf('(PDT)') >= 0 || now.toString().indexOf('(PST)') >= 0;
+				nowSeconds = now.getHours() * 60 * 60 + now.getMinutes() * 60 + now.getSeconds();
 
-				var nowSeconds = now.getHours() * 60 * 60 + now.getMinutes() * 60 + now.getSeconds();
-
-				// SHIM: Only proceed if the user is in the same time zone as Los Angeles
-				if (pacificTime && DAYS_OF_WEEK[now.getDay()] === data.day.toLowerCase() && nowSeconds > getSeconds(data.open) && nowSeconds < getSeconds(data.close)) {
+				// startTime not yet checking for days of the week
+				if (pacificTime && (DAYS_OF_WEEK[now.getDay()] === data.day.toLowerCase() || startTime) && nowSeconds > getSeconds(data.open) && nowSeconds < getSeconds(data.close)) {
 					return true;
 				}
-
+				// }
 				// TBD: Should we show a special notice if it’s opening soon or closing soon?
 			}
 			return false;

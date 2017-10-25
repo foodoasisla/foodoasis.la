@@ -60,13 +60,15 @@ window.oasis = window.oasis || {};
 				return false;
 			});
 		}
-
-		var open = window.oasis.getParameterByName('open');
-		if (open) {
+		var openNow = window.oasis.getParameterByName("open");
+		var openStart = window.oasis.getParameterByName("open_start");
+		var openEnd = window.oasis.getParameterByName("open_end");
+		var openDays = window.oasis.getParameterByName("open_days");
+		if (openNow) {
 			list = list.filter(function (item) {
 				var open = false;
 				for (var _index2 = 0; _index2 < item.hours.length; _index2++) {
-					if (window.oasis.isOpenNow(item.hours[_index2])) {
+					if (window.oasis.isOpenNow(item.hours[_index2], openStart, item)) {
 						open = true;
 					}
 				}
