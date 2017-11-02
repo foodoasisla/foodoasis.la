@@ -77,6 +77,14 @@ var MARKER_OPTIONS = {
 		iconSize: [30, 46],
 		iconAnchor: [15, 40],
 		popupAnchor: [0, -23]
+	},
+	'Cultivate LA': {
+		// Specify a class name we can refer to in CSS.
+		className: 'cultivate-la-marker',
+		// Set marker width and height
+		iconSize: [30, 46],
+		iconAnchor: [15, 40],
+		popupAnchor: [0, -23]
 	}
 };
 

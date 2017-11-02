@@ -116,6 +116,8 @@ window.oasis = window.oasis || {};
 			// SHIM: Should we handle this in the CSS instead?
 			if (category == 'food-pantry' || category == 'summer-lunch' || category == 'community-garden' || category == 'farmers-market' || category == 'supermarket' || category == 'restaurant' || category == 'orchard' || category == 'pop-up-market') {
 				img.src = "/assets/images/home/" + category + ".svg";
+			} else if (category == 'cultivate-la') {
+				img.src = "/assets/images/home/community-garden.svg";
 			} else {
 				img.src = "/assets/images/home/restaurant.svg";
 			}
@@ -170,6 +172,13 @@ window.oasis = window.oasis || {};
 					element.querySelector('.dates p').innerHTML = data.season_open + ' – ' + data.season_close;
 				} else {
 					element.querySelector('.dates').parentNode.removeChild(element.querySelector('.dates'));
+				}
+
+				// Add a message encouraging the visitor to call ahead before visiting a location.
+				if (data.phone != '') {
+					element.querySelector('.note p').innerHTML = '\n\t\t\t\t\t\tBefore you visit, please call this location\u2019s phone number: ' + data.phone + ' and ask them for their address and hours.\n\t\t\t\t\t';
+				} else {
+					element.querySelector('.note p').innerHTML = '\n\t\t\t\t\t\tBefore you visit, please contact this location and ask them for their address and hours.\n\t\t\t\t\t';
 				}
 
 				var hoursHTML = '';
