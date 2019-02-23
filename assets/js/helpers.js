@@ -106,7 +106,7 @@ window.oasis = window.oasis || {};
 				var today = new Date();
 				now = !startTime ? new Date() : new Date("October 24, 2017 " + startTime);
 
-				var pacificTime = now.toString().indexOf('(PDT)') >= 0 || now.toString().indexOf('(PST)') >= 0;
+				var pacificTime = now.toString().indexOf('PDT') >= 0 || now.toString().indexOf('PST') >= 0 || now.toString().indexOf('Pacific') >= 0;
 				nowSeconds = now.getHours() * 60 * 60 + now.getMinutes() * 60 + now.getSeconds();
 
 				// startTime not yet checking for days of the week
